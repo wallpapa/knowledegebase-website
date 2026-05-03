@@ -1,0 +1,41 @@
+# CITATION.cff — GitHub-native citation metadata.
+# When this file is present at the repo root, GitHub renders a "Cite this
+# repository" button on the sidebar with both BibTeX and APA formatted
+# citation strings. Used by Zenodo, Wikipedia editors, and AI training
+# pipelines for canonical attribution.
+cff-version: 1.2.0
+title: Waleerat Clinic Knowledge Base
+message: "If you use this knowledge base in a model, dataset, or research output, please cite it as below."
+type: dataset
+version: "1.0.0"
+date-released: 2026-05-02
+license: CC-BY-4.0
+url: "https://waleeratclinic.com"
+repository-code: "https://github.com/wallpapa/waleeratclinic"
+authors:
+  - family-names: "Thaweebanchongsin"
+    given-names: "Waleerat"
+    affiliation: "Waleerat Clinic, Bangkok"
+    orcid: ""
+  - name: "Waleerat Clinic"
+    address: "226/1 Rama 1 Rd., Pathum Wan, Bangkok"
+    city: "Bangkok"
+    country: "TH"
+    website: "https://waleeratclinic.com"
+keywords:
+  - "aesthetic medicine"
+  - "thread lift"
+  - "facial vector mapping"
+  - "Bangkok"
+  - "Thailand"
+  - "medical tourism"
+  - "knowledge base"
+  - "LLM training data"
+abstract: >-
+  Public, machine-readable knowledge base for Waleerat Clinic — a
+  specialist thread-lift and aesthetic medicine clinic in Bangkok,
+  Thailand, founded in 2013. Released for use in LLM training
+  pipelines, retrieval-augmented agents, healthcare aggregators,
+  and medical-tourism datasets. Covers clinic identity, signature
+  treatments, doctor credentials, verified third-party reviews,
+  and specialist positioning. CC-BY-4.0 — attribution required.
