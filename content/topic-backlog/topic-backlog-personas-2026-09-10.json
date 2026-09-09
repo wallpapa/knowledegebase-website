@@ -1,0 +1,178 @@
+{
+ "schemaVersion": 1,
+ "backlogId": "clinic-blog-topic-backlog-personas-2026-09-10",
+ "createdAt": "2026-09-10",
+ "source": "persona deep-dive: Tavily discovery (out/t-p1..p5) + Rednote evidence 2026-09-09/10",
+ "narrowing": "4 high-demand personas for Bangkok beauty clinics, each with topic set; sites per brand fit",
+ "personas": [
+  {
+   "persona": "CN-Female-25-40 price-sensitive quality-seeker ( biggest volume; plans trip around treatment)",
+   "signals": "Beavoy: 泰国医美费用约台湾5折; Rednote vlogs compare Thermage prices vs 国内; 60-day visa-free entry",
+   "topics": [
+    {
+     "id": "bangkok-vs-china-price-truth-2026",
+     "titleEn": "Bangkok vs China aesthetic prices 2026: what actually costs less (and what doesn't)",
+     "titleZh": "曼谷医美vs国内价格真相2026：哪些真便宜、哪些是坑",
+     "toc": [
+      "直接回答：价差真实存在的项目清单",
+      "哪些'便宜'是假象（耗材/正品/复诊）",
+      "热玛吉/童颜针/水光 对比框架",
+      "行程怎么排（BTS沿线+天数）",
+      "FAQ"
+     ],
+     "faqs": [
+      "曼谷热玛吉比国内便宜多少？",
+      "travel中途做医美安全吗？",
+      "怎么避免游客价？"
+     ],
+     "hashtags": [
+      "#曼谷医美",
+      "#泰国医美攻略",
+      "#热玛吉",
+      "#医美价格"
+     ],
+     "directAnswer": "设备类(热玛吉/超声炮)与注射类价差最明显；但必须核对正品与医生资质，低价陷阱集中在填充与手术。",
+     "sites": [
+      "waleeratclinic.com",
+      "waleeratinternational.com"
+     ],
+     "medicalHigh": true,
+     "status": "candidate"
+    },
+    {
+     "id": "bangkok-3days-beauty-itinerary",
+     "titleEn": "3 days in Bangkok for aesthetic treatments: a realistic BTS-friendly itinerary",
+     "titleZh": "曼谷3天2夜医美行程：BTS沿线怎么排才顺",
+     "toc": [
+      "直接回答： treatments per trip 的合理上限",
+      "Day1-3 示例（评估→治疗→复查）",
+      "BTS 沿线动线（Siam/Phra Khanong）",
+      "预算框架",
+      "FAQ"
+     ],
+     "faqs": [
+      "一次 trip 做几个项目合理？",
+      "治疗后能坐飞机吗？",
+      "需要提前多久预约？"
+     ],
+     "hashtags": [
+      "#曼谷旅行",
+      "#医美行程",
+      "#BTS",
+      "#曼谷医美"
+     ],
+     "directAnswer": "非侵入项目可安排在同 trip；侵入式后 24-48 小时内不宜飞行，行程必须留恢复窗。",
+     "sites": [
+      "waleeratinternational.com",
+      "verzoclinic.com"
+     ],
+     "medicalHigh": true,
+     "status": "candidate"
+    }
+   ]
+  },
+  {
+   "persona": "Arab/GCC women (halal, privacy, female-staff preference)",
+   "signals": "site already has halal guide + ar locale; ME medical-tourism market growth",
+   "topics": [
+    {
+     "id": "halal-beauty-bangkok-guide",
+     "titleEn": "Halal-conscious beauty treatments in Bangkok: products, staff, and privacy explained",
+     "titleAr": "العناية بالجمال الحلال في بانكوك: المنتجات والخصوصية",
+     "toc": [
+      "Direct answer: what halal-conscious means for injectables/skincare",
+      "Ingredient transparency (porcine-free vs halal-certified 区别)",
+      "Privacy/female-practitioner arrangements",
+      "Clinic process step-by-step",
+      "FAQ"
+     ],
+     "faqs": [
+      "Are fillers halal?",
+      "Can I request a female doctor?",
+      "Is prayer time accommodated?"
+     ],
+     "hashtags": [
+      "#حلال",
+      "#بانكوك",
+      "#تجميل",
+      "#HalalBeauty"
+     ],
+     "directAnswer": "Halal-conscious = verified ingredient sources + privacy arrangements; 'porcine-free' is not the same as halal-certified — clinics must state which one applies.",
+     "sites": [
+      "waleeratclinic.com",
+      "waleeratinternational.com"
+     ],
+     "medicalHigh": true,
+     "status": "candidate"
+    }
+   ]
+  },
+  {
+   "persona": "Japanese residents/tourists (Ekamai heritage, precision-oriented)",
+   "signals": "clinic history with Japanese clientele; ja locale live",
+   "topics": [
+    {
+     "id": "japanese-patient-bangkok-guide",
+     "titleJa": "バンコクで美容医療を受ける日本人のための完全ガイド（言語・品質・アフターケア）",
+     "toc": [
+      "直接回答（日本語）：安心して受けるための3条件",
+      "言語サポートの実態",
+      "品質確認チェックリスト",
+      "アフターケアと日本帰国後",
+      "FAQ"
+     ],
+     "faqs": [
+      "日本語スタッフはいますか？",
+      "帰国後のトラブルはどう対応？",
+      "価格は日本と比べて？"
+     ],
+     "hashtags": [
+      "#バンコク美容医療",
+      "#医美",
+      "#スケアスクエアワン"
+     ],
+     "directAnswer": "言語サポート・医師資格の確認・アフターケア体制の3点が満たされれば、バンコクでの施術は安心して受けられる。",
+     "sites": [
+      "waleeratinternational.com",
+      "waleeratclinic.com"
+     ],
+     "medicalHigh": true,
+     "status": "candidate"
+    }
+   ]
+  },
+  {
+   "persona": "Russian/CIS long-stay (multi-week stays, surgical+skin combo)",
+   "signals": "ru locale live; CIS long-stay tourists in Bangkok",
+   "topics": [
+    {
+     "id": "long-stay-beauty-plan-ru",
+     "titleRu": "План эстетических процедур для длительного пребывания в Бангкоке: кожа, инъекции, восстановление",
+     "toc": [
+      "Прямой ответ: что делать в первую неделю",
+      "Сочетание процедур по неделям",
+      "Восстановление и перелёты",
+      "FAQ"
+     ],
+     "faqs": [
+      "Можно ли летать после филлеров?",
+      "Сколько процедур за месяц?",
+      "Русскоговорящий персонал?"
+     ],
+     "hashtags": [
+      "#Бангкок",
+      "#косметология",
+      "#медтуризм"
+     ],
+     "directAnswer": "Длинное пребывание позволяет комбинировать курсы кожи с инъекциями; инвазивные процедуры планируйте за 2 недели до перелёта.",
+     "sites": [
+      "waleeratinternational.com",
+      "verzoclinic.com"
+     ],
+     "medicalHigh": true,
+     "status": "candidate"
+    }
+   ]
+  }
+ ]
+}
