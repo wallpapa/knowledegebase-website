@@ -19,15 +19,15 @@
   "allowedRoles": {
     "normalize-insight": {
       "node": "m2",
-      "model": "gemma3:4b"
+      "model": "qwen3:4b"
     },
     "deduplicate-insight": {
       "node": "m2",
-      "model": "gemma3:4b"
+      "model": "qwen3:4b"
     },
     "classify-intent": {
       "node": "m2",
-      "model": "gemma3:4b"
+      "model": "qwen3:4b"
     },
     "zh-intent-synthesis": {
       "node": "m5",

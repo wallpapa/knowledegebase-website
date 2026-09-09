@@ -11,7 +11,7 @@ import {
   validateModelRouting,
 } from "../scripts/run-content-jobs.mjs";
 
-const M2_MODELS = ["gemma3:4b"];
+const M2_MODELS = ["qwen3:4b"];
 const M5_MODELS = ["qwen3.5:9b"];
 
 const routing = {
@@ -211,7 +211,7 @@ test("executor runs exactly the five ZH+EN master jobs in order on the right nod
   assert.equal(generateCalls.length, 5);
   for (const call of generateCalls) {
     assert.equal(call.body.stream, false);
-    assert.ok(["gemma3:4b", "qwen3.5:9b"].includes(call.body.model));
+    assert.ok(["qwen3:4b", "qwen3.5:9b"].includes(call.body.model));
     assert.ok(call.body.options.num_predict > 0);
   }
   const m2Calls = generateCalls.filter((call) => call.url.startsWith("http://127.0.0.1:11434"));
