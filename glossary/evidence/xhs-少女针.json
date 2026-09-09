@@ -1,0 +1,68 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09",
+ "method": "Direct URL navigation per keyword; DOM extraction of top notes (title/author/date/likes) + related-query chips. Raw observation, no page content edited.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师 (medical aesthetics has risks; choose a licensed institution and licensed physician).",
+ "term": "少女针",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=少女针",
+ "relatedQueries": [
+  "日本",
+  "伊妍士",
+  "泰国",
+  "伊研仕",
+  "韧带提升",
+  "香港",
+  "塑妍真",
+  "鼻子",
+  "眉弓",
+  "亮爆镜",
+  "取出",
+  "使用方法",
+  "neue",
+  "馒化修复"
+ ],
+ "notes": [
+  {
+   "title": "见证伊妍仕少女针的迭代与新生",
+   "author": "刘冰 | 减法美学",
+   "date": "5天前",
+   "likes": "5",
+   "url": "https://www.rednote.com/discovery/item/6a9959e7000000002802d896"
+  },
+  {
+   "title": "少女针不踩坑 | 黄金部位+用量打法干货",
+   "author": "八大处整形梁雪冰",
+   "date": "06-27",
+   "likes": "39",
+   "url": "https://www.rednote.com/discovery/item/6a3faa8e000000001101a80b"
+  },
+  {
+   "title": "每天一个妆械产品科普：聚己内酯（少女针）",
+   "author": "Andy去哪里",
+   "date": "08-25",
+   "likes": "14",
+   "url": "https://www.rednote.com/discovery/item/6a8d973c00000000260360df"
+  },
+  {
+   "title": "少女针5年后面部硬化，还能维权吗？",
+   "author": "是刘律师啊啊",
+   "date": "05-08",
+   "likes": "24",
+   "url": "https://www.rednote.com/discovery/item/69fd8763000000003601fbf1"
+  },
+  {
+   "title": "童颜针VS少女针，一篇教你弄明白",
+   "author": "武汉第三医院整形美容医生黎媛",
+   "date": "01-19",
+   "likes": "62",
+   "url": "https://www.rednote.com/discovery/item/696ddbdb0000000022023516"
+  },
+  {
+   "title": "教你快速区分少女针和童颜针",
+   "author": "整形外科詹炜卿",
+   "date": "02-16",
+   "likes": "322",
+   "url": "https://www.rednote.com/discovery/item/6990301d000000000d008c44"
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09",
+ "method": "Direct URL navigation per keyword; DOM extraction of top notes (title/author/date/likes) + related-query chips. Raw observation, no page content edited.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师 (medical aesthetics has risks; choose a licensed institution and licensed physician).",
+ "term": "热玛吉",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=热玛吉",
+ "relatedQueries": [
+  "第五代",
+  "韩国",
+  "西安",
+  "武汉",
+  "重庆",
+  "真实效果",
+  "疼痛程度",
+  "副作用",
+  "首尔",
+  "适合年龄",
+  "新氧",
+  "眼周",
+  "术后",
+  "有用吗",
+  "注意事项"
+ ],
+ "notes": [
+  {
+   "title": "热玛吉无效or凹陷？选对打法才是真抗衰!",
+   "author": "北京朱延静助理｜专研皮肤抗衰",
+   "date": "昨天 17:08",
+   "likes": "23",
+   "url": "https://www.rednote.com/discovery/item/6a9fd07a000000000b034e42"
+  },
+  {
+   "title": "30+抗衰，想打热玛吉，先看这一篇避坑！",
+   "author": "医美刘滢",
+   "date": "2天前",
+   "likes": "52",
+   "url": "https://www.rednote.com/discovery/item/6a9d11df000000002b027efb"
+  },
+  {
+   "title": "眼部热玛吉 | 不是所有眼周问题都能改善！",
+   "author": "八大处整形梁雪冰",
+   "date": "1天前",
+   "likes": "6",
+   "url": "https://www.rednote.com/discovery/item/6a9e943e0000000028039065"
+  },
+  {
+   "title": "抗衰坦白局？要提升还是收紧？",
+   "author": "陳欣妍",
+   "date": "05-30",
+   "likes": "385",
+   "url": "https://www.rednote.com/discovery/item/6a1aaec0000000001002d000"
+  },
+  {
+   "title": "5代热玛吉真实招募｜限量5名松弛垮脸速来！",
+   "author": "吕桦|3C云感热玛吉（小助理）",
+   "date": "07-05",
+   "likes": "15",
+   "url": "https://www.rednote.com/discovery/item/6a0288c5000000003703739a"
+  },
+  {
+   "title": "抗衰大实话 | 做热玛吉后期会加速脸垮？",
+   "author": "八大处整形梁雪冰",
+   "date": "07-30",
+   "likes": "30",
+   "url": "https://www.rednote.com/discovery/item/6a6b1e6a0000000032023aeb"
+  },
+  {
+   "title": "超声炮&热玛吉傻傻分不清的看过来",
+   "author": "风举青云",
+   "date": "06-17",
+   "likes": "183",
+   "url": "https://www.rednote.com/discovery/item/6a3231f30000000008031bd5"
+  },
+  {
+   "title": "你到底适合超声炮还是热玛吉呢?",
+   "author": "上海九院王韵",
+   "date": "06-01",
+   "likes": "123",
+   "url": "https://www.rednote.com/discovery/item/6a195bd6000000000803300c"
+  },
+  {
+   "title": "避坑指南！热玛吉千万别乱打！",
+   "author": "上海九院王韵",
+   "date": "05-02",
+   "likes": "777",
+   "url": "https://www.rednote.com/discovery/item/69f32494000000003502f585"
+  },
+  {
+   "title": "请问大家做的九百发五代热玛吉多少钱",
+   "author": "🌈我先睡了拜拜～",
+   "date": "5天前",
+   "likes": "13",
+   "url": "https://www.rednote.com/discovery/item/6a9a2f7c0000000011032a85"
+  },
+  {
+   "title": "沈梦辰透露“变美秘籍”",
+   "author": "新闻晨报",
+   "date": "04-19",
+   "likes": "7813",
+   "url": "https://www.rednote.com/discovery/item/69e48a060000000022026e86"
+  }
+ ]
+}

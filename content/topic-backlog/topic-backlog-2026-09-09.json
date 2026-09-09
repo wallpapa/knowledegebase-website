@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "backlogId": "clinic-blog-topic-backlog",
+  "createdAt": "2026-09-09",
+  "source": "Rednote search observations (glossary/evidence/xhs-*.json, logged-in web session 2026-09-09) + Tavily discovery (glossary/evidence/q01–q15)",
+  "status": "candidate — every topic needs its site repo's content workflow (brief → draft → verzo-local-translation / i18n gates → review) before publication; medical-high topics additionally need source-verified claims",
+  "howToUse": "Titles are ANGLES in the observed patient register, not final headlines. zh titles use the exact words patients search (see evidence). EN titles answer the same intent. Sites: waleeratclinic.com (WR), waleeratinternational.com (WRI), verzoclinic.com (VZ).",
+  "topics": [
+    {
+      "id": "thermage-vs-ultraformer-how-to-choose",
+      "sites": ["waleeratclinic.com", "waleeratinternational.com"],
+      "titleEn": "Thermage FLX or HIFU (Ultraformer MPT): which one does your skin actually need — lifting vs tightening explained",
+      "titleZh": "超声炮和热玛吉到底选哪个？提升vs收紧一次讲清",
+      "angle": "Patients literally ask this side-by-side (只能做一个项目，大超炮和热玛吉到底选哪个 — 213 likes; 你到底适合超声炮还是热玛吉 — 123 likes). Answer with mechanism difference (RF dermal heating vs focused ultrasound depth), what each fixes, combination sequencing. Include the shot-count (发数) price framing patients use for Thermage.",
+      "evidence": ["xhs-热玛吉.json: 超声炮&热玛吉傻傻分不清 (183)", "xhs-超声炮.json", "xhs-超声刀.json: 想比同龄人更年轻，选什么仪器 (1057)"],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "thermage-bangkok-avoid-pitfalls",
+      "sites": ["waleeratclinic.com", "waleeratinternational.com"],
+      "titleEn": "Thermage in Bangkok without regrets: generations (FLX), shot counts, fake-device checks, and honest price logic",
+      "titleZh": "曼谷热玛吉避坑指南：五代FLX、发数、正品验证与价格逻辑",
+      "angle": "避坑/千万别乱打 framing is the top-performing Thermage content (777, 7813 likes). Cover: how to verify genuine device + treatment tip, what 900发/600发 means, why quotes differ, red flags. Ties directly to clinic's device transparency.",
+      "evidence": ["xhs-热玛吉.json: 避坑指南！热玛吉千万别乱打 (777)", "xhs-热玛吉.json: 请问大家做的九百发五代热玛吉多少钱", "xhs-热玛吉 related chips: 第五代/真实效果/疼痛程度/副作用"],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "thread-lift-longevity-honest",
+      "sites": ["waleeratclinic.com", "waleeratinternational.com", "verzoclinic.com"],
+      "titleEn": "How long does a thread lift really last — and what happens years later (honest answer)",
+      "titleZh": "线雕能维持多久？做过的人十年后怎么样了（大实话）",
+      "angle": "Duration + long-term honesty is the #1 thread-lift question (线雕能维持多久 57–685 likes; 做过线雕的人，十年后 254 likes). Answer maintenance span by thread material, what aging looks like after, who is NOT suitable (什么样的人不适合). Position the 2026 线雕回潮 iteration framing.",
+      "evidence": ["xhs-埋线提升.json: ⚠️线雕提升可以维持多久 (132)", "xhs-线雕.json: 做过线雕的人，十年后 (254)", "xhs-线雕.json: 2026年，线雕终于又好起来了"],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "thread-types-explained",
+      "sites": ["waleeratclinic.com"],
+      "titleEn": "PDO vs PLLA vs cog threads: what 大V线, 小V线, 鱼骨线 actually mean for your result",
+      "titleZh": "大V线、小V线、鱼骨线、压印线差在哪？线材选择一次看懂",
+      "angle": "Thread-material comparison content exists and confuses patients (鱼骨线，压印线，大V线差别在哪里). Map colloquial names to materials/mechanisms; explain that stronger pull ≠ better (想做线雕，线材如何选择？力度越大越好吗 — 80 likes).",
+      "evidence": ["xhs-线雕.json: 鱼骨线，压印线，大V线差别在哪里", "xhs-埋线提升.json: 线材如何选择？力度越大越好吗？ (80)"],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "sculptra-vs-ellanse-disambiguation",
+      "sites": ["waleeratclinic.com", "waleeratinternational.com", "verzoclinic.com"],
+      "titleEn": "童颜针 vs 少女针: Sculptra (PLLA) and Ellansé (PCL) are different products — a clear comparison",
+      "titleZh": "童颜针≠少女针：Sculptra(PLLA)和伊妍仕Ellansé(PCL)到底差在哪",
+      "angle": "High-intent explainer space (教你快速区分少女针和童颜针 — 322 likes; 童颜针VS少女针，一篇教你弄明白 — 62). The clinic offers Sculptra: clarify ingredient difference, onset, duration, and why a clinic that offers one may not offer the other. Include informed-consent angle re: documented long-term complications (5年后面部硬化 post) — answer with follow-up care and licensed-physician framing.",
+      "evidence": ["xhs-少女针.json: 教你快速区分少女针和童颜针 (322)", "xhs-少女针.json: 少女针5年后面部硬化，还能维权吗 (24)", "xhs-童颜针.json: 【九款童颜】区别点超详解 (1360)"],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "rejuran-naming-clarification",
+      "sites": ["waleeratclinic.com", "verzoclinic.com"],
+      "titleEn": "Rejuran (PN salmon-DNA healer) is an injectable — not the 婴儿针 serum trending on social media",
+      "titleZh": "丽珠兰Rejuran是注射型婴儿针，和小红书爆火的涂抹式婴儿针精华完全是两回事",
+      "angle": "Current Rednote 婴儿针 surface is dominated by NEUE topical skincare (SASA retail trend). A clarification post protects search intent AND builds trust: injectable Rejuran vs topical serums, mechanism, who benefits. Use 丽珠兰 + 三文鱼 qualifiers per glossary.",
+      "evidence": ["xhs-婴儿针.json: sasa卖断货的neue少女针&婴儿针 (410)", "xhs-婴儿针.json: 干皮测评涂抹式水光婴儿针 (238)", "related chip: 冰晶三文鱼"],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "skin-booster-aftercare-makeup",
+      "sites": ["waleeratclinic.com", "waleeratinternational.com", "verzoclinic.com"],
+      "titleEn": "After skin boosters (水光针): when can you wear makeup, wash, exercise — a day-by-day aftercare timeline",
+      "titleZh": "打完水光针多久能化妆？术后护理时间表（洗脸/化妆/运动）",
+      "angle": "The single highest-engagement informational query observed (打完水光多久可以化妆 — 841 likes). Aftercare content is low-risk, high-utility, and matches the sites' existing aftercare data (wlri aftercare-i18n). Include long-term honesty angle (长期打水光十年后 — 531 likes).",
+      "evidence": ["xhs-水光针.json: 打完水光多久可以化妆 (841)", "xhs-水光针.json: 长期打水光，十年后 (531)", "related chips: 娃娃针/敏感肌/搭配组合"],
+      "medicalHigh": false,
+      "status": "candidate"
+    },
+    {
+      "id": "bangkok-clinic-how-to-verify",
+      "sites": ["waleeratinternational.com", "verzoclinic.com", "waleeratclinic.com"],
+      "titleEn": "How to verify a Bangkok aesthetic clinic is legitimate: physician licenses, device authenticity, and red flags from real patient reports",
+      "titleZh": "曼谷医美怎么避雷？教你看懂医生执照、仪器正品与危险信号",
+      "angle": "Bangkok medical aesthetics is a live Chinese topic WITH active trust anxiety: 避雷 posts (yanhee), and a Sept-2026 news item about an influencer death after a Bangkok procedure. An evidence-based 'how to verify' page (Thai Medical Council license lookup like ว.41613, device serials, consultation red flags) answers a real current concern and differentiates licensed clinics. Chinese-language Bangkok competitors (KKC, Onda, Lumina) already publish natively in Chinese.",
+      "evidence": ["xhs-曼谷医美.json: 避雷🇹🇭yanhee燕喜医院", "xhs-曼谷医美.json: 泰国警官肇逃，网红曼谷医美身亡 (news)", "xhs-泰国医美.json: 曼谷爆红的韩国美容疗程 (270)"],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "botox-jaw-slimming-safety",
+      "sites": ["waleeratclinic.com", "waleeratinternational.com"],
+      "titleEn": "Jaw-slimming Botox (瘦脸针): who is actually suitable — and how to avoid sagging or sunken cheeks",
+      "titleZh": "瘦脸针不是人人能打：咬肌判断、脸下垂/脸颊凹陷怎么避",
+      "angle": "Top family by engagement (4453-like post; 别再盲目打瘦脸针 — 2669). Address the documented concerns: 打了瘦脸针，脸下垂了？/ 不凹陷不跨脸. Explain masseter assessment, dosage logic, brand differences observed in patient discourse (保妥适 vs 衡力), and 下颌提升 combination.",
+      "evidence": ["xhs-瘦脸针.json: 快收藏⚠️瘦脸针全脸进阶打发 (4453)", "xhs-瘦脸针.json: 别再盲目打瘦脸针了！(2669)", "xhs-瘦脸针.json: 打了瘦脸针，脸下垂了？"],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "foxy-eye-expectations",
+      "sites": ["waleeratclinic.com"],
+      "titleEn": "Foxy eye (狐狸眼): what a thread lift can and cannot change about your eye shape — with honest limits",
+      "titleZh": "狐狸眼到底能不能做？眼尾提升能做到什么程度（含真实边界）",
+      "angle": "Eye-shape typing content is huge (2963-like 4种眼型对比); surgical honesty posts call out fake cases (都是假案例！— 340 likes). Set real expectations for Endoline/eye thread lift vs surgery, with the clinic's actual foxy-eye program.",
+      "evidence": ["xhs-狐狸眼.json: 揭秘:狐狸眼眼尾上扬，都是假案例！(340)", "xhs-狐狸眼.json: 眼尾上扬、狐狸眼，到底能不能做？", "xhs-狐狸眼.json: 4种常见眼型对比 (2963)"],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "juvelook-variants-and-risks",
+      "sites": ["waleeratclinic.com", "waleeratinternational.com", "verzoclinic.com"],
+      "titleEn": "Juvelook (乔雅露) blue vs black bottle: what each is for, and the nodule question patients are asking",
+      "titleZh": "乔雅露Juvelook蓝瓶vs黑瓶区别 + 大家在问的结节问题，医生怎么说",
+      "angle": "Juvelook's zh nickname is confirmed (乔雅露) with variant discourse (蓝瓶/黑瓶/小绿瓶) AND an active risk conversation (JUVELOOK全面结节? — 118 likes; 韩国乔某水光打出事了). An honest page: variants by depth/indication, nodule risk factors (dilution, depth, volume), how the clinic mitigates. Do not dismiss the risk — answer it.",
+      "evidence": ["xhs-乔雅露.json: 乔雅露 Juvelook蓝瓶和黑瓶", "xhs-乔雅露.json: JUVELOOK全面结节? (118)", "related chips: 蓝瓶/小绿瓶/9cc/恢复期"],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "radiesse-contour-areas",
+      "sites": ["waleeratclinic.com"],
+      "titleEn": "Radiesse (微晶瓷/瑞德喜) for nose base, chin and jawline: what CaHA contouring does — and removal realities",
+      "titleZh": "微晶瓷(瑞德喜)垫鼻基底/下巴/眉弓：轮廓支撑怎么做，取出问题也说清楚",
+      "angle": "Patients search 微晶瓷 by AREA (related chips: 鼻基底/下巴/眉弓/额头) and by concern (取出/恢复期/副作用). Map Radiesse's CaHA mechanism to contour areas; address the removal discourse honestly (long-lasting filler ≠ permanent, what removal actually involves).",
+      "evidence": ["xhs-微晶瓷.json: Radiesse瑞德喜/芮得怡的前世今生 (525)", "xhs-微晶瓷 related chips: 鼻基底/下巴/取出/恢复期"],
+      "medicalHigh": true,
+      "status": "candidate"
+    }
+  ]
+}

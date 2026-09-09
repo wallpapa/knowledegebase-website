@@ -1,0 +1,69 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09",
+ "method": "Direct URL navigation per keyword; DOM extraction of top notes (title/author/date/likes) + related-query chips. Raw observation, no page content edited.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师 (medical aesthetics has risks; choose a licensed institution and licensed physician).",
+ "term": "水光针",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=水光针",
+ "relatedQueries": [
+  "马来西亚",
+  "revive",
+  "韩国",
+  "上瘾红",
+  "品牌排名",
+  "真实效果",
+  "改善毛孔粗大",
+  "修复皮肤屏障",
+  "敏感肌",
+  "搭配组合",
+  "详细步骤",
+  "提亮肤色",
+  "正确用法",
+  "适合人群",
+  "娃娃针"
+ ],
+ "notes": [
+  {
+   "title": "三甲医生｜一句话总结10款热门水光✅",
+   "author": "抗衰彭掌门",
+   "date": "2025-11-21",
+   "likes": "411",
+   "url": "https://www.rednote.com/discovery/item/691ff5d6000000001e0369fc"
+  },
+  {
+   "title": "一篇带你了解水光的科普💦",
+   "author": "皮肤科医生皇幼明",
+   "date": "07-29",
+   "likes": "185",
+   "url": "https://www.rednote.com/discovery/item/6a69c113000000001d00f530"
+  },
+  {
+   "title": "长期打水光，十年后会变成什么样？",
+   "author": "上海九院段然",
+   "date": "08-21",
+   "likes": "531",
+   "url": "https://www.rednote.com/discovery/item/6a858adb0000000005030f41"
+  },
+  {
+   "title": "打完水光多久可以化妆？",
+   "author": "八大处蒋丽雅",
+   "date": "2025-10-28",
+   "likes": "841",
+   "url": "https://www.rednote.com/discovery/item/690066f50000000005010bc5"
+  },
+  {
+   "title": "打水光前，必须知道的3个真相和1个硬标准",
+   "author": "皮肤科杨猛博士",
+   "date": "",
+   "likes": "286",
+   "url": "https://www.rednote.com/discovery/item/699eca9a0000000028020b81"
+  },
+  {
+   "title": "长期频繁打水光针，皮肤会更敏感吗？",
+   "author": "整形医生 张海林",
+   "date": "07-28",
+   "likes": "44",
+   "url": "https://www.rednote.com/discovery/item/6a687da900000000010320a5"
+  }
+ ]
+}

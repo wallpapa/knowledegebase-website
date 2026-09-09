@@ -1,0 +1,67 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09",
+ "method": "Direct URL navigation per keyword; DOM extraction of top notes (title/author/date/likes) + related-query chips. Raw observation, no page content edited.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师 (medical aesthetics has risks; choose a licensed institution and licensed physician).",
+ "term": "线雕",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=线雕",
+ "relatedQueries": [],
+ "notes": [
+  {
+   "title": "关于传统线雕说点可能得罪人的大实话...",
+   "author": "陈颖助理｜童颜韧带支架提升",
+   "date": "04-02",
+   "likes": "583",
+   "url": "https://www.rednote.com/discovery/item/69c64a0b00000000230061ac"
+  },
+  {
+   "title": "做过线雕的人，十年后脸会变成什么样？",
+   "author": "整形外科范巨峰医生",
+   "date": "06-21",
+   "likes": "254",
+   "url": "https://www.rednote.com/discovery/item/6a354ba500000000060339db"
+  },
+  {
+   "title": "线雕现在还能做吗？为什么又开始火起来了？",
+   "author": "上海九院王文进医生",
+   "date": "08-31",
+   "likes": "21",
+   "url": "https://www.rednote.com/discovery/item/6a915c7d00000000240054a6"
+  },
+  {
+   "title": "不拉皮，不线雕，口周回春，20分钟搞定！",
+   "author": "郭敬松助理｜上镜美学",
+   "date": "5天前",
+   "likes": "2078",
+   "url": "https://www.rednote.com/discovery/item/6a45c147000000000f01c362"
+  },
+  {
+   "title": "线雕手术如何操作，动画模拟手术过程",
+   "author": "整形医生陈永",
+   "date": "2025-11-27",
+   "likes": "322",
+   "url": "https://www.rednote.com/discovery/item/6928457b000000000d039a08"
+  },
+  {
+   "title": "鱼骨线，压印线，大 V线差别在哪里",
+   "author": "做线雕小强",
+   "date": "6天前",
+   "likes": "4",
+   "url": "https://www.rednote.com/discovery/item/6a98d5a000000000b036aca"
+  },
+  {
+   "title": "线雕4.0可以改善什么？解决面部衰老问题",
+   "author": "孙奔博士首席助理",
+   "date": "08-14",
+   "likes": "81",
+   "url": "https://www.rednote.com/discovery/item/6a7d3224000000003300a40d"
+  },
+  {
+   "title": "2026年，线雕终于又好起来了",
+   "author": "王永书",
+   "date": "07-17",
+   "likes": "32",
+   "url": "https://www.rednote.com/discovery/item/6a44df8e000000001702fc60"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09",
+ "method": "Direct URL navigation per keyword; DOM extraction of top notes (title/author/date/likes) + related-query chips. Raw observation, no page content edited.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师 (medical aesthetics has risks; choose a licensed institution and licensed physician).",
+ "term": "逆龄针",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=逆龄针",
+ "relatedQueries": [],
+ "notes": [
+  {
+   "title": "苏州抗衰，1支芮得怡4倍支撑力",
+   "author": "唐婷丨注射美学",
+   "date": "08-20",
+   "likes": "66",
+   "url": "https://www.rednote.com/discovery/item/6a86ce4c000000002701d444"
+  },
+  {
+   "title": "238万一针逆龄 ？",
+   "author": "时光派长寿研究社",
+   "date": "06-20",
+   "likes": "297",
+   "url": "https://www.rednote.com/discovery/item/6a33b61900000000070223d1"
+  },
+  {
+   "title": "史上第一针”逆龄针”已打进真人体内",
+   "author": "章卫国讲AI",
+   "date": "04-15",
+   "likes": "14",
+   "url": "https://www.rednote.com/discovery/item/69de662f000000001a0341ce"
+  },
+  {
+   "title": "哈佛教授，人类首次逆龄针注射有什么启示？",
+   "author": "瘦龙健康",
+   "date": "04-27",
+   "likes": "61",
+   "url": "https://www.rednote.com/discovery/item/69eec4070000000038037f98"
+  },
+  {
+   "title": "打一针就可以年轻？你信吗",
+   "author": "Vivian",
+   "date": "07-16",
+   "likes": "28",
+   "url": "https://www.rednote.com/discovery/item/6a5844f1000000001d022dcb"
+  }
+ ]
+}

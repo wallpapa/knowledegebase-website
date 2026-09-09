@@ -1,0 +1,68 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09",
+ "method": "Direct URL navigation per keyword; DOM extraction of top notes (title/author/date/likes) + related-query chips. Raw observation, no page content edited.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师 (medical aesthetics has risks; choose a licensed institution and licensed physician).",
+ "term": "埋线提升",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=埋线提升",
+ "relatedQueries": [
+  "真实案例",
+  "面部效果",
+  "对比图",
+  "深圳",
+  "法令纹",
+  "上海",
+  "方圆脸",
+  "北京",
+  "快速恢复",
+  "立体",
+  "减龄",
+  "蛋白线",
+  "印第安纹",
+  "眼睛"
+ ],
+ "notes": [
+  {
+   "title": "2026迎来真正的线技术迭代！不变宽不僵硬",
+   "author": "杭州孙奔｜助理",
+   "date": "08-10",
+   "likes": "60",
+   "url": "https://www.rednote.com/discovery/item/6a798f260000000022032c89"
+  },
+  {
+   "title": "⚠️线雕提升可以维持多久？什么样的人不适合",
+   "author": "廖孟南｜助理",
+   "date": "05-08",
+   "likes": "132",
+   "url": "https://www.rednote.com/discovery/item/69fdbfa1000000001f0051c7"
+  },
+  {
+   "title": "2026真正的线雕年！已经来了！",
+   "author": "韩胜线雕｜官方预约助理",
+   "date": "03-10",
+   "likes": "685",
+   "url": "https://www.rednote.com/discovery/item/69746957000000002800bc83"
+  },
+  {
+   "title": "垮脸选择【双折面线雕】，线雕+注S撑得更久",
+   "author": "韩胜线雕小助理 | 口角囊袋下颌缘",
+   "date": "07-28",
+   "likes": "7",
+   "url": "https://www.rednote.com/discovery/item/6a6883b90000000011004bd8"
+  },
+  {
+   "title": "粉丝灵魂拷问：线雕能维持多久❓️",
+   "author": "韩胜线雕小助理 | 口角囊袋下颌缘",
+   "date": "08-05",
+   "likes": "57",
+   "url": "https://www.rednote.com/discovery/item/6a730b9a00000000350179ca"
+  },
+  {
+   "title": "想做线雕，线材如何选择？力度越大越好吗？",
+   "author": "韩胜线雕小助理 | 口角囊袋下颌缘",
+   "date": "07-27",
+   "likes": "80",
+   "url": "https://www.rednote.com/discovery/item/6a6723f9000000000f02aa83"
+  }
+ ]
+}

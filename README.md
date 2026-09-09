@@ -58,7 +58,8 @@ its own — see *Evidence boundaries* below.
 
 **Cross-site resources:**
 
-- [`glossary/`](./glossary/) — Thai → English → Chinese patient terminology (Rednote register) with per-term evidence states; discovery draft pending the logged-in Rednote verification pass
+- [`glossary/`](./glossary/) — Thai → English → Chinese patient terminology with per-term evidence states; 16 terms Rednote-search-verified 2026-09-09 (`evidence/xhs-*.json`)
+- [`content/topic-backlog/`](./content/topic-backlog/) — evidence-backed blog topic candidates (EN + ZH) for the three sites, sourced from observed Rednote patient discourse; recurring discovery appends dated backlog files
 
 ## How to use
 

@@ -1,0 +1,69 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09",
+ "method": "Direct URL navigation per keyword; DOM extraction of top notes (title/author/date/likes) + related-query chips. Raw observation, no page content edited.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师 (medical aesthetics has risks; choose a licensed institution and licensed physician).",
+ "term": "婴儿针",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=婴儿针",
+ "relatedQueries": [
+  "马来西亚",
+  "澳门",
+  "neue",
+  "使用方法",
+  "香港",
+  "面膜测评",
+  "亮爆镜",
+  "混油皮",
+  "sasa",
+  "医用级",
+  "水光作用",
+  "提亮肤色",
+  "有用吗",
+  "丝美妮",
+  "冰晶三文鱼"
+ ],
+ "notes": [
+  {
+   "title": "sasa卖断货的neue少女针&婴儿针💉❓",
+   "author": "41",
+   "date": "05-10",
+   "likes": "410",
+   "url": "https://www.rednote.com/discovery/item/69ff5b99000000003501f55e"
+  },
+  {
+   "title": "纯素人测评！最近风很大的婴儿针",
+   "author": "莫妮卡要早睡",
+   "date": "1天前",
+   "likes": "575",
+   "url": "https://www.rednote.com/discovery/item/6a9e52770000000029017df8"
+  },
+  {
+   "title": "香港neue婴儿针 有点吓人",
+   "author": "甜口美奈子",
+   "date": "08-19",
+   "likes": "77",
+   "url": "https://www.rednote.com/discovery/item/6a847921000000002403fc2e"
+  },
+  {
+   "title": "线下爆火的精华｜扒透NEUE婴儿针活性复配",
+   "author": "jie歪歪（活人版",
+   "date": "2小时前",
+   "likes": "576",
+   "url": "https://www.rednote.com/discovery/item/6a9e859700000000260188fd"
+  },
+  {
+   "title": "干皮测评涂抹式水光婴儿针",
+   "author": "段小姐你好",
+   "date": "07-29",
+   "likes": "238",
+   "url": "https://www.rednote.com/discovery/item/6a6a0669000000001102b75a"
+  },
+  {
+   "title": "香港🇭🇰sasa断货王neue婴儿针少女针囤到货",
+   "author": "💝Eva",
+   "date": "06-30",
+   "likes": "645",
+   "url": "https://www.rednote.com/discovery/item/6a4361720000000011010f3b"
+  }
+ ]
+}

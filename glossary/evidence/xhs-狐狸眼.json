@@ -1,0 +1,59 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09",
+ "method": "Direct URL navigation per keyword; DOM extraction of top notes (title/author/date/likes) + related-query chips. Raw observation, no page content edited.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师 (medical aesthetics has risks; choose a licensed institution and licensed physician).",
+ "term": "狐狸眼",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=狐狸眼",
+ "relatedQueries": [
+  "少年",
+  "桃花眼",
+  "狐系长相",
+  "丹凤眼",
+  "清冷感",
+  "素材图",
+  "美人",
+  "画法",
+  "白金狐",
+  "眼型参考",
+  "高级感",
+  "自然款"
+ ],
+ "notes": [
+  {
+   "title": "揭秘:狐狸眼眼尾上扬，都是假案例！",
+   "author": "上海整形医生李文琳",
+   "date": "08-27",
+   "likes": "340",
+   "url": "https://www.rednote.com/discovery/item/6a671364000000000e03783f"
+  },
+  {
+   "title": "4种常见眼型对比，你更适合哪一种？",
+   "author": "省妇幼整形美容专家段波",
+   "date": "02-24",
+   "likes": "2963",
+   "url": "https://www.rednote.com/discovery/item/699b207c000000000b00a597"
+  },
+  {
+   "title": "眼尾上扬、狐狸眼，到底能不能做？",
+   "author": "上海整形医生李文琳",
+   "date": "08-12",
+   "likes": "3",
+   "url": "https://www.rednote.com/discovery/item/6a7bf58d0000000021023948"
+  },
+  {
+   "title": "狐系眼到底是什么",
+   "author": "整形医生何星",
+   "date": "2025-10-25",
+   "likes": "334",
+   "url": "https://www.rednote.com/discovery/item/68fb3da30000000005013809"
+  },
+  {
+   "title": "是你碎碎念的狐系眼模板吗❓❗❗",
+   "author": "汪雅双眼皮",
+   "date": "03-30",
+   "likes": "291",
+   "url": "https://www.rednote.com/discovery/item/69ca390c0000000022029a06"
+  }
+ ]
+}

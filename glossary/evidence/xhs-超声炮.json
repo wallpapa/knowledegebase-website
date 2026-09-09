@@ -1,0 +1,69 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09",
+ "method": "Direct URL navigation per keyword; DOM extraction of top notes (title/author/date/likes) + related-query chips. Raw observation, no page content edited.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师 (medical aesthetics has risks; choose a licensed institution and licensed physician).",
+ "term": "超声炮",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=超声炮",
+ "relatedQueries": [
+  "日本",
+  "美国",
+  "济南",
+  "沈阳",
+  "福州",
+  "厦门",
+  "上海",
+  "真实案例",
+  "西安",
+  "深圳",
+  "合肥",
+  "青岛",
+  "宁波",
+  "成都",
+  "一代二代"
+ ],
+ "notes": [
+  {
+   "title": "姐妹们！是真的💥半岛大超炮9K+就能做",
+   "author": "上海曼领医疗美容医院",
+   "date": "07-23",
+   "likes": "41",
+   "url": "https://www.rednote.com/discovery/item/6927ad4b000000001e011c74"
+  },
+  {
+   "title": "大超炮和半岛黄金超声炮有什么区别？",
+   "author": "皮肤科医生杨莉莉",
+   "date": "05-06",
+   "likes": "438",
+   "url": "https://www.rednote.com/discovery/item/69fab5a7000000003802080a"
+  },
+  {
+   "title": "如果你正打算去做大超炮，看完这篇再决定！",
+   "author": "八大处整形梁雪冰",
+   "date": "05-17",
+   "likes": "125",
+   "url": "https://www.rednote.com/discovery/item/6a098c1500000000350237de"
+  },
+  {
+   "title": "超声炮恢复期多久？效果多久看到？",
+   "author": "蒋亚楠南京鼓楼医院",
+   "date": "2025-12-19",
+   "likes": "39",
+   "url": "https://www.rednote.com/discovery/item/694527a2000000000d0345c2"
+  },
+  {
+   "title": "正确打超声炮，整张脸都会向上提!",
+   "author": "上海九院王韵",
+   "date": "09-01",
+   "likes": "24",
+   "url": "https://www.rednote.com/discovery/item/6a8815b100000000050328f8"
+  },
+  {
+   "title": "超声炮的原理是什么？不同的面部部位选择什",
+   "author": "皮肤科于泳医生",
+   "date": "03-16",
+   "likes": "25",
+   "url": "https://www.rednote.com/discovery/item/69b77ab7000000001a0268e8"
+  }
+ ]
+}

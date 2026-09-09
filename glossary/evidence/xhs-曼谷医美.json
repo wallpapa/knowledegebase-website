@@ -1,0 +1,53 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09",
+ "method": "Direct URL navigation per keyword; DOM extraction of top notes (title/author/date/likes) + related-query chips. Raw observation, no page content edited.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师 (medical aesthetics has risks; choose a licensed institution and licensed physician).",
+ "term": "曼谷医美",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=曼谷医美",
+ "relatedQueries": [],
+ "notes": [
+  {
+   "title": "曼谷变美日记",
+   "author": "泰国SET明月",
+   "date": "1天前",
+   "likes": "23",
+   "url": "https://www.rednote.com/discovery/item/6a9e8efd000000001401369c"
+  },
+  {
+   "title": "端午曼谷度假碎片",
+   "author": "草莓香蕉车厘子",
+   "date": "06-23",
+   "likes": "805",
+   "url": "https://www.rednote.com/discovery/item/6a39e4f40000000007024278"
+  },
+  {
+   "title": "泰国警官肇逃，网红曼谷医美身亡",
+   "author": "Sothai",
+   "date": "2天前",
+   "likes": "18",
+   "url": "https://www.rednote.com/discovery/item/6a9d79bd000000002600a441"
+  },
+  {
+   "title": "泰国曼谷KKC👍",
+   "author": "YY",
+   "date": "06-10",
+   "likes": "8",
+   "url": "https://www.rednote.com/discovery/item/6a290a2e00000000210201c4"
+  },
+  {
+   "title": "曼谷顶奢皮肤管理｜Lumina Wellness Clinic",
+   "author": "Luckyjoy琪（泰国旅居版）",
+   "date": "01-07",
+   "likes": "96",
+   "url": "https://www.rednote.com/discovery/item/695e3468000000001a02e200"
+  },
+  {
+   "title": "曼谷爆红的韩国美容疗程🇹🇭",
+   "author": "Jess Zheng",
+   "date": "02-26",
+   "likes": "270",
+   "url": "https://www.rednote.com/discovery/item/699fe7a5000000002202c8b2"
+  }
+ ]
+}

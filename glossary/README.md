@@ -11,30 +11,37 @@ offer into:
   really use (Rednote / Xiaohongshu register), so zh pages and content speak
   the patient's language instead of literal translation
 
-## Status: discovery draft — NOT publication authority
+## Status: partially Rednote-verified (2026-09-09)
 
-Created 2026-09-09 from **15 bounded Tavily web searches** (raw JSON kept
-verbatim in [`evidence/`](./evidence/), q01–q15) plus the repo's site
-snapshots. The owner-requested verification pass **inside logged-in Rednote**
-(rednote.com, via the user's Chrome) is **pending** — macOS Accessibility /
-Screen Recording has not yet been granted to ZCode Computer Use.app, so the
-browser could not be driven.
+Verification pass 1 ran on 2026-09-09: **16 terms searched inside rednote.com**
+via the ZCode in-app browser (logged-in session — the owner's Chrome was never
+touched, per owner instruction). Raw observations (post titles, authors, dates,
+likes, related-query chips) live in `evidence/xhs-<term>.json`. Verified terms
+carry `reviewState: rednote-search-observed`.
 
-Every term carries a `reviewState`:
+Two discovery-grade mappings were **overturned by observation**:
+
+- **逆龄针 ≠ Profhilo** on current Rednote — the term now denotes
+  longevity/gene-therapy injections. Keep the Latin brand "Profhilo" in zh copy.
+- **婴儿针 is ambiguous** — the current surface is dominated by the NEUE
+  *topical skincare* trend, not Rejuran injectables. Lead with 丽珠兰/Rejuran
+  + 三文鱼 qualifiers.
+
+Note-level verification (opening individual posts for body text and comments)
+is still pending; before any zh term reaches publication copy it must still
+pass the target site's i18n quality gates.
+
+Earlier discovery material (15 Tavily searches, `evidence/q01–q15`) is kept
+verbatim as the pre-verification baseline.
 
 | State | Meaning |
 |---|---|
+| `rednote-search-observed` | Searched on rednote.com (logged-in); titles/likes/chips recorded in `evidence/xhs-*.json` |
+| `conflicts-current-rednote-usage` | Observed usage contradicts the mapping — do not use in copy |
 | `site-published-zh` / `site-canonical` / `site-keyword` | Already published by one of the sites (verifiable at the live URL) |
 | `kb-observed-th` | Real Thai patient search phrase from the verzo evidence KB |
-| `discovery-confirmed` | ≥2 independent discovery sources agree — still needs the Rednote pass |
-| `discovery-single-source` | One source only; hypothesis |
+| `discovery-confirmed` / `discovery-single-source` | Tavily discovery grade; superseded by rednote observation where present |
 | `unverified-colloquial` | No evidence captured; do not use in publication copy |
-
-Until the Rednote pass records in-app observations (post titles, frequencies,
-zh-Hans vs zh-Hant variants), **do not treat any Chinese entry here as
-release-ready website copy** — it is translation *input*, not publication
-output. Site translation batches continue to run through each site repo's own
-workflow (`verzo-local-translation`, i18n quality gates, approval states).
 
 ## High-risk disambiguations (read before translating anything)
 
@@ -52,18 +59,18 @@ workflow (`verzo-local-translation`, i18n quality gates, approval states).
 
 ## Refreshing
 
-1. Run the Rednote verification pass (requires the owner to grant macOS
-   Accessibility + Screen Recording to **ZCode Computer Use.app** in System
-   Settings → Privacy & Security, then fully quit and reopen ZCode):
-   for each `zhHans` term, search inside the logged-in rednote.com tab,
-   record post titles/URLs/frequency, note zh-Hant variants, then upgrade
-   `reviewState` per term and update this README's status line.
-2. New treatment families: run bounded Tavily discovery first (save raw
-   JSON to `evidence/qNN-*.json`), then add the entry with honest states.
-3. Validate: `npm run content:quality-gate` (JSON validity is checked
+1. Recurring discovery runs (see repo README automation section) append new
+   `evidence/xhs-*.json` observations and dated topic-backlog files.
+2. Note-level verification: open 2–3 top posts per term inside the in-app
+   browser session, record body hashtags/comment language, then upgrade
+   `reviewState` accordingly.
+3. New treatment families: run bounded Tavily discovery first (save raw
+   JSON to `evidence/qNN-*.json`), then the Rednote search pass.
+4. Validate: `npm run content:quality-gate` (JSON validity is checked
    automatically for every file in the repo).
 
 ## File map
 
 - `th-en-zh-patient-aesthetic-terms.json` — the glossary (schema v1)
 - `evidence/q01…q15-*.json` — raw Tavily discovery results, verbatim
+- `evidence/xhs-<term>.json` — Rednote search observations per term (verification pass 1, 2026-09-09)

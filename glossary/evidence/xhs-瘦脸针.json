@@ -1,0 +1,69 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09",
+ "method": "Direct URL navigation per keyword; DOM extraction of top notes (title/author/date/likes) + related-query chips. Raw observation, no page content edited.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师 (medical aesthetics has risks; choose a licensed institution and licensed physician).",
+ "term": "瘦脸针",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=瘦脸针",
+ "relatedQueries": [
+  "厦门",
+  "青岛",
+  "沈阳",
+  "郑州",
+  "保妥适肉毒",
+  "注射价格",
+  "咬肌大",
+  "衡力针",
+  "肉方脸",
+  "天津",
+  "下颌提升",
+  "高颧骨",
+  "三甲",
+  "国字脸",
+  "脸颊凹陷"
+ ],
+ "notes": [
+  {
+   "title": "快收藏⚠️你不知道的瘦脸针全脸进阶打发！",
+   "author": "整形医生王晨羽",
+   "date": "08-17",
+   "likes": "4453",
+   "url": "https://www.rednote.com/discovery/item/6911ee98000000000302ca21"
+  },
+  {
+   "title": "打了瘦脸针，脸下垂了？",
+   "author": "华西整形美容_邱禾",
+   "date": "05-28",
+   "likes": "25",
+   "url": "https://www.rednote.com/discovery/item/6a181e380000000006030b99"
+  },
+  {
+   "title": "别再盲目打瘦脸针了！",
+   "author": "上海九院段然",
+   "date": "06-26",
+   "likes": "2669",
+   "url": "https://www.rednote.com/discovery/item/6a2a5935000000002201883e"
+  },
+  {
+   "title": "咬肌怎么打❓才能做到不凹陷不跨脸",
+   "author": "钟丽娅助理｜轻薄长效抗衰",
+   "date": "06-05",
+   "likes": "18",
+   "url": "https://www.rednote.com/discovery/item/6a22bc00000000002202a24f"
+  },
+  {
+   "title": "下颌缘提升 肉毒素怎么搭配",
+   "author": "黄辞-西安四院",
+   "date": "03-27",
+   "likes": "692",
+   "url": "https://www.rednote.com/discovery/item/69c63a5e000000001b0218f3"
+  },
+  {
+   "title": "1支肉毒，轻松拥有上镜小v脸✅",
+   "author": "玄峰현봉｜中韩美学助理🌟曙光",
+   "date": "2025-05-07",
+   "likes": "811",
+   "url": "https://www.rednote.com/discovery/item/681b3951000000000f038be2"
+  }
+ ]
+}

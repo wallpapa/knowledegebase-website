@@ -1,0 +1,62 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09",
+ "method": "Direct URL navigation per keyword; DOM extraction of top notes (title/author/date/likes) + related-query chips. Raw observation, no page content edited.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师 (medical aesthetics has risks; choose a licensed institution and licensed physician).",
+ "term": "微晶瓷",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=微晶瓷",
+ "relatedQueries": [
+  "鼻基底",
+  "填充",
+  "下巴",
+  "店铺测评",
+  "取出",
+  "面部提升",
+  "恢复期",
+  "副作用",
+  "眉弓",
+  "额头",
+  "价格",
+  "胶原蛋白",
+  "痘坑",
+  "泪沟",
+  "口周"
+ ],
+ "notes": [
+  {
+   "title": "Radiesse瑞德喜/芮得怡的前世今生",
+   "author": "优利沃斯CLINIC",
+   "date": "",
+   "likes": "525",
+   "url": "https://www.rednote.com/discovery/item/68e4c763000000000301cc89"
+  },
+  {
+   "title": "什么是微晶瓷？",
+   "author": "周云超异物取出医生",
+   "date": "08-10",
+   "likes": "3",
+   "url": "https://www.rednote.com/discovery/item/6a799783000000002402f215"
+  },
+  {
+   "title": "芮得怡注射隆鼻有哪些优势？",
+   "author": "陈向东教授",
+   "date": "05-26",
+   "likes": "19",
+   "url": "https://www.rednote.com/discovery/item/691abefb0000000007023646"
+  },
+  {
+   "title": "Radiesse“Caha”微晶瓷应该打哪里？",
+   "author": "王曼姬🏅（预约在这）",
+   "date": "2025-11-03",
+   "likes": "23",
+   "url": "https://www.rednote.com/discovery/item/690081c800000000030137ca"
+  },
+  {
+   "title": "一张图，了解再生材料瑞德喜",
+   "author": "碧爱丽思JN | 美容咨询",
+   "date": "06-25",
+   "likes": "5",
+   "url": "https://www.rednote.com/discovery/item/6a3b6c4900000000080005e7"
+  }
+ ]
+}

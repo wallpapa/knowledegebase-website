@@ -1,0 +1,69 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09",
+ "method": "Direct URL navigation per keyword; DOM extraction of top notes (title/author/date/likes) + related-query chips. Raw observation, no page content edited.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师 (medical aesthetics has risks; choose a licensed institution and licensed physician).",
+ "term": "童颜针",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=童颜针",
+ "relatedQueries": [
+  "澳门",
+  "香港",
+  "真实反馈",
+  "牌子排名",
+  "爱唯缇",
+  "时凝萃",
+  "新氧",
+  "韧带提升",
+  "按摩手法",
+  "普丽妍",
+  "德美颜",
+  "悦雅颜",
+  "太阳穴",
+  "效果对比",
+  "胶原"
+ ],
+ "notes": [
+  {
+   "title": "【九款童颜】区别点超详解！看懂省百万❗",
+   "author": "张亚航｜原生美学助理",
+   "date": "02-01",
+   "likes": "1360",
+   "url": "https://www.rednote.com/discovery/item/697ca905000000000a03f4a8"
+  },
+  {
+   "title": "什么人适合打童颜针？",
+   "author": "上海九院周双白",
+   "date": "2小时前",
+   "likes": "2",
+   "url": "https://www.rednote.com/discovery/item/6a9fd61b000000002902e327"
+  },
+  {
+   "title": "童颜针和胶原✅到底怎么选",
+   "author": "八大处整形梁雪冰",
+   "date": "07-28",
+   "likes": "61",
+   "url": "https://www.rednote.com/discovery/item/6a6889a8000000001102ca04"
+  },
+  {
+   "title": "一瓶打全脸，塑妍萃童颜全脸提升打法升级！",
+   "author": "李花停高阶审美小助理Redream",
+   "date": "06-09",
+   "likes": "991",
+   "url": "https://www.rednote.com/discovery/item/6a27e73000000000220191be"
+  },
+  {
+   "title": "相信一瓶童颜打全脸的可以划走了...",
+   "author": "整形外科王朝辉",
+   "date": "08-01",
+   "likes": "70",
+   "url": "https://www.rednote.com/discovery/item/6a6d9a670000000028001f39"
+  },
+  {
+   "title": "干货来啦🔥童颜到底是什么？一篇讲透",
+   "author": "张歌",
+   "date": "2025-12-31",
+   "likes": "175",
+   "url": "https://www.rednote.com/discovery/item/69551c20000000001e0113aa"
+  }
+ ]
+}

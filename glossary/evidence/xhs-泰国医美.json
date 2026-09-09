@@ -1,0 +1,46 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09",
+ "method": "Direct URL navigation per keyword; DOM extraction of top notes (title/author/date/likes) + related-query chips. Raw observation, no page content edited.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师 (medical aesthetics has risks; choose a licensed institution and licensed physician).",
+ "term": "泰国医美",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=泰国医美",
+ "relatedQueries": [],
+ "notes": [
+  {
+   "title": "曼谷变美日记",
+   "author": "泰国SET明月",
+   "date": "1天前",
+   "likes": "23",
+   "url": "https://www.rednote.com/discovery/item/6a9e8efd000000001401369c"
+  },
+  {
+   "title": "小测试｜KKC医生老师的手，到底有多稳？",
+   "author": "KKC Aesthetic TH",
+   "date": "07-08",
+   "likes": "4",
+   "url": "https://www.rednote.com/discovery/item/6a47590200000000200382e9"
+  },
+  {
+   "title": "避雷🇹🇭yanhee燕喜医院",
+   "author": "小红薯665F3958",
+   "date": "08-11",
+   "likes": "7",
+   "url": "https://www.rednote.com/discovery/item/6a7a93a5000000002500efb8"
+  },
+  {
+   "title": "🇹🇭曼谷Onda｜配得上每一位远道而来的信任",
+   "author": "曼谷Secret皮肤管理店",
+   "date": "5天前",
+   "likes": "5",
+   "url": "https://www.rednote.com/discovery/item/6a992ac8000000002802b684"
+  },
+  {
+   "title": "曼谷爆红的韩国美容疗程🇹🇭",
+   "author": "Jess Zheng",
+   "date": "02-26",
+   "likes": "270",
+   "url": "https://www.rednote.com/discovery/item/699fe7a5000000002202c8b2"
+  }
+ ]
+}
