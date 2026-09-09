@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "serviceKey": "botox",
+  "runId": "20260904T142213Z-dao-mouth-corner",
+  "runPath": "runs/20260904T142213Z-dao-mouth-corner",
+  "manifest": "runs/20260904T142213Z-dao-mouth-corner/manifest.json",
+  "manifestSha256": "c12aab958cd6a42524258e8b002a2312b4d6ed95353494ed510b4eab4443de06",
+  "updatedAt": "2026-09-04T14:22:13Z"
+}

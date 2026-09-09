@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "serviceKey": "botox",
+  "sources": [
+    {
+      "id": "bd-en-dao-alternatives-mobile",
+      "serviceKey": "botox",
+      "locale": "en",
+      "market": "TH",
+      "sourceUrl": "https://www.google.com/search",
+      "publisher": "Google via Bright Data SERP API",
+      "sourceType": "search-demand",
+      "title": "downturned mouth corners DAO Botox alternatives filler thread lift",
+      "retrievedAt": "2026-09-04T14:22:38.286Z",
+      "contentHash": "c82d0dceca6abe5bc65ef1011a340882f9e94a6d761117e8e3c6a541881d8947",
+      "discoveryQuery": "downturned mouth corners DAO Botox alternatives filler thread lift",
+      "authorityClass": "search-demand",
+      "verificationState": "verified-retrieval-discovery-only"
+    },
+    {
+      "id": "bd-th-dao-filler-thread-compare-mobile",
+      "serviceKey": "botox",
+      "locale": "th",
+      "market": "TH",
+      "sourceUrl": "https://www.google.com/search",
+      "publisher": "Google via Bright Data SERP API",
+      "sourceType": "search-demand",
+      "title": "ยกมุมปาก botox dao ฟิลเลอร์ ร้อยไหม",
+      "retrievedAt": "2026-09-04T14:22:38.015Z",
+      "contentHash": "0ead093eb00e9c853a2338607464ef14f7d0e86c989fdcf4b5d7d43d9105e778",
+      "discoveryQuery": "ยกมุมปาก botox dao ฟิลเลอร์ ร้อยไหม",
+      "authorityClass": "search-demand",
+      "verificationState": "verified-retrieval-discovery-only"
+    },
+    {
+      "id": "bd-th-mouth-corner-alternatives-mobile",
+      "serviceKey": "botox",
+      "locale": "th",
+      "market": "TH",
+      "sourceUrl": "https://www.google.com/search",
+      "publisher": "Google via Bright Data SERP API",
+      "sourceType": "search-demand",
+      "title": "มุมปากตก ทำยังไง ไม่ฉีดโบท็อกซ์ DAO",
+      "retrievedAt": "2026-09-04T14:23:07.235Z",
+      "contentHash": "a09bd3ac9dc846917bd95c7367051e96f09fb5921917229ba3606d2270e1c852",
+      "discoveryQuery": "มุมปากตก ทำยังไง ไม่ฉีดโบท็อกซ์ DAO",
+      "authorityClass": "search-demand",
+      "verificationState": "verified-retrieval-discovery-only"
+    }
+  ]
+}

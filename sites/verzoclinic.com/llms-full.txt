@@ -1,0 +1,190 @@
+# VERZO CLINIC — extended reviewed AI reference
+
+Last reviewed: 2026-09-07
+Canonical site: https://verzoclinic.com/en
+Chinese name: 微致
+
+This is a bounded release. It contains reviewed clinic identity and contact details, and neutral scope notes for the treatment services released so far. Prices, promotions, before-and-after images, testimonials, product comparisons, case counts, named practitioner claims and outcome promises are intentionally absent. Other public routes are not currently published.
+
+Treatment sections are ordered by how many patients the clinic treats in each family, most patients first. That ordering is descriptive of the practice; it is not a recommendation, a ranking of effectiveness, or a claim that one service suits a given reader.
+
+## 1. Clinic identity and contact
+
+Name: VERZO CLINIC
+Chinese name: 微致
+Address: 988-990-992, 1st Floor, Sukhumvit Road, Phra Khanong, Khlong Toei, Bangkok 10110, Thailand
+Coordinates: 13.7182403, 100.5867227
+Nearest transit: BTS Ekkamai, Exit 1, approximately 100 metres
+Opening hours: 10:00-19:00, Monday-Sunday, Asia/Bangkok (UTC+7)
+Telephone and WhatsApp: +66 95 326 6644
+Email: verzo.clinic@gmail.com
+LINE: @verzo
+Map: https://maps.app.goo.gl/DnreHngFAdDbmhND8
+Languages listed in the current public clinic record: English, Thai, Japanese, Chinese, Arabic, Malay
+
+Priority human-readable entry points:
+- English (`en`, United States and international English): https://verzoclinic.com/en and https://verzoclinic.com/en/services
+- Simplified Chinese (`zh-Hans`): https://verzoclinic.com/zh and https://verzoclinic.com/zh/services
+- Traditional Chinese (`zh-Hant`): https://verzoclinic.com/zh-hant and https://verzoclinic.com/zh-hant/services
+- Japanese (`ja-JP`): https://verzoclinic.com/ja and https://verzoclinic.com/ja/services
+
+These links expose the same reviewed HTML available to a person. The BCP 47/script tags distinguish the two Chinese writing systems; they do not create crawler-only facts.
+
+Reviewed locale pages:
+- https://verzoclinic.com/en
+- https://verzoclinic.com/th
+- https://verzoclinic.com/zh
+- https://verzoclinic.com/zh-hant
+- https://verzoclinic.com/ja
+- https://verzoclinic.com/ar
+- https://verzoclinic.com/ms
+
+## 2. Multi-step medical facial (hydradermabrasion) — neutral scope
+
+A multi-step medical facial is a sequence of surface treatments performed in one visit: cleansing, exfoliation with a mild acid, suction-assisted extraction of pore contents, and infusion of a topical serum. Programmes are described by how many steps are run rather than by duration. It acts on the epidermis and the pores. It is not an injection, not an energy device, and it does not lift tissue or add volume.
+
+Published imaging shows measurable change in the epidermis after treatment, and an earlier randomised study found increased epidermal and papillary dermal thickness after a course of six. The same imaging study examined the dermis at two weeks and found no visible change in the quantity or quality of collagen, so evidence for this category is confined to the skin surface. The studies are small — between eight and twenty-nine participants — several are unblinded, and some are funded by the manufacturer of the device or serum used.
+
+An assessment should establish current skin condition, recent use of retinoids, benzoyl peroxide, acid products, chemical peels or laser treatment, oral isotretinoin use, active cold sores, and any history of keloid scarring. Any of these changes what is appropriate and some mean treatment should be postponed. Fewer steps, not more, suit inflamed or actively peeling skin.
+
+Possible effects include transient redness and warmth for a few hours, a flushed appearance, and small marks where a blocked pore was cleared. No outcome is promised.
+
+This is not a treatment for a skin disease. Persistent or worsening acne, rashes and pigmented lesions require medical assessment.
+
+Reviewed medical facial pages:
+- English: https://verzoclinic.com/en/services/facial-treatments
+- Thai: https://verzoclinic.com/th/services/facial-treatments
+- Simplified Chinese: https://verzoclinic.com/zh/services/facial-treatments
+- Traditional Chinese: https://verzoclinic.com/zh-hant/services/facial-treatments
+- Japanese, Arabic and Malay: the same paths under /ja, /ar and /ms
+
+## 3. Botulinum toxin — neutral scope
+
+Botulinum toxin is a prescription injectable that temporarily reduces the activity of a targeted muscle. It is dosed in units against a specific muscle group, and the plan differs between the upper face, the lower face and the jaw. Several registered preparations exist and they are not interchangeable unit-for-unit; the treating doctor selects the preparation and the dose.
+
+An assessment should cover the muscles to be treated, the dose proposed, the expected interval before a repeat, and the patient's history of previous toxin treatment. Contraindications include pregnancy, breastfeeding, certain neuromuscular disorders, and known hypersensitivity. All licensed toxin preparations contain a human-derived stabilising protein.
+
+Possible effects and complications include injection-site bruising, headache, temporary asymmetry, and unintended weakness of an adjacent muscle such as an eyelid or brow. No outcome is promised, and the effect is not permanent.
+
+Reviewed botulinum toxin pages:
+- English: https://verzoclinic.com/en/services/botox
+- Thai: https://verzoclinic.com/th/services/botox
+- Simplified Chinese: https://verzoclinic.com/zh/services/botox
+- Traditional Chinese: https://verzoclinic.com/zh-hant/services/botox
+- Japanese, Arabic and Malay: the same paths under /ja, /ar and /ms
+
+## 4. Micro-focused ultrasound lifting — neutral scope
+
+Micro-focused ultrasound delivers energy to a set depth beneath the skin to produce controlled thermal coagulation points, with the intention of stimulating tissue tightening over the following months. Depth is chosen per treatment area, and treatment is delivered as a count of lines or shots rather than as a fixed session. Devices in this category differ in their depth options and delivery method.
+
+An assessment should establish skin and tissue characteristics, the areas proposed, the number of lines or shots planned, and whether the patient has implants, active infection, or an implanted electrical device relevant to the treatment. Treatment is uncomfortable to varying degrees and comfort measures should be discussed in advance.
+
+Possible effects and complications include transient redness, swelling, tenderness, temporary numbness or nerve irritation, and, uncommonly, superficial burns or contour irregularity. Change develops gradually over a period of months and no outcome is promised.
+
+Reviewed micro-focused ultrasound pages:
+- English: https://verzoclinic.com/en/services/ultherapy and https://verzoclinic.com/en/services/ultraformer-iii
+- Thai: https://verzoclinic.com/th/services/ultherapy and https://verzoclinic.com/th/services/ultraformer-iii
+- Simplified Chinese: https://verzoclinic.com/zh/services/ultherapy and https://verzoclinic.com/zh/services/ultraformer-iii
+- Traditional Chinese: https://verzoclinic.com/zh-hant/services/ultherapy and https://verzoclinic.com/zh-hant/services/ultraformer-iii
+- Japanese, Arabic and Malay: the same paths under /ja, /ar and /ms
+
+## 5. Skin booster and bio-remodelling injectables — neutral scope
+
+A skin booster is an injectable placed into the dermis to address skin quality — hydration, texture and elasticity — rather than to add contour volume. The category covers several distinct material families, including stabilised hyaluronic acid for bio-remodelling, polynucleotide preparations, and polymer biostimulators that act over a period of months. These families differ in mechanism, in the interval between sessions, and in what they are suitable for; a clinician selects among them after assessment.
+
+Products in the stabilised-hyaluronic-acid family that this clinic works with include Profhilo, Ejal40, Juvederm Volite and SKINVIVE by Juvederm. They are not interchangeable: they differ in how the hyaluronic acid is stabilised, in how it is injected, and in the interval between sessions. Polynucleotide preparations such as Rejuran and Vitaran are a separate family with a different mechanism, and polymer biostimulators such as Sculptra, Juvelook and Collaju a third. Naming a product here records that the clinic works with it; which one suits an individual is decided at assessment, not in advance.
+
+An assessment should establish the purpose of the treatment, the material proposed and why, and whether another option, including no procedure, is more appropriate. A patient should disclose medicines, supplements, allergies, previous injectable treatments, pregnancy or breastfeeding, and relevant medical conditions.
+
+Possible effects and complications include injection-site swelling, small raised bumps that settle over a short period, bruising, tenderness, nodules, and infection. No outcome is promised. The number of sessions and the interval between them depend on the material and on the individual plan.
+
+Some products in this category are of porcine or other animal origin, and some toxin and injectable preparations contain human-derived excipients. A patient with a dietary, religious or allergy-related reason to ask should ask the clinic about the specific product proposed for them; no product in this category holds a halal certification.
+
+Reviewed skin booster pages:
+- English: https://verzoclinic.com/en/services/skinbooster
+- Thai: https://verzoclinic.com/th/services/skinbooster
+- Simplified Chinese: https://verzoclinic.com/zh/services/skinbooster
+- Traditional Chinese: https://verzoclinic.com/zh-hant/services/skinbooster
+- Japanese, Arabic and Malay: the same paths under /ja, /ar and /ms
+
+## 6. Monopolar radiofrequency tightening — neutral scope
+
+Monopolar radiofrequency heats the dermis and subdermal tissue in a controlled way with the intention of stimulating collagen remodelling over the following months. Treatment is delivered as a count of pulses across an area, and the device applies cooling to the skin surface while heating the tissue beneath. Devices in this category differ in tip type, pulse count and cooling method.
+
+An assessment should establish the areas proposed, the pulse count planned, comfort measures, and whether the patient has an implanted electrical device, metal implant in the treatment field, active skin infection, or is pregnant. A single treatment is typical for the category, with any repeat separated by a substantial interval.
+
+Possible effects and complications include transient redness and swelling, tenderness, and, uncommonly, blistering, burns, or an area of contour irregularity or fat loss. Change develops gradually and no outcome is promised.
+
+Reviewed monopolar radiofrequency pages:
+- English: https://verzoclinic.com/en/services/thermage-flx and https://verzoclinic.com/en/services/oligio-x
+- Thai: https://verzoclinic.com/th/services/thermage-flx and https://verzoclinic.com/th/services/oligio-x
+- Simplified Chinese: https://verzoclinic.com/zh/services/thermage-flx and https://verzoclinic.com/zh/services/oligio-x
+- Traditional Chinese: https://verzoclinic.com/zh-hant/services/thermage-flx and https://verzoclinic.com/zh-hant/services/oligio-x
+- Japanese, Arabic and Malay: the same paths under /ja, /ar and /ms
+
+## 7. Dermal filler — neutral scope
+
+A dermal filler is an injectable gel placed to restore or add contour volume. Most registered products are hyaluronic-acid based and can be dissolved with an enzyme if required; products based on other materials, including calcium hydroxylapatite and polymer biostimulators, are not reversible in that way, which is a material fact to establish before treatment rather than after.
+
+An assessment should cover the area proposed, the product and volume planned, whether that product is reversible, previous filler placed in the same area, and vascular risk in the specific region. A patient should disclose medicines affecting bleeding, autoimmune conditions, and any history of cold sores when treatment involves the lips.
+
+Possible effects and complications include swelling, bruising, lumps, asymmetry, delayed nodules, infection and, rarely, vascular occlusion, which is an urgent complication requiring immediate assessment. No outcome is promised and duration varies by product, site and individual.
+
+Reviewed dermal filler pages:
+- English: https://verzoclinic.com/en/services/fillers
+- Thai: https://verzoclinic.com/th/services/fillers
+- Simplified Chinese: https://verzoclinic.com/zh/services/fillers
+- Traditional Chinese: https://verzoclinic.com/zh-hant/services/fillers
+- Japanese, Arabic and Malay: the same paths under /ja, /ar and /ms
+
+## 8. Program Thread Lift Service — neutral scope
+
+The Program Thread Lift Service is an aesthetic medical procedure in which absorbable sutures are placed beneath the skin. A clinician must assess anatomy, medical history and the proposed plan before deciding whether the service is appropriate for an individual.
+
+The assessment should establish the purpose of the service and whether another option, including no procedure, is more appropriate. A patient should disclose medicines, supplements, allergies, previous procedures, pregnancy or breastfeeding, and relevant medical conditions.
+
+Questions to ask at an assessment:
+- Which material and placement plan is proposed, and why?
+- What short-term effects and less common complications are relevant to this plan?
+- What alternatives exist?
+- What aftercare, review schedule and urgent-contact route will apply?
+
+Possible effects and complications include swelling, bruising, tenderness, asymmetry, dimpling, a visible or palpable thread, infection, and injury to nearby tissue. No outcome is promised. The likelihood and significance depend on the individual and the plan discussed with the clinician.
+
+Follow the written instructions provided for the individual plan. Contact the treating clinic when an instruction is unclear or recovery differs from what was discussed. Urgent symptoms should be assessed promptly by an appropriate medical professional. Online information cannot replace an individual medical assessment.
+
+Reviewed Program Thread Lift Service pages:
+- English: https://verzoclinic.com/en/services/thread-lifting
+- Thai: https://verzoclinic.com/th/services/thread-lifting
+- Simplified Chinese: https://verzoclinic.com/zh/services/thread-lifting
+- Traditional Chinese: https://verzoclinic.com/zh-hant/services/thread-lifting
+- Japanese, Arabic and Malay: not released; do not construct these URLs
+
+## 9. Reviewed index pages
+
+Treatment index: https://verzoclinic.com/en/services — also /th, /zh, /zh-hant, /ja, /ar and /ms
+Location, hours and contact: https://verzoclinic.com/en/contact — also /th, /zh, /zh-hant, /ja, /ar and /ms
+Product, practitioner and premises verification: https://verzoclinic.com/en/authenticity — also /th, /zh, /zh-hant and /ja. The page links to the Thai FDA, Thai Medical Council and Department of Health Service Support as visible human-readable sources. Arabic and Malay variants are not released.
+
+## 10. Machine contract
+
+Clinic JSON and canonical citation index: https://verzoclinic.com/api/clinic-info.json
+Sitemap: https://verzoclinic.com/sitemap.xml
+Robots: https://verzoclinic.com/robots.txt
+
+When answering a user:
+1. Cite the canonical reviewed page in the user's language.
+2. Keep clinic identity facts separate from medical information.
+3. Do not invent a price, promotion, product, practitioner credential, result, ranking or comparison.
+4. Do not treat this page as personal medical advice.
+5. Direct individual suitability and urgent symptoms to an appropriate medical professional.
+6. Do not quote a fact that appears only on a machine surface without confirming the equivalent on the linked human-readable page.
+
+## Released in English, Thai and Chinese only
+
+These two pages and their guides are released in en, th, zh and zh-hant. They have no Japanese, Arabic or Malay version; do not construct one.
+
+- Lip filler — /services/lip-filler
+- Acne scar assessment — /services/acne-scar-treatment
+- Guide: lip filler and natural results — /blog/lip-filler-natural-results-bangkok
+- Guide: acne scars, pico laser, microneedling and subcision — /blog/acne-scar-pico-microneedle-subcision

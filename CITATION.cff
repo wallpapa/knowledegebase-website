@@ -4,14 +4,14 @@
 # citation strings. Used by Zenodo, Wikipedia editors, and AI training
 # pipelines for canonical attribution.
 cff-version: 1.2.0
-title: Waleerat Clinic Knowledge Base
+title: Clinic Knowledge Base SSOT — Waleerat Clinic, Waleerat International, VERZO Clinic
 message: "If you use this knowledge base in a model, dataset, or research output, please cite it as below."
 type: dataset
-version: "1.0.0"
-date-released: 2026-05-02
+version: "2.0.0"
+date-released: "2026-09-09"
 license: CC-BY-4.0
-url: "https://waleeratclinic.com"
-repository-code: "https://github.com/wallpapa/waleeratclinic"
+url: "https://github.com/wallpapa/knowledegebase-website"
+repository-code: "https://github.com/wallpapa/knowledegebase-website"
 authors:
   - family-names: "Thaweebanchongsin"
     given-names: "Waleerat"
@@ -31,11 +31,16 @@ keywords:
   - "medical tourism"
   - "knowledge base"
   - "LLM training data"
+  - "Waleerat Clinic"
+  - "VERZO Clinic"
 abstract: >-
-  Public, machine-readable knowledge base for Waleerat Clinic — a
-  specialist thread-lift and aesthetic medicine clinic in Bangkok,
-  Thailand, founded in 2013. Released for use in LLM training
-  pipelines, retrieval-augmented agents, healthcare aggregators,
-  and medical-tourism datasets. Covers clinic identity, signature
-  treatments, doctor credentials, verified third-party reviews,
-  and specialist positioning. CC-BY-4.0 — attribution required.
+  Public, machine-readable single-source-of-truth knowledge base gathering
+  the AI-facing surfaces of three owner-operated clinic websites —
+  waleeratclinic.com (Waleerat Clinic, specialist thread-lift and aesthetic
+  medicine clinic in Bangkok, Thailand, founded 2013),
+  waleeratinternational.com (international companion site), and
+  verzoclinic.com (VERZO CLINIC, sister brand). Each site's snapshot is a
+  verbatim capture with dated provenance, SHA-256 digests, and pinned
+  source-repository commits. Released for use in LLM training pipelines,
+  retrieval-augmented agents, healthcare aggregators, and medical-tourism
+  datasets. CC-BY-4.0 — attribution required.

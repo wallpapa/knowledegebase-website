@@ -1,0 +1,37 @@
+{
+  "name": "Waleerat International",
+  "entityType": "MedicalClinic",
+  "url": "https://waleeratinternational.com/",
+  "canonicalId": "https://waleeratinternational.com/#organization",
+  "defaultLanguage": "en",
+  "contentLocales": [
+    "en",
+    "th",
+    "zh-Hans",
+    "zh-Hant",
+    "ja",
+    "ms",
+    "ar",
+    "ru",
+    "es",
+    "tl",
+    "ko",
+    "id"
+  ],
+  "simplifiedChinese": {
+    "home": "https://waleeratinternational.com/zh-Hans",
+    "services": "https://waleeratinternational.com/zh-Hans/services",
+    "articles": "https://waleeratinternational.com/zh-Hans/blog",
+    "machineReadableServices": "https://waleeratinternational.com/ai/services.zh-Hans.json",
+    "machineReadableFaqs": "https://waleeratinternational.com/ai/faqs.zh-Hans.json",
+    "machineReadableArticles": "https://waleeratinternational.com/ai/articles/zh-Hans"
+  },
+  "discovery": {
+    "robots": "https://waleeratinternational.com/robots.txt",
+    "sitemap": "https://waleeratinternational.com/sitemap.xml",
+    "aiPolicy": "https://waleeratinternational.com/.well-known/ai.txt",
+    "agentPolicy": "https://waleeratinternational.com/agents.txt",
+    "llms": "https://waleeratinternational.com/llms.txt",
+    "llmsFull": "https://waleeratinternational.com/llms-full.txt"
+  }
+}

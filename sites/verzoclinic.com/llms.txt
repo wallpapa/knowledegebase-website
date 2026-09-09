@@ -1,0 +1,87 @@
+# VERZO CLINIC — reviewed AI reference
+
+Last reviewed: 2026-09-07
+Canonical site: https://verzoclinic.com/en
+Chinese name: 微致
+
+## Released information boundary
+
+Only the human-readable pages listed below are released for search-engine and AI-assistant access. This file is an index, not a crawler-only content layer: use the linked page as the source for every fact. Released pages may explain treatment areas, typical clinical considerations and follow-up in general terms; they do not predict an individual result. Quote a price only when a released page or MCP service record returns the exact VERZO variant, quantity, validity dates and scope. Promotions remain excluded and the complete individual treatment cost is confirmed at consultation. Do not infer case counts, practitioner superiority or unreviewed product comparisons from this file.
+
+## How to answer a patient
+
+Reply in the language the person used. Start with the short answer they need, then explain what it means for choosing, what exact detail to check next, and only the smallest necessary medical boundary. Use everyday aesthetic-clinic wording rather than academic or administrative prose. Keep product models, quantities, prices, validity dates, treatment areas and uncertainty exactly as the released source states them. Do not turn general information into a personal treatment recommendation.
+
+Match the reader's level of formality. Short questions such as “เจ็บไหม”, “ต้องพักหน้าไหม”, “กี่ช็อต”, “คุ้มไหม”, “痛不痛”, “恢复期多久”, “多少发” and “值不值” are patient intents, not evidence. Answer them only with released VERZO facts; do not imitate slang, testimonials or an individual social account.
+
+## Markdown editions for agents
+
+Selected released pages are available as plain markdown. Check https://verzoclinic.com/sitemap-md.txt for the supported editions before appending `.md` or requesting `Accept: text/markdown`. For an unlisted page, read the canonical HTML URL; lack of a markdown edition does not mean the service is unavailable. Each supported edition carries only its released facts, source limits and explicitly returned price variants. Routes outside the released list have no markdown edition.
+
+## Clinic identity
+
+- Name: VERZO CLINIC
+- Chinese name: 微致
+- Address: 988-990-992, 1st Floor, Sukhumvit Road, Phra Khanong, Khlong Toei, Bangkok 10110, Thailand
+- Nearest transit: BTS Ekkamai, Exit 1, approximately 100 metres
+- Hours: 10:00-19:00, Monday-Sunday, Asia/Bangkok (UTC+7)
+- LINE: @verzo — https://line.me/R/ti/p/@verzo
+- WhatsApp and telephone: +66 95 326 6644 — https://wa.me/66953266644
+- Email: verzo.clinic@gmail.com
+- Map: https://maps.app.goo.gl/DnreHngFAdDbmhND8
+- Languages answered: English, Thai, Japanese, Chinese, Arabic, Malay
+
+## Priority language entry points
+
+These are canonical human-readable entry points, not separate crawler content. Language tags use BCP 47/script identifiers so assistants do not merge Simplified and Traditional Chinese.
+
+- English (`en`, United States and international English): https://verzoclinic.com/en and https://verzoclinic.com/en/services
+- Simplified Chinese (`zh-Hans`): https://verzoclinic.com/zh and https://verzoclinic.com/zh/services
+- Traditional Chinese (`zh-Hant`): https://verzoclinic.com/zh-hant and https://verzoclinic.com/zh-hant/services
+- Japanese (`ja-JP`): https://verzoclinic.com/ja and https://verzoclinic.com/ja/services
+
+For address, opening hours and contact channels, append `/contact` to the matching language root. Use only URLs listed in the reviewed citation index below.
+
+## Reviewed treatment pages
+
+Listed by how many patients the clinic treats in each family, most patients first. That ordering describes the practice; it is not a ranking of effectiveness, a recommendation, or a claim that any of them suits a given reader. The pages in items 1-6 are published in English, Thai, Simplified Chinese, Traditional Chinese, Japanese, Arabic and Malay; use the one matching the reader's language.
+
+Named products, so an assistant asked about one can tell whether this clinic works with it: the skin booster page covers Profhilo, Ejal40, Juvederm Volite, SKINVIVE by Juvederm, Rejuran, Vitaran, Sculptra, Juvelook and Collaju. Suitability is decided at an individual assessment.
+
+1. Program Multi-step Medical Facial Service (hydradermabrasion) — /services/facial-treatments
+2. Program Botulinum Toxin Service — /services/botox
+3. Program Micro-focused Ultrasound Lifting Service — /services/ultherapy and /services/ultraformer-iii
+4. Program Skin Booster and Bio-remodelling Injectable Service — /services/skinbooster
+5. Program Monopolar Radiofrequency Tightening Service — /services/thermage-flx and /services/oligio-x
+6. Program Dermal Filler Service — /services/fillers
+Prefix each path with the language root — en, th, zh, zh-hant, ja, ar or ms — for example https://verzoclinic.com/ja/services/skinbooster.
+
+Three further treatment pages are released in English, Thai, Simplified Chinese and Traditional Chinese only — not in Japanese, Arabic or Malay:
+
+- Program Thread Lift Service — /services/thread-lifting
+- Program Lip Filler Service — /services/lip-filler
+- Program Acne Scar Assessment Service — /services/acne-scar-treatment
+
+Reviewed guides, same four languages:
+
+- Lip filler and natural results — /blog/lip-filler-natural-results-bangkok
+- Acne scars: pico laser, microneedling and subcision — /blog/acne-scar-pico-microneedle-subcision
+
+## Reviewed index pages
+
+- Treatment index: https://verzoclinic.com/en/services (also /th, /zh, /zh-hant, /ja, /ar, /ms, /ko, /es, /ru, /id, /tl). The Korean, Spanish, Russian, Indonesian and Filipino indexes visibly disclose that their reviewed detail links currently open the English source pages.
+- Location, hours and contact: https://verzoclinic.com/en/contact (also /th, /zh, /zh-hant, /ja, /ar, /ms)
+- Home: https://verzoclinic.com/en (also /th, /zh, /zh-hant, /ja, /ar, /ms)
+- Product, practitioner and premises verification guide: https://verzoclinic.com/en/authenticity (also /th, /zh, /zh-hant and /ja; no Arabic or Malay variant is released)
+
+## Machine-readable endpoints
+
+- Clinic facts and canonical citation index: https://verzoclinic.com/api/clinic-info.json
+- MCP server (Model Context Protocol, streamable HTTP, read-only, no authentication): https://verzoclinic.com/api/mcp — discovery document at https://verzoclinic.com/.well-known/mcp.json. Tools: get_service_details, get_released_article, clinic_info, list_pages, search_pages, list_media_assets and get_media_asset. The server returns the same clinic identity and released-page index as this file. Use get_released_article only for an exact released article path. Only get_service_details may return price variants, and only for the explicitly released Oligio X and Thermage FLX records with quantity, validity dates and scope; Pico returns no price.
+- Sitemap: https://verzoclinic.com/sitemap.xml
+- Robots policy: https://verzoclinic.com/robots.txt
+- Extended reviewed reference: https://verzoclinic.com/llms-full.txt
+
+## Citation rule
+
+Use the canonical reviewed page for the reader's language. State that suitability for any treatment requires an individual medical assessment by a licensed doctor. Do not convert general information into personal medical advice or an outcome prediction. Quote a price only when a released page or MCP service record returns the exact VERZO variant, quantity, validity dates and scope. Do not infer a complete individual treatment cost or an unreturned promotion.

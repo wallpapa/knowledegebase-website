@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "serviceKey": "botox",
+  "personas": [
+    {
+      "id": "botox-en-thailand-mouth-corner-decision",
+      "serviceKey": "botox",
+      "locale": "en",
+      "market": "TH",
+      "intent": "compare DAO muscle treatment with structural alternatives",
+      "journey": "pre-consultation decision",
+      "sourceIds": ["bd-en-dao-alternatives-mobile"],
+      "promotionState": "existing-public-locale",
+      "reviewState": "accepted-for-current-page-only"
+    },
+    {
+      "id": "botox-th-thailand-mouth-corner-decision",
+      "serviceKey": "botox",
+      "locale": "th",
+      "market": "TH",
+      "intent": "understand causes, alternatives, units, price and review timing",
+      "journey": "pre-consultation decision",
+      "sourceIds": ["bd-th-mouth-corner-alternatives-mobile", "bd-th-dao-filler-thread-compare-mobile"],
+      "promotionState": "existing-public-locale",
+      "reviewState": "accepted-for-current-page-only"
+    }
+  ]
+}

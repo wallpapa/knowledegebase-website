@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "serviceKey": "botox",
+  "questions": [
+    {
+      "id": "q-en-filler-downturned-mouth",
+      "serviceKey": "botox",
+      "locale": "en",
+      "market": "TH",
+      "observedPhrase": "What kind of fillers are best for a downturned mouth?",
+      "normalizedForm": "When is a Mouth-Corner Filler Program considered instead of DAO Botox Program?",
+      "platform": "Google People Also Ask",
+      "evidenceCount": 1,
+      "sourceIds": ["bd-en-dao-alternatives-mobile"],
+      "reviewState": "accepted-for-intent-only"
+    },
+    {
+      "id": "q-en-dao-jowls",
+      "serviceKey": "botox",
+      "locale": "en",
+      "market": "TH",
+      "observedPhrase": "Does DAO Botox get rid of jowls?",
+      "normalizedForm": "Does DAO Botox Program address muscle pull or broader lower-face laxity?",
+      "platform": "Google People Also Ask",
+      "evidenceCount": 1,
+      "sourceIds": ["bd-en-dao-alternatives-mobile"],
+      "reviewState": "accepted-for-intent-only"
+    },
+    {
+      "id": "q-th-filler-mouth-corner",
+      "serviceKey": "botox",
+      "locale": "th",
+      "market": "TH",
+      "observedPhrase": "ฉีดฟิลเลอร์ยกมุมปากได้ไหม",
+      "normalizedForm": "โปรแกรมฟิลเลอร์มุมปากเหมาะเมื่อปัญหาเป็นแรงพยุงหรือรูปทรงหรือไม่",
+      "platform": "Google People Also Ask",
+      "evidenceCount": 1,
+      "sourceIds": ["bd-th-dao-filler-thread-compare-mobile"],
+      "reviewState": "accepted-for-intent-only"
+    },
+    {
+      "id": "q-th-thread-vs-botox",
+      "serviceKey": "botox",
+      "locale": "th",
+      "market": "TH",
+      "observedPhrase": "ร้อยไหมกับ Botox อันไหนดีกว่ากัน",
+      "normalizedForm": "ควรเลือกโปรแกรมร้อยไหมหรือโปรแกรมโบท็อกซ์ DAO จากสาเหตุใด",
+      "platform": "Google People Also Ask",
+      "evidenceCount": 1,
+      "sourceIds": ["bd-th-dao-filler-thread-compare-mobile"],
+      "reviewState": "accepted-for-intent-only"
+    },
+    {
+      "id": "q-th-price-units-duration",
+      "serviceKey": "botox",
+      "locale": "th",
+      "market": "TH",
+      "observedPhrase": "ราคา กี่ยูนิต อยู่ได้นานไหม",
+      "normalizedForm": "ยี่ห้อ จำนวนยูนิต ราคารวม ระยะเวลาประเมิน และระยะเวลาที่คาดหวัง",
+      "platform": "Google mobile SERP result composition",
+      "evidenceCount": 2,
+      "sourceIds": ["bd-th-mouth-corner-alternatives-mobile", "bd-th-dao-filler-thread-compare-mobile"],
+      "reviewState": "accepted-for-question-coverage"
+    }
+  ]
+}

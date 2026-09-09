@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "serviceKey": "botox",
+  "selectionMode": "owner-selected patient question",
+  "highestTrafficClaim": false,
+  "records": [],
+  "note": "This run improves an already selected Program Botox intent. It does not rank services or claim first-party traffic leadership."
+}

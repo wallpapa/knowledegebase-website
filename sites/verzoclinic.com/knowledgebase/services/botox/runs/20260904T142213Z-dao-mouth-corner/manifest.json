@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260904T142213Z-dao-mouth-corner",
+  "serviceKey": "botox",
+  "canonicalProgramName": {
+    "en": "DAO Botox Program",
+    "th": "โปรแกรมโบท็อกซ์ DAO"
+  },
+  "repository": {
+    "path": "/Users/rut/dev/verzoclinic",
+    "baseCommit": "bb04bb2d17647466db89585b7dc0d0abc6834524"
+  },
+  "retrieval": {
+    "provider": "Bright Data SERP API",
+    "scope": "three bounded Google mobile SERPs",
+    "countryCode": "TH",
+    "requestIds": [
+      "hl_3e8a5b02_cfrtzr2kjp",
+      "hl_3e8a5b02_n525m07us3b",
+      "hl_3e8a5b02_e1jbgvzu7gi"
+    ],
+    "credentialsStored": false,
+    "patientDataStored": false
+  },
+  "firstPartyDemand": {
+    "usedForRanking": false,
+    "note": "Owner-selected question; no highest-traffic claim was made."
+  },
+  "artifacts": [
+    {
+      "path": "raw/research/brightdata/en-dao-alternatives-mobile.json",
+      "sha256": "c82d0dceca6abe5bc65ef1011a340882f9e94a6d761117e8e3c6a541881d8947"
+    },
+    {
+      "path": "raw/research/brightdata/th-dao-filler-thread-compare-mobile.json",
+      "sha256": "0ead093eb00e9c853a2338607464ef14f7d0e86c989fdcf4b5d7d43d9105e778"
+    },
+    {
+      "path": "raw/research/brightdata/th-mouth-corner-alternatives-mobile.json",
+      "sha256": "a09bd3ac9dc846917bd95c7367051e96f09fb5921917229ba3606d2270e1c852"
+    },
+    {
+      "path": "normalized/aliases.json",
+      "sha256": "bbbab1eaf8018c411bec36a6d862bbe7fd374a0807ed962ce9ad2aead1eb6ba8"
+    },
+    {
+      "path": "normalized/questions.json",
+      "sha256": "f2c636dabb5a16cc6790303c7daf553644f2757b72a49d7635d044a3428e9889"
+    },
+    {
+      "path": "normalized/sources.json",
+      "sha256": "d0795f2324e57af759da7c6348b1be49bdaee9d652e15e161e214744f48225d6"
+    },
+    {
+      "path": "normalized/demand.json",
+      "sha256": "0976b3e1535b26ff43017368108d735ca9b6757758c8272fa0ac7c9210cd358f"
+    },
+    {
+      "path": "normalized/locale-personas.json",
+      "sha256": "d23c62439f539d38a93f173ed17438a39c1314c9c8a24783d44ab5cef20ce0fc"
+    },
+    {
+      "path": "normalized/claims.json",
+      "sha256": "6c95aa36e7bcfba233be618a34dbcf2af06b9f0bd6efe0c5bf6737d2813ace1b"
+    },
+    {
+      "path": "normalized/ai-visibility.json",
+      "sha256": "bc8ea9986cec53a3ba742befb267dbc4f214eb45e871883200554820371ade83"
+    }
+  ],
+  "modelJobs": [],
+  "contentTargets": [
+    "src/data/patientIntentAnswers.ts",
+    "src/views/BotulinumtoxinPage.tsx",
+    "src/lib/agent/agentMarkdown.ts"
+  ],
+  "consumers": {
+    "verzoclinic.com": {
+      "html": "applied-locally",
+      "markdown": "applied-locally",
+      "structuredData": "unchanged",
+      "webMcp": "same reviewed Markdown resolver",
+      "priceAuthority": "site-local SSOT"
+    }
+  },
+  "ownerState": "owner-directed",
+  "releaseState": "local-draft",
+  "releaseStates": {
+    "evidence": "verified-local",
+    "content": "verified-local",
+    "deployment": false,
+    "publicVerification": false
+  }
+}

@@ -1,0 +1,47 @@
+# /.well-known/ai.txt — alternate AI-agent policy location
+#
+# RFC 5785 (Well-Known URIs) is the standard for site-level metadata
+# discovery. Some AI agents look for /.well-known/ai.txt instead of
+# (or in addition to) /agents.txt at site root. This file is the
+# canonical mirror of /agents.txt for those agents.
+
+# See /agents.txt for the full policy.
+# See /llms.txt for short LLM-oriented summary.
+# See /llms-full.txt for treatment-by-treatment machine-readable data.
+
+site: https://waleeratinternational.com
+profile: https://waleeratinternational.com/profile.json
+policy: https://waleeratinternational.com/agents.txt
+attribution: required, link to source URL on waleeratinternational.com
+training: permitted on public pages
+contact: info@waleeratclinic.com
+
+# Identity (sameAs)
+# Three of the eleven profiles /agents.txt lists. This file used to restate a
+# subset and call itself "the canonical mirror", which is how the two drifted.
+# The full list is in /agents.txt; these are here only so an agent that reads
+# nothing else can still resolve the entity.
+google-maps: https://maps.app.goo.gl/wV1nKUh1oLn1Aa5Y7
+hdmall: https://hdmall.co.th/วลีรัตน์คลินิก-(waleerat-clinic)
+gowabi: https://www.gowabi.com/en/provider/waleerat-clinic
+
+# Positioning claims are NOT restated here. They live in /agents.txt, which is
+# the reviewed file, and duplicating them produced a direct contradiction: this
+# file advertised "multilingual aesthetic concierge (10 languages)" while
+# /agents.txt says `not-offered: concierge services, airport pickup, hotel
+# booking, visa support` — which is also the clinic's standing position. An
+# agent reading both was given a service the clinic does not provide.
+#
+# A file that claims to mirror another should either be generated from it or
+# not carry its claims. This one no longer carries them.
+capabilities: see /agents.txt
+
+# Chinese-language assistants (豆包 / Kimi / DeepSeek / 元宝)
+# Chinese patients reach this clinic through Chinese AI assistants rather
+# than ChatGPT. Chinese corpus:
+#   https://waleeratinternational.com/llms-zh-Hans.txt
+#   https://waleeratinternational.com/llms-zh-Hant.txt
+# Chinese service pages: https://waleeratinternational.com/zh-Hans/services/
+# Clinic's Chinese name: 微丽来 (Simplified) / 微麗來 (Traditional)
+# Bytespider, Baiduspider (including image/video/news), PetalBot, Sogou,
+# YisouSpider and 360Spider are allowed by name in /robots.txt.

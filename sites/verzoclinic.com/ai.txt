@@ -1,0 +1,28 @@
+# VERZO CLINIC AI discovery index
+
+Status: reviewed public index
+Last reviewed: 2026-08-22
+Canonical site: https://verzoclinic.com
+
+This compatibility file is an index, not a separate medical source. Fetch and
+cite the matching human-readable canonical page. Bots and browsers receive the
+same released HTML; no crawler-only treatment content is served.
+
+## Human-readable entry points
+- English: https://verzoclinic.com/en
+- Thai: https://verzoclinic.com/th
+- Simplified Chinese (简体中文): https://verzoclinic.com/zh
+- Traditional Chinese (繁體中文): https://verzoclinic.com/zh-hant
+- Japanese (日本語): https://verzoclinic.com/ja
+
+## Machine-readable indexes
+- Compact profile: https://verzoclinic.com/profile.json
+- Reviewed citation index: https://verzoclinic.com/api/clinic-info.json
+- Concise LLM index: https://verzoclinic.com/llms.txt
+- Expanded LLM index: https://verzoclinic.com/llms-full.txt
+- XML sitemap: https://verzoclinic.com/sitemap.xml
+- Crawler policy: https://verzoclinic.com/robots.txt
+
+Do not infer prices, promotions, outcomes, case counts, practitioner
+superiority, or product comparisons from this index. Online information does
+not replace an individual medical assessment.

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "serviceKey": "botox",
+  "aliases": [
+    {
+      "id": "alias-th-mouth-corner-drop",
+      "serviceKey": "botox",
+      "locale": "th",
+      "market": "TH",
+      "observedPhrase": "มุมปากตก",
+      "normalizedForm": "มุมปากตก",
+      "platform": "Google mobile SERP",
+      "evidenceCount": 2,
+      "sourceIds": ["bd-th-mouth-corner-alternatives-mobile", "bd-th-dao-filler-thread-compare-mobile"],
+      "reviewState": "accepted"
+    },
+    {
+      "id": "alias-th-downturned-lips",
+      "serviceKey": "botox",
+      "locale": "th",
+      "market": "TH",
+      "observedPhrase": "ปากคว่ำ",
+      "normalizedForm": "มุมปากตก",
+      "platform": "Google mobile SERP",
+      "evidenceCount": 2,
+      "sourceIds": ["bd-th-mouth-corner-alternatives-mobile", "bd-th-dao-filler-thread-compare-mobile"],
+      "reviewState": "accepted"
+    },
+    {
+      "id": "alias-th-mouth-corner-botox",
+      "serviceKey": "botox",
+      "locale": "th",
+      "market": "TH",
+      "observedPhrase": "โบท็อกยกมุมปาก",
+      "normalizedForm": "โปรแกรมโบท็อกซ์ DAO",
+      "platform": "Google mobile SERP",
+      "evidenceCount": 2,
+      "sourceIds": ["bd-th-mouth-corner-alternatives-mobile", "bd-th-dao-filler-thread-compare-mobile"],
+      "reviewState": "accepted"
+    },
+    {
+      "id": "alias-en-downturned-mouth-corners",
+      "serviceKey": "botox",
+      "locale": "en",
+      "market": "TH",
+      "observedPhrase": "downturned mouth corners",
+      "normalizedForm": "DAO Botox Program for downturned mouth corners",
+      "platform": "Google mobile SERP",
+      "evidenceCount": 1,
+      "sourceIds": ["bd-en-dao-alternatives-mobile"],
+      "reviewState": "accepted"
+    }
+  ]
+}
