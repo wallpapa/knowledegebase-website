@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/wallpapa/knowledegebase-website/schemas/rednote-insight.schema.json",
+  "title": "RedNote Insight Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "insightId", "observedAt", "platform", "query", "patientIntent", "evidence", "status"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "insightId": { "type": "string", "pattern": "^[a-z0-9][a-z0-9._-]+$" },
+    "observedAt": { "type": "string", "format": "date-time" },
+    "platform": { "const": "rednote" },
+    "query": { "type": "string", "minLength": 1 },
+    "patientIntent": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["language", "questionShapes", "terms"],
+      "properties": {
+        "language": { "enum": ["zh-Hans", "zh-Hant"] },
+        "questionShapes": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 1 },
+        "terms": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 1 },
+        "concerns": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "comparisons": { "type": "array", "items": { "type": "string", "minLength": 1 } }
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["evidenceId", "kind", "observedText"],
+        "properties": {
+          "evidenceId": { "type": "string", "minLength": 1 },
+          "kind": { "enum": ["post", "search-chip", "query-suggestion", "result-snippet", "manual-observation"] },
+          "observedText": { "type": "string", "minLength": 1 },
+          "sourceUrl": { "type": ["string", "null"] },
+          "postId": { "type": ["string", "null"] },
+          "observedLikes": { "type": ["integer", "null"], "minimum": 0 },
+          "observedComments": { "type": ["integer", "null"], "minimum": 0 },
+          "observedSaves": { "type": ["integer", "null"], "minimum": 0 }
+        }
+      }
+    },
+    "privacy": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "containsPatientIdentifiers": { "const": false },
+        "containsPrivateMessages": { "const": false }
+      }
+    },
+    "notes": { "type": "array", "items": { "type": "string" } },
+    "status": { "enum": ["observed", "normalized", "superseded"] }
+  }
+}
