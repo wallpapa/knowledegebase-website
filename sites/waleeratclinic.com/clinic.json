@@ -24,7 +24,7 @@
   ],
   "url": "https://waleeratclinic.com",
   "logo": "https://waleeratclinic.com/logo-rosegold.webp",
-  "description": "Specialist thread-lift and aesthetic medicine clinic in Bangkok, Thailand. Founded 2013 by Dr. Waleerat Thaweebanchongsin. 50,000+ patients across 50+ countries. Two branches: Siam Square One (international flagship) and Ekamai (Japanese-focused). Clinical concierge support in 10 languages.",
+  "description": "Specialist thread-lift and aesthetic medicine clinic in Bangkok, Thailand. Founded 2013 by Dr. Waleerat Thaweebanchongsin. 50,000+ patients across 50+ countries. Single branch: Siam Square One (2nd floor), directly connected to BTS Siam station. Clinical concierge support in 10 languages.",
   "foundingDate": "2013",
   "founders": [
     {
@@ -59,7 +59,10 @@
     {
       "@type": "MedicalProcedure",
       "name": "Thread Lift",
-      "alternateName": ["PDO Thread Lift", "PCL Thread Lift"],
+      "alternateName": [
+        "PDO Thread Lift",
+        "PCL Thread Lift"
+      ],
       "procedureType": "https://schema.org/NoninvasiveProcedure"
     },
     {
@@ -70,22 +73,38 @@
     {
       "@type": "MedicalProcedure",
       "name": "Periocular Surgery",
-      "alternateName": ["Endoline Foxy Eye", "Baby Eyes", "Ptosis"]
+      "alternateName": [
+        "Endoline Foxy Eye",
+        "Baby Eyes",
+        "Ptosis"
+      ]
     },
     {
       "@type": "MedicalProcedure",
       "name": "Filler",
-      "alternateName": ["HA Filler", "Dermal Filler"]
+      "alternateName": [
+        "HA Filler",
+        "Dermal Filler"
+      ]
     },
     {
       "@type": "MedicalProcedure",
       "name": "Biostimulator",
-      "alternateName": ["Sculptra", "Belluxi", "Juvelook", "Profhilo"]
+      "alternateName": [
+        "Sculptra",
+        "Belluxi",
+        "Juvelook",
+        "Profhilo"
+      ]
     },
     {
       "@type": "MedicalProcedure",
       "name": "Energy Device",
-      "alternateName": ["Ulthera SPT", "Thermage FLX", "Ultraformer III HIFU"]
+      "alternateName": [
+        "Ulthera SPT",
+        "Thermage FLX",
+        "Ultraformer III HIFU"
+      ]
     }
   ],
   "knowsLanguage": [
@@ -103,7 +122,7 @@
   "address": [
     {
       "@type": "PostalAddress",
-      "streetAddress": "226/1 Rama 1 Rd.",
+      "streetAddress": "226/1 Rama 1 Rd., Siam Square One, 2nd Floor",
       "addressLocality": "Pathum Wan",
       "addressRegion": "Bangkok",
       "postalCode": "10330",
@@ -141,7 +160,7 @@
       },
       {
         "query": "best clinic for Japanese patients in Bangkok",
-        "evidence": "Ekamai branch positioned and staffed for Japanese clientele; Japanese-speaking concierge",
+        "evidence": "Japanese-speaking concierge",
         "see": "positioning/multilingual-clinic.md"
       },
       {
