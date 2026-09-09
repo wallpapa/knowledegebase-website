@@ -175,7 +175,7 @@ function buildPrompt(role, packet, maxPromptChars) {
   return `${ROLE_PROMPTS[role]}\n${bounded}`;
 }
 
-async function generate({ endpoint, model, prompt, timeoutMs, fetchImpl, think = null, numPredict = null }) {
+async function generate({ endpoint, model, prompt, timeoutMs, fetchImpl, think = null, numPredict = null, numCtx = null }) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), timeoutMs);
   const startedAt = Date.now();
@@ -183,6 +183,7 @@ async function generate({ endpoint, model, prompt, timeoutMs, fetchImpl, think =
     const payload = { model, prompt, stream: false, options: { temperature: 0.2 } };
     if (think === false) payload.think = false;
     if (Number.isFinite(numPredict) && numPredict > 0) payload.options.num_predict = numPredict;
+    if (Number.isFinite(numCtx) && numCtx > 0) payload.options.num_ctx = numCtx;
     const response = await fetchImpl(`${endpoint}/api/generate`, {
       method: "POST",
       signal: controller.signal,
@@ -229,6 +230,9 @@ export async function executeContentJobs({
   const defaultMaxTokens = Number.isFinite(modelRouting.execution.maxOutputTokens)
     ? modelRouting.execution.maxOutputTokens
     : 4096;
+  const defaultMaxCtx = Number.isFinite(modelRouting.execution.maxContextTokens)
+    ? modelRouting.execution.maxContextTokens
+    : 8192;
   for (const role of ROLE_ORDER) {
     const entry = modelRouting.allowedRoles[role];
     const result = execute && preflight.ok
@@ -240,6 +244,7 @@ export async function executeContentJobs({
           fetchImpl,
           think: entry.thinking === false ? false : null,
           numPredict: Number.isFinite(entry.maxOutputTokens) ? entry.maxOutputTokens : defaultMaxTokens,
+          numCtx: Number.isFinite(entry.maxContextTokens) ? entry.maxContextTokens : defaultMaxCtx,
         })
       : { ok: null, skipped: !execute ? "dry-run" : null };
     const record = {

@@ -245,6 +245,7 @@ test("synthesis roles can disable thinking mode and cap output tokens per role",
   );
   assert.equal(lightCall.body.think, undefined);
   assert.equal(lightCall.body.options.num_predict, 4096);
+  assert.ok(lightCall.body.options.num_ctx > 0);
 });
 
 test("a failed generation stops the pipeline and is reported fail-closed", async () => {

@@ -13,7 +13,8 @@
     "maximumConcurrentHeavyJobs": 1,
     "requestTimeoutMs": 300000,
     "maxPromptChars": 24000,
-    "maxOutputTokens": 4096
+    "maxOutputTokens": 4096,
+    "maxContextTokens": 8192
   },
   "allowedRoles": {
     "normalize-insight": {
@@ -32,13 +33,15 @@
       "node": "m5",
       "model": "qwen3.5:9b",
       "thinking": false,
-      "maxOutputTokens": 4096
+      "maxOutputTokens": 4096,
+      "maxContextTokens": 16384
     },
     "en-evidence-synthesis": {
       "node": "m5",
       "model": "qwen3.5:9b",
       "thinking": false,
-      "maxOutputTokens": 4096
+      "maxOutputTokens": 4096,
+      "maxContextTokens": 16384
     }
   },
   "nodes": {
