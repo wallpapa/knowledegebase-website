@@ -140,7 +140,16 @@
           ]
         }
       ],
-      "subTerms": [],
+      "subTerms": [
+        {
+          "term": "鼻基底",
+          "meaning": "nose-base area patients name for threads/filler decisions",
+          "reviewState": "rednote-search-observed",
+          "evidence": [
+            "evidence/xhs-鼻基底-20260910.json"
+          ]
+        }
+      ],
       "disambiguation": [],
       "notes": "鼻线雕 and 隆鼻线雕 are likely variants — verify on Rednote before using."
     },
@@ -225,7 +234,24 @@
           ]
         }
       ],
-      "subTerms": [],
+      "subTerms": [
+        {
+          "term": "下颌线",
+          "meaning": "jawline — top concern word",
+          "reviewState": "rednote-search-observed",
+          "evidence": [
+            "evidence/xhs-下颌线-20260910.json"
+          ]
+        },
+        {
+          "term": "双下巴",
+          "meaning": "double chin co-occurring concern",
+          "reviewState": "rednote-search-observed",
+          "evidence": [
+            "evidence/xhs-下颌线-20260910.json"
+          ]
+        }
+      ],
       "disambiguation": [],
       "notes": "下颌线 (jawline) is the trending Rednote concern-word to verify for this family."
     },
@@ -659,7 +685,16 @@
           "usageNote": "High-volume informational queries: 打完水光多久可以化妆 (841 likes — aftercare), 长期打水光十年后 (531 — long-term honesty), brand-ranking posts; related chips: 娃娃针/搭配组合/敏感肌/修复皮肤屏障."
         }
       ],
-      "subTerms": [],
+      "subTerms": [
+        {
+          "term": "胶原水光",
+          "meaning": "collagen-booster variant term (1122-like post; '比普通水光更好吗' question live)",
+          "reviewState": "rednote-search-observed",
+          "evidence": [
+            "evidence/xhs-胶原水光-20260910.json"
+          ]
+        }
+      ],
       "disambiguation": [],
       "notes": "水光针 is the umbrella patients use for many injector skin treatments — a zh page must clarify device/product inside that frame rather than translate 'mesotherapy'."
     },

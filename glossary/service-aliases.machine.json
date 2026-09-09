@@ -3,7 +3,7 @@
   "aliasMapId": "service-aliases",
   "generatedAt": "2026-09-09",
   "sourceGlossary": "glossary/th-en-zh-patient-aesthetic-terms.json",
-  "sourceDigest": "2389ee7143558ef2bf3cd21f825c65559ea01018a5e046d134f96ed67bd47c29",
+  "sourceDigest": "f2c274baa91fef1a6a8c3e1757295bc3379812f2d819e685814d10e3f892605f",
   "evidenceRule": "Only reviewState in {rednote-search-observed, site-published-zh, site-canonical, site-keyword, kb-observed-th} is exported. Discovery-grade, unverified and conflicting terms stay in the glossary only.",
   "consumers": [
     "Whisper repo scripts/sync-service-aliases-from-kb.mjs -> clinic_services.aliases (whisperchat.co/chat service matching)",
@@ -65,7 +65,8 @@
         "Nose Thread Lift"
       ],
       "zhHans": [
-        "鼻部线雕"
+        "鼻部线雕",
+        "鼻基底"
       ],
       "excluded": [],
       "dangerousConfusions": []
@@ -112,7 +113,9 @@
         "Emerald Lower-Face Thread Lift"
       ],
       "zhHans": [
-        "下脸线雕"
+        "下脸线雕",
+        "下颌线",
+        "双下巴"
       ],
       "excluded": [],
       "dangerousConfusions": []
@@ -355,7 +358,8 @@
       "th": [],
       "en": [],
       "zhHans": [
-        "水光针"
+        "水光针",
+        "胶原水光"
       ],
       "excluded": [
         {
