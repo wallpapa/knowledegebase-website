@@ -1,0 +1,248 @@
+{
+ "schemaVersion": 1,
+ "planId": "content-hub-network-2026-09-10",
+ "basis": "Every node maps to services that actually exist in whisperchat.co/services (validated against live catalog 340 rows). No hub for services we do not offer.",
+ "hubs": [
+  {
+   "hub": "lifting-devices",
+   "services": [
+    "Thermage FLX Body/Eyes/Face 450-2000 shots",
+    "Ultraformer III",
+    "Ultraformer MPT 400-1200",
+    "Oligio 300-900",
+    "Oligio X 300-900",
+    "Ulthera / Ulthera Prime",
+    "Xerf 300-600"
+   ],
+   "patientQuestions": [
+    "热玛吉vs超声炮vs超声刀怎么选",
+    "发数怎么定(450/600/900/1200)",
+    "韩式热玛吉和美版区别",
+    "痛不痛/敷麻吗",
+    "恢复期多久见效维持多久",
+    "怎么判断打到位了"
+   ],
+   "internalLinks": "hub -> device pages -> comparison posts -> booking"
+  },
+  {
+   "hub": "threads",
+   "services": [
+    "Ruby No.5",
+    "Amber",
+    "Chin Up",
+    "Emerald",
+    "Pailin (Aura)",
+    "Endoline (V-Brow)",
+    "Diamond Nose (Luna)",
+    "Grand Diamond",
+    "Onyx (Vogue)",
+    "Tourmaline",
+    "Lipo X",
+    "Lipo Slim",
+    "Mint Lift",
+    "Tess Lift",
+    "Nose Thread 2T"
+   ],
+   "patientQuestions": [
+    "线雕能维持多久",
+    "大V线小V线鱼骨线压印线区别",
+    "十年后会怎样",
+    "什么人不适合",
+    "鼻子眼周下脸口角囊袋怎么选",
+    "2026线材迭代不变宽不僵硬"
+   ],
+   "internalLinks": "hub -> per-area program pages -> longevity/material posts"
+  },
+  {
+   "hub": "biostimulators",
+   "services": [
+    "Sculptra",
+    "Juvelook Classic/Volume",
+    "Radiesse",
+    "Radiesse Plus",
+    "Profhilo",
+    "HarmonyCA",
+    "Ellanse",
+    "Ultracol",
+    "Neofilera",
+    "Collaju",
+    "Karisma",
+    "Ejal",
+    "Therafill"
+   ],
+   "patientQuestions": [
+    "童颜针vs少女针(伊妍仕)区别",
+    "几瓶怎么规划",
+    "乔雅露蓝瓶黑瓶",
+    "微晶瓷垫鼻基底下巴",
+    "再生材料vs玻尿酸",
+    "结节风险正面回答"
+   ],
+   "internalLinks": "hub -> brand pages -> material-comparison + GLP-1 face-restoration cross-links"
+  },
+  {
+   "hub": "skin-boosters",
+   "services": [
+    "Rejuran Healer/I/S/HB+",
+    "Vitaran",
+    "Nucleofill Strong",
+    "Ejal 40",
+    "Skin Booster program",
+    "Aquapure"
+   ],
+   "patientQuestions": [
+    "水光针多久能化妆(24/48/72h)",
+    "长期打十年后",
+    "丽珠兰黑盒红盒区别",
+    "PDRN是什么",
+    "敏感肌能打吗",
+    "搭配组合"
+   ],
+   "internalLinks": "hub -> product pages -> aftercare article -> 婴儿针 clarification post"
+  },
+  {
+   "hub": "botox",
+   "services": [
+    "Botox ลดกราม/หน้าผาก/รอยตีนกา/คอ Nefertiti",
+    "Allergan",
+    "Hutox",
+    "Nabota",
+    "Neuronox",
+    "Xeomin"
+   ],
+   "patientQuestions": [
+    "进口vs国产肉毒怎么选(3318赞)",
+    "瘦脸针下垂凹陷风险",
+    "100单位全脸分布",
+    "除皱vs瘦脸",
+    "下颌缘提升搭配"
+   ],
+   "internalLinks": "hub -> brand pages -> jaw-safety article -> indication pages"
+  },
+  {
+   "hub": "fillers",
+   "services": [
+    "部位: คาง/จมูก/ใต้ตา/ปาก/ร่องแก้ม",
+    "Juvederm Ultra/Ultra Plus/Volbella/Volift/Volite/Voluma/Volux",
+    "Restylane Classic/Kysse/Lyft/Vital",
+    "Teoxane RHA1-3/Redensity",
+    "Belotero Soft/Intense/Volume/Lips/Revive",
+    "Neuramis Deep/Volume",
+    "Hyamax",
+    "SkinVive",
+    "Neauvia",
+    "Ultra V Hyal"
+   ],
+   "patientQuestions": [
+    "玻尿酸部位怎么选",
+    "Juvederm vs Restylane 区别",
+    "移位变宽风险",
+    "溶解酶",
+    "鼻子材料对比(4386赞)"
+   ],
+   "internalLinks": "hub -> area pages -> brand pages -> nose-material topic"
+  },
+  {
+   "hub": "skin-treatments",
+   "services": [
+    "Picoway Laser/Lips",
+    "Pico Second Laser",
+    "Acne Clear/Course",
+    "Microneedling",
+    "Glass Skin Microneedling",
+    "Dermaglow",
+    "NCTF 135HA",
+    "Exosome",
+    "Ultrabright IPL",
+    "Arbutin"
+   ],
+   "patientQuestions": [
+    "痘印痘坑方案",
+    "皮秒和蜂巢皮秒区别",
+    "微针vs水光",
+    "敏感期能做吗"
+   ],
+   "internalLinks": "hub -> treatment pages -> skin-booster hub cross-links"
+  },
+  {
+   "hub": "hair-removal",
+   "services": [
+    "Diode Arms/Legs/Bikini/Brazilian/Underarm",
+    "IPL Arms/Bikini/Brazilian/Legs/Underarm"
+   ],
+   "patientQuestions": [
+    "激光脱毛痛吗几次干净",
+    "冰点脱毛",
+    "和家用脱毛仪区别",
+    "医疗vs美容院"
+   ],
+   "internalLinks": "hub -> area pages"
+  },
+  {
+   "hub": "fat-reduction-glp1",
+   "services": [
+    "Wegovy/Mounjaro pen",
+    "Belley Burn",
+    "Premium V Burn",
+    "V-Line",
+    "Lipo V",
+    "Babi Neo One",
+    "Sisi",
+    "Diamond Fat",
+    "Phytobella",
+    "Neobella"
+   ],
+   "patientQuestions": [
+    "减肥笔脸垮怎么办(GLP-1)",
+    "溶脂针有效吗",
+    "V-Line和Lipo V区别",
+    "体重管理加体形"
+   ],
+   "internalLinks": "hub -> GLP-1 face-restoration topic -> surgery hub (Vaser non-surgical first)"
+  },
+  {
+   "hub": "surgery",
+   "services": [
+    "Vaser แขน/ท้อง/เหนียง/ขา",
+    "Fat grafting (+stem cells)",
+    "Eyelid fat grafting",
+    "Facelift",
+    "Neck lift"
+   ],
+   "patientQuestions": [
+    "Vaser和普通吸脂区别",
+    "恢复期",
+    "自体脂肪存活率",
+    "双下巴手术还是溶脂"
+   ],
+   "internalLinks": "hub -> procedure pages -> fat-reduction hub"
+  },
+  {
+   "hub": "iv-drip-wellness",
+   "services": [
+    "NAD+",
+    "Collagen",
+    "Snow white",
+    "Energy/Immune Boost",
+    "Chelation",
+    "Go Glow",
+    "Nutri Youth",
+    "Super aura",
+    "Aurora",
+    "MSC Stem Cell",
+    "Placenta IM",
+    "Wellness Checkup 12"
+   ],
+   "patientQuestions": [
+    "NAD+有用吗",
+    "美白点滴真的有用吗",
+    "医美前后打点滴有帮助吗"
+   ],
+   "internalLinks": "hub -> drip pages -> pre/post-treatment cross-links"
+  }
+ ],
+ "hubNetwork": "每个hub=1索引页(直接回答+对比表+FAQ+JSON-LD)+N服务页(catalog 1:1)+M文章(backlog)+cross-hub链接(提升三角: lifting-threads-biostimulators)",
+ "i18n": "zh-Hans/en first; titles use glossary-verified patient words",
+ "validation": "all service rows validated against live clinic_services 340 rows; zero ghost services",
+ "status": "plan — hub pages and articles go through each site repo workflow"
+}
