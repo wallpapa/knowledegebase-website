@@ -1,0 +1,61 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09T23:35+07:00",
+ "method": "deep-pass cron run (GLM free window); DOM extraction, raw observation",
+ "safetyBanner": "医疗美容有风险，请选择正规医美机构与执业医师",
+ "term": "超声炮",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=超声炮",
+ "relatedQueries": [
+  "日本",
+  "美国",
+  "济南",
+  "沈阳",
+  "福州",
+  "厦门",
+  "真实案例",
+  "西安",
+  "深圳",
+  "青岛",
+  "宁波",
+  "合肥",
+  "武汉",
+  "一代二代"
+ ],
+ "notes": [
+  {
+   "title": "热玛吉vs超声炮，垮脸到底该怎么选？",
+   "author": "鱼鱼变美（干货版）",
+   "date": "昨天 18:00",
+   "likes": "6",
+   "url": "https://www.rednote.com/discovery/item/6aa0d20a00000000250377d4"
+  },
+  {
+   "title": "超声炮打法详解！哪些地方能打，哪些不能打",
+   "author": "上海九院王韵",
+   "date": "03-21",
+   "likes": "546",
+   "url": "https://www.rednote.com/discovery/item/69bd3b650000000022026cec"
+  },
+  {
+   "title": "大超炮这5个部位不能打！小心脸又方又垂",
+   "author": "医美大石话",
+   "date": "07-22",
+   "likes": "123",
+   "url": "https://www.rednote.com/discovery/item/6a609a1b00000000050382b4"
+  },
+  {
+   "title": "这样打超声炮不会垮！不会松！",
+   "author": "整形外科常毅医生",
+   "date": "09-01",
+   "likes": "13",
+   "url": "https://www.rednote.com/discovery/item/6a96a8f50000000025034b1d"
+  },
+  {
+   "title": "抗衰坦白局？要提升还是收紧？",
+   "author": "陳欣妍",
+   "date": "05-30",
+   "likes": "387",
+   "url": "https://www.rednote.com/discovery/item/6a1aaec0000000001002d000"
+  }
+ ]
+}
