@@ -56,6 +56,10 @@ its own — see *Evidence boundaries* below.
 - [`sites/verzoclinic.com/`](./sites/verzoclinic.com/) — live AI surfaces + service evidence knowledge base
 - [`sites/waleeratinternational.com/`](./sites/waleeratinternational.com/) — live AI surfaces + agent policy files
 
+**Cross-site resources:**
+
+- [`glossary/`](./glossary/) — Thai → English → Chinese patient terminology (Rednote register) with per-term evidence states; discovery draft pending the logged-in Rednote verification pass
+
 ## How to use
 
 **Cite the live canonical URL.** These snapshots are a research convenience;
