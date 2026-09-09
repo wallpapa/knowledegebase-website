@@ -49,9 +49,9 @@ function modelRouting(overrides = {}) {
       candidateDirectory: "outputs/content-jobs",
     },
     allowedRoles: {
-      "normalize-insight": { node: "m2", model: "gemma3:4b" },
-      "deduplicate-insight": { node: "m2", model: "gemma3:4b" },
-      "classify-intent": { node: "m2", model: "gemma3:4b" },
+      "normalize-insight": { node: "m2", model: "qwen3:4b" },
+      "deduplicate-insight": { node: "m2", model: "qwen3:4b" },
+      "classify-intent": { node: "m2", model: "qwen3:4b" },
       "zh-intent-synthesis": { node: "m5", model: "qwen3.5:9b" },
       "en-evidence-synthesis": { node: "m5", model: "qwen3.5:9b" },
     },
