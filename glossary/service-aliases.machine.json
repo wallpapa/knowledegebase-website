@@ -3,7 +3,7 @@
   "aliasMapId": "service-aliases",
   "generatedAt": "2026-09-09",
   "sourceGlossary": "glossary/th-en-zh-patient-aesthetic-terms.json",
-  "sourceDigest": "61e1e0d81ae90d9fcf60f971850bd378bbacf7bad02d98266370018750cdd8d4",
+  "sourceDigest": "2389ee7143558ef2bf3cd21f825c65559ea01018a5e046d134f96ed67bd47c29",
   "evidenceRule": "Only reviewState in {rednote-search-observed, site-published-zh, site-canonical, site-keyword, kb-observed-th} is exported. Discovery-grade, unverified and conflicting terms stay in the glossary only.",
   "consumers": [
     "Whisper repo scripts/sync-service-aliases-from-kb.mjs -> clinic_services.aliases (whisperchat.co/chat service matching)",
@@ -297,19 +297,17 @@
       "en": [
         "Rejuran"
       ],
-      "zhHans": [],
+      "zhHans": [
+        "丽珠兰",
+        "丽驻兰",
+        "PDRN"
+      ],
       "excluded": [
         {
           "term": "婴儿针",
           "lang": "zhHans",
           "state": "rednote-search-observed",
           "reason": "ambiguous-on-platform"
-        },
-        {
-          "term": "丽珠兰",
-          "lang": "zhHans",
-          "state": "discovery-confirmed",
-          "reason": "discovery-confirmed"
         },
         {
           "term": "三文鱼针",
@@ -471,15 +469,12 @@
         "Oligio",
         "Oligio X"
       ],
-      "zhHans": [],
-      "excluded": [
-        {
-          "term": "韩版热玛吉",
-          "lang": "zhHans",
-          "state": "discovery-confirmed",
-          "reason": "discovery-confirmed"
-        }
+      "zhHans": [
+        "韩版热玛吉",
+        "韩式热玛吉",
+        "小韩热玛吉"
       ],
+      "excluded": [],
       "dangerousConfusions": []
     },
     {

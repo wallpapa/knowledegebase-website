@@ -1,0 +1,58 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09",
+ "method": "cron topic-discovery run; DOM extraction, raw observation",
+ "safetyBanner": "医疗美容有风险，请选择正规医美机构与执业医师",
+ "term": "保妥适",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=保妥适",
+ "relatedQueries": [
+  "美国",
+  "100u",
+  "面部提升",
+  "除皱价格",
+  "瘦脸针",
+  "方圆脸",
+  "肉毒素",
+  "咬肌",
+  "水光",
+  "维持时间",
+  "下颌缘"
+ ],
+ "notes": [
+  {
+   "title": "隐藏高阶打法✅还你清晰下颌线",
+   "author": "王青茹",
+   "date": "2025-10-26",
+   "likes": "528",
+   "url": "https://www.rednote.com/discovery/item/68fdef760000000004029562"
+  },
+  {
+   "title": "100单位怎么分布做到全脸提升",
+   "author": "整形外科常毅医生",
+   "date": "08-28",
+   "likes": "129",
+   "url": "https://www.rednote.com/discovery/item/6a9166480000000007005dd6"
+  },
+  {
+   "title": "全国首家保妥适额纹适应症授权上市机构🏥",
+   "author": "MYLIKE北京美莱",
+   "date": "05-22",
+   "likes": "4",
+   "url": "https://www.rednote.com/discovery/item/6a0fb1dc0000000007027ecc"
+  },
+  {
+   "title": "瘦脸打肉毒素？美产/韩产/国产瘦脸针的区别",
+   "author": "杳霭流玉_",
+   "date": "2025-11-15",
+   "likes": "289",
+   "url": "https://www.rednote.com/discovery/item/6917ff1500000000040124ca"
+  },
+  {
+   "title": "进口和国产肉毒到底该怎么选呢？",
+   "author": "王星洁",
+   "date": "2025-05-23",
+   "likes": "3318",
+   "url": "https://www.rednote.com/discovery/item/68302a52000000002202c32a"
+  }
+ ]
+}

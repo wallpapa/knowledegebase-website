@@ -1,0 +1,63 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09",
+ "method": "cron topic-discovery run; DOM extraction, raw observation",
+ "safetyBanner": "医疗美容有风险，请选择正规医美机构与执业医师",
+ "term": "丽珠兰",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=丽珠兰",
+ "relatedQueries": [
+  "红盒",
+  "作用",
+  "护肤品",
+  "眼部白盒",
+  "水光",
+  "效果对比",
+  "系列大全",
+  "三文鱼",
+  "韩国"
+ ],
+ "notes": [
+  {
+   "title": "🎨 丽珠兰黑盒｜皮肤充电宝海报分享✨",
+   "author": "乐乐",
+   "date": "01-21",
+   "likes": "196",
+   "url": "https://www.rednote.com/discovery/item/6970a9f6000000002103de02"
+  },
+  {
+   "title": "丽珠兰公司开会也就去了五六七八次吧",
+   "author": "EUNCHAE恩彩",
+   "date": "06-01",
+   "likes": "34",
+   "url": "https://www.rednote.com/discovery/item/6a1d947f000000003502a565"
+  },
+  {
+   "title": "韩国药妆必买PDRN",
+   "author": "查理",
+   "date": "05-23",
+   "likes": "79",
+   "url": "https://www.rednote.com/discovery/item/6a1164700000000035030719"
+  },
+  {
+   "title": "韩国院线顶流丽驻兰✨肌底再生天花板",
+   "author": "LuxSkin奢妍科技美肤",
+   "date": "06-19",
+   "likes": "66",
+   "url": "https://www.rednote.com/discovery/item/6a34d75f000000000f0052e7"
+  },
+  {
+   "title": "🇰🇷丽珠兰｜韩女水光肌的㊙️",
+   "author": "晨晨（碎碎念）",
+   "date": "06-15",
+   "likes": "4",
+   "url": "https://www.rednote.com/discovery/item/6a2ffe1e0000000006022420"
+  },
+  {
+   "title": "希界主理人🇰🇷韩国溯源｜走进REJURAN总部",
+   "author": "小红薯6A87E338",
+   "date": "3天前",
+   "likes": "2",
+   "url": "https://www.rednote.com/discovery/item/6a9d335e00000000250353d5"
+  }
+ ]
+}

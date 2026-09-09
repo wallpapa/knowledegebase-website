@@ -293,9 +293,10 @@
           "meaning": "Botox brand, CN-market name (Allergan)",
           "reviewState": "rednote-search-observed",
           "evidence": [
+            "evidence/xhs-保妥适-20260909.json",
             "evidence/xhs-瘦脸针.json"
           ],
-          "usageNote": "Confirmed via 瘦脸针 search: related chip 保妥适肉毒 and top posts (1支肉毒…811 likes, 打肉毒必看指南)."
+          "usageNote": "Own evidence file now; high-engagement brand-choice discourse (进口vs国产肉毒 3318 likes; 美产/韩产/国产瘦脸针的区别 289) + 授权上市机构 framing + 100u全脸提升 dosage talk."
         }
       ],
       "subTerms": [
@@ -552,10 +553,11 @@
         {
           "term": "丽珠兰",
           "meaning": "brand transliteration",
-          "reviewState": "discovery-confirmed",
+          "reviewState": "rednote-search-observed",
           "evidence": [
-            "evidence/q04-skinboosters.json — idcosmeticclinic.ca"
-          ]
+            "evidence/xhs-丽珠兰-20260909.json"
+          ],
+          "usageNote": "Confirmed live: brand-transliteration posts + HQ-visit content; variants seen: 丽驻兰, 黑盒/红盒/眼部白盒 product-line words, PDRN technical term, related chip 三文鱼."
         },
         {
           "term": "三文鱼针",
@@ -566,7 +568,24 @@
           ]
         }
       ],
-      "subTerms": [],
+      "subTerms": [
+        {
+          "term": "丽驻兰",
+          "meaning": "variant transliteration seen in top posts",
+          "reviewState": "rednote-search-observed",
+          "evidence": [
+            "evidence/xhs-丽珠兰-20260909.json"
+          ]
+        },
+        {
+          "term": "PDRN",
+          "meaning": "technical ingredient word patients use for Rejuran-class",
+          "reviewState": "rednote-search-observed",
+          "evidence": [
+            "evidence/xhs-丽珠兰-20260909.json"
+          ]
+        }
+      ],
       "disambiguation": [],
       "notes": ""
     },
@@ -810,13 +829,31 @@
         {
           "term": "韩版热玛吉",
           "register": "dominant framing: 'Korean Thermage'",
-          "reviewState": "discovery-confirmed",
+          "reviewState": "rednote-search-observed",
           "evidence": [
-            "evidence/q14-oligio.json — pria.clinic ('Oligio (韩版热玛吉)'), twlienjang.com, cliqueclinic.com"
+            "evidence/xhs-韩版热玛吉-20260909.json"
+          ],
+          "usageNote": "Dominant forms: 韩式热玛吉 / 小韩热玛吉; direct product discourse links the frame to Oligio/Oligio X (火爆小韩的Oligiox…). Related chips: 美版区别/痛不痛/恢复期/维持时间. A '第六代热玛吉' claim appears — unverified, do NOT adopt."
+        }
+      ],
+      "subTerms": [
+        {
+          "term": "韩式热玛吉",
+          "meaning": "dominant variant",
+          "reviewState": "rednote-search-observed",
+          "evidence": [
+            "evidence/xhs-韩版热玛吉-20260909.json"
+          ]
+        },
+        {
+          "term": "小韩热玛吉",
+          "meaning": "colloquial variant",
+          "reviewState": "rednote-search-observed",
+          "evidence": [
+            "evidence/xhs-韩版热玛吉-20260909.json"
           ]
         }
       ],
-      "subTerms": [],
       "disambiguation": [],
       "notes": "Site already publishes 原版 Oligio 单极射频 / Oligio X 单极射频 — the patient-side hook is 韩版热玛吉."
     },

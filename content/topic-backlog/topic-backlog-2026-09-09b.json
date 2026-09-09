@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "backlogId": "clinic-blog-topic-backlog-2026-09-09b",
+  "createdAt": "2026-09-09",
+  "source": "cron Rednote run: 丽珠兰/韩版热玛吉/保妥适 first-time evidence (glossary/evidence/xhs-*-20260909.json)",
+  "topics": [
+    {
+      "id": "botox-brand-choice-import-vs-domestic",
+      "sites": ["waleeratclinic.com", "verzoclinic.com"],
+      "titleEn": "Imported vs Korean vs China-domestic botulinum toxin (Botox/Hutox/Nabota/Neuronox/Xeomin): honest differences and how to choose",
+      "titleZh": "进口/韩产/国产肉毒怎么选？保妥适、Hutox、Nabota、Neuronox、Xeomin 真实区别",
+      "angle": "Highest-engagement botox question observed (进口和国产肉毒到底该怎么选 3318 likes; 美产/韩产/国产瘦脸针的区别 289). VERZO catalog carries Allergan/Hutox/Nabota/Neuronox/Xeomin — a fact-based comparison answers it directly. Include 100u全脸提升 dosage-discourse framing + 授权机构 transparency.",
+      "evidence": ["xhs-保妥适-20260909.json: 进口和国产肉毒到底该怎么选 (3318)", "xhs-保妥适-20260909.json: 瘦脸打肉毒素？美产/韩产/国产瘦脸针的区别 (289)"],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "oligio-x-korean-thermage-explainer",
+      "sites": ["waleeratclinic.com", "verzoclinic.com"],
+      "titleEn": "Oligio / Oligio X — the Korean Thermage (韩式热玛吉): what it is, vs US Thermage, pain and downtime",
+      "titleZh": "韩式热玛吉(Oligio/Oligio X)是什么？和美国热玛吉的区别、痛感、恢复期",
+      "angle": "韩式热玛吉 framing is live (833-like top post) and a top result literally asks 火爆小韩的Oligiox到底是什么 — the clinic offers Oligio/Oligio X in both catalogs. Answer with 韩版vs美版区别/痛不痛/恢复期/维持时间 chips. Do NOT adopt the unverified 第六代热玛吉 claim.",
+      "evidence": ["xhs-韩版热玛吉-20260909.json: 韩式热玛吉，在广州为什么都找她 (833)", "xhs-韩版热玛吉-20260909.json: 火爆小韩的Oligiox到底是什么"],
+      "medicalHigh": true,
+      "status": "candidate"
+    }
+  ]
+}

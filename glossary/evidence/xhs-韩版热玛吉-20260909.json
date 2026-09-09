@@ -1,0 +1,66 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-09",
+ "method": "cron topic-discovery run; DOM extraction, raw observation",
+ "safetyBanner": "医疗美容有风险，请选择正规医美机构与执业医师",
+ "term": "韩版热玛吉",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=韩版热玛吉",
+ "relatedQueries": [
+  "therma",
+  "真实案例",
+  "眼周",
+  "能量",
+  "美版区别",
+  "痛不痛",
+  "恢复期",
+  "维持时间",
+  "对比图",
+  "原理",
+  "二代",
+  "价格"
+ ],
+ "notes": [
+  {
+   "title": "韩式热玛吉到底是什么？",
+   "author": "李知垠在深圳",
+   "date": "08-22",
+   "likes": "10",
+   "url": "https://www.rednote.com/discovery/item/6a87c3d000000000350153ee"
+  },
+  {
+   "title": "韩式热玛吉，在广州为什么都找她？",
+   "author": "김나영金娜莹",
+   "date": "08-20",
+   "likes": "833",
+   "url": "https://www.rednote.com/discovery/item/6a2936350000000016024746"
+  },
+  {
+   "title": "韩国疯狂打Call的第六代热玛吉",
+   "author": "Coweroay医疗器械",
+   "date": "2025-11-01",
+   "likes": "41",
+   "url": "https://www.rednote.com/discovery/item/6905fc410000000005038848"
+  },
+  {
+   "title": "松垮脸克星，小韩热玛吉5D发带打法深圳有！",
+   "author": "深圳丽颖丽驻兰小助理",
+   "date": "08-28",
+   "likes": "3",
+   "url": "https://www.rednote.com/discovery/item/6a910109000000002303c2d4"
+  },
+  {
+   "title": "火爆小韩的Oligiox到底是什么｜为什么更适合",
+   "author": "facematter专家",
+   "date": "04-16",
+   "likes": "17",
+   "url": "https://www.rednote.com/discovery/item/69e0a43f0000000022028a24"
+  },
+  {
+   "title": "为什么你做的热玛吉没效果？别再白花钱",
+   "author": "김나영金娜莹",
+   "date": "4天前",
+   "likes": "37",
+   "url": "https://www.rednote.com/discovery/item/6a9a7ea30000000011031e81"
+  }
+ ]
+}
