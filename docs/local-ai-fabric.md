@@ -56,9 +56,55 @@ Then verify the M5 endpoint from M2:
 curl http://127.0.0.1:11435/api/tags
 ```
 
-## Repository health check
+## One-command M2 fabric doctor
 
-From the centralized KB checkout on M2:
+From the centralized KB checkout on `clinic-m2`:
+
+```bash
+npm run ai:fabric:doctor
+```
+
+It checks, in order:
+
+1. Tailscale CLI availability on M2;
+2. Tailscale reachability from M2 to `clinic-m5`;
+3. non-interactive SSH authentication to M5;
+4. M2 Ollama on loopback;
+5. M5 Ollama on its own loopback, verified through SSH;
+6. the existing M2 → M5 tunnel at `127.0.0.1:11435`.
+
+The script exits non-zero when the fabric is not fully ready and prints a specific diagnosis such as:
+
+- `tailscale-cli-unavailable`
+- `tailscale-path-unavailable`
+- `ssh-unavailable`
+- `m5-ollama-unavailable`
+- `m5-tunnel-unavailable`
+- `m2-ollama-unavailable`
+
+Machine-readable output:
+
+```bash
+npm run ai:fabric:doctor -- --json
+```
+
+If the SSH username differs from the current M2 username:
+
+```bash
+CLINIC_M5_SSH_USER=<m5-user> npm run ai:fabric:doctor
+```
+
+Optional host override:
+
+```bash
+CLINIC_M5_HOST=<tailscale-hostname> npm run ai:fabric:doctor
+```
+
+The SSH checks use `BatchMode=yes`, so automation fails closed instead of waiting for an interactive password prompt. Configure key-based SSH before using this command in unattended jobs.
+
+## Repository Ollama-only health check
+
+For a lighter check that only probes the two configured Ollama endpoints:
 
 ```bash
 npm run ai:nodes:check
@@ -124,7 +170,7 @@ All model outputs remain candidates/drafts until the target website repository's
 
 ## Next integration step
 
-After both endpoints pass `ai:nodes:check`, add a bounded central job router that:
+After `npm run ai:fabric:doctor` reports `ready`, add a bounded central job router that:
 
 1. consumes a knowledge/topic packet from the centralized KB;
 2. routes lightweight extraction/classification to M2;
