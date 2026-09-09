@@ -1,0 +1,181 @@
+{
+ "schemaVersion": 1,
+ "backlogId": "clinic-blog-topic-backlog-trends-2026-09",
+ "createdAt": "2026-09-09",
+ "source": "trend discovery (Tavily q16-q18, GLM free window) + Rednote CN monthly report signals",
+ "topics": [
+  {
+   "id": "glp1-body-contouring-bangkok",
+   "sites": [
+    "verzoclinic.com",
+    "waleeratclinic.com"
+   ],
+   "titleEn": "Losing weight on GLP-1 (Wegovy/Mounjaro)? Why facial volume loss happens and what restores it",
+   "titleZh": "打了减肥笔（司美格鲁肽）脸垮了？面部脂肪流失的恢复方案",
+   "toc": [
+    "直接回答：GLP-1减重后面部凹陷/松弛是常见现象",
+    "为什么GLP-1会让脸垮（脂肪快速流失+胶原）",
+    "哪些方案可恢复：胶原刺激剂/填充/线雕的适配",
+    "减重期间能做医美吗（时机）",
+    "FAQ：何时做/维持多久/需不需要先稳定体重"
+   ],
+   "faqs": [
+    "减重后脸垮多久稳定？",
+    "填充和胶原刺激剂选哪个？",
+    "Wegovy期间能打童颜针吗？"
+   ],
+   "hashtags": [
+    "#GLP1",
+    "#瘦脸针",
+    "#童颜针",
+    "#面部填充",
+    "#减重后修复"
+   ],
+   "directAnswer": "体重快速下降后面部容量流失是药物性变化；稳定体重后用胶原刺激剂+填充+线雕组合恢复，时机需医生评估。",
+   "medicalHigh": true,
+   "evidence": [
+    "trend tr1: post-GLP-1 body contouring = 2026 top theme",
+    "verzo catalog: Weight-loss pen (Wegovy/Mounjaro) row exists — 天然衔接"
+   ],
+   "status": "candidate"
+  },
+  {
+   "id": "pdrn-rejuran-science",
+   "sites": [
+    "waleeratclinic.com",
+    "verzoclinic.com"
+   ],
+   "titleEn": "PDRN (salmon-DNA) explained: what Rejuran-class injectables actually do in 2026",
+   "titleZh": "PDRN三文鱼DNA到底是什么？丽珠兰类注射的原理与适应症",
+   "toc": [
+    "直接回答：PDRN是再生修复成分",
+    "PDRN与胶原蛋白/PN的关系",
+    "适应症：修复/毛孔/肤质",
+    "和童颜针搭配还是分开",
+    "FAQ"
+   ],
+   "faqs": [
+    "PDRN和童颜针一样吗？",
+    "做几次有效？",
+    "恢复期多久？"
+   ],
+   "hashtags": [
+    "#PDRN",
+    "#丽珠兰",
+    "#婴儿针",
+    "#皮肤修复",
+    "#水光针"
+   ],
+   "directAnswer": "PDRN 是从鲑鱼DNA提取的再生修复成分，主打皮肤修复与肤质改善；与胶原刺激剂机制不同，常组合使用。",
+   "medicalHigh": true,
+   "evidence": [
+    "trend tr2/tr3: PDRN 医美应用占31%，为2026核心再生材料",
+    "xhs-丽珠兰 evidence: PDRN chip 已出现"
+   ],
+   "status": "candidate"
+  },
+  {
+   "id": "nose-shadow-semipermanent-trend",
+   "sites": [
+    "verzoclinic.com",
+    "waleeratinternational.com"
+   ],
+   "titleEn": "“Nose shadow” makeup vs nose thread lift: the no-surgery nose trend explained",
+   "titleZh": "鼻侧影半永久 vs 鼻部线雕：不动刀的鼻子方案对比",
+   "toc": [
+    "直接回答：非手术隆鼻的两条路",
+    "鼻侧影半永久是什么（小红书搜索+5476%的现象）",
+    "鼻部线雕的效果与维持",
+    "对比表：持久度/风险/效果",
+    "FAQ"
+   ],
+   "faqs": [
+    "鼻侧影能维持多久？",
+    "线雕隆鼻痛吗？",
+    "哪个更自然？"
+   ],
+   "hashtags": [
+    "#鼻侧影",
+    "#鼻部线雕",
+    "#隆鼻",
+    "#非手术隆鼻"
+   ],
+   "directAnswer": "鼻侧影半永久=化妆式阴影，短期视觉；鼻部线雕=结构性支撑，维持更久但需医生操作。两者不可互相替代。",
+   "medicalHigh": true,
+   "evidence": [
+    "trend tr2: 小红书1月报 鼻侧影半永久搜索量+5476.88%（差异化流量洼地）"
+   ],
+   "status": "candidate"
+  },
+  {
+   "id": "mens-aesthetics-bangkok",
+   "sites": [
+    "waleeratinternational.com",
+    "verzoclinic.com"
+   ],
+   "titleEn": "Aesthetic treatments for men in Bangkok: what male patients ask (jaw, hair, skin)",
+   "titleZh": "曼谷男士医美指南：下颌线、脱发、皮肤管理的真实问题",
+   "toc": [
+    "直接回答：男士关注点与女性不同",
+    "下颌线/瘦脸针在男士的打法差异",
+    "男士皮肤管理（油性/毛孔）",
+    "FAQ",
+    "隐私与预约"
+   ],
+   "faqs": [
+    "男士打瘦脸针自然吗？",
+    "男士适合水光吗？",
+    "会看起来不自然吗？"
+   ],
+   "hashtags": [
+    "#男士医美",
+    "#下颌线",
+    "#男士护肤",
+    "#曼谷医美"
+   ],
+   "directAnswer": "男士医美以轮廓（下颌线）、肤质、头发为主；目标自然、不显痕迹，方案与剂量与女性不同。",
+   "medicalHigh": true,
+   "evidence": [
+    "trend tr3: men segment growth in Korea 2026 reports",
+    "xhs-瘦脸针 related chip: 国字脸/肉方脸"
+   ],
+   "status": "candidate"
+  },
+  {
+   "id": "regenerative-vs-traditional-fillers",
+   "sites": [
+    "waleeratclinic.com",
+    "verzoclinic.com",
+    "waleeratinternational.com"
+   ],
+   "titleEn": "Regenerative injectables vs traditional HA fillers in 2026: which for which face",
+   "titleZh": "再生材料vs传统玻尿酸：2026怎么选（童颜针/乔雅露/微晶瓷/玻尿酸）",
+   "toc": [
+    "直接回答：机制不同决定用途不同",
+    "四类材料速查表",
+    "组合策略（先结构后肤质）",
+    "FAQ",
+    "医生评估的重要性"
+   ],
+   "faqs": [
+    "再生材料会栓塞吗？",
+    "玻尿酸过时了吗？",
+    "能一起打吗？"
+   ],
+   "hashtags": [
+    "#童颜针",
+    "#乔雅露",
+    "#微晶瓷",
+    "#玻尿酸",
+    "#再生材料"
+   ],
+   "directAnswer": "玻尿酸=即时填充，再生材料=刺激自体胶原缓慢起效；按部位与目标组合使用，不是替代关系。",
+   "medicalHigh": true,
+   "evidence": [
+    "trend tr2: 重组胶原/PDRN 蓝皮书",
+    "clinic catalogs carry all four classes"
+   ],
+   "status": "candidate"
+  }
+ ]
+}
