@@ -27,7 +27,8 @@
       "zhHans": [
         "线雕",
         "埋线提升",
-        "鱼骨线"
+        "鱼骨线",
+        "压印线"
       ],
       "excluded": [
         {
@@ -77,7 +78,8 @@
       ],
       "th": [],
       "en": [
-        "Eye Thread Lift / Endoline Foxy Eye"
+        "Eye Thread Lift",
+        "Endoline Foxy Eye"
       ],
       "zhHans": [
         "眼周线雕",
@@ -430,7 +432,8 @@
       "en": [],
       "zhHans": [
         "热玛吉",
-        "第五代热玛吉"
+        "第五代热玛吉",
+        "5代热玛吉"
       ],
       "excluded": [
         {
@@ -465,7 +468,8 @@
       ],
       "th": [],
       "en": [
-        "Oligio / Oligio X"
+        "Oligio",
+        "Oligio X"
       ],
       "zhHans": [],
       "excluded": [

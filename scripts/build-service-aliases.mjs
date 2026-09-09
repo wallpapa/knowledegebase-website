@@ -49,20 +49,24 @@ function build(glossaryJson = readFileSync(GLOSSARY_PATH, "utf8")) {
       excluded: [],
     };
 
+    function splitVariants(term) {
+      return String(term).split(" / ").map((s) => s.trim()).filter(Boolean);
+    }
+
     for (const e of term.th || []) {
-      if (ALLOWED_STATES.has(e.reviewState)) family.th.push(e.term);
+      if (ALLOWED_STATES.has(e.reviewState)) family.th.push(...splitVariants(e.term));
       else family.excluded.push({ term: e.term, lang: "th", state: e.reviewState });
     }
     for (const e of term.en || []) {
-      if (ALLOWED_STATES.has(e.reviewState)) family.en.push(e.term);
+      if (ALLOWED_STATES.has(e.reviewState)) family.en.push(...splitVariants(e.term));
       else family.excluded.push({ term: e.term, lang: "en", state: e.reviewState });
     }
     for (const e of term.zhHans || []) {
-      if (ALLOWED_STATES.has(e.reviewState) && !(e.usageNote || "").includes("AMBIGUITY WARNING")) family.zhHans.push(e.term);
+      if (ALLOWED_STATES.has(e.reviewState) && !(e.usageNote || "").includes("AMBIGUITY WARNING")) family.zhHans.push(...splitVariants(e.term));
       else family.excluded.push({ term: e.term, lang: "zhHans", state: e.reviewState, reason: (e.usageNote || "").includes("AMBIGUITY WARNING") ? "ambiguous-on-platform" : e.reviewState });
     }
     for (const s of term.subTerms || []) {
-      if (ALLOWED_STATES.has(s.reviewState)) family.zhHans.push(s.term.split(" / ")[0]);
+      if (ALLOWED_STATES.has(s.reviewState)) family.zhHans.push(...splitVariants(s.term));
       else family.excluded.push({ term: s.term, lang: "zhHans", state: s.reviewState });
     }
 
