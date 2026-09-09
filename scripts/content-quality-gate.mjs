@@ -46,6 +46,21 @@ function checkRepo(repo) {
     if (!existsSync(path.join(repo, doc))) failures.push(`missing root document: ${doc}`);
   }
 
+  // Alias machine file must be regenerated from the current glossary (digest pin).
+  const glossaryPath = path.join(repo, "glossary", "th-en-zh-patient-aesthetic-terms.json");
+  const aliasesPath = path.join(repo, "glossary", "service-aliases.machine.json");
+  if (existsSync(glossaryPath) && existsSync(aliasesPath)) {
+    let aliases;
+    try {
+      aliases = JSON.parse(readFileSync(aliasesPath, "utf8"));
+    } catch {
+      aliases = null; // reported by the JSON parse check
+    }
+    if (aliases && aliases.sourceDigest !== sha256(glossaryPath)) {
+      failures.push("glossary/service-aliases.machine.json is stale: sourceDigest does not match the current glossary — run `npm run build:aliases`");
+    }
+  }
+
   const sitesDir = path.join(repo, "sites");
   if (!existsSync(sitesDir)) {
     failures.push("missing sites/ directory");

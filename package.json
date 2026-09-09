@@ -6,9 +6,10 @@
   "description": "SSOT knowledge base gathering the AI-facing surfaces of waleeratclinic.com, waleeratinternational.com and verzoclinic.com",
   "scripts": {
     "content:quality-gate": "node scripts/content-quality-gate.mjs --mode=release",
-    "content:quality-test": "node --test tests/content-quality-gate.test.mjs",
-    "code:quality-gate": "npm run content:quality-test && node --check scripts/content-quality-gate.mjs && node --check tests/content-quality-gate.test.mjs",
-    "test": "npm run content:quality-test"
+    "content:quality-test": "node --test tests/content-quality-gate.test.mjs tests/build-service-aliases.test.mjs",
+    "code:quality-gate": "npm run content:quality-test && node --check scripts/content-quality-gate.mjs && node --check scripts/build-service-aliases.mjs && node --check tests/content-quality-gate.test.mjs && node --check tests/build-service-aliases.test.mjs",
+    "test": "npm run content:quality-test",
+    "build:aliases": "node scripts/build-service-aliases.mjs"
   },
   "engines": {
     "node": ">=20"

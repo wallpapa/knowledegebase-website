@@ -1,0 +1,530 @@
+{
+  "schemaVersion": 1,
+  "aliasMapId": "service-aliases",
+  "generatedAt": "2026-09-09",
+  "sourceGlossary": "glossary/th-en-zh-patient-aesthetic-terms.json",
+  "sourceDigest": "1e9dfa5e133ebb5942e237cc111d2a1c1d571470ac1b90062023118bc4ec9cbd",
+  "evidenceRule": "Only reviewState in {rednote-search-observed, site-published-zh, site-canonical, site-keyword, kb-observed-th} is exported. Discovery-grade, unverified and conflicting terms stay in the glossary only.",
+  "consumers": [
+    "Whisper repo scripts/sync-service-aliases-from-kb.mjs -> clinic_services.aliases (whisperchat.co/chat service matching)",
+    "Website i18n tooling (see glossary README)"
+  ],
+  "families": [
+    {
+      "id": "thread-lift",
+      "canonicalEn": "Thread Lift",
+      "clinicScope": [
+        "WLR",
+        "VRZ"
+      ],
+      "th": [
+        "ร้อยไหม",
+        "ฉีดไหม"
+      ],
+      "en": [
+        "Thread Lift"
+      ],
+      "zhHans": [
+        "线雕",
+        "埋线提升",
+        "鱼骨线"
+      ],
+      "excluded": [
+        {
+          "term": "大V线",
+          "lang": "zhHans",
+          "state": "discovery-confirmed"
+        },
+        {
+          "term": "小V线",
+          "lang": "zhHans",
+          "state": "discovery-confirmed"
+        },
+        {
+          "term": "蛋白线",
+          "lang": "zhHans",
+          "state": "discovery-single-source"
+        },
+        {
+          "term": "Mint线雕 / Mint埋线拉提",
+          "lang": "zhHans",
+          "state": "discovery-single-source"
+        }
+      ],
+      "dangerousConfusions": []
+    },
+    {
+      "id": "nose-thread-lift",
+      "canonicalEn": "Nose Thread Lift",
+      "clinicScope": [
+        "WLR"
+      ],
+      "th": [],
+      "en": [
+        "Nose Thread Lift"
+      ],
+      "zhHans": [
+        "鼻部线雕"
+      ],
+      "excluded": [],
+      "dangerousConfusions": []
+    },
+    {
+      "id": "eye-thread-lift",
+      "canonicalEn": "Eye Thread Lift / Endoline Foxy Eye",
+      "clinicScope": [
+        "WLR"
+      ],
+      "th": [],
+      "en": [
+        "Eye Thread Lift / Endoline Foxy Eye"
+      ],
+      "zhHans": [
+        "眼周线雕",
+        "狐狸眼线雕",
+        "狐狸眼"
+      ],
+      "excluded": [
+        {
+          "term": "眼尾提升",
+          "lang": "zhHans",
+          "state": "discovery-single-source",
+          "reason": "discovery-single-source"
+        },
+        {
+          "term": "眼袋",
+          "lang": "zhHans",
+          "state": "discovery-single-source"
+        }
+      ],
+      "dangerousConfusions": []
+    },
+    {
+      "id": "lower-face-thread-lift",
+      "canonicalEn": "Emerald Lower-Face Thread Lift",
+      "clinicScope": [
+        "WLR"
+      ],
+      "th": [],
+      "en": [
+        "Emerald Lower-Face Thread Lift"
+      ],
+      "zhHans": [
+        "下脸线雕"
+      ],
+      "excluded": [],
+      "dangerousConfusions": []
+    },
+    {
+      "id": "botox",
+      "canonicalEn": "Botox Program",
+      "clinicScope": [
+        "WLR"
+      ],
+      "th": [],
+      "en": [
+        "Botox Program"
+      ],
+      "zhHans": [
+        "肉毒素",
+        "A型肉毒素",
+        "瘦脸针",
+        "保妥适"
+      ],
+      "excluded": [
+        {
+          "term": "โบท็อกซ์",
+          "lang": "th",
+          "state": "site-canonical (program name, EN script)"
+        },
+        {
+          "term": "ฉีดโบ",
+          "lang": "th",
+          "state": "unverified-colloquial"
+        },
+        {
+          "term": "除皱针",
+          "lang": "zhHans",
+          "state": "discovery-confirmed",
+          "reason": "discovery-confirmed"
+        },
+        {
+          "term": "兰州衡力",
+          "lang": "zhHans",
+          "state": "discovery-confirmed"
+        },
+        {
+          "term": "鱼尾纹",
+          "lang": "zhHans",
+          "state": "discovery-single-source"
+        }
+      ],
+      "dangerousConfusions": []
+    },
+    {
+      "id": "ha-filler",
+      "canonicalEn": "HA Filler",
+      "clinicScope": [
+        "WLR",
+        "VRZ"
+      ],
+      "th": [],
+      "en": [
+        "HA Filler"
+      ],
+      "zhHans": [
+        "玻尿酸填充"
+      ],
+      "excluded": [
+        {
+          "term": "ฟิลเลอร์",
+          "lang": "th",
+          "state": "kb-observed-th ('ฉีดฟิลเลอร์ยกมุมปากได้ไหม' — verzo KB Google PAA)"
+        },
+        {
+          "term": "玻尿酸",
+          "lang": "zhHans",
+          "state": "discovery-confirmed",
+          "reason": "discovery-confirmed"
+        },
+        {
+          "term": "苹果肌",
+          "lang": "zhHans",
+          "state": "discovery-confirmed"
+        },
+        {
+          "term": "法令纹",
+          "lang": "zhHans",
+          "state": "discovery-confirmed"
+        },
+        {
+          "term": "泪沟",
+          "lang": "zhHans",
+          "state": "discovery-confirmed"
+        },
+        {
+          "term": "垫下巴 / 下巴填充",
+          "lang": "zhHans",
+          "state": "discovery-confirmed"
+        }
+      ],
+      "dangerousConfusions": []
+    },
+    {
+      "id": "sculptra",
+      "canonicalEn": "Sculptra",
+      "clinicScope": [
+        "WLR",
+        "VRZ"
+      ],
+      "th": [],
+      "en": [
+        "Sculptra"
+      ],
+      "zhHans": [
+        "童颜针"
+      ],
+      "excluded": [],
+      "dangerousConfusions": [
+        {
+          "term": "少女针",
+          "meaning": "Ellansé (PCL + CMC) — a DIFFERENT product; never use for Sculptra programs"
+        }
+      ]
+    },
+    {
+      "id": "radiesse",
+      "canonicalEn": "Radiesse (Plus)",
+      "clinicScope": [
+        "WLR"
+      ],
+      "th": [],
+      "en": [
+        "Radiesse (Plus)"
+      ],
+      "zhHans": [
+        "微晶瓷"
+      ],
+      "excluded": [
+        {
+          "term": "瑞德喜",
+          "lang": "zhHans",
+          "state": "discovery-single-source",
+          "reason": "discovery-single-source"
+        },
+        {
+          "term": "晶亮瓷",
+          "lang": "zhHans",
+          "state": "discovery-single-source"
+        }
+      ],
+      "dangerousConfusions": []
+    },
+    {
+      "id": "juvelook",
+      "canonicalEn": "Juvelook",
+      "clinicScope": [
+        "WLR",
+        "VRZ"
+      ],
+      "th": [],
+      "en": [
+        "Juvelook"
+      ],
+      "zhHans": [
+        "乔雅露"
+      ],
+      "excluded": [
+        {
+          "term": "新童颜 / 素颜针",
+          "lang": "zhHans",
+          "state": "discovery-single-source",
+          "reason": "discovery-single-source"
+        }
+      ],
+      "dangerousConfusions": []
+    },
+    {
+      "id": "rejuran",
+      "canonicalEn": "Rejuran",
+      "clinicScope": [
+        "WLR",
+        "VRZ"
+      ],
+      "th": [],
+      "en": [
+        "Rejuran"
+      ],
+      "zhHans": [],
+      "excluded": [
+        {
+          "term": "婴儿针",
+          "lang": "zhHans",
+          "state": "rednote-search-observed",
+          "reason": "ambiguous-on-platform"
+        },
+        {
+          "term": "丽珠兰",
+          "lang": "zhHans",
+          "state": "discovery-confirmed",
+          "reason": "discovery-confirmed"
+        },
+        {
+          "term": "三文鱼针",
+          "lang": "zhHans",
+          "state": "discovery-single-source",
+          "reason": "discovery-single-source"
+        }
+      ],
+      "dangerousConfusions": []
+    },
+    {
+      "id": "profhilo",
+      "canonicalEn": "Profhilo Bio-Remodelling",
+      "clinicScope": [
+        "WLR",
+        "VRZ"
+      ],
+      "th": [],
+      "en": [
+        "Profhilo Bio-Remodelling"
+      ],
+      "zhHans": [],
+      "excluded": [
+        {
+          "term": "逆龄针",
+          "lang": "zhHans",
+          "state": "conflicts-current-rednote-usage",
+          "reason": "conflicts-current-rednote-usage"
+        },
+        {
+          "term": "BAP 五点式注射",
+          "lang": "zhHans",
+          "state": "discovery-single-source"
+        }
+      ],
+      "dangerousConfusions": []
+    },
+    {
+      "id": "skin-booster-generic",
+      "canonicalEn": "Skin booster",
+      "clinicScope": [
+        "WLR",
+        "VRZ"
+      ],
+      "th": [],
+      "en": [],
+      "zhHans": [
+        "水光针"
+      ],
+      "excluded": [
+        {
+          "term": "เมโส / หน้าใส",
+          "lang": "th",
+          "state": "unverified-colloquial"
+        },
+        {
+          "term": "Skin booster",
+          "lang": "en",
+          "state": "site-canonical (descriptive)"
+        }
+      ],
+      "dangerousConfusions": []
+    },
+    {
+      "id": "ultherapy",
+      "canonicalEn": "Ultherapy PRIME",
+      "clinicScope": [
+        "WLR"
+      ],
+      "th": [],
+      "en": [
+        "Ultherapy PRIME"
+      ],
+      "zhHans": [
+        "超声刀"
+      ],
+      "excluded": [
+        {
+          "term": "อัลเทอร่า",
+          "lang": "th",
+          "state": "unverified-colloquial"
+        },
+        {
+          "term": "美版超声刀",
+          "lang": "zhHans",
+          "state": "discovery-single-source"
+        }
+      ],
+      "dangerousConfusions": []
+    },
+    {
+      "id": "ultraformer",
+      "canonicalEn": "Ultraformer MPT",
+      "clinicScope": [
+        "WLR"
+      ],
+      "th": [],
+      "en": [
+        "Ultraformer MPT"
+      ],
+      "zhHans": [
+        "超声炮"
+      ],
+      "excluded": [
+        {
+          "term": "黄金超声炮",
+          "lang": "zhHans",
+          "state": "discovery-single-source"
+        }
+      ],
+      "dangerousConfusions": []
+    },
+    {
+      "id": "thermage",
+      "canonicalEn": "Thermage FLX",
+      "clinicScope": [
+        "WLR"
+      ],
+      "th": [],
+      "en": [],
+      "zhHans": [
+        "热玛吉",
+        "第五代热玛吉"
+      ],
+      "excluded": [
+        {
+          "term": "เทอร์มาจ",
+          "lang": "th",
+          "state": "unverified-colloquial"
+        },
+        {
+          "term": "Thermage FLX",
+          "lang": "en",
+          "state": "site-canonical (device)"
+        },
+        {
+          "term": "第五代热玛吉 / 热玛吉五代 / 热玛吉FLX",
+          "lang": "zhHans",
+          "state": "discovery-confirmed",
+          "reason": "discovery-confirmed"
+        },
+        {
+          "term": "发数",
+          "lang": "zhHans",
+          "state": "discovery-single-source"
+        }
+      ],
+      "dangerousConfusions": []
+    },
+    {
+      "id": "oligio",
+      "canonicalEn": "Oligio / Oligio X",
+      "clinicScope": [
+        "WLR"
+      ],
+      "th": [],
+      "en": [
+        "Oligio / Oligio X"
+      ],
+      "zhHans": [],
+      "excluded": [
+        {
+          "term": "韩版热玛吉",
+          "lang": "zhHans",
+          "state": "discovery-confirmed",
+          "reason": "discovery-confirmed"
+        }
+      ],
+      "dangerousConfusions": []
+    },
+    {
+      "id": "pico-laser",
+      "canonicalEn": "Pico Laser",
+      "clinicScope": [
+        "WLR"
+      ],
+      "th": [],
+      "en": [
+        "Pico Laser"
+      ],
+      "zhHans": [],
+      "excluded": [
+        {
+          "term": "皮秒 / 皮秒激光",
+          "lang": "zhHans",
+          "state": "discovery-confirmed + site-published-zh (皮秒激光 Program)",
+          "reason": "discovery-confirmed + site-published-zh (皮秒激光 Program)"
+        },
+        {
+          "term": "蜂巢皮秒",
+          "lang": "zhHans",
+          "state": "discovery-confirmed",
+          "reason": "discovery-confirmed"
+        },
+        {
+          "term": "赛诺秀",
+          "lang": "zhHans",
+          "state": "discovery-single-source"
+        }
+      ],
+      "dangerousConfusions": []
+    },
+    {
+      "id": "laser-hair-removal",
+      "canonicalEn": "Laser Hair Removal",
+      "clinicScope": [
+        "WLR"
+      ],
+      "th": [],
+      "en": [
+        "Laser Hair Removal"
+      ],
+      "zhHans": [
+        "激光脱毛"
+      ],
+      "excluded": [],
+      "dangerousConfusions": []
+    }
+  ]
+}

@@ -256,18 +256,20 @@
         {
           "term": "肉毒素",
           "register": "generic substance term",
-          "reviewState": "discovery-confirmed",
+          "reviewState": "rednote-search-observed",
           "evidence": [
-            "evidence/q06-botox.json — zhihu.com/question/378565389, btch.edu.cn"
-          ]
+            "evidence/xhs-瘦脸针.json"
+          ],
+          "usageNote": "Confirmed via 瘦脸针 search: related chip 保妥适肉毒 and top posts (1支肉毒…811 likes, 打肉毒必看指南)."
         },
         {
           "term": "A型肉毒素",
           "register": "A-type botulinum toxin (regulatory phrasing)",
-          "reviewState": "discovery-confirmed",
+          "reviewState": "rednote-search-observed",
           "evidence": [
-            "evidence/q06-botox.json — zhihu.com"
-          ]
+            "evidence/xhs-瘦脸针.json"
+          ],
+          "usageNote": "Confirmed via 瘦脸针 search: related chip 保妥适肉毒 and top posts (1支肉毒…811 likes, 打肉毒必看指南)."
         },
         {
           "term": "瘦脸针",
@@ -289,10 +291,11 @@
         {
           "term": "保妥适",
           "meaning": "Botox brand, CN-market name (Allergan)",
-          "reviewState": "discovery-confirmed",
+          "reviewState": "rednote-search-observed",
           "evidence": [
-            "evidence/q06-botox.json — zhihu.com, haodf.com"
-          ]
+            "evidence/xhs-瘦脸针.json"
+          ],
+          "usageNote": "Confirmed via 瘦脸针 search: related chip 保妥适肉毒 and top posts (1支肉毒…811 likes, 打肉毒必看指南)."
         }
       ],
       "subTerms": [
