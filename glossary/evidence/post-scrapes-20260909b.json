@@ -1,38 +1,50 @@
 {
- "post-shuiguang-aftercare-842likes": {
-  "url": "https://www.rednote.com/discovery/item/690066f50000000005010bc5",
-  "scrapedAt": "2026-09-09T23:50+07:00",
-  "kind": "note-page (openable post)",
-  "title": "打完水光多久可以化妆？",
-  "author": "八大处蒋丽雅",
-  "date": "2025-10-28",
-  "hashtags": [
-   "#八大处蒋丽雅",
-   "#八大处注射",
-   "#北京注射医生",
-   "#水光针小知识",
-   "#水光",
-   "#补水保湿",
-   "#改善肤质",
-   "#水光针科普",
-   "#注射填充",
-   "#皮肤缺水"
-  ],
-  "commentEvidence": [
-   "听说打完了水光针会长斑？(concern: pigmentation after skin booster)",
-   "我打完第三天了，脸上针眼还没消 (real recovery: needle marks day 3)",
-   "机打…每次都是24小时后就开始化妆 (user report: 24h before makeup)",
-   "机打隔了48小时可以化妆了吗？(48h question)",
-   "我睡一晚第二天就化了 (user report: next-day makeup)"
-  ],
-  "note": "Comments show real patient answers cluster 24-72h; doctor answer in body. Citable as observed patient Q&A pattern — not medical authority."
+ "scrapedAt": "2026-09-09T23:58+07:00",
+ "method": "IAB note-page visits; login-wall'd authors return 'Page Isn't Available' — only search-card metadata (title/likes) is usable for those",
+ "openable": {
+  "ulthera-instrument-choice-1057likes": {
+   "url": "https://www.rednote.com/discovery/item/6a71d0a80000000006004673",
+   "author": "上海九院王韵",
+   "title": "想比同龄人更年轻，选什么仪器？",
+   "hashtags": [
+    "#抗衰",
+    "#上海九院王韵",
+    "#超声炮",
+    "#变美新思路",
+    "#法令纹",
+    "#热玛吉",
+    "#热拉提"
+   ],
+   "commentSignal": "读者追问'九院有没有超声刀项目' — 设备可及性是真实疑虑",
+   "usable": "hashtag set + question pattern for the 仪器怎么选 comparison article (already in topic backlog)"
+  }
  },
- "closed-posts": {
-  "urls": [
-   "6aa0d20a00000000250377d4 (热玛吉vs超声炮)",
-   "6a858adb0000000005030f41 (水光十年后)",
-   "6a2936350000000016024746 (韩式热玛吉833)"
-  ],
-  "result": "'This Page Isn't Available' — author-restricted/region-locked for web; only search-card metadata (title/likes/date) is available for these."
- }
+ "locked": [
+  {
+   "title": "进口和国产肉毒到底该怎么选呢？",
+   "likes": "3318",
+   "url": "https://www.rednote.com/discovery/item/68302a52000000002202c32a"
+  },
+  {
+   "title": "快收藏⚠️你不知道的瘦脸针全脸进阶打发！",
+   "likes": "4453",
+   "url": "https://www.rednote.com/discovery/item/6911ee98000000000302ca21"
+  },
+  {
+   "title": "别再盲目打瘦脸针了！",
+   "likes": "2669",
+   "url": "https://www.rednote.com/discovery/item/6a2a5935000000002201883e"
+  },
+  {
+   "title": "【九款童颜】区别点超详解！",
+   "likes": "1360",
+   "url": "https://www.rednote.com/discovery/item/697ca905000000000a03f4a8"
+  },
+  {
+   "title": "不拉皮，不线雕，口周回春，20分钟搞定！",
+   "likes": "2078",
+   "url": "https://www.rednote.com/discovery/item/6a45c147000000000f01c362"
+  }
+ ],
+ "note": "Locked posts: keep title+likes as demand evidence (already in term files). Do not retry in automation — restriction is stable."
 }
