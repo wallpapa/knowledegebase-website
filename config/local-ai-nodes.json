@@ -73,6 +73,7 @@
   },
   "modelPolicy": {
     "m2RecommendedClass": ["1b-4b", "embedding"],
+    "m2ActiveCandidates": ["gemma3:4b", "qwen3:4b", "bge-m3"],
     "m5ActiveCandidates": [
       "qwen3.5:9b",
       "gemma4:12b",

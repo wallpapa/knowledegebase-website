@@ -12,7 +12,8 @@
     "candidateDirectory": "outputs/content-jobs",
     "maximumConcurrentHeavyJobs": 1,
     "requestTimeoutMs": 300000,
-    "maxPromptChars": 24000
+    "maxPromptChars": 24000,
+    "maxOutputTokens": 4096
   },
   "allowedRoles": {
     "normalize-insight": {
@@ -29,11 +30,15 @@
     },
     "zh-intent-synthesis": {
       "node": "m5",
-      "model": "qwen3.5:9b"
+      "model": "qwen3.5:9b",
+      "thinking": false,
+      "maxOutputTokens": 4096
     },
     "en-evidence-synthesis": {
       "node": "m5",
-      "model": "qwen3.5:9b"
+      "model": "qwen3.5:9b",
+      "thinking": false,
+      "maxOutputTokens": 4096
     }
   },
   "nodes": {

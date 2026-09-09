@@ -175,16 +175,19 @@ function buildPrompt(role, packet, maxPromptChars) {
   return `${ROLE_PROMPTS[role]}\n${bounded}`;
 }
 
-async function generate({ endpoint, model, prompt, timeoutMs, fetchImpl }) {
+async function generate({ endpoint, model, prompt, timeoutMs, fetchImpl, think = null, numPredict = null }) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), timeoutMs);
   const startedAt = Date.now();
   try {
+    const payload = { model, prompt, stream: false, options: { temperature: 0.2 } };
+    if (think === false) payload.think = false;
+    if (Number.isFinite(numPredict) && numPredict > 0) payload.options.num_predict = numPredict;
     const response = await fetchImpl(`${endpoint}/api/generate`, {
       method: "POST",
       signal: controller.signal,
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ model, prompt, stream: false, options: { temperature: 0.2 } }),
+      body: JSON.stringify(payload),
     });
     if (!response.ok) return { ok: false, error: `HTTP ${response.status}` };
     const body = await response.json();
@@ -223,6 +226,9 @@ export async function executeContentJobs({
   }
 
   const jobs = [];
+  const defaultMaxTokens = Number.isFinite(modelRouting.execution.maxOutputTokens)
+    ? modelRouting.execution.maxOutputTokens
+    : 4096;
   for (const role of ROLE_ORDER) {
     const entry = modelRouting.allowedRoles[role];
     const result = execute && preflight.ok
@@ -232,6 +238,8 @@ export async function executeContentJobs({
           prompt: buildPrompt(role, packetInput, maxPromptChars),
           timeoutMs: requestTimeoutMs,
           fetchImpl,
+          think: entry.thinking === false ? false : null,
+          numPredict: Number.isFinite(entry.maxOutputTokens) ? entry.maxOutputTokens : defaultMaxTokens,
         })
       : { ok: null, skipped: !execute ? "dry-run" : null };
     const record = {

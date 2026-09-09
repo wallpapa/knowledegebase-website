@@ -212,12 +212,39 @@ test("executor runs exactly the five ZH+EN master jobs in order on the right nod
   for (const call of generateCalls) {
     assert.equal(call.body.stream, false);
     assert.ok(["gemma3:4b", "qwen3.5:9b"].includes(call.body.model));
+    assert.ok(call.body.options.num_predict > 0);
   }
   const m2Calls = generateCalls.filter((call) => call.url.startsWith("http://127.0.0.1:11434"));
   const m5Calls = generateCalls.filter((call) => call.url.startsWith("http://127.0.0.1:11435"));
   assert.equal(m2Calls.length, 3);
   assert.equal(m5Calls.length, 2);
   assert.ok(m5Calls.every((call) => call.body.model === "qwen3.5:9b"));
+});
+
+test("synthesis roles can disable thinking mode and cap output tokens per role", async () => {
+  const fake = fakeOllama();
+  const contract = modelRouting();
+  contract.allowedRoles["zh-intent-synthesis"].thinking = false;
+  contract.allowedRoles["zh-intent-synthesis"].maxOutputTokens = 2048;
+  contract.execution.maxOutputTokens = 4096;
+  const result = await executeContentJobs({
+    packetInput: packet(),
+    routing,
+    modelRouting: contract,
+    execute: true,
+    fetchImpl: fake.fetchImpl,
+  });
+  assert.equal(result.failure, null);
+  const zhCall = fake.calls.find(
+    (call) => call.url.startsWith("http://127.0.0.1:11435") && call.body?.model === "qwen3.5:9b",
+  );
+  assert.equal(zhCall.body.think, false);
+  assert.equal(zhCall.body.options.num_predict, 2048);
+  const lightCall = fake.calls.find(
+    (call) => call.url.startsWith("http://127.0.0.1:11434") && call.body,
+  );
+  assert.equal(lightCall.body.think, undefined);
+  assert.equal(lightCall.body.options.num_predict, 4096);
 });
 
 test("a failed generation stops the pipeline and is reported fail-closed", async () => {
