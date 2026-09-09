@@ -1,0 +1,124 @@
+{
+ "schemaVersion": 1,
+ "backlogId": "clinic-blog-topic-backlog-ugc-2026-09-10",
+ "createdAt": "2026-09-10",
+ "source": "UGC/viral mining run (xhs keyword mining with scroll expansion; ugc-viral-insights-20260910.json)",
+ "topics": [
+  {
+   "id": "anti-hype-guide-what-not-to-do",
+   "sites": [
+    "waleeratclinic.com",
+    "verzoclinic.com",
+    "waleeratinternational.com"
+   ],
+   "titleEn": "What we DON'T recommend: an honest list from our doctors (three-yes-three-no budget guide)",
+   "titleZh": "三做三不做：医生亲写的'不推荐清单'（一年预算怎么花）",
+   "toc": [
+    "直接回答：这些情况我们不建议做",
+    "三做（证据充分的场景）",
+    "三不做（常见智商税场景）",
+    "预算怎么分配更聪明",
+    "FAQ"
+   ],
+   "faqs": [
+    "为什么诊所要写'不推荐'？",
+    "预算1万泰铢怎么规划？",
+    "怎么判断机构在过度营销？"
+   ],
+   "hashtags": [
+    "#三做三不做",
+    "#医美避坑",
+    "#曼谷医美",
+    "#变美思路"
+   ],
+   "directAnswer": "不是所有项目都适合所有人；本文列出医生真实不建议的场景与更聪明的预算分配。",
+   "medicalHigh": false,
+   "status": "candidate"
+  },
+  {
+   "id": "thermage-quality-checklist",
+   "sites": [
+    "waleeratclinic.com"
+   ],
+   "titleEn": "How to tell if your Thermage was done properly: a patient's quality checklist",
+   "titleZh": "怎么判断热玛吉打到位了？患者验收清单",
+   "toc": [
+    "直接回答：验收五个信号",
+    "打之前就要确认的事（正品/探头/发数）",
+    "当场验收：对照表",
+    "恢复期里程碑",
+    "FAQ"
+   ],
+   "faqs": [
+    "怎么验证探头是正品？",
+    "打完没效果怎么办？",
+    "多久看到效果峰值？"
+   ],
+   "hashtags": [
+    "#热玛吉",
+    "#验收清单",
+    "#正品验证",
+    "#抗衰"
+   ],
+   "directAnswer": "正品探头+合适发数+医生打法决定效果；当场记录治疗参数、按时间线验收（即刻紧致→1-3个月胶原重塑）。",
+   "medicalHigh": true,
+   "status": "candidate"
+  },
+  {
+   "id": "material-comparison-nose",
+   "sites": [
+    "waleeratclinic.com"
+   ],
+   "titleEn": "Nose augmentation materials compared: which holds shape without widening or shifting",
+   "titleZh": "隆鼻材料怎么选：不变宽、不移位、持久度对比",
+   "toc": [
+    "直接回答：材料机制决定稳定性",
+    "对比表：玻尿酸/线雕/微晶瓷/假体",
+    "'不变宽不移位'的真实含义",
+    "FAQ"
+   ],
+   "faqs": [
+    "玻尿酸打鼻子会变宽吗？",
+    "线雕隆鼻维持多久？",
+    "材料可以换着用吗？"
+   ],
+   "hashtags": [
+    "#隆鼻",
+    "#鼻部线雕",
+    "#微晶瓷",
+    "#材料对比"
+   ],
+   "directAnswer": "'不变宽不移位'取决于材料特性+医生技术+鼻部基础；对照表见文内。",
+   "medicalHigh": true,
+   "status": "candidate"
+  },
+  {
+   "id": "budget-planning-one-year",
+   "sites": [
+    "verzoclinic.com",
+    "waleeratinternational.com"
+   ],
+   "titleEn": "Planning a year of aesthetic care on a budget: what to do first, what to skip",
+   "titleZh": "一年变美预算规划：先做什么、缓做什么（三做三不做）",
+   "toc": [
+    "直接回答：先做'基础回报最高'的",
+    "预算分层：结构/肤质/维持",
+    "什么时候该等",
+    "FAQ"
+   ],
+   "faqs": [
+    "第一次医美先做什么？",
+    "预算有限先做哪个？",
+    "促销价可信吗？"
+   ],
+   "hashtags": [
+    "#变美思路",
+    "#医美预算",
+    "#曼谷医美"
+   ],
+   "directAnswer": "预算有限时先做证据最充分、回报最持久的基础项目；冲动促销与超出需求的组合是最常见浪费。",
+   "medicalHigh": false,
+   "status": "candidate"
+  }
+ ]
+}

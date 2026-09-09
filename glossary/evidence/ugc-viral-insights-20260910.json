@@ -1,0 +1,71 @@
+{
+ "scrapedAt": "2026-09-10T00:20+07:00",
+ "method": "UGC/viral mining: keyword searches 瘦脸针/医美/热玛吉/线雕 with scroll expansion; sorted by observed likes",
+ "viralInsights": {
+  "topUGC": [
+   {
+    "title": "应聘医美机构先考P图！起底医美种草产业链",
+    "likes": 7411,
+    "url": "https://www.rednote.com/discovery/item/6a9a67c70000000025035682",
+    "signal": "META-TREND: 用户对医美种草/P图造假的不信任达到高点 → 真实感/去包装化内容是最大机会"
+   },
+   {
+    "title": "一年一万块钱变美思路，三做三不做❗️❗",
+    "likes": 6678,
+    "url": "https://www.rednote.com/discovery/item/6a94e56c000000002003b5b0",
+    "signal": "BUDGET-FRAME: 年度预算+做/不做清单格式爆发 → 诊所内容应给出'不推荐清单'建立信任"
+   },
+   {
+    "title": "打鼻子，选什么材料？不变宽不移位！管的久",
+    "likes": 4386,
+    "url": "https://www.rednote.com/discovery/item/69b23b950000000009020d17",
+    "signal": "MATERIAL-COMPARISON: 材料对比(不变宽/不移位/持久)是鼻部核心决策词"
+   },
+   {
+    "title": "快收藏⚠️你不知道的瘦脸针全脸进阶打发！",
+    "likes": 4455,
+    "url": "https://www.rednote.com/discovery/item/6911ee98000000000302ca21",
+    "signal": "REPOSITIONING: 瘦脸针→全脸提升用法是热门知识缺口"
+   },
+   {
+    "title": "OMG…热玛吉已经能打出微调感了？",
+    "likes": 136,
+    "url": "https://www.rednote.com/discovery/item/6a994d97000000000b00d2d1",
+    "signal": "NEW-FRAME: 热玛吉'微调感'(subtle/natural)是新表述趋势"
+   },
+   {
+    "title": "怎么判断热玛吉打够打好了没？我来教你",
+    "likes": 34,
+    "url": "https://www.rednote.com/discovery/item/6a9fd039000000002601d992",
+    "signal": "QUALITY-CHECK: 教用户验收效果=强信任内容"
+   },
+   {
+    "title": "去包装化'这些再生材料+线雕'项目适合做吗",
+    "likes": 19,
+    "url": "https://www.rednote.com/discovery/item/6aa141360000000027017ae1",
+    "signal": "去包装化 word itself trending for regenerative+thread combos"
+   },
+   {
+    "title": "线雕是最被低估的提升项目",
+    "likes": 266,
+    "url": "https://www.rednote.com/discovery/item/6a7b3dce0000000005020512",
+    "signal": "UNDERRATED-FRAME: '被低估'叙事配合2026线雕回潮"
+   }
+  ],
+  "formats": [
+   "收藏体(快收藏⚠️)",
+   "坦白局/大实话",
+   "三做三不做清单",
+   "点位/剂量拆解(附剂量参考)",
+   "年份叙事(2026真正的线雕年)",
+   "避雷/翻车实录"
+  ],
+  "implications": [
+   "诊所内容应主动写'不推荐/不适合'清单 — 在种草造假焦虑期，反向内容最可信",
+   "所有文章带直接回答+验收标准(怎么判断做到位) — 呼应 quality-check trend",
+   "材料对比表(持久/移位/变宽)是搜索刚需",
+   "预算框架内容(一年一万变美思路)可本地化为'曼谷医美预算规划'",
+   "剂量/点位拆解由医生署名发布 = 专业度信号(不可由AI代写医疗细节)"
+  ]
+ }
+}
