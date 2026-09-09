@@ -41,6 +41,7 @@ function parseArgs(argv) {
     out: null,
     json: false,
     execute: false,
+    requestTimeoutMs: null,
     help: false,
   };
   for (let i = 0; i < argv.length; i += 1) {
@@ -51,10 +52,14 @@ function parseArgs(argv) {
     else if (token === "--out") args.out = path.resolve(argv[++i]);
     else if (token === "--json") args.json = true;
     else if (token === "--execute") args.execute = true;
+    else if (token === "--request-timeout-ms") args.requestTimeoutMs = Number(argv[++i]);
     else if (token === "--help" || token === "-h") args.help = true;
     else throw new Error(`Unknown argument: ${token}`);
   }
   if (!args.help && !args.packet) throw new Error("--packet is required");
+  if (args.requestTimeoutMs !== null && (!Number.isFinite(args.requestTimeoutMs) || args.requestTimeoutMs <= 0)) {
+    throw new Error("--request-timeout-ms must be a positive number");
+  }
   return args;
 }
 
@@ -72,6 +77,7 @@ Options:
   --model-routing PATH   Model routing contract (default: config/content-model-routing.json)
   --out PATH             Candidate output directory (default: outputs/content-jobs)
   --execute              Actually call Ollama. Without it, only preflight and plan.
+  --request-timeout-ms N Per-job model timeout (default: model routing execution.requestTimeoutMs)
   --json                 JSON output only
   -h, --help             Show help
 
@@ -309,6 +315,7 @@ async function main() {
     packetBytes,
     outDir: args.out || modelRouting.execution.candidateDirectory,
     execute: args.execute,
+    requestTimeoutMs: args.requestTimeoutMs ?? modelRouting.execution.requestTimeoutMs,
   });
   if (args.json) console.log(JSON.stringify(result, null, 2));
   else printHuman(result);

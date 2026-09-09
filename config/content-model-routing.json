@@ -11,7 +11,7 @@
     "outputMode": "append-only-candidate",
     "candidateDirectory": "outputs/content-jobs",
     "maximumConcurrentHeavyJobs": 1,
-    "requestTimeoutMs": 120000,
+    "requestTimeoutMs": 300000,
     "maxPromptChars": 24000
   },
   "allowedRoles": {
