@@ -1,0 +1,96 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-10T01:50+07:00",
+ "method": "6h cron run; DOM extraction",
+ "safetyBanner": "医疗美容有风险，请选择正规医美机构与执业医师",
+ "term": "少女针",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=少女针",
+ "relatedQueries": [
+  "日本",
+  "伊妍士",
+  "泰国",
+  "伊研仕",
+  "韧带提升",
+  "深圳",
+  "全部",
+  "香港",
+  "塑妍真",
+  "眉弓",
+  "鼻子",
+  "取出",
+  "亮爆镜",
+  "neue"
+ ],
+ "notes": [
+  {
+   "title": "伊妍仕，轮廓固定为什么非它不可？",
+   "author": "欧恩助理｜童颜美学",
+   "date": "09-02",
+   "likes": "5",
+   "url": "https://www.rednote.com/discovery/item/6a97d603000000002802dff9"
+  },
+  {
+   "title": "有懂得姐妹吗？帮我看看这个少女针是不是正",
+   "author": "萱萱",
+   "date": "06-24",
+   "likes": "23",
+   "url": "https://www.rednote.com/discovery/item/6a3b8555000000000f033a56"
+  },
+  {
+   "title": "少女针不踩坑 | 黄金部位+用量打法干货",
+   "author": "八大处整形梁雪冰",
+   "date": "06-27",
+   "likes": "39",
+   "url": "https://www.rednote.com/discovery/item/6a3faa8e000000001101a80b"
+  },
+  {
+   "title": "关于再生材料你可能感兴趣的",
+   "author": "皮肤科于泳医生",
+   "date": "06-08",
+   "likes": "62",
+   "url": "https://www.rednote.com/discovery/item/6a269bd3000000000803d36c"
+  },
+  {
+   "title": "见证伊妍仕少女针的迭代与新生",
+   "author": "刘冰 | 减法美学",
+   "date": "6天前",
+   "likes": "5",
+   "url": "https://www.rednote.com/discovery/item/6a9959e7000000002802d896"
+  },
+  {
+   "title": "少女针🪡童颜针🪡是智商税吗？一次性讲透！",
+   "author": "整形医生茹扎",
+   "date": "07-28",
+   "likes": "32",
+   "url": "https://www.rednote.com/discovery/item/6a68a832000000000a0388f9"
+  },
+  {
+   "title": "你的胶原 由骨至皮 解锁自然焕新「下一程」",
+   "author": "ELLANSE伊妍仕医疗器械",
+   "date": "07-27",
+   "likes": "11",
+   "url": "https://www.rednote.com/discovery/item/6a6724c20000000014004dc5"
+  },
+  {
+   "title": "科普 | 童颜针和少女针有什么区别？",
+   "author": "丽妍常医疗器械",
+   "date": "07-15",
+   "likes": "96",
+   "url": "https://www.rednote.com/discovery/item/6a5737b6000000001603fb53"
+  },
+  {
+   "title": "伊妍仕恒耀PRO新品首发 | 归来伊是少女",
+   "author": "ELLANSE伊妍仕医疗器械",
+   "date": "08-27",
+   "likes": "6",
+   "url": "https://www.rednote.com/discovery/item/6a8fd2cb0000000025039fd9"
+  },
+  {
+   "title": "是塑造骨相美的利器还是结节馒化的元凶？",
+   "author": "整形外科王朝辉",
+   "date": "01-02",
+   "likes": "152",
+   "url": "https://www.rednote.com/discovery/item/6954c258000000001e00d5fe"
+  }
+ ]
+}

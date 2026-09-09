@@ -1,0 +1,54 @@
+{
+ "schemaVersion": 1,
+ "backlogId": "clinic-blog-topic-backlog-cron-2026-09-10",
+ "createdAt": "2026-09-10",
+ "source": "6h cron run 01:50 (evidence xhs-{热玛吉,线雕,童颜针,少女针,微晶瓷,瘦脸针}-20260910.json)",
+ "topics": [
+  {
+   "id": "tongyan-one-bottle-protocol",
+   "sites": [
+    "waleeratclinic.com",
+    "verzoclinic.com"
+   ],
+   "titleEn": "One bottle of Sculptra: when a single-vial protocol is enough (and when it isn't)",
+   "titleZh": "童颜针打一瓶够吗？省量高阶打法与多瓶规划的边界",
+   "angle": "New dominant post tonight: 仅需一瓶童颜✅面部回春省量高阶打法 (1954 likes) — single-vial protocols are trending against the 多瓶 bundle push. Article answers honestly: who genuinely needs 1 vs 2-4 bottles (age, deficit, area), how to avoid overfill; ties to clinic's Program Sculptra 1+1 offering without claiming outcomes.",
+   "evidence": [
+    "xhs-童颜针-20260910.json: 仅需一瓶童颜 1954",
+    "xhs-童颜针-20260910.json: 九款童颜区别 1364"
+   ],
+   "medicalHigh": true,
+   "status": "candidate"
+  },
+  {
+   "id": "fangyuanlian-botox-warning",
+   "sites": [
+    "waleeratclinic.com"
+   ],
+   "titleEn": "Square/round face? Why jaw Botox can be the WRONG choice (and what suits you instead)",
+   "titleZh": "方圆脸千万不要打咬肌？——瘦脸针的适配边界",
+   "angle": "New top post tonight: 方圆脸女生！千万不要打咬肌 (5075 likes — highest this run) pushes BACK against reflex jaw-Botox for square faces. Article: honest suitability matrix (masseter vs bone vs fat vs skin), the sag/dent risks already in our evidence, when 下颌线/提升 beats 瘦脸. Positions clinic as the 'will tell you no' clinic per the anti-hype UGC trend.",
+   "evidence": [
+    "xhs-瘦脸针-20260910.json: 方圆脸千万不要打咬肌 5075",
+    "xhs-瘦脸针.json: 打了瘦脸针脸下垂了"
+   ],
+   "medicalHigh": true,
+   "status": "candidate"
+  },
+  {
+   "id": "caha-aftercare-risk-talk",
+   "sites": [
+    "waleeratclinic.com"
+   ],
+   "titleEn": "Already had CAHA (Radiesse)? What to watch for and when to come back",
+   "titleZh": "打过微晶瓷(CAHA)后要注意什么？复查与风险信号",
+   "angle": "New discourse tonight: 如果你已经冲了CAHA，一定要看这篇 (155 likes) + brand-history post (525) = aftercare/retention angle. Article: post-CAHA timeline (swelling vs nodule timelines), red-flag signs, why follow-up matters, removal realities from earlier evidence. Pure safety/aftercare positioning, zero scare-mongering.",
+   "evidence": [
+    "xhs-微晶瓷-20260910.json: 已经冲了CAHA 155",
+    "xhs-微晶瓷-20260910.json: 前世今生 525"
+   ],
+   "medicalHigh": true,
+   "status": "candidate"
+  }
+ ]
+}
