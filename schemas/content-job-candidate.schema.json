@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/wallpapa/knowledegebase-website/schemas/content-job-candidate.schema.json",
+  "title": "Local AI Content Job Candidate",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "jobId", "packetId", "role", "node", "status", "createdAt", "inputDigest", "output", "safety"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "jobId": { "type": "string", "minLength": 1 },
+    "packetId": { "type": "string", "minLength": 1 },
+    "role": { "type": "string", "minLength": 1 },
+    "node": { "enum": ["m2", "m5"] },
+    "model": { "type": ["string", "null"] },
+    "status": { "enum": ["planned", "machine-draft", "quarantined", "reviewed-candidate", "failed"] },
+    "createdAt": { "type": "string", "format": "date-time" },
+    "inputDigest": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+    "output": { "type": ["object", "array", "string", "null"] },
+    "safety": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["appendOnly", "sourceMutationAllowed", "publicWriteAllowed", "medicalApprovalGranted"],
+      "properties": {
+        "appendOnly": { "const": true },
+        "sourceMutationAllowed": { "const": false },
+        "publicWriteAllowed": { "const": false },
+        "medicalApprovalGranted": { "const": false }
+      }
+    },
+    "review": {
+      "type": ["object", "null"],
+      "additionalProperties": false,
+      "properties": {
+        "reviewer": { "type": "string" },
+        "verdict": { "enum": ["pass", "repair", "quarantine"] },
+        "notes": { "type": "array", "items": { "type": "string" } }
+      }
+    }
+  }
+}
