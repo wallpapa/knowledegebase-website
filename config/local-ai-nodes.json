@@ -81,6 +81,10 @@
     ],
     "blockedSharedRoutes": [
       {
+        "model": "qwen3:4b",
+        "reason": "Installed on clinic-m2 as a candidate, but the installed Ollama ignores think:false and /no_think for this model, so it reasons out loud and burns the whole num_predict cap instead of emitting bounded JSON. Do not route clinic light jobs to it until Ollama honors thinking controls; bge-m3 embeddings are unaffected."
+      },
+      {
         "model": "qwen3.8:27b-mlx",
         "reason": "Do not restore as a shared workflow route without new benchmark evidence; existing website workflow records repeated MLX runner shutdowns."
       },
