@@ -3,7 +3,7 @@
   "aliasMapId": "service-aliases",
   "generatedAt": "2026-09-09",
   "sourceGlossary": "glossary/th-en-zh-patient-aesthetic-terms.json",
-  "sourceDigest": "1e9dfa5e133ebb5942e237cc111d2a1c1d571470ac1b90062023118bc4ec9cbd",
+  "sourceDigest": "61e1e0d81ae90d9fcf60f971850bd378bbacf7bad02d98266370018750cdd8d4",
   "evidenceRule": "Only reviewState in {rednote-search-observed, site-published-zh, site-canonical, site-keyword, kb-observed-th} is exported. Discovery-grade, unverified and conflicting terms stay in the glossary only.",
   "consumers": [
     "Whisper repo scripts/sync-service-aliases-from-kb.mjs -> clinic_services.aliases (whisperchat.co/chat service matching)",
@@ -492,13 +492,15 @@
       "en": [
         "Pico Laser"
       ],
-      "zhHans": [],
+      "zhHans": [
+        "皮秒激光"
+      ],
       "excluded": [
         {
-          "term": "皮秒 / 皮秒激光",
+          "term": "皮秒",
           "lang": "zhHans",
-          "state": "discovery-confirmed + site-published-zh (皮秒激光 Program)",
-          "reason": "discovery-confirmed + site-published-zh (皮秒激光 Program)"
+          "state": "discovery-confirmed",
+          "reason": "discovery-confirmed"
         },
         {
           "term": "蜂巢皮秒",

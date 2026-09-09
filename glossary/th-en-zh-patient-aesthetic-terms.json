@@ -836,12 +836,19 @@
       ],
       "zhHans": [
         {
-          "term": "皮秒 / 皮秒激光",
-          "register": "generic pico term",
-          "reviewState": "discovery-confirmed + site-published-zh (皮秒激光 Program)",
+          "term": "皮秒激光",
+          "register": "site-published program name",
+          "reviewState": "site-published-zh",
           "evidence": [
-            "evidence/q07-pico.json — estclinic.com.au, northsidedermatology.com.au, ai-beauty.co",
             "sites/waleeratclinic.com/llms.txt — zh program: 皮秒激光 Program"
+          ]
+        },
+        {
+          "term": "皮秒",
+          "register": "generic short form",
+          "reviewState": "discovery-confirmed",
+          "evidence": [
+            "evidence/q07-pico.json — estclinic.com.au, ai-beauty.co"
           ]
         },
         {
@@ -849,7 +856,7 @@
           "meaning": "honeycomb-lens PicoSure specifically (NOT generic)",
           "reviewState": "discovery-confirmed",
           "evidence": [
-            "evidence/q07-pico.json — estclinic.com.au ('赛诺秀蜂巢皮秒（PicoSure）'), northsidedermatology.com.au"
+            "evidence/q07-pico.json"
           ]
         }
       ],
