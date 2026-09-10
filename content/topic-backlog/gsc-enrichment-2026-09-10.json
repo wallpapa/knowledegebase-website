@@ -1,0 +1,153 @@
+{
+ "schemaVersion": 1,
+ "gscEnrichment": "2026-09-10",
+ "sources": "GSC exports: waleeratclinic 2026-05-17 (1000q), verzoclinic 2026-06-22 (1000q), waleeratinternational 2026-08-27 (1000q)",
+ "intentHierarchy": [
+  {
+   "rank": 1,
+   "intent": "price",
+   "signals": "รีจูรัน ราคา 3001i/78c, juvelook ราคา 6126i/77c, rejuran ราคา 3710i/51c, oligio x ราคา 465i, xeomin price bangkok 726i/0c",
+   "action": "every hub page + article must carry current price ranges with 'last verified' dates; gaps on xeomin/oligio are urgent (0 clicks)"
+  },
+  {
+   "rank": 2,
+   "intent": "what-is",
+   "signals": "rejuran คือ 3814i/100c, neofilera คือ 2474i/53c, belluxi คือ 184i",
+   "action": "direct-answer openings must literally define the product in patient language (คืออะไร pattern)"
+  },
+  {
+   "rank": 3,
+   "intent": "comparison",
+   "signals": "juvelook vs rejuran 6344i/183c (!), radiesse vs sculptra 2611i, ejal40 vs profhilo 271i, vitaran vs rejuran 369i, lenisna vs sculptra 491i",
+   "action": "comparison articles are the #1 non-brand traffic driver; juvelook-vs-rejuran is a 6344i monster already ranking — enrich it, plus create missing lenisna/vitaran/ejal40 comparisons"
+  },
+  {
+   "rank": 4,
+   "intent": "geo/booking",
+   "signals": "botox bangkok 1324i/0c (!), botox in bangkok 428i/0c, snow white bangkok 339i/0c, juvelook bangkok 506i/0c",
+   "action": "verzo is invisible for 'X bangkok' patterns — geo-suffix pages/posts needed"
+  },
+  {
+   "rank": 5,
+   "intent": "thai-area-queries",
+   "signals": "ฟิลเลอร์ 9482i/0c (!), ฟิลเลอร์คาง 5480i/0c, ฟิลเลอร์แก้มตอบ 4401i, ตาสองชั้นหลบใน 862i, เลเซอร์ปาก 475i",
+   "action": "waleeratclinic has HUGE unmet Thai-language demand: filler area guides, ปลูกผม 7044i (we DON'T offer - needs decision), double-eyelid"
+  },
+  {
+   "rank": 6,
+   "intent": "brand-product",
+   "signals": "ulthera 9838i/1c (!!), sculptra 7698i/2c, ปลูกผม fue 5331i/0c, ฟิลเลอร์ restylane 4304i/1c",
+   "action": "ulthera page exists but nearly zero CTR — title/meta rewrite urgent; sculptra same"
+  }
+ ],
+ "contentGapsUrgent": [
+  {
+   "query": "ulthera",
+   "impr": 9838,
+   "clicks": 1,
+   "site": "waleeratclinic.com",
+   "fix": "title/meta/direct-answer rewrite on Ulthera page — 10k impressions getting 1 click"
+  },
+  {
+   "query": "ฟิลเลอร์",
+   "impr": 9482,
+   "clicks": 0,
+   "site": "waleeratclinic.com",
+   "fix": "Thai filler hub page (area-specific: คาง/แก้มตอบ/ใต้ตา)"
+  },
+  {
+   "query": "sculptra",
+   "impr": 7698,
+   "clicks": 2,
+   "site": "waleeratclinic.com",
+   "fix": "Sculptra page rewrite (Thai+EN direct answer)"
+  },
+  {
+   "query": "botox bangkok",
+   "impr": 1324,
+   "clicks": 0,
+   "site": "verzoclinic.com",
+   "fix": "Botox geo page for verzo (has Allergan/Xeomin/Hutox/Nabota)"
+  },
+  {
+   "query": "xeomin price bangkok",
+   "impr": 726,
+   "clicks": 0,
+   "site": "verzoclinic.com",
+   "fix": "Xeomin price page (catalog has it)"
+  },
+  {
+   "query": "juvelook bangkok / juvelook ราคา",
+   "impr": 995,
+   "clicks": 1,
+   "site": "waleeratinternational.com",
+   "fix": "Juvelook price + Bangkok page on wlri"
+  },
+  {
+   "query": "ตาสองชั้นหลบใน",
+   "impr": 862,
+   "clicks": 0,
+   "site": "waleeratinternational.com",
+   "fix": "Ptosis/hidden-eyelid page (clinic offers ptosis treatment)"
+  },
+  {
+   "query": "เลเซอร์ปากชมพู ราคา",
+   "impr": 196,
+   "clicks": 5,
+   "site": "waleeratinternational.com",
+   "fix": "Pink-lips laser page exists — optimize title for ราคา intent"
+  }
+ ],
+ "faqSetsFromGSC": {
+  "pdrn-science (Rejuran/丽珠兰)": [
+   "rejuran คืออะไร",
+   "rejuran ราคา",
+   "rejuran กี่ cc ดี",
+   "รีจูรัน อยู่กี่วัน",
+   "rejuran vs vitaran",
+   "juvelook vs rejuran"
+  ],
+  "regen-vs-ha (Sculptra/Radiesse)": [
+   "radiesse vs sculptra",
+   "sculptra ราคา",
+   "lenisna vs sculptra",
+   "radiesse plus ต่างจาก radiesse อย่างไร",
+   "belluxi คือ",
+   "belluxi ราคา"
+  ],
+  "glp1-face": [
+   "sculptra vs profhilo price",
+   "หน้าตอบ หลังลดน้ำหนัก",
+   "ฟิลเลอร์แก้มตอบ"
+  ],
+  "mens-aesthetics": [
+   "botox bangkok",
+   "botox in bangkok",
+   "xeomin price bangkok"
+  ],
+  "thermage-checklist": [
+   "oligio x ราคา",
+   "oligio x bangkok price",
+   "thermage เจ็บไหม"
+  ],
+  "nose-shadow-vs-thread": [
+   "ฟิลเลอร์ จมูก",
+   "เลเซอร์ปากชมพู ราคา"
+  ]
+ },
+ "notOfferedButHighDemand": [
+  {
+   "q": "ปลูกผม",
+   "impr": 7044
+  },
+  {
+   "q": "ปลูกผม fue",
+   "impr": 5331
+  },
+  {
+   "q": "ตาสองชั้นหลบใน",
+   "impr": 862
+  }
+ ],
+ "decision": "ปลูกผม (hair transplant) queries = 12k+ impressions NOT served — owner decision: add service, partner, or write 'we don't offer but here's what to look for' page. ตาสองชั้นหลบใน = ptosis, clinic DOES offer"
+}
