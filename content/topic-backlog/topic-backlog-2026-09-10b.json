@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "backlogId": "clinic-blog-topic-backlog-2026-09-10b-rejuran-aftercare",
+  "createdAt": "2026-09-10",
+  "source": "E2E hidden-pane rednote run 23:33 (evidence xhs-丽珠兰-20260910.json; sole eligible term — 丽珠兰/韩版热玛吉/保妥适 passed 24h at 19:02, this run tested 丽珠兰 only)",
+  "topics": [
+    {
+      "id": "rejuran-aftercare-bruising",
+      "sites": [
+        "waleeratclinic.com",
+        "verzoclinic.com"
+      ],
+      "titleEn": "Rejuran aftercare: bruising, swelling and the first 72 hours — what patients are actually asking",
+      "titleZh": "丽珠兰术后怎么办：淤青、肿胀与头72小时护理",
+      "angle": "Material change 2026-09-10: related-query chips gained aftercare terms 术后 (post-procedure), 淤青 (bruising), 棉片 (cotton pads), 再生霜 (regenerating cream) — none present in the 2026-09-09 chip set. Patient discourse for 丽珠兰 has shifted from product selection into recovery. Article: day-0/1/2/3 aftercare timeline, normal vs concerning bruising, when makeup/cotton pads are OK, what 再生霜-type topicals actually do post-injection, and when to contact the clinic. Distinct from rejuran-naming-clarification (naming) and pdrn-rejuran-science (mechanism) — this is the recovery-intent gap. New top post (金惠蘭 rani, 1430 likes) and 千葉由佳 (783) indicate JP-audience K-beauty crossover interest; zh-first, then en.",
+      "evidence": [
+        "xhs-丽珠兰-20260910.json: relatedQueries 术后/淤青/棉片/再生霜 (new vs 2026-09-09)",
+        "xhs-丽珠兰-20260910.json: 金惠蘭 rani 1430 likes (69bba7ec)",
+        "xhs-丽珠兰-20260910.json: 千葉由佳 chibayuka 783 likes (6a4e28d2)",
+        "xhs-丽珠兰-20260909.json: baseline chips had no aftercare terms"
+      ],
+      "medicalHigh": true,
+      "status": "candidate"
+    }
+  ]
+}

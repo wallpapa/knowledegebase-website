@@ -582,9 +582,10 @@
           "meaning": "brand transliteration",
           "reviewState": "rednote-search-observed",
           "evidence": [
-            "evidence/xhs-丽珠兰-20260909.json"
+            "evidence/xhs-丽珠兰-20260909.json",
+            "evidence/xhs-丽珠兰-20260910.json"
           ],
-          "usageNote": "Confirmed live: brand-transliteration posts + HQ-visit content; variants seen: 丽驻兰, 黑盒/红盒/眼部白盒 product-line words, PDRN technical term, related chip 三文鱼."
+          "usageNote": "Confirmed live: brand-transliteration posts + HQ-visit content; variants seen: 丽驻兰, 黑盒/红盒/眼部白盒 product-line words, PDRN technical term, related chip 三文鱼. 2026-09-10 re-check added aftercare chips 术后/淤青 — patient concern extends to recovery, not just product choice."
         },
         {
           "term": "三文鱼针",

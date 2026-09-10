@@ -1,0 +1,97 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in, hidden pane)",
+ "observedAt": "2026-09-10T23:36+07:00",
+ "method": "E2E test of no-contention hidden-pane run: visibility capability set(false) verified before scrape; new controlled tab; direct URL navigation per keyword; domcontentloaded + 2.5s wait; overlay removal; evaluate() extraction of top-10 note cards + related chips. Raw observation, no page content edited. Tab closed after scrape; visibility re-verified hidden.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师 (medical aesthetics has risks; choose a licensed institution and licensed physician).",
+ "term": "丽珠兰",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=丽珠兰",
+ "comparisonWithPrevious": "vs xhs-丽珠兰-20260909.json: MATERIAL CHANGE — 3 of 10 notes persist (乐乐 6970a9f6 196→197 likes, EUNCHAE恩彩 6a1d947f, 查理 6a116470); 7 new. New top post: 金惠蘭 rani 1430 likes (69bba7ec, 03-19); second new high: 千葉由佳 chibayuka 783 (6a4e28d2, 07-08) — JP-named K-beauty accounts now hold both top slots. Related chips gained aftercare terms: 术后 (post-procedure), 淤青 (bruising), 棉片 (cotton pads), 再生霜 (regenerating cream) — patient discourse extends from product choice into recovery. 黑盒 replaced 红盒 in chips. NOTE: aria-labels absent this render, so note titles were not captured (author/date/likes/id were).",
+ "relatedQueries": [
+  "黑盒",
+  "作用",
+  "护肤品",
+  "面霜",
+  "水光",
+  "眼部白盒",
+  "再生霜",
+  "精华",
+  "效果对比",
+  "院线系列",
+  "术后",
+  "三文鱼",
+  "棉片",
+  "淤青"
+ ],
+ "notes": [
+  {
+   "title": "",
+   "author": "EUNCHAE恩彩",
+   "date": "06-01",
+   "likes": "34",
+   "url": "https://www.rednote.com/discovery/item/6a1d947f000000003502a565"
+  },
+  {
+   "title": "",
+   "author": "糖糖爱设计",
+   "date": "07-16",
+   "likes": "2",
+   "url": "https://www.rednote.com/discovery/item/6a4e26ea0000000006022152"
+  },
+  {
+   "title": "",
+   "author": "reyoung_canshi",
+   "date": "06-12",
+   "likes": "7",
+   "url": "https://www.rednote.com/discovery/item/6a29037100000000070218d3"
+  },
+  {
+   "title": "",
+   "author": "reyoung_canshi",
+   "date": "06-09",
+   "likes": "12",
+   "url": "https://www.rednote.com/discovery/item/6a27e46e00000000210166ad"
+  },
+  {
+   "title": "",
+   "author": "乐乐",
+   "date": "01-21",
+   "likes": "197",
+   "url": "https://www.rednote.com/discovery/item/6970a9f6000000002103de02"
+  },
+  {
+   "title": "",
+   "author": "嘉嘉和可乐(Jiajia & Cola)",
+   "date": "",
+   "likes": "",
+   "url": "https://www.rednote.com/discovery/item/6aa2db71000000001401c606"
+  },
+  {
+   "title": "",
+   "author": "查理",
+   "date": "05-23",
+   "likes": "80",
+   "url": "https://www.rednote.com/discovery/item/6a1164700000000035030719"
+  },
+  {
+   "title": "",
+   "author": "金惠蘭 rani",
+   "date": "03-19",
+   "likes": "1430",
+   "url": "https://www.rednote.com/discovery/item/69bba7ec000000002b00d8ce"
+  },
+  {
+   "title": "",
+   "author": "千葉由佳 chibayuka",
+   "date": "07-08",
+   "likes": "783",
+   "url": "https://www.rednote.com/discovery/item/6a4e28d20000000008033ee9"
+  },
+  {
+   "title": "",
+   "author": "Luna",
+   "date": "06-24",
+   "likes": "10",
+   "url": "https://www.rednote.com/discovery/item/6a3ba7e1000000000e03f400"
+  }
+ ]
+}
