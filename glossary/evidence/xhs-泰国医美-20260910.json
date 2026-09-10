@@ -1,0 +1,64 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-10T07:05+07:00",
+ "method": "6h cron run; DOM extraction",
+ "safetyBanner": "医疗美容有风险，请选择正规医美机构与执业医师",
+ "term": "泰国医美",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=泰国医美",
+ "relatedQueries": [
+  "Appeal",
+  "Got it",
+  "Me Got it"
+ ],
+ "notes": [
+  {
+   "title": "曼谷变美日记",
+   "author": "泰国SET明月",
+   "date": "2天前",
+   "likes": "24",
+   "url": "https://www.rednote.com/discovery/item/6a9e8efd000000001401369c"
+  },
+  {
+   "title": "避雷🇹🇭yanhee燕喜医院",
+   "author": "小红薯665F3958",
+   "date": "08-11",
+   "likes": "7",
+   "url": "https://www.rednote.com/discovery/item/6a7a93a5000000002500efb8"
+  },
+  {
+   "title": "小测试｜KKC医生老师的手，到底有多稳？",
+   "author": "KKC Aesthetic TH",
+   "date": "07-08",
+   "likes": "4",
+   "url": "https://www.rednote.com/discovery/item/6a47590200000000200382e9"
+  },
+  {
+   "title": "泰国曼谷KKC👍",
+   "author": "YY",
+   "date": "06-10",
+   "likes": "8",
+   "url": "https://www.rednote.com/discovery/item/6a290a2e00000000210201c4"
+  },
+  {
+   "title": "泰国警官肇逃，网红曼谷医美身亡",
+   "author": "Sothai",
+   "date": "3天前",
+   "likes": "19",
+   "url": "https://www.rednote.com/discovery/item/6a9d79bd000000002600a441"
+  },
+  {
+   "title": "泰国无毛男士在The Klinique | 第二集 🎬",
+   "author": "THE KLINIQUE美学",
+   "date": "昨天 14:38",
+   "likes": "4",
+   "url": "https://www.rednote.com/discovery/item/6aa0fefa0000000019026a8b"
+  },
+  {
+   "title": "🇹🇭曼谷Onda｜配得上每一位远道而来的信任",
+   "author": "曼谷Secret皮肤管理店",
+   "date": "6天前",
+   "likes": "5",
+   "url": "https://www.rednote.com/discovery/item/6a992ac8000000002802b684"
+  }
+ ]
+}
