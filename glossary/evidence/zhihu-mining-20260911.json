@@ -1,0 +1,20 @@
+{
+ "platform": "Zhihu 开放平台 CLI (search zhihu, official API)",
+ "observedAt": "2026-09-11T01:50+07:00",
+ "method": "zhihu-cli search zhihu --count 8 x 7 queries; raw JSON in agent-mesh/out/2026-09-11-overnight-zh/zhihu/",
+ "queries": ["水光针 值得吗 避坑", "热玛吉 后悔 体验", "童颜针 一瓶 效果", "丽珠兰 术后", "泰国 医美 攻略 避坑", "热玛吉 多少钱 价格", "医美 新手 顺序 项目"],
+ "questionPatterns": {
+  "水光针": ["打水光针皮肤真的会变好吗", "有些情况越打越差", "长期打会有什么后遗症", "智商税", "是否值得打"],
+  "热玛吉": ["做完热玛吉后遗症脸垮了", "我后悔了", "做完为什么没效果 踩坑", "没人提前告诉你的代价", "多少钱/单部位价格表"],
+  "童颜针": ["别瞎填 深度扒皮 少女针/玻尿酸/胶原/童颜针", "为什么劝你谨慎 童颜全脸韧带提升", "十多款童颜针 选产品还是选医生", "塑妍萃 唯一获批中面部适应症", "艾塑菲 成分/复配/注意事项"],
+  "丽珠兰": ["黑盒术后反馈", "白瓷针和黑盒的区别", "红盒白盒蓝盒黑盒3+3使用说明大全", "3+3注意事项"],
+  "赴泰医美": ["赴泰医美避坑指南 曼谷选诊所认准这几点", "曼谷高端医美怎么选 消费者真实纠结", "把医美安排进泰国旅行", "competitor named: KKC"],
+  "新手路径": ["第一次做医美 先别上强度 3个适合新手的项目", "做脸顺序很重要", "第一次做医美 做些什么项目"]
+ },
+ "reading": "Zhihu discourse is MORE skeptical than Rednote: fear/regret/worth-it framing dominates; Thailand-clinic questions exist with clinic-selection checklists and named competitors — direct content gap for our 曼谷 clinic pages.",
+ "implications": [
+  "zh blog should answer fear first (安全/反悔/踩坑) before benefits",
+  "丽珠兰 product-line encyclopedia (盒 series) = selector content",
+  "赴泰医美 checklist content = our highest-intent geo page; must include license-verification steps (TH FDA) to match the 避坑 genre"
+ ]
+}

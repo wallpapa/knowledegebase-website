@@ -1,0 +1,88 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in, hidden pane)",
+ "observedAt": "2026-09-11T02:00+07:00",
+ "method": "Hidden-pane overnight deep-research run; aria-labels absent (titles empty); author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote medical search banner: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "微晶瓷",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=微晶瓷",
+ "comparisonWithPrevious": "vs xhs-微晶瓷-20260910.json: MATERIAL CHANGE — chips now site-specific (鼻基底/下巴/眉弓/口周/额头/泪沟/法令纹) + brand word 瑞德喜 (Radiesse) + 副作用/恢复期/价格; top posts include 异物取出医生 (removal discourse). 优利沃斯CLINIC 525.",
+ "relatedQueries": [
+  "鼻基底",
+  "下巴",
+  "填充",
+  "眉弓",
+  "恢复期",
+  "副作用",
+  "痘坑",
+  "口周",
+  "额头",
+  "面部提升",
+  "瑞德喜",
+  "泪沟",
+  "效果",
+  "法令纹",
+  "价格"
+ ],
+ "notes": [
+  {
+   "author": "陈向东教授",
+   "date": "05-26",
+   "likes": "19",
+   "url": "https://www.rednote.com/discovery/item/691abefb0000000007023646"
+  },
+  {
+   "author": "优利沃斯CLINIC",
+   "date": "2025-11-03",
+   "likes": "525",
+   "url": "https://www.rednote.com/discovery/item/68e4c763000000000301cc89"
+  },
+  {
+   "author": "碳烤小乳猪",
+   "date": "",
+   "likes": "1",
+   "url": "https://www.rednote.com/discovery/item/6aa27daa000000000d026a05"
+  },
+  {
+   "author": "周云超异物取出医生",
+   "date": "08-10",
+   "likes": "3",
+   "url": "https://www.rednote.com/discovery/item/6a799783000000002402f215"
+  },
+  {
+   "author": "王永书",
+   "date": "02-07",
+   "likes": "273",
+   "url": "https://www.rednote.com/discovery/item/696101a4000000000d008d0e"
+  },
+  {
+   "author": "尹泰彬小助理",
+   "date": "2天前",
+   "likes": "1",
+   "url": "https://www.rednote.com/discovery/item/6a9fbfec0000000026014f16"
+  },
+  {
+   "author": "王曼姬🏅（预约在这）",
+   "date": "2025-11-03",
+   "likes": "23",
+   "url": "https://www.rednote.com/discovery/item/690081c800000000030137ca"
+  },
+  {
+   "author": "乐道护肤正品",
+   "date": "1天前",
+   "likes": "1",
+   "url": "https://www.rednote.com/discovery/item/6a3374b6000000001102ca5e"
+  },
+  {
+   "author": "碧爱丽思JN | 美容咨询",
+   "date": "07-24",
+   "likes": "3",
+   "url": "https://www.rednote.com/discovery/item/6a631d12000000001c00fc02"
+  },
+  {
+   "author": "皮肤科于泳医生",
+   "date": "06-08",
+   "likes": "62",
+   "url": "https://www.rednote.com/discovery/item/6a269bd3000000000803d36c"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in, hidden pane)",
+ "observedAt": "2026-09-11T02:00+07:00",
+ "method": "Hidden-pane overnight deep-research run; aria-labels absent (titles empty); author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote medical search banner: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "童颜针",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=童颜针",
+ "comparisonWithPrevious": "vs xhs-童颜针-20260910.json: MATERIAL CHANGE — chips exploded with brand/price-war/cross-border discourse: 牌子排名, 爱唯缇/普丽妍/时凝萃/德美颜/悦雅颜 (5 brands), 澳门/香港 (cross-border treatment intent), 新氧 (price-war platform), pdlla, 韧带提升, 肿胀期, 按摩手法. Top: 张越越助理丨胶原童颜扣 1956.",
+ "relatedQueries": [
+  "澳门",
+  "香港",
+  "真实反馈",
+  "牌子排名",
+  "爱唯缇",
+  "普丽妍",
+  "韧带提升",
+  "新氧",
+  "时凝萃",
+  "德美颜",
+  "太阳穴",
+  "按摩手法",
+  "悦雅颜",
+  "pdlla",
+  "肿胀期"
+ ],
+ "notes": [
+  {
+   "author": "张越越助理丨胶原童颜扣",
+   "date": "08-21",
+   "likes": "1956",
+   "url": "https://www.rednote.com/discovery/item/6a0c18a50000000035026910"
+  },
+  {
+   "author": "整形外科王朝辉",
+   "date": "09-01",
+   "likes": "48",
+   "url": "https://www.rednote.com/discovery/item/6a96ba8a0000000026016c7f"
+  },
+  {
+   "author": "八大处整形梁雪冰",
+   "date": "04-16",
+   "likes": "113",
+   "url": "https://www.rednote.com/discovery/item/69e0bd5a000000002301323b"
+  },
+  {
+   "author": "整形外科王朝辉",
+   "date": "08-01",
+   "likes": "71",
+   "url": "https://www.rednote.com/discovery/item/6a6d9a670000000028001f39"
+  },
+  {
+   "author": "李花停高阶审美小助理Redream",
+   "date": "06-09",
+   "likes": "992",
+   "url": "https://www.rednote.com/discovery/item/6a27e73000000000220191be"
+  },
+  {
+   "author": "八大处整形梁雪冰",
+   "date": "06-29",
+   "likes": "68",
+   "url": "https://www.rednote.com/discovery/item/6a424dc4000000001101d701"
+  },
+  {
+   "author": "八大处整形梁雪冰",
+   "date": "07-28",
+   "likes": "62",
+   "url": "https://www.rednote.com/discovery/item/6a6889a8000000001102ca04"
+  },
+  {
+   "author": "整形外科王朝辉",
+   "date": "2025-09-26",
+   "likes": "178",
+   "url": "https://www.rednote.com/discovery/item/68d369790000000013013c15"
+  },
+  {
+   "author": "张歌",
+   "date": "2025-12-31",
+   "likes": "175",
+   "url": "https://www.rednote.com/discovery/item/69551c20000000001e0113aa"
+  },
+  {
+   "author": "上海九院周双白",
+   "date": "2天前",
+   "likes": "15",
+   "url": "https://www.rednote.com/discovery/item/6a9f87de000000002803b0a5"
+  }
+ ]
+}

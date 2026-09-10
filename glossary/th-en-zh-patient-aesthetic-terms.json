@@ -443,7 +443,8 @@
           "register": "the established nickname for Sculptra (PLLA, Galderma)",
           "reviewState": "rednote-search-observed",
           "evidence": [
-            "evidence/xhs-童颜针.json"
+            "evidence/xhs-童颜针.json",
+            "evidence/xhs-童颜针-20260911.json"
           ],
           "usageNote": "Brand ecosystem in related chips: 塑妍萃/爱唯缇/时凝萃/普丽妍/德美颜/悦雅颜 — bind a specific brand name ONLY after manufacturer-level verification; 童颜针 alone is the safe generic."
         }
@@ -481,7 +482,8 @@
           "register": "dominant nickname (calcium-hydroxyapatite microspheres)",
           "reviewState": "rednote-search-observed",
           "evidence": [
-            "evidence/xhs-微晶瓷.json"
+            "evidence/xhs-微晶瓷.json",
+            "evidence/xhs-微晶瓷-20260911.json"
           ],
           "usageNote": "Observed transliterations: 瑞德喜 (dominant) and 芮得怡; contour areas in related chips: 鼻基底/下巴/眉弓/额头; also 取出 (removal) and 痘坑 discourse."
         },

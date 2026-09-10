@@ -1,0 +1,26 @@
+{
+ "platform": "Tavily web search (CN news media)",
+ "observedAt": "2026-09-11T01:55+07:00",
+ "method": "tvly search: 医美 避坑 低价 陷阱 新氧 2026 + 微博 医美 话题; raw results kept here",
+ "query": "CN medical-aesthetics price war + consumer-protection discourse, fresh 2026",
+ "keyFindings": [
+  "2026-09-01 观察者网: price war downstream→upstream; 新氧 2999元 奇迹童颜3.0 vs 16800-18800 厂商控价; 普丽妍/艾维岚/弗缦 cut supply to 新氧 then partially restored 2026初",
+  "2025 NMPA issued 52 class-III device certs (玻尿酸25/胶原7/童颜针5/少女针2) — product scarcity era over; 爱美客嗨体 line -20.5%, 华熙 -22.3%, 昊海玻尿酸 -41.5% (2026H1)",
+  "低价引流客户升单率仅8-12%; 轻医美单客获客成本 2000-5000元",
+  "2026-03-25 新华网/北京青年报: 海淀法院 医美踩坑案例 (无资质三倍赔偿; 泪沟/除皱 at home = 黑医美); advise 卫健委官网核验执照",
+  "2026-06 21经济网: 新氧 从流量平台转自营连锁 54家; 央视3·15曝光外泌体乱象; 更强监管周期",
+  "Weibo backdrop (older): 热玛吉话题 9.6亿阅读量 (2021 peak); counterfeit 热玛吉 institution sweep"
+ ],
+ "patientFacingAngle": [
+  "同款童颜针为什么价格差5倍 — 低价背后: 来源/渠道/医生/机构成本, cross-border buyers ask the same about Thailand",
+  "低价医美的隐藏成本 — 升单套路/假货/无资质 (court cases)",
+  "如何用官方渠道自查 — NMPA/卫健委 lookups (TH equivalent: FDA Thailand license, สบส list)"
+ ],
+ "results": "see tavily response in session; key URLs: guancha.cn 2026_09_01_829610, stcn.com 3359057, news.cn 20260325, 21jingji 20260616",
+ "sources": [
+  "https://www.guancha.cn/guanjiankang/2026_09_01_829610.shtml",
+  "https://stcn.com/article/detail/3359057.html",
+  "https://www.news.cn/fashion/20260325/2eaa48531f8642fc85baf2ace7fef324/c.html",
+  "https://www.21jingji.com/article/20260616/herald/5ebe835a6f1e377c57db9f4e22d890da.html"
+ ]
+}
