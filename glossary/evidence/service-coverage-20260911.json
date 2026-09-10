@@ -1,0 +1,295 @@
+{
+ "schemaVersion": 1,
+ "runId": "overnight-zh-2026-09-11 service-coverage",
+ "totalServices": 65,
+ "forbiddenCheck": "0 of 65 map to prohibited CN-name families (美白针/谷胱甘肽/熊果苷/溶脂针/外泌体/干细胞/富血小板血浆) — verified against serviceChineseNames.ts built-in rules",
+ "buckets": {
+  "电波拉皮": {
+   "services": [
+    "thermage-flx",
+    "oligio-x"
+   ],
+   "coverage": "KB: 热玛吉+韩版热玛吉 evidence; verzo thermage article + checklist backlog",
+   "questionPatterns": []
+  },
+  "超声刀": {
+   "services": [
+    "ultherapy",
+    "ulthera-prime"
+   ],
+   "coverage": "KB: 超声刀+超声炮 evidence (09-10)",
+   "questionPatterns": []
+  },
+  "海芙": {
+   "services": [
+    "ultraformer-iii",
+    "ultraformer-mpt"
+   ],
+   "coverage": "KB: none — covered by generic 超声刀 discourse; NOT 超声炮 mapping rule in file",
+   "questionPatterns": []
+  },
+  "激光": {
+   "services": [
+    "laser-therapy"
+   ],
+   "coverage": "covered by 皮秒 patterns (laser category)",
+   "questionPatterns": []
+  },
+  "皮秒": {
+   "services": [
+    "laser-therapy/pico-laser"
+   ],
+   "coverage": "THIS run: 副作用/肤质适配 patterns captured",
+   "questionPatterns": [
+    "有没有谁做过皮秒祛斑,效果如何? - 知乎",
+    "衢州夏天晒斑反复?倪良方医生谈皮秒激光个体化淡斑新思路 - 知乎",
+    "皮秒的副作用和危害?一篇说清不焦虑~ - 知乎",
+    "皮秒vs激光淡斑:不同肤质适配方案2026版 - 知乎"
+   ]
+  },
+  "肉毒": {
+   "services": [
+    "botox",
+    "botox/allergan",
+    "botox/dysport",
+    "botox/xeomin",
+    "botox/nabota",
+    "botox/hutox"
+   ],
+   "coverage": "KB: 保妥适+瘦脸针 evidence + botox-vial-verification draft 06",
+   "questionPatterns": []
+  },
+  "玻尿酸": {
+   "services": [
+    "fillers",
+    "fillers-list",
+    "fillers/juvederm-xc",
+    "fillers/juvederm-voluma",
+    "fillers/restylane",
+    "fillers/neuramis",
+    "fillers/teosyal",
+    "fillers/saypha",
+    "fillers/ultra-v",
+    "fillers/pluryal-biosculpture",
+    "skinbooster/ejal40",
+    "biostimulators/elravie"
+   ],
+   "coverage": "KB: 乔雅露 evidence only — THIS run adds brand-selection patterns",
+   "questionPatterns": [
+    "注射玻尿酸应该怎么选?常见玻尿酸品牌解析,哪款才是性价比之王? - 知乎",
+    "玻尿酸全品类科普+各品牌优缺点|一文看懂怎么选不踩坑 - 知乎",
+    "成都新丽美何珊珊院长微调自然吗?含奢芙雅/乔雅登、瑞蓝解析 - 知乎",
+    "玻尿酸注射哪个好 - 知乎"
+   ]
+  },
+  "水光针": {
+   "services": [
+    "fillers/skinvive",
+    "fillers/dorothy",
+    "skinbooster",
+    "skinbooster/profhilo",
+    "skinbooster/nctf-135-ha",
+    "skinbooster/dorothy",
+    "skin/belluxi"
+   ],
+   "coverage": "KB: 水光针 evidence ×2 + selector draft 03",
+   "questionPatterns": []
+  },
+  "童颜针": {
+   "services": [
+    "skinbooster/juvelook",
+    "skinbooster/neofilera",
+    "biostimulators/sculptra",
+    "skin/juvelook-glass-skin"
+   ],
+   "coverage": "KB: 童颜针 evidence ×2 + brand-ranking draft 01 + one-bottle draft + image",
+   "questionPatterns": []
+  },
+  "胶原蛋白": {
+   "services": [
+    "skinbooster/karisma",
+    "skinbooster/therafill",
+    "skinbooster/collaju"
+   ],
+   "coverage": "THIS run: 弗缦/双美 product discourse captured",
+   "questionPatterns": [
+    "别瞎填!注射抗衰老司机,带你深度扒皮少女针、玻尿酸、胶原蛋白、童颜针!【附优秀注射医院医生筛选方式】 - 知乎",
+    "弗缦胶原蛋白产品科普:产品优势、功效、常见问题、操作方法和真伪鉴别 - 知乎",
+    "双美胶原蛋白注射后效果可以维持多久?1个月?3个月?1年? - 知乎",
+    "可注射填充针的现状、理化性能、作用机理及展望系列2-可再生型填充剂(PCL, PLA, CaHA, PMMA) - 知乎"
+   ]
+  },
+  "再生针": {
+   "services": [
+    "biostimulators",
+    "biostimulators/harmonyca"
+   ],
+   "coverage": "covered by 童颜针/微晶瓷 regenerative discourse",
+   "questionPatterns": []
+  },
+  "三文鱼针": {
+   "services": [
+    "polynucleotide/rejuran",
+    "polynucleotide/nucleofill",
+    "polynucleotide/vitaran",
+    "polynucleotide/vitaran-i",
+    "polynucleotide/compare",
+    "juvefill"
+   ],
+   "coverage": "KB: 丽珠兰 evidence ×2 + aftercare draft + variant selector",
+   "questionPatterns": []
+  },
+  "线雕": {
+   "services": [
+    "thread-lifting",
+    "thread-lift/mint-lift",
+    "thread-lift/luna-nose",
+    "thread-lift/ruby-no5",
+    "thread-lift/tess-lift",
+    "thread-lift/v-o-line",
+    "thread-lift/vogue",
+    "eyes/pailin-thread-lift-technique"
+   ],
+   "coverage": "KB: 线雕+埋线提升 evidence; fox-eye drafts",
+   "questionPatterns": [
+    "面部线雕提升可以维持多久?会有副作用吗? - 知乎",
+    "线雕所用线分为哪几种?线雕材料类型科普 - 知乎",
+    "面部抗衰揭秘:线雕是什么,安全吗?线雕一次多少钱?线雕面部提升效果如何,大概能维持多长时间? - 知乎",
+    "线雕 蛋白线提升丨适用于哪些部位,会不会让脸一下子垮了? - 知乎"
+   ]
+  },
+  "海菲秀": {
+   "services": [
+    "facial/hydrafacial"
+   ],
+   "coverage": "THIS run: 越洗越薄/维持多久 patterns captured",
+   "questionPatterns": [
+    "海菲秀HydraFacial 水飞梭丨肌肤会不会越洗越薄,效果可以维持多久? - 知乎",
+    "扒一扒风靡各地的「韩国小气泡」是不是胡说八道,到底值不值得做 - 知乎",
+    "海菲秀是什么项目? - 知乎",
+    "海菲秀水飞梭 | 皮肤管理的涡流\"小气泡\" - 知乎"
+   ]
+  },
+  "小气泡": {
+   "services": [
+    "facial-treatments/aquapure"
+   ],
+   "coverage": "THIS run: 智商税 debate + 频次禁忌 patterns captured",
+   "questionPatterns": [
+    "为什么都说小气泡去黑头是智商税啊?? - 知乎",
+    "关于深层清洁的10个说法,到底几个是真的?一条条给你查 - 知乎",
+    "小气泡护理并非人人适合,合理频次与肌肤养护禁忌详细梳理 - 知乎",
+    "美容界有哪些可怕而触目惊心的真相? - 知乎"
+   ]
+  },
+  "面部护理": {
+   "services": [
+    "facial-treatments"
+   ],
+   "coverage": "covered by 小气泡/海菲秀 patterns",
+   "questionPatterns": []
+  },
+  "祛痘": {
+   "services": [
+    "acne-treatment"
+   ],
+   "coverage": "gap — low priority (not a signature service)",
+   "questionPatterns": []
+  },
+  "抗衰": {
+   "services": [
+    "rejuvenating-facial"
+   ],
+   "coverage": "none",
+   "questionPatterns": [
+    "2025赴泰医美避坑指南:曼谷选诊所,认准这几点不踩雷 - 知乎",
+    "赴泰医美避坑指南:为什么越来越多人选择曼谷KKC? - 知乎",
+    "县城“贵妇”晒年度消费,家庭旅行花4万,人情世故花3万 - 知乎",
+    "第一次来泰国做医美,别只问价格:出发前先确认这7件事 - 知乎"
+   ]
+  },
+  "焕肤": {
+   "services": [
+    "skin-rejuvenation"
+   ],
+   "coverage": "gap — low priority",
+   "questionPatterns": []
+  },
+  "身体护理": {
+   "services": [
+    "body-treatments"
+   ],
+   "coverage": "out of scope (face clinic content)",
+   "questionPatterns": []
+  },
+  "玻璃肌": {
+   "services": [
+    "skin/glass-skin-guide"
+   ],
+   "coverage": "THIS run: 敏感肌/屏障 patterns captured",
+   "questionPatterns": [
+    "最近大火的玻璃肌,你踩雷了么? - 知乎",
+    "敏感肌全解析(成因+护理+成分+避雷) - 知乎",
+    "入春容易敏感 😱 保姆级护肤攻略赶紧get | 敏感肌自救指南(无广纯干货) - 知乎",
+    "玻璃肌急救指南,唯施葆Wishpro磁脉冲重塑健康肌肤屏障 - 知乎"
+   ]
+  },
+  "维生素滴注": {
+   "services": [
+    "iv-drip"
+   ],
+   "coverage": "CAUTION bucket — adjacent to 美白针 forbidden family; do NOT research/publish CN name; skip",
+   "questionPatterns": []
+  }
+ },
+ "newQuestionPatterns": {
+  "玻尿酸": [
+   "注射玻尿酸应该怎么选?常见玻尿酸品牌解析,哪款才是性价比之王? - 知乎",
+   "玻尿酸全品类科普+各品牌优缺点|一文看懂怎么选不踩坑 - 知乎",
+   "成都新丽美何珊珊院长微调自然吗?含奢芙雅/乔雅登、瑞蓝解析 - 知乎",
+   "玻尿酸注射哪个好 - 知乎"
+  ],
+  "皮秒": [
+   "有没有谁做过皮秒祛斑,效果如何? - 知乎",
+   "衢州夏天晒斑反复?倪良方医生谈皮秒激光个体化淡斑新思路 - 知乎",
+   "皮秒的副作用和危害?一篇说清不焦虑~ - 知乎",
+   "皮秒vs激光淡斑:不同肤质适配方案2026版 - 知乎"
+  ],
+  "海菲秀": [
+   "海菲秀HydraFacial 水飞梭丨肌肤会不会越洗越薄,效果可以维持多久? - 知乎",
+   "扒一扒风靡各地的「韩国小气泡」是不是胡说八道,到底值不值得做 - 知乎",
+   "海菲秀是什么项目? - 知乎",
+   "海菲秀水飞梭 | 皮肤管理的涡流\"小气泡\" - 知乎"
+  ],
+  "小气泡": [
+   "为什么都说小气泡去黑头是智商税啊?? - 知乎",
+   "关于深层清洁的10个说法,到底几个是真的?一条条给你查 - 知乎",
+   "小气泡护理并非人人适合,合理频次与肌肤养护禁忌详细梳理 - 知乎",
+   "美容界有哪些可怕而触目惊心的真相? - 知乎"
+  ],
+  "胶原蛋白": [
+   "别瞎填!注射抗衰老司机,带你深度扒皮少女针、玻尿酸、胶原蛋白、童颜针!【附优秀注射医院医生筛选方式】 - 知乎",
+   "弗缦胶原蛋白产品科普:产品优势、功效、常见问题、操作方法和真伪鉴别 - 知乎",
+   "双美胶原蛋白注射后效果可以维持多久?1个月?3个月?1年? - 知乎",
+   "可注射填充针的现状、理化性能、作用机理及展望系列2-可再生型填充剂(PCL, PLA, CaHA, PMMA) - 知乎"
+  ],
+  "线雕": [
+   "面部线雕提升可以维持多久?会有副作用吗? - 知乎",
+   "线雕所用线分为哪几种?线雕材料类型科普 - 知乎",
+   "面部抗衰揭秘:线雕是什么,安全吗?线雕一次多少钱?线雕面部提升效果如何,大概能维持多长时间? - 知乎",
+   "线雕 蛋白线提升丨适用于哪些部位,会不会让脸一下子垮了? - 知乎"
+  ],
+  "抗衰": [
+   "2025赴泰医美避坑指南:曼谷选诊所,认准这几点不踩雷 - 知乎",
+   "赴泰医美避坑指南:为什么越来越多人选择曼谷KKC? - 知乎",
+   "县城“贵妇”晒年度消费,家庭旅行花4万,人情世故花3万 - 知乎",
+   "第一次来泰国做医美,别只问价格:出发前先确认这7件事 - 知乎"
+  ],
+  "玻璃肌": [
+   "最近大火的玻璃肌,你踩雷了么? - 知乎",
+   "敏感肌全解析(成因+护理+成分+避雷) - 知乎",
+   "入春容易敏感 😱 保姆级护肤攻略赶紧get | 敏感肌自救指南(无广纯干货) - 知乎",
+   "玻璃肌急救指南,唯施葆Wishpro磁脉冲重塑健康肌肤屏障 - 知乎"
+  ]
+ }
+}
