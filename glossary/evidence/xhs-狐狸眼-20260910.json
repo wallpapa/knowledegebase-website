@@ -1,0 +1,113 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in)",
+ "observedAt": "2026-09-10T13:10+07:00",
+ "method": "Bounded topic-discovery run; direct URL navigation, domcontentloaded + 2.5s wait, overlay removal, ARIA-snapshot-based extraction of top-10 note cards + related chips + 大家都在搜 block. Raw observation, no page content edited.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师 (medical aesthetics has risks; choose a licensed institution and licensed physician).",
+ "term": "狐狸眼",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=狐狸眼",
+ "comparisonWithPrevious": "vs xhs-狐狸眼.json (2026-09-09): MATERIAL CHANGE — 8 of 10 top notes are new; only 6a671364 (fake-case exposé) and 69ca390c (template post) persist. New patterns: (1) eye-revision (眼修复) assistant account 刘韶瑞｜眼修复助理 now holds two of the top slots (1147 + 590 likes); (2) rising technique word 飞针 / 一针飞眼尾 in a 2-day-old note and account name (unverified colloquial — no medical mapping claimed); (3) doctor caution discourse strengthening ('狐狸眼双眼皮爆火，但我劝大家要谨慎' 458 likes); (4) 大家都在搜 block is pure eye-shape self-diagnosis comparison intent.",
+ "relatedQueries": [
+  "桃花眼",
+  "少年",
+  "狐系长相",
+  "丹凤眼",
+  "清冷感",
+  "美人",
+  "素材参考",
+  "白金狐",
+  "画法",
+  "动漫人物",
+  "古风",
+  "高级感",
+  "自然款",
+  "真实照片",
+  "对比图"
+ ],
+ "peopleAlsoSearch": [
+  "狐狸眼和梅花眼的区别",
+  "丹凤眼狐狸眼区别图片",
+  "杏仁眼狐狸眼对比",
+  "狐狸眼长相特征"
+ ],
+ "notes": [
+  {
+   "title": "是你碎碎念的狐系眼模板吗❓❗❗",
+   "author": "汪雅双眼皮",
+   "date": "03-30",
+   "likes": "293",
+   "url": "https://www.rednote.com/discovery/item/69ca390c0000000022029a06"
+  },
+  {
+   "title": "揭秘:狐狸眼眼尾上扬，都是假案例！",
+   "author": "上海整形医生李文琳",
+   "date": "08-27",
+   "likes": "344",
+   "url": "https://www.rednote.com/discovery/item/6a671364000000000e03783f"
+  },
+  {
+   "title": "4 种热门眼型对照✨看看你是狐狸眼 / 桃花",
+   "author": "西安眼整形王本锋",
+   "date": "2天前",
+   "likes": "32",
+   "url": "https://www.rednote.com/discovery/item/6a9e78bf000000001001d3d4"
+  },
+  {
+   "title": "狐系媚眼飞针，眼部状态up up！！",
+   "author": "谭文立丨一针飞眼尾小助理",
+   "date": "2天前",
+   "likes": "17",
+   "url": "https://www.rednote.com/discovery/item/6a98d3770000000011032ed3"
+  },
+  {
+   "title": "眼尾上扬的权威我后知后觉～",
+   "author": "刘韶瑞｜眼修复助理",
+   "date": "5天前",
+   "likes": "1147",
+   "url": "https://www.rednote.com/discovery/item/6a670b7b000000001d02100d"
+  },
+  {
+   "title": "娇俏小狐系丨所见即所得✌️",
+   "author": "李禄增｜眼周美学",
+   "date": "07-31",
+   "likes": "54",
+   "url": "https://www.rednote.com/discovery/item/6a6c5bb10000000029033f9d"
+  },
+  {
+   "title": "30s自测！桃花眼/狐狸眼/，你更吃哪种颜值",
+   "author": "北京双眼皮颜子云｜助理",
+   "date": "06-29",
+   "likes": "3001",
+   "url": "https://www.rednote.com/discovery/item/6a27dfd10000000021019e89"
+  },
+  {
+   "title": "眼尾上扬的狐系双眼皮，美到窒息💓",
+   "author": "竹田啓介|脂肪美学（助理）",
+   "date": "08-23",
+   "likes": "4",
+   "url": "https://www.rednote.com/discovery/item/6a880018000000001b0292d5"
+  },
+  {
+   "title": "上海双眼皮｜幼态小开扇",
+   "author": "沈舒煜无痕双眼皮｜小助理",
+   "date": "09-02",
+   "likes": "467",
+   "url": "https://www.rednote.com/discovery/item/6a13ebce000000003701f3e6"
+  },
+  {
+   "title": "狐系眼尾上扬你美！！！",
+   "author": "刘韶瑞｜眼修复助理",
+   "date": "07-27",
+   "likes": "590",
+   "url": "https://www.rednote.com/discovery/item/6a649a2f00000000060108bf"
+  }
+ ],
+ "notesBelowTop10": [
+  {
+   "title": "“狐狸眼”双眼皮爆火，但我劝大家要谨慎",
+   "author": "眼部整形 许莲姬博士",
+   "date": "03-21",
+   "likes": "458",
+   "url": "https://www.rednote.com/discovery/item/69be642c0000000023006fd7"
+  }
+ ]
+}

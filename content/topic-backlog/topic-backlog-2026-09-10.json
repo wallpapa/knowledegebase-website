@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "backlogId": "clinic-blog-topic-backlog-2026-09-10-foxyeye",
+  "createdAt": "2026-09-10",
+  "source": "Bounded topic-discovery run 13:04 (evidence xhs-狐狸眼-20260910.json only eligible term — all other rotation terms re-checked within 24h by the 01:43/07:00 runs)",
+  "topics": [
+    {
+      "id": "foxy-eye-revision-caution",
+      "sites": [
+        "waleeratclinic.com"
+      ],
+      "titleEn": "Fox-eye trend is exploding — and so is regret: what eye-tail revision patients are asking (and how to avoid needing it)",
+      "titleZh": "狐狸眼爆火之后：眼修复需求变多了，做之前该问诊室哪些问题",
+      "angle": "Material change vs 2026-09-09: eye-REVISION assistant account (刘韶瑞｜眼修复助理) now holds two top-10 slots (1147 + 590 likes) — post-procedure regret/repair is the dominant new pattern, distinct from the existing foxy-eye-expectations topic (pre-procedure boundaries). Article: what revision patients report (asymmetry, over-lift, dropped tail), honest risk framing from the doctor-caution post ('狐狸眼双眼皮爆火，但我劝大家要谨慎' 458) and the fake-case exposé (344), red flags in clinic/marketing claims to avoid becoming a revision case, when revision is actually needed vs normal settling. Ties to Endoline 狐狸眼线雕 Program as the consult-first positioning per the anti-hype UGC trend. WATCH SIGNAL (do not claim): technique word 飞针/一针飞眼尾 appeared in a 2-day-old note (17 likes) and an account name — colloquial, no verified medical mapping yet; re-observe next rotation before any glossary or article use.",
+      "evidence": [
+        "xhs-狐狸眼-20260910.json: 眼尾上扬的权威我后知后觉～ (眼修复助理) 1147",
+        "xhs-狐狸眼-20260910.json: 狐系眼尾上扬你美！！！ (眼修复助理) 590",
+        "xhs-狐狸眼-20260910.json: “狐狸眼”双眼皮爆火，但我劝大家要谨慎 458",
+        "xhs-狐狸眼-20260910.json: 揭秘:狐狸眼眼尾上扬，都是假案例！ 344",
+        "xhs-狐狸眼-20260910.json: 狐系媚眼飞针 17 (watch signal, unverified)",
+        "xhs-狐狸眼-20260910.json: peopleAlsoSearch eye-shape self-diagnosis set (狐狸眼和梅花眼的区别 etc.)"
+      ],
+      "medicalHigh": true,
+      "status": "candidate"
+    }
+  ]
+}
