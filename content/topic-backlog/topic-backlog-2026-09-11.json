@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "backlogId": "clinic-blog-topic-backlog-2026-09-11",
+  "createdAt": "2026-09-11",
+  "source": "Hidden-pane rednote run 01:05 (evidence xhs-{水光针,保妥适,韩版热玛吉,超声炮}-20260911.json; 4 eligible terms oldest-first)",
+  "topics": [
+    {
+      "id": "skinbooster-variant-selector",
+      "sites": ["verzoclinic.com", "waleeratclinic.com"],
+      "titleEn": "Rejuran, Hearty 2.5 or skin booster vials: which water-light injection suits which need",
+      "titleZh": "水光针怎么选：丽珠兰黑盒、嗨体2.5、润致娃娃有什么区别",
+      "angle": "Material change: 水光针 related chips now name three product variants (丽珠兰黑盒 / 嗨体25 / 润致娃娃) plus protocol-intent words (正确用法 / 详细步骤) — patients moved from 'should I get 水光针' to 'which vial for which need'. Honest selector: ingredient logic (PDRN vs HA profile), face vs neck vs barrier-repair (修复屏障 chip) vs brightening (提亮肤色 chip), session spacing. VERIFY against catalog before drafting: lead only with products actually offered (Rejuran confirmed in catalog; check Hearty/嗨体 and Juvederm 润致 availability); mention alternatives generically if not stocked. Distinct from skin-booster-aftercare-makeup (aftercare) and rejuran-naming-clarification (naming).",
+      "evidence": [
+        "xhs-水光针-20260911.json: chips 丽珠兰黑盒/嗨体25/润致娃娃/正确用法/详细步骤/修复屏障/提亮肤色 new vs 20260909b",
+        "xhs-水光针-20260911.json: 八大处蒋丽雅 843, 抗衰彭掌门 416"
+      ],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "botox-vial-verification",
+      "sites": ["waleeratclinic.com", "verzoclinic.com"],
+      "titleEn": "Scan before you inject: how to verify your Botox vial is genuine",
+      "titleZh": "保妥适扫码验真：打瘦脸针前3步确认正品",
+      "angle": "Material change: 保妥适 chips gained 扫码 (vial QR verification) + 测评 / 真实经验 (authentic-review discourse); top posts led by practitioner accounts (王青茹 530, 整形外科常毅医生 152). Article: the 3-step vial check patients can ask for (scan the Allergan QR / check lot + expiry / see the vial unsealed), why gray-market Botox is the real counterfeit risk, red flags in pricing that signal counterfeit. Same verification genre as thermage-bangkok-avoid-pitfalls (device) — this is the toxin-vial counterpart; distinct from bangkok-clinic-how-to-verify (clinic-level). Neutral: does not claim only genuine clinics do this.",
+      "evidence": [
+        "xhs-保妥适-20260911.json: chips 扫码/测评/真实经验 new vs 20260909",
+        "xhs-保妥适-20260911.json: 王青茹 530, 整形外科常毅医生 152"
+      ],
+      "medicalHigh": true,
+      "status": "candidate"
+    }
+  ]
+}

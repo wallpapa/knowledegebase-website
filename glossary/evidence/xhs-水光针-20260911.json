@@ -1,0 +1,98 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in, hidden pane)",
+ "observedAt": "2026-09-11T01:05+07:00",
+ "method": "Hidden-pane run: visibility capability verified false before/after; controlled tab; direct URL; domcontentloaded + 2.5s; overlay removal; evaluate() extraction. Raw observation. Note: card aria-labels absent this render (titles empty); author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "水光针",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=水光针",
+ "comparisonWithPrevious": "vs xhs-水光针-20260909b.json: MATERIAL CHANGE 6/10 new; new chips 丽珠兰黑盒 / 嗨体25 / 润致娃娃 (three named booster product variants) + 正确用法 / 详细步骤 (usage-protocol intent) + 修复屏障 / 提亮肤色 (benefit words). Top: 八大处蒋丽雅 843, 抗衰彭掌门 416. Product-variant selector discourse dominant.",
+ "relatedQueries": [
+  "韩国",
+  "revive",
+  "上瘾红",
+  "品牌排名",
+  "真实效果",
+  "改善毛孔粗大",
+  "修复屏障",
+  "敏感肌",
+  "详细步骤",
+  "搭配组合",
+  "提亮肤色",
+  "正确用法",
+  "润致娃娃",
+  "丽珠兰黑盒",
+  "嗨体25"
+ ],
+ "notes": [
+  {
+   "title": "",
+   "author": "医美刘滢",
+   "date": "07-25",
+   "likes": "47",
+   "url": "https://www.rednote.com/discovery/item/6a64886b000000000f010da2"
+  },
+  {
+   "title": "",
+   "author": "八大处蒋丽雅",
+   "date": "2025-10-28",
+   "likes": "843",
+   "url": "https://www.rednote.com/discovery/item/690066f50000000005010bc5"
+  },
+  {
+   "title": "",
+   "author": "抗衰彭掌门",
+   "date": "2025-11-21",
+   "likes": "416",
+   "url": "https://www.rednote.com/discovery/item/691ff5d6000000001e0369fc"
+  },
+  {
+   "title": "",
+   "author": "上海九院段然",
+   "date": "08-21",
+   "likes": "568",
+   "url": "https://www.rednote.com/discovery/item/6a858adb0000000005030f41"
+  },
+  {
+   "title": "",
+   "author": "柴武斌医生",
+   "date": "09-02",
+   "likes": "87",
+   "url": "https://www.rednote.com/discovery/item/6a96f9f2000000000d025d63"
+  },
+  {
+   "title": "",
+   "author": "上海四院姚红旭｜胶原灌注提升",
+   "date": "09-01",
+   "likes": "9",
+   "url": "https://www.rednote.com/discovery/item/6a963441000000002601461c"
+  },
+  {
+   "title": "",
+   "author": "上海九院周双白",
+   "date": "3天前",
+   "likes": "14",
+   "url": "https://www.rednote.com/discovery/item/6a9e46ce0000000012027bf4"
+  },
+  {
+   "title": "",
+   "author": "黄韶斌博士",
+   "date": "08-03",
+   "likes": "56",
+   "url": "https://www.rednote.com/discovery/item/6a7067310000000024025ab2"
+  },
+  {
+   "title": "",
+   "author": "深圳皮肤唐妮医生",
+   "date": "4天前",
+   "likes": "29",
+   "url": "https://www.rednote.com/discovery/item/6a9d4e9c000000002502cfdc"
+  },
+  {
+   "title": "",
+   "author": "黄韶斌博士",
+   "date": "08-06",
+   "likes": "8",
+   "url": "https://www.rednote.com/discovery/item/6a745b81000000002701d934"
+  }
+ ]
+}

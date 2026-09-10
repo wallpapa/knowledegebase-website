@@ -1,0 +1,98 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in, hidden pane)",
+ "observedAt": "2026-09-11T01:05+07:00",
+ "method": "Hidden-pane run: visibility capability verified false before/after; controlled tab; direct URL; domcontentloaded + 2.5s; overlay removal; evaluate() extraction. Raw observation. Note: card aria-labels absent this render (titles empty); author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "保妥适",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=保妥适",
+ "comparisonWithPrevious": "vs xhs-保妥适-20260909.json: MATERIAL CHANGE 6/10 new; new chips 扫码 (vial QR verification) / 效果 / 测评 / 真实经验 (authentic-experience review discourse) / 西安 (geo). Top: 王青茹 530, 整形外科常毅医生 152. Verification + honest-review intent strengthening.",
+ "relatedQueries": [
+  "美国",
+  "100u",
+  "西安",
+  "面部提升",
+  "真实经验",
+  "除皱价格",
+  "瘦脸针",
+  "测评",
+  "扫码",
+  "方圆脸",
+  "咬肌",
+  "肉毒素",
+  "水光",
+  "下颌缘",
+  "效果"
+ ],
+ "notes": [
+  {
+   "title": "",
+   "author": "王青茹",
+   "date": "2025-10-26",
+   "likes": "530",
+   "url": "https://www.rednote.com/discovery/item/68fdef760000000004029562"
+  },
+  {
+   "title": "",
+   "author": "东方标局-美业界物传播",
+   "date": "06-08",
+   "likes": "15",
+   "url": "https://www.rednote.com/discovery/item/6a265ee6000000000702e13e"
+  },
+  {
+   "title": "",
+   "author": "整形外科常毅医生",
+   "date": "08-28",
+   "likes": "152",
+   "url": "https://www.rednote.com/discovery/item/6a9166480000000007005dd6"
+  },
+  {
+   "title": "",
+   "author": "小红薯6A62135B",
+   "date": "04-16",
+   "likes": "11",
+   "url": "https://www.rednote.com/discovery/item/69e0addd000000000a00496a"
+  },
+  {
+   "title": "",
+   "author": "王星洁",
+   "date": "2025-05-23",
+   "likes": "3325",
+   "url": "https://www.rednote.com/discovery/item/68302a52000000002202c32a"
+  },
+  {
+   "title": "",
+   "author": "MYLIKE北京美莱",
+   "date": "05-22",
+   "likes": "4",
+   "url": "https://www.rednote.com/discovery/item/6a0fb1dc0000000007027ecc"
+  },
+  {
+   "title": "",
+   "author": "肚肚日韩go",
+   "date": "2025-11-15",
+   "likes": "260",
+   "url": "https://www.rednote.com/discovery/item/682ca6dc0000000012000be1"
+  },
+  {
+   "title": "",
+   "author": "上海九院段然",
+   "date": "08-18",
+   "likes": "73",
+   "url": "https://www.rednote.com/discovery/item/6a7efe24000000002402eaa4"
+  },
+  {
+   "title": "",
+   "author": "萌熊英语",
+   "date": "05-07",
+   "likes": "126",
+   "url": "https://www.rednote.com/discovery/item/69fc85a2000000001f0004de"
+  },
+  {
+   "title": "",
+   "author": "整形医生王晨羽",
+   "date": "08-17",
+   "likes": "4460",
+   "url": "https://www.rednote.com/discovery/item/6911ee98000000000302ca21"
+  }
+ ]
+}

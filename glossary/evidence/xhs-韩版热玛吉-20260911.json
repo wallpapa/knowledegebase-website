@@ -1,0 +1,98 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in, hidden pane)",
+ "observedAt": "2026-09-11T01:05+07:00",
+ "method": "Hidden-pane run: visibility capability verified false before/after; controlled tab; direct URL; domcontentloaded + 2.5s; overlay removal; evaluate() extraction. Raw observation. Note: card aria-labels absent this render (titles empty); author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "韩版热玛吉",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=韩版热玛吉",
+ "comparisonWithPrevious": "vs xhs-韩版热玛吉-20260909.json: composition change 6/10 new; new chips 下巴/敏感肌/适合年龄 (qualification intent: sensitive-skin suitability, age suitability); new top account 김나영金娜莹 833 likes. No new device discourse.",
+ "relatedQueries": [
+  "therma",
+  "真实案例",
+  "眼周",
+  "能量",
+  "美版区别",
+  "痛不痛",
+  "恢复期",
+  "维持时间",
+  "对比图",
+  "原理",
+  "下巴",
+  "二代",
+  "价格",
+  "适合年龄",
+  "敏感肌"
+ ],
+ "notes": [
+  {
+   "title": "",
+   "author": "李知垠在深圳",
+   "date": "08-22",
+   "likes": "11",
+   "url": "https://www.rednote.com/discovery/item/6a87c3d000000000350153ee"
+  },
+  {
+   "title": "",
+   "author": "宁心Lincy",
+   "date": "2025-11-27",
+   "likes": "197",
+   "url": "https://www.rednote.com/discovery/item/6926d807000000001e004dc6"
+  },
+  {
+   "title": "",
+   "author": "김나영金娜莹",
+   "date": "08-20",
+   "likes": "833",
+   "url": "https://www.rednote.com/discovery/item/6a2936350000000016024746"
+  },
+  {
+   "title": "",
+   "author": "facematter专家",
+   "date": "04-16",
+   "likes": "17",
+   "url": "https://www.rednote.com/discovery/item/69e0a43f0000000022028a24"
+  },
+  {
+   "title": "",
+   "author": "김나영金娜莹",
+   "date": "09-01",
+   "likes": "33",
+   "url": "https://www.rednote.com/discovery/item/6a96b32a000000002802d7a7"
+  },
+  {
+   "title": "",
+   "author": "김나영金娜莹",
+   "date": "08-21",
+   "likes": "2802",
+   "url": "https://www.rednote.com/discovery/item/6a2e82b3000000001c025e57"
+  },
+  {
+   "title": "",
+   "author": "深圳丽颖丽驻兰-变美预约",
+   "date": "08-27",
+   "likes": "5",
+   "url": "https://www.rednote.com/discovery/item/6a8fb6840000000025019ead"
+  },
+  {
+   "title": "",
+   "author": "Coweroay医疗器械",
+   "date": "2025-11-01",
+   "likes": "41",
+   "url": "https://www.rednote.com/discovery/item/6905fc410000000005038848"
+  },
+  {
+   "title": "",
+   "author": "深圳丽颖丽驻兰-变美预约",
+   "date": "07-30",
+   "likes": "20",
+   "url": "https://www.rednote.com/discovery/item/6a53581e000000001700bd2e"
+  },
+  {
+   "title": "",
+   "author": "Personal允真",
+   "date": "03-24",
+   "likes": "87",
+   "url": "https://www.rednote.com/discovery/item/69c28e23000000001a023689"
+  }
+ ]
+}

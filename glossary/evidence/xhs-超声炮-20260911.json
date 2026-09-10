@@ -1,0 +1,98 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in, hidden pane)",
+ "observedAt": "2026-09-11T01:05+07:00",
+ "method": "Hidden-pane run: visibility capability verified false before/after; controlled tab; direct URL; domcontentloaded + 2.5s; overlay removal; evaluate() extraction. Raw observation. Note: card aria-labels absent this render (titles empty); author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote displays on medical search pages: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "超声炮",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=超声炮",
+ "comparisonWithPrevious": "vs xhs-超声炮-20260909b.json: composition change only (6/10 new cards incl. 上海九院王韵 550, 抗衰彭掌门 416 wait that's 水光针) — see file; NO new concern patterns (only geo chip 重庆).",
+ "relatedQueries": [
+  "日本",
+  "美国",
+  "厦门",
+  "福州",
+  "济南",
+  "沈阳",
+  "青岛",
+  "西安",
+  "深圳",
+  "合肥",
+  "宁波",
+  "真实案例",
+  "重庆",
+  "武汉",
+  "一代二代"
+ ],
+ "notes": [
+  {
+   "title": "",
+   "author": "鱼鱼变美（干货版）",
+   "date": "1天前",
+   "likes": "8",
+   "url": "https://www.rednote.com/discovery/item/6aa0d20a00000000250377d4"
+  },
+  {
+   "title": "",
+   "author": "医美大石话",
+   "date": "07-22",
+   "likes": "124",
+   "url": "https://www.rednote.com/discovery/item/6a609a1b00000000050382b4"
+  },
+  {
+   "title": "",
+   "author": "上海九院王韵",
+   "date": "03-21",
+   "likes": "550",
+   "url": "https://www.rednote.com/discovery/item/69bd3b650000000022026cec"
+  },
+  {
+   "title": "",
+   "author": "上海九院王韵",
+   "date": "06-01",
+   "likes": "127",
+   "url": "https://www.rednote.com/discovery/item/6a195bd6000000000803300c"
+  },
+  {
+   "title": "",
+   "author": "优时颜医美",
+   "date": "07-20",
+   "likes": "21",
+   "url": "https://www.rednote.com/discovery/item/6a56f89e000000000803c214"
+  },
+  {
+   "title": "",
+   "author": "武汉协和罗超",
+   "date": "08-28",
+   "likes": "20",
+   "url": "https://www.rednote.com/discovery/item/6a916b1400000000050298c3"
+  },
+  {
+   "title": "",
+   "author": "八大处整形梁雪冰",
+   "date": "05-17",
+   "likes": "127",
+   "url": "https://www.rednote.com/discovery/item/6a098c1500000000350237de"
+  },
+  {
+   "title": "",
+   "author": "陳欣妍",
+   "date": "05-30",
+   "likes": "388",
+   "url": "https://www.rednote.com/discovery/item/6a1aaec0000000001002d000"
+  },
+  {
+   "title": "",
+   "author": "上海九院王韵",
+   "date": "08-06",
+   "likes": "48",
+   "url": "https://www.rednote.com/discovery/item/6a74548d0000000005029cb0"
+  },
+  {
+   "title": "",
+   "author": "医美刘滢",
+   "date": "08-23",
+   "likes": "82",
+   "url": "https://www.rednote.com/discovery/item/6a8abaf00000000008010be5"
+  }
+ ]
+}

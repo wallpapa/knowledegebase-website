@@ -321,7 +321,8 @@
           "reviewState": "rednote-search-observed",
           "evidence": [
             "evidence/xhs-保妥适-20260909.json",
-            "evidence/xhs-瘦脸针.json"
+            "evidence/xhs-瘦脸针.json",
+            "evidence/xhs-保妥适-20260911.json"
           ],
           "usageNote": "Own evidence file now; high-engagement brand-choice discourse (进口vs国产肉毒 3318 likes; 美产/韩产/国产瘦脸针的区别 289) + 授权上市机构 framing + 100u全脸提升 dosage talk."
         }
@@ -682,7 +683,8 @@
           "register": "THE patient word for injectable hydration/glow treatments",
           "reviewState": "rednote-search-observed",
           "evidence": [
-            "evidence/xhs-水光针.json"
+            "evidence/xhs-水光针.json",
+            "evidence/xhs-水光针-20260911.json"
           ],
           "usageNote": "High-volume informational queries: 打完水光多久可以化妆 (841 likes — aftercare), 长期打水光十年后 (531 — long-term honesty), brand-ranking posts; related chips: 娃娃针/搭配组合/敏感肌/修复皮肤屏障."
         }
@@ -771,7 +773,8 @@
           "register": "nickname for Korean/domestic multi-point HIFU incl. Ultraformer",
           "reviewState": "rednote-search-observed",
           "evidence": [
-            "evidence/xhs-超声炮.json"
+            "evidence/xhs-超声炮.json",
+            "evidence/xhs-超声炮-20260911.json"
           ],
           "usageNote": "Observed device-brand nicknames: 大超炮 and 半岛黄金超声炮 (Peninsula = China-market brand). These are NOT verified mappings to Ultraformer — bind device names only after manufacturer-level verification. Recovery questions (恢复期多久) are common."
         }
@@ -868,7 +871,8 @@
           "register": "dominant framing: 'Korean Thermage'",
           "reviewState": "rednote-search-observed",
           "evidence": [
-            "evidence/xhs-韩版热玛吉-20260909.json"
+            "evidence/xhs-韩版热玛吉-20260909.json",
+            "evidence/xhs-韩版热玛吉-20260911.json"
           ],
           "usageNote": "Dominant forms: 韩式热玛吉 / 小韩热玛吉; direct product discourse links the frame to Oligio/Oligio X (火爆小韩的Oligiox…). Related chips: 美版区别/痛不痛/恢复期/维持时间. A '第六代热玛吉' claim appears — unverified, do NOT adopt."
         }
