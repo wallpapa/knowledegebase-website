@@ -1,0 +1,88 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in, hidden pane)",
+ "observedAt": "2026-09-11T13:01+07:00",
+ "method": "Hidden-pane cron run; visibility=false verified; aria-labels absent; author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote medical search banner: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "埋线提升",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=埋线提升",
+ "comparisonWithPrevious": "vs xhs-埋线提升-20260910.json: MATERIAL — gained chips 下巴 (chin-site thread discourse), 减龄, 高级感, 上海. Top: 陈颖助理｜童颜韧带支架提升 585.",
+ "relatedQueries": [
+  "真实案例",
+  "面部效果",
+  "深圳",
+  "对比图",
+  "法令纹",
+  "上海",
+  "高级感",
+  "方圆脸",
+  "双眼皮",
+  "快速恢复",
+  "减龄",
+  "蛋白线",
+  "北京",
+  "苹果肌",
+  "下巴"
+ ],
+ "notes": [
+  {
+   "author": "陈颖助理｜童颜韧带支架提升",
+   "date": "04-02",
+   "likes": "585",
+   "url": "https://www.rednote.com/discovery/item/69c64a0b00000000230061ac"
+  },
+  {
+   "author": "上海九院王文进医生",
+   "date": "08-31",
+   "likes": "24",
+   "url": "https://www.rednote.com/discovery/item/6a915c7d00000000240054a6"
+  },
+  {
+   "author": "整形外科王朝辉",
+   "date": "08-16",
+   "likes": "24",
+   "url": "https://www.rednote.com/discovery/item/6a801dca0000000028008843"
+  },
+  {
+   "author": "上海四院刘岱良|面吸支架提升",
+   "date": "08-26",
+   "likes": "19",
+   "url": "https://www.rednote.com/discovery/item/6a8e52680000000026005c13"
+  },
+  {
+   "author": "小红薯69F2E150",
+   "date": "2025-12-10",
+   "likes": "181",
+   "url": "https://www.rednote.com/discovery/item/69270402000000000d03d7d6"
+  },
+  {
+   "author": "整形医生陈永",
+   "date": "2025-11-27",
+   "likes": "326",
+   "url": "https://www.rednote.com/discovery/item/6928457b000000000d039a08"
+  },
+  {
+   "author": "韩胜线雕｜官方预约助理",
+   "date": "03-10",
+   "likes": "685",
+   "url": "https://www.rednote.com/discovery/item/69746957000000002800bc83"
+  },
+  {
+   "author": "杭州孙奔｜助理",
+   "date": "08-10",
+   "likes": "60",
+   "url": "https://www.rednote.com/discovery/item/6a798f260000000022032c89"
+  },
+  {
+   "author": "王永书",
+   "date": "07-17",
+   "likes": "33",
+   "url": "https://www.rednote.com/discovery/item/6a44df8e000000001702fc60"
+  },
+  {
+   "author": "杭州孙奔｜助理",
+   "date": "1天前",
+   "likes": "22",
+   "url": "https://www.rednote.com/discovery/item/6aa1408b0000000026017e90"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in, hidden pane)",
+ "observedAt": "2026-09-11T13:01+07:00",
+ "method": "Hidden-pane cron run; visibility=false verified; aria-labels absent; author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote medical search banner: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "超声刀",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=超声刀",
+ "comparisonWithPrevious": "vs xhs-超声刀-20260910.json: MATERIAL — gained chip onda (NEW device name: Onda Coolwave Italian RF entering the 超声刀 discourse) + 改善法令纹 + 第三代. Composition 6/10 new; 陳欣妍 388, 八大处激光郭济菡 91.",
+ "relatedQueries": [
+  "多伦多",
+  "纽约",
+  "洛杉矶",
+  "新加坡",
+  "悉尼",
+  "美版二代",
+  "英国",
+  "香港",
+  "广州",
+  "湾区",
+  "对比",
+  "澳洲",
+  "onda",
+  "改善法令纹",
+  "第三代"
+ ],
+ "notes": [
+  {
+   "author": "罗玉燕 | 热玛吉培训导师（抗衰助理）",
+   "date": "05-12",
+   "likes": "1",
+   "url": "https://www.rednote.com/discovery/item/6a02e3d3000000003501d56a"
+  },
+  {
+   "author": "陳欣妍",
+   "date": "05-30",
+   "likes": "388",
+   "url": "https://www.rednote.com/discovery/item/6a1aaec0000000001002d000"
+  },
+  {
+   "author": "八大处激光郭济菡",
+   "date": "06-30",
+   "likes": "91",
+   "url": "https://www.rednote.com/discovery/item/6a423f45000000002200bcd6"
+  },
+  {
+   "author": "上海九院王韵",
+   "date": "08-05",
+   "likes": "1119",
+   "url": "https://www.rednote.com/discovery/item/6a71d0a80000000006004673"
+  },
+  {
+   "author": "成都王庆助理｜仪器抗衰",
+   "date": "01-12",
+   "likes": "66",
+   "url": "https://www.rednote.com/discovery/item/696324cd000000000e00ce6b"
+  },
+  {
+   "author": "晶晶不胖",
+   "date": "04-16",
+   "likes": "605",
+   "url": "https://www.rednote.com/discovery/item/69e10224000000001d01c59c"
+  },
+  {
+   "author": "张淑婷（Tina）",
+   "date": "09-02",
+   "likes": "3",
+   "url": "https://www.rednote.com/discovery/item/6a970845000000001001fefc"
+  },
+  {
+   "author": "合生创美科技",
+   "date": "08-25",
+   "likes": "5",
+   "url": "https://www.rednote.com/discovery/item/6a8d43dd0000000029027b95"
+  },
+  {
+   "author": "张红畅丨澳玛星光",
+   "date": "6天前",
+   "likes": "50",
+   "url": "https://www.rednote.com/discovery/item/6a50b57d000000000701263e"
+  },
+  {
+   "author": "Bloom绽颜｜美容咨询",
+   "date": "07-27",
+   "likes": "6",
+   "url": "https://www.rednote.com/discovery/item/6a673356000000000101d060"
+  }
+ ]
+}

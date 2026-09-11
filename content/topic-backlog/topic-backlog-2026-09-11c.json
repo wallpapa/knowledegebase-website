@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "backlogId": "clinic-blog-topic-backlog-2026-09-11c",
+  "createdAt": "2026-09-11",
+  "source": "Hidden-pane rednote run 13:01 (6 terms: 线雕/乔雅露/埋线提升/超声刀/婴儿针/曼谷医美)",
+  "topics": [
+    {
+      "id": "onda-rf-market-watch",
+      "sites": ["verzoclinic.com"],
+      "titleEn": "A new RF name 'Onda' is appearing in HIFU conversations — what it is and how it differs from what we offer",
+      "titleZh": "超声刀页面出现的新名字onda是什么？和超声类项目的区别",
+      "angle": "Material change: chip 'onda' NEW on the 超声刀 search page (Onda Coolwave — Italian microwave/RF platform), alongside 第三代 and 改善法令纹. Patients will meet this name in device-clinic marketing and confuse it with Ulthera/Ultraformer/Thermage. Article: honest category explainer (microwave vs focused ultrasound vs RF — different energy, different depth logic), explicitly note Onda is NOT in our catalog (do not fake familiarity), redirect to what our energy-device consult actually evaluates. Catalog-fit rule respected: positions existing 超声刀/海芙/热玛吉 pages; no claims about onda outcomes. Distinct from device-comparison article already live (that one covers U/T/O/U only).",
+      "evidence": [
+        "xhs-超声刀-20260911.json: chip onda NEW vs 20260910",
+        "xhs-超声刀-20260911.json: chips 第三代/改善法令纹"
+      ],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "salmon-booster-variant-allergy-safety",
+      "sites": ["verzoclinic.com", "waleeratclinic.com"],
+      "titleEn": "Salmon-DNA boosters multiply (冰晶三文鱼) and allergy questions rise — how variants and sensitivity screening actually work",
+      "titleZh": "三文鱼针变体越来越多，过敏怎么问怎么查？",
+      "angle": "Material change: 婴儿针 chips gained 冰晶三文鱼 (new variant word in the salmon-booster/PDRN family) AND 过敏 (allergy concern — first safety-intent chip on this term). Builds on existing salmon-family literacy (rejuran-naming-clarification covers naming; pdrn-rejuran-science covers mechanism) — THIS topic is the variant-proliferation + sensitivity-screening angle: why variants multiply (formulation/concentration/source differences), what 过敏 questions to bring to consult (history, skin test where applicable, aftercare signs), honest note that clinics should screen rather than sell. medicalHigh.",
+      "evidence": [
+        "xhs-婴儿针-20260911.json: chips 冰晶三文鱼/过敏 NEW vs 20260910",
+        "xhs-婴儿针-20260911.json: 成分不讲理 201 likes"
+      ],
+      "medicalHigh": true,
+      "status": "candidate"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in, hidden pane)",
+ "observedAt": "2026-09-11T13:01+07:00",
+ "method": "Hidden-pane cron run; visibility=false verified; aria-labels absent; author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote medical search banner: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "曼谷医美",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=曼谷医美",
+ "comparisonWithPrevious": "vs undated xhs-曼谷医美.json (and 07:05 no-change note): composition change — 3/5 baseline cards replaced; NEW top UGC traveler post 草莓香蕉车厘子 805 likes; KKC Aesthetic TH competitor account persists; 曼谷探店官 29. No new concern chips.",
+ "relatedQueries": [],
+ "notes": [
+  {
+   "author": "草莓香蕉车厘子",
+   "date": "06-23",
+   "likes": "805",
+   "url": "https://www.rednote.com/discovery/item/6a39e4f40000000007024278"
+  },
+  {
+   "author": "曼谷探店官 Bangkok Discovery",
+   "date": "2天前",
+   "likes": "29",
+   "url": "https://www.rednote.com/discovery/item/6a9d5da70000000026031289"
+  },
+  {
+   "author": "KKC Aesthetic TH",
+   "date": "07-08",
+   "likes": "5",
+   "url": "https://www.rednote.com/discovery/item/6a47590200000000200382e9"
+  },
+  {
+   "author": "YY",
+   "date": "06-10",
+   "likes": "8",
+   "url": "https://www.rednote.com/discovery/item/6a290a2e00000000210201c4"
+  },
+  {
+   "author": "Judy",
+   "date": "",
+   "likes": "",
+   "url": "https://www.rednote.com/discovery/item/6aa38f7c000000000d020625"
+  },
+  {
+   "author": "曼谷Secret皮肤管理店",
+   "date": "09-03",
+   "likes": "5",
+   "url": "https://www.rednote.com/discovery/item/6a992ac8000000002802b684"
+  },
+  {
+   "author": "啾啾",
+   "date": "03-10",
+   "likes": "6",
+   "url": "https://www.rednote.com/discovery/item/69b03e78000000000601cac4"
+  },
+  {
+   "author": "小红薯6AA1F001",
+   "date": "2小时前",
+   "likes": "",
+   "url": "https://www.rednote.com/discovery/item/6aa37027000000000f039c00"
+  },
+  {
+   "author": "草莓香蕉车厘子",
+   "date": "02-12",
+   "likes": "943",
+   "url": "https://www.rednote.com/discovery/item/698d3feb0000000028009577"
+  },
+  {
+   "author": "艺名惊人",
+   "date": "04-23",
+   "likes": "211",
+   "url": "https://www.rednote.com/discovery/item/69ea306600000000220254fe"
+  }
+ ]
+}

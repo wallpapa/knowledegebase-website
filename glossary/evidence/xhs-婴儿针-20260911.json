@@ -1,0 +1,88 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in, hidden pane)",
+ "observedAt": "2026-09-11T13:01+07:00",
+ "method": "Hidden-pane cron run; visibility=false verified; aria-labels absent; author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote medical search banner: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "婴儿针",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=婴儿针",
+ "comparisonWithPrevious": "vs xhs-婴儿针-20260910.json: MATERIAL — gained chips 冰晶三文鱼 (NEW salmon-booster variant word) + 过敏 (allergy-safety concern). Top: 成分不讲理 201.",
+ "relatedQueries": [
+  "马来西亚",
+  "澳门",
+  "neue",
+  "香港",
+  "使用方法",
+  "亮爆镜",
+  "面膜测评",
+  "sasa",
+  "医用级",
+  "水光作用",
+  "有用吗",
+  "提亮肤色",
+  "丝美妮",
+  "冰晶三文鱼",
+  "过敏"
+ ],
+ "notes": [
+  {
+   "author": "41",
+   "date": "05-10",
+   "likes": "41",
+   "url": "https://www.rednote.com/discovery/item/69ff5b99000000003501f55e"
+  },
+  {
+   "author": "成分不讲理",
+   "date": "06-10",
+   "likes": "201",
+   "url": "https://www.rednote.com/discovery/item/6a29019e0000000022029167"
+  },
+  {
+   "author": "🍙",
+   "date": "06-10",
+   "likes": "10",
+   "url": "https://www.rednote.com/discovery/item/6a296bf10000000007029e87"
+  },
+  {
+   "author": "无所吊谓",
+   "date": "04-06",
+   "likes": "364",
+   "url": "https://www.rednote.com/discovery/item/69d37607000000002103b6b8"
+  },
+  {
+   "author": "小c摇了摇头",
+   "date": "1天前",
+   "likes": "549",
+   "url": "https://www.rednote.com/discovery/item/6aa10fe40000000025034699"
+  },
+  {
+   "author": "段小姐你好",
+   "date": "07-29",
+   "likes": "242",
+   "url": "https://www.rednote.com/discovery/item/6a6a0669000000001101b75a"
+  },
+  {
+   "author": "Yayaaaa",
+   "date": "05-25",
+   "likes": "111",
+   "url": "https://www.rednote.com/discovery/item/6a13c0550000000036002ef3"
+  },
+  {
+   "author": "小玲姐ACE",
+   "date": "05-02",
+   "likes": "179",
+   "url": "https://www.rednote.com/discovery/item/69f5d7c8000000003501d1ca"
+  },
+  {
+   "author": "鱼11",
+   "date": "04-13",
+   "likes": "13",
+   "url": "https://www.rednote.com/discovery/item/69dcb0170000000023007bf7"
+  },
+  {
+   "author": "甜口美奈子",
+   "date": "08-19",
+   "likes": "97",
+   "url": "https://www.rednote.com/discovery/item/6a847921000000002403fc2e"
+  }
+ ]
+}
