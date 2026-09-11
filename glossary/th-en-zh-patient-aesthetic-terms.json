@@ -657,11 +657,11 @@
       "disambiguation": [
         {
           "against": "rejuran-box-contents",
-          "why": "RESOLVED by the clinic owner on 2026-09-11: a box holds 2 syringes. New package = 2 x 2.7 cc = 5.4 cc per box; old package = 2 x 2 cc = 4 cc per box. Whisperchat's own rows still state the SYRINGE volume while labelling it 'กล่องละ' ('Rejuran Healer รุ่นใหม่ กล่องละ 2.7 cc' and a 'Rejuran Healer' row whose unit reads '2 cc'), so both understate what 9,999 THB buys by half. Quote 5.4 cc per box for the new package until those rows are corrected."
+          "why": "RESOLVED by the clinic owner, 2026-09-11. A box holds 2 syringes of 2.7 cc (new package) = 5.4 cc per box; the old package held 2 cc per syringe. CRITICAL: the 9,999 THB price is PER SYRINGE, not per box — a full new-package box is 19,998. The Whisperchat row named 'Rejuran Healer รุ่นใหม่ กล่องละ 2.7 cc' therefore carries the right volume under the wrong word: it prints 'กล่องละ' (per box) for what is a per-syringe price and a per-syringe volume, which promises a patient twice the product their money buys. Never pair 5.4 cc with a single price; quote 2.7 cc per syringe and state the box total only as packaging information."
         }
       ],
       "notes": "",
-      "note": "ADJUDICATED (Claude Opus 2026-09-11, medium confidence): primary=丽珠兰. 婴儿针 search surface dominated by NEUE topical serum — match inbound but never headline. Render as 丽珠兰(婴儿针) + qualify 注射. TW=鮭魚針. Watch Livzon(丽珠) pharma confusion. Packaging note 2026-09-11: syringe volume moved 2 cc → 2.7 cc; a box holds 2 syringes, so the new package is 5.4 cc per box and the old was 4 cc. Both clinics stock the new package, so a white syringe is old stock."
+      "note": "ADJUDICATED (Claude Opus 2026-09-11, medium confidence): primary=丽珠兰. 婴儿针 search surface dominated by NEUE topical serum — match inbound but never headline. Render as 丽珠兰(婴儿针) + qualify 注射. TW=鮭魚針. Watch Livzon(丽珠) pharma confusion. Packaging note 2026-09-11: syringe volume moved 2 cc → 2.7 cc; a box holds 2 syringes (new package 5.4 cc per box), but the price is quoted PER SYRINGE — see disambiguation before writing any volume next to a price. Both clinics stock the new package, so a white syringe is old stock."
     },
     {
       "id": "profhilo",
