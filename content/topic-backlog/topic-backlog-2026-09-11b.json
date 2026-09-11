@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "backlogId": "clinic-blog-topic-backlog-2026-09-11b",
+  "createdAt": "2026-09-11",
+  "source": "Hidden-pane rednote run 07:05 (6 terms: 热玛吉/线雕/少女针/瘦脸针/乔雅露/泰国医美; evidence xhs-{热玛吉,少女针,瘦脸针,乔雅露,泰国医美}-20260911.json + 线雕 no-change note)",
+  "topics": [
+    {
+      "id": "regen-filler-overfill-repair",
+      "sites": ["verzoclinic.com", "waleeratclinic.com"],
+      "titleEn": "Overfilled face (馒化): why it happens with regenerative fillers and how repair is actually approached",
+      "titleZh": "馒化脸怎么办：再生针打多了的修复思路",
+      "angle": "Material change: 少女针 related-query chip 馓化修复 (overfilled-face repair) NEW today — regenerative-filler overfill repair is now explicit patient vocabulary, alongside brand words 艾维岚/菲洛密/致臻 entering chips (price-war spillover from KB evidence q20). Article: what 馓化 actually refers to (volume excess + tissue change), why gradual-acting fillers change the conversation (planning beats reversal — no dissolver for PLLA/PCL), honest repair pathways (wait-and-assess, volume rebalancing, surgical options only after evaluation), and prevention: staged dosing + 复诊评估 (ties to our tongyan-one-bottle draft without duplicating it). Positions clinic as will-tell-you-no. medicalHigh: true (revision/removal adjacent).",
+      "evidence": [
+        "xhs-少女针-20260911.json: relatedQueries 馓化修复 NEW vs 20260910",
+        "xhs-少女针-20260911.json: brand chips 艾维岚/菲洛密/致臻 (price-war spillover)",
+        "q20-cn-price-war-2026.json: 52 class-III certs 2025 → brand-proliferation context"
+      ],
+      "medicalHigh": true,
+      "status": "candidate"
+    }
+  ]
+}

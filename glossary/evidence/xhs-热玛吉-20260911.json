@@ -1,0 +1,88 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in, hidden pane)",
+ "observedAt": "2026-09-11T07:05+07:00",
+ "method": "Hidden-pane cron run; visibility=false verified; aria-labels absent this render; author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote medical search banner: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "热玛吉",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=热玛吉",
+ "comparisonWithPrevious": "vs xhs-热玛吉-20260910.json: MATERIAL composition change (9/10 new cards) — top now 贺轶轩的小助理 236, 新闻晨报 7825 persists, 陳欣妍 388; gained chip 主要功效 (what-does-it-do intent) + 南京 (geo). No new device discourse; existing thermage topics cover.",
+ "relatedQueries": [
+  "第五代",
+  "成都",
+  "韩国",
+  "广州",
+  "西安",
+  "武汉",
+  "重庆",
+  "真实效果",
+  "南京",
+  "主要功效",
+  "首尔",
+  "疼痛程度",
+  "副作用",
+  "方圆脸",
+  "眼周"
+ ],
+ "notes": [
+  {
+   "author": "贺轶轩的小助理",
+   "date": "07-03",
+   "likes": "236",
+   "url": "https://www.rednote.com/discovery/item/6a473bcd0000000008001772"
+  },
+  {
+   "author": "新闻晨报",
+   "date": "04-19",
+   "likes": "7825",
+   "url": "https://www.rednote.com/discovery/item/69e48a060000000022026e86"
+  },
+  {
+   "author": "陳欣妍",
+   "date": "05-30",
+   "likes": "388",
+   "url": "https://www.rednote.com/discovery/item/6a1aaec0000000001002d000"
+  },
+  {
+   "author": "上海九院王韵",
+   "date": "06-01",
+   "likes": "127",
+   "url": "https://www.rednote.com/discovery/item/6a195bd6000000000803300c"
+  },
+  {
+   "author": "邱阳助理｜卓栎丽格",
+   "date": "08-26",
+   "likes": "680",
+   "url": "https://www.rednote.com/discovery/item/6a58af2f000000001c012e6d"
+  },
+  {
+   "author": "上海九院王韵",
+   "date": "05-02",
+   "likes": "790",
+   "url": "https://www.rednote.com/discovery/item/69f32494000000003502f585"
+  },
+  {
+   "author": "医美刘滢",
+   "date": "07-01",
+   "likes": "85",
+   "url": "https://www.rednote.com/discovery/item/6a44f5ed000000000702a43d"
+  },
+  {
+   "author": "风举青云",
+   "date": "06-17",
+   "likes": "189",
+   "url": "https://www.rednote.com/discovery/item/6a3231f30000000008031bd5"
+  },
+  {
+   "author": "上海九院王韵",
+   "date": "06-24",
+   "likes": "311",
+   "url": "https://www.rednote.com/discovery/item/6a3a4d06000000001702dd5c"
+  },
+  {
+   "author": "上海九院王韵",
+   "date": "03-09",
+   "likes": "549",
+   "url": "https://www.rednote.com/discovery/item/69aad064000000000d00aed8"
+  }
+ ]
+}

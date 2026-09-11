@@ -1,0 +1,88 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in, hidden pane)",
+ "observedAt": "2026-09-11T07:05+07:00",
+ "method": "Hidden-pane cron run; visibility=false verified; aria-labels absent this render; author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote medical search banner: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "少女针",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=少女针",
+ "comparisonWithPrevious": "vs xhs-少女针-20260910.json: MATERIAL CHANGE — gained chips 馒化修复 (overfilled-face repair discourse!), brand words 艾维岚/菲洛密/致臻, geo 武汉. Overfill-repair is a new dominant concern pattern for regenerative fillers.",
+ "relatedQueries": [
+  "伊妍士",
+  "泰国",
+  "伊研仕",
+  "武汉",
+  "韧带提升",
+  "香港",
+  "塑妍真",
+  "鼻子",
+  "亮爆镜",
+  "眉弓",
+  "馒化修复",
+  "菲洛密",
+  "取出",
+  "致臻",
+  "艾维岚"
+ ],
+ "notes": [
+  {
+   "author": "欧恩助理｜童颜美学",
+   "date": "09-02",
+   "likes": "5",
+   "url": "https://www.rednote.com/discovery/item/6a97d603000000002802dff9"
+  },
+  {
+   "author": "萱萱",
+   "date": "06-24",
+   "likes": "22",
+   "url": "https://www.rednote.com/discovery/item/6a3b8555000000000f033a56"
+  },
+  {
+   "author": "八大处整形梁雪冰",
+   "date": "06-27",
+   "likes": "39",
+   "url": "https://www.rednote.com/discovery/item/6a3faa8e000000001101a80b"
+  },
+  {
+   "author": "皮肤科于泳医生",
+   "date": "06-08",
+   "likes": "62",
+   "url": "https://www.rednote.com/discovery/item/6a269bd3000000000803d36c"
+  },
+  {
+   "author": "整形外科王朝辉",
+   "date": "01-02",
+   "likes": "153",
+   "url": "https://www.rednote.com/discovery/item/6954c258000000001e00d5fe"
+  },
+  {
+   "author": "可丽尊享小助理",
+   "date": "04-23",
+   "likes": "9",
+   "url": "https://www.rednote.com/discovery/item/69e9da89000000001f031802"
+  },
+  {
+   "author": "胡丽萍小助理｜材料科普版",
+   "date": "",
+   "likes": "31",
+   "url": "https://www.rednote.com/discovery/item/6aa29456000000002b000d8f"
+  },
+  {
+   "author": "王永书Alan杭州助理版",
+   "date": "08-14",
+   "likes": "1352",
+   "url": "https://www.rednote.com/discovery/item/6a7eebbd0000000005033e75"
+  },
+  {
+   "author": "ELLANSE伊妍仕医疗器械",
+   "date": "08-27",
+   "likes": "6",
+   "url": "https://www.rednote.com/discovery/item/6a8fd2cb0000000025039fd9"
+  },
+  {
+   "author": "刘冰 | 减法美学",
+   "date": "09-03",
+   "likes": "5",
+   "url": "https://www.rednote.com/discovery/item/6a9959e7000000002802d896"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in, hidden pane)",
+ "observedAt": "2026-09-11T07:05+07:00",
+ "method": "Hidden-pane cron run; visibility=false verified; aria-labels absent this render; author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote medical search banner: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "瘦脸针",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=瘦脸针",
+ "comparisonWithPrevious": "vs xhs-瘦脸针-20260910.json: MATERIAL CHANGE — gained chips 品牌对比 (brand comparison), 新氧 (price-war platform), 适合人群 (suitability intent). Top: 整形医生王晨羽 4460, 黄辞-西安四院 701. Aligns with CN price-war meta-trend.",
+ "relatedQueries": [
+  "厦门",
+  "沈阳",
+  "苏州",
+  "保妥适肉毒",
+  "咬肌大",
+  "注射价格",
+  "衡力针",
+  "肉方脸",
+  "下颌提升",
+  "高颧骨",
+  "天津",
+  "适合人群",
+  "国字脸",
+  "品牌对比",
+  "新氧"
+ ],
+ "notes": [
+  {
+   "author": "整形医生王晨羽",
+   "date": "08-17",
+   "likes": "4460",
+   "url": "https://www.rednote.com/discovery/item/6911ee98000000000302ca21"
+  },
+  {
+   "author": "钟丽娅助理｜轻薄长效抗衰",
+   "date": "06-05",
+   "likes": "7",
+   "url": "https://www.rednote.com/discovery/item/6a21aa9a000000003501dffd"
+  },
+  {
+   "author": "黄辞-西安四院",
+   "date": "03-27",
+   "likes": "701",
+   "url": "https://www.rednote.com/discovery/item/69c63a5e000000001b0218f3"
+  },
+  {
+   "author": "整形美容外科卢艺朴",
+   "date": "07-25",
+   "likes": "489",
+   "url": "https://www.rednote.com/discovery/item/6a6493bb000000001c01246d"
+  },
+  {
+   "author": "省二医洪伟晋博士",
+   "date": "2025-11-12",
+   "likes": "1342",
+   "url": "https://www.rednote.com/discovery/item/6914846f000000000700fec0"
+  },
+  {
+   "author": "廖孟南｜助理",
+   "date": "2025-08-05",
+   "likes": "5079",
+   "url": "https://www.rednote.com/discovery/item/689192a00000000004001fa9"
+  },
+  {
+   "author": "皮肤美容医生赵欣欣",
+   "date": "2025-11-12",
+   "likes": "64",
+   "url": "https://www.rednote.com/discovery/item/6914264c000000000302fd77"
+  },
+  {
+   "author": "上海九院段然",
+   "date": "06-26",
+   "likes": "2710",
+   "url": "https://www.rednote.com/discovery/item/6a2a5935000000002201883e"
+  },
+  {
+   "author": "长沙钟良（助理版）",
+   "date": "08-02",
+   "likes": "36",
+   "url": "https://www.rednote.com/discovery/item/6a55e5fd000000001603c81b"
+  },
+  {
+   "author": "勾涛博士谈整形",
+   "date": "03-12",
+   "likes": "53",
+   "url": "https://www.rednote.com/discovery/item/69b287b4000000001b017797"
+  }
+ ]
+}

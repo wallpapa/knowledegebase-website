@@ -1,0 +1,82 @@
+{
+ "platform": "rednote.com web search (ZCode in-app browser session, logged in, hidden pane)",
+ "observedAt": "2026-09-11T07:05+07:00",
+ "method": "Hidden-pane cron run; visibility=false verified; aria-labels absent this render; author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote medical search banner: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "乔雅露",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=乔雅露",
+ "comparisonWithPrevious": "vs xhs-乔雅露-20260910.json: moderate change — gained chip 9cc (dosage question intent), 北京 (geo). 7/10 persist. Dosage question (多少cc) is a real patient question worth FAQ coverage.",
+ "relatedQueries": [
+  "蓝瓶",
+  "小绿瓶",
+  "胶原蛋白",
+  "9cc",
+  "眼部",
+  "恢复期",
+  "淡化细纹",
+  "补水",
+  "北京"
+ ],
+ "notes": [
+  {
+   "author": "A蕾欧医疗器械",
+   "date": "2025-04-11",
+   "likes": "28",
+   "url": "https://www.rednote.com/discovery/item/67f8983f000000000d01467f"
+  },
+  {
+   "author": "美科學霸玥熹Elena 📚",
+   "date": "07-25",
+   "likes": "121",
+   "url": "https://www.rednote.com/discovery/item/6a642e32000000001d00d749"
+  },
+  {
+   "author": "vivi",
+   "date": "5天前",
+   "likes": "3",
+   "url": "https://www.rednote.com/discovery/item/6a9c215c0000000028038f32"
+  },
+  {
+   "author": "夏威夷（小助理版）",
+   "date": "2025-12-18",
+   "likes": "5",
+   "url": "https://www.rednote.com/discovery/item/6943c389000000001b020e92"
+  },
+  {
+   "author": "Gleam Derma Beauty",
+   "date": "05-29",
+   "likes": "6",
+   "url": "https://www.rednote.com/discovery/item/6a18fe400000000037034426"
+  },
+  {
+   "author": "我是大白💫",
+   "date": "5天前",
+   "likes": "11",
+   "url": "https://www.rednote.com/discovery/item/6a9cad2d000000000f03bb5e"
+  },
+  {
+   "author": "灿灿大王",
+   "date": "03-28",
+   "likes": "13",
+   "url": "https://www.rednote.com/discovery/item/69c77fd40000000021010703"
+  },
+  {
+   "author": "Winnie",
+   "date": "01-12",
+   "likes": "27",
+   "url": "https://www.rednote.com/discovery/item/6964b66d0000000021029002"
+  },
+  {
+   "author": "瑞奈｜颜时空美学助理",
+   "date": "08-05",
+   "likes": "13",
+   "url": "https://www.rednote.com/discovery/item/6a72e4c90000000022033723"
+  },
+  {
+   "author": "E起变美",
+   "date": "07-26",
+   "likes": "32",
+   "url": "https://www.rednote.com/discovery/item/6a66025c000000000c033c00"
+  }
+ ]
+}

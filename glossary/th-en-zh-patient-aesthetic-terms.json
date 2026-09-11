@@ -303,7 +303,8 @@
           "meaning": "jaw-slimming indication (masseter)",
           "reviewState": "rednote-search-observed",
           "evidence": [
-            "evidence/xhs-瘦脸针.json"
+            "evidence/xhs-瘦脸针.json",
+            "evidence/xhs-瘦脸针-20260911.json"
           ],
           "usageNote": "Highest-engagement family (top post 4453 likes). Patient concerns: 脸颊凹陷/脸下垂/不跨脸; collocations 咬肌大/下颌提升/国字脸. Related chips include 保妥适肉毒 and 衡力针."
         },
@@ -530,7 +531,8 @@
           "meaning": "transliteration (Traditional-script evidence: 喬雅露)",
           "reviewState": "rednote-search-observed",
           "evidence": [
-            "evidence/xhs-乔雅露.json"
+            "evidence/xhs-乔雅露.json",
+            "evidence/xhs-乔雅露-20260911.json"
           ],
           "usageNote": "Confirmed live zh term; variants 蓝瓶/黑瓶 (blue/black bottle) and 小绿瓶 in related chips; framed as 提升+水光 dual-effect; nodule-risk discourse exists (JUVELOOK全面结节?) — pages must not dismiss documented risks."
         },
@@ -819,7 +821,8 @@
           "register": "dominant nickname, universal",
           "reviewState": "rednote-search-observed",
           "evidence": [
-            "evidence/xhs-热玛吉.json"
+            "evidence/xhs-热玛吉.json",
+            "evidence/xhs-热玛吉-20260911.json"
           ],
           "usageNote": "Top Rednote discourse: 避坑/千万别乱打 guides, 超声炮-vs-热玛吉 confusion posts, price-by-shots questions (九百发五代热玛吉多少钱), 眼部热玛吉 subset. Related chips: 第五代/真实效果/疼痛程度/副作用/发数-level shopping."
         },
@@ -1000,7 +1003,8 @@
           "register": "medical aesthetics in Thailand",
           "reviewState": "rednote-search-observed",
           "evidence": [
-            "evidence/xhs-泰国医美.json"
+            "evidence/xhs-泰国医美.json",
+            "evidence/xhs-泰国医美-20260911.json"
           ],
           "usageNote": "Live Bangkok competitor activity in Chinese: KKC Aesthetic TH, 曼谷Onda, Secret皮肤管理店, Lumina Wellness post natively in Chinese. Trust discourse is strong: 避雷 posts and a 2026-09 news item about an influencer's death at a Bangkok clinic — license/credential transparency content answers a real, current patient concern."
         },
