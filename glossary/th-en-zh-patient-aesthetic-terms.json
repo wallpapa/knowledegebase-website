@@ -635,11 +635,33 @@
           "evidence": [
             "evidence/xhs-丽珠兰-20260909.json"
           ]
+        },
+        {
+          "term": "package change 2026: 2 cc → 2.7 cc per syringe",
+          "meaning": "Owner-supplied vendor comparison sheet: the old package (silver-topped black carton) carries a 2 cc syringe, the new all-black package carries a 2.7 cc syringe. Only the PER-SYRINGE volume is evidenced by that sheet.",
+          "reviewState": "vendor-packaging-sheet",
+          "evidence": [
+            "owner-supplied Rejuran packaging comparison, 2026-09-11, sha256 aeac0b1a3cd7d8c6371aa71c7a8a70f0b35cc0df37b51675909cf145b7aa0869"
+          ]
+        },
+        {
+          "term": "เข็มขาว = old package",
+          "meaning": "Owner statement 2026-09-11: Waleerat and VERZO stock the NEW package. A white syringe means the old package, which the owner associates with ของหิ้ว (hand-carried stock outside the official distributor).",
+          "reviewState": "owner-statement",
+          "evidence": [
+            "clinic owner, chat 2026-09-11"
+          ],
+          "usageNote": "INTERNAL ONLY. Staff may use this to answer 'why does yours look different' and to check their own stock. It must never become patient-facing comparative copy about other clinics: it is an unverified claim about third parties and Thai advertising rules do not permit disparaging comparison. Say what OUR package is; do not say what a competitor's is."
         }
       ],
-      "disambiguation": [],
+      "disambiguation": [
+        {
+          "against": "rejuran-box-contents",
+          "why": "UNRESOLVED, and it is a 2x error on a 9,999 THB product. Whisperchat's own records disagree: the service row is named 'Rejuran Healer รุ่นใหม่ กล่องละ 2.7 cc' (box = 2.7 cc) while an alias on the VERZO Rejuran Healer row reads 'กล่องละ 2 syringe 1 syringe = 2.7 cc' (box = 5.4 cc). The vendor sheet shows two syringes beside each carton but labels only the syringe. Do not state a box volume until the owner confirms how many syringes a box holds."
+        }
+      ],
       "notes": "",
-      "note": "ADJUDICATED (Claude Opus 2026-09-11, medium confidence): primary=丽珠兰. 婴儿针 search surface dominated by NEUE topical serum — match inbound but never headline. Render as 丽珠兰(婴儿针) + qualify 注射. TW=鮭魚針. Watch Livzon(丽珠) pharma confusion."
+      "note": "ADJUDICATED (Claude Opus 2026-09-11, medium confidence): primary=丽珠兰. 婴儿针 search surface dominated by NEUE topical serum — match inbound but never headline. Render as 丽珠兰(婴儿针) + qualify 注射. TW=鮭魚針. Watch Livzon(丽珠) pharma confusion. Packaging note 2026-09-11: syringe volume moved 2 cc → 2.7 cc; box contents unconfirmed (see disambiguation). Both clinics stock the new package, so a white syringe is old stock."
     },
     {
       "id": "profhilo",

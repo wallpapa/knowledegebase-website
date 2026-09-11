@@ -3,7 +3,7 @@
   "aliasMapId": "service-aliases",
   "generatedAt": "2026-09-11",
   "sourceGlossary": "glossary/th-en-zh-patient-aesthetic-terms.json",
-  "sourceDigest": "e5293e3298a2d0e318b2973fb38ea2f530590f385adc6fde724d24998afd9823",
+  "sourceDigest": "127e4969a4ff4400860f3c48b80ce70395bfe919719cc45a06a0a0265c1ba94d",
   "evidenceRule": "Only reviewState in {rednote-search-observed, site-published-zh, site-canonical, site-keyword, kb-observed-th} is exported. Discovery-grade, unverified and conflicting terms stay in the glossary only.",
   "consumers": [
     "Whisper repo scripts/sync-service-aliases-from-kb.mjs -> clinic_services.aliases (whisperchat.co/chat service matching)",
@@ -340,6 +340,16 @@
         {
           "term": "丽驻兰",
           "lang": "zhHans"
+        },
+        {
+          "term": "package change 2026: 2 cc → 2.7 cc per syringe",
+          "lang": "zhHans",
+          "state": "vendor-packaging-sheet"
+        },
+        {
+          "term": "เข็มขาว = old package",
+          "lang": "zhHans",
+          "state": "owner-statement"
         }
       ],
       "dangerousConfusions": []
