@@ -3,7 +3,7 @@
   "aliasMapId": "service-aliases",
   "generatedAt": "2026-09-11",
   "sourceGlossary": "glossary/th-en-zh-patient-aesthetic-terms.json",
-  "sourceDigest": "042df401168b2bddea727d18274946c8c1e97f29cf2885980fb5272b36b2e1f5",
+  "sourceDigest": "d25742a1db9f9f98ff32046d6e5495f444a992c938b0868a96478f6ee08b3ba9",
   "evidenceRule": "Only reviewState in {rednote-search-observed, site-published-zh, site-canonical, site-keyword, kb-observed-th} is exported. Discovery-grade, unverified and conflicting terms stay in the glossary only.",
   "consumers": [
     "Whisper repo scripts/sync-service-aliases-from-kb.mjs -> clinic_services.aliases (whisperchat.co/chat service matching)",
@@ -31,6 +31,18 @@
         "压印线"
       ],
       "excluded": [
+        {
+          "term": "注射线",
+          "lang": "zhHans",
+          "state": "owner-ruling",
+          "reason": "owner-ruling"
+        },
+        {
+          "term": "无痕线雕",
+          "lang": "zhHans",
+          "state": "owner-ruling",
+          "reason": "owner-ruling"
+        },
         {
           "term": "大V线",
           "lang": "zhHans",
@@ -277,14 +289,23 @@
         "Juvelook"
       ],
       "zhHans": [
+        "素颜针",
         "乔雅露"
       ],
       "excluded": [
         {
-          "term": "新童颜 / 素颜针",
+          "term": "新童颜针",
+          "lang": "zhHans"
+        },
+        {
+          "term": "液态童颜针",
+          "lang": "zhHans"
+        },
+        {
+          "term": "新童妍",
           "lang": "zhHans",
-          "state": "discovery-single-source",
-          "reason": "discovery-single-source"
+          "state": "websearch-verified-2026-09-11",
+          "reason": "websearch-verified-2026-09-11"
         }
       ],
       "dangerousConfusions": []
@@ -314,9 +335,11 @@
         },
         {
           "term": "三文鱼针",
-          "lang": "zhHans",
-          "state": "discovery-single-source",
-          "reason": "discovery-single-source"
+          "lang": "zhHans"
+        },
+        {
+          "term": "丽驻兰",
+          "lang": "zhHans"
         }
       ],
       "dangerousConfusions": []
@@ -413,9 +436,21 @@
         "Ultraformer MPT"
       ],
       "zhHans": [
-        "超声炮"
+        "海芙"
       ],
       "excluded": [
+        {
+          "term": "海芙音波",
+          "lang": "zhHans"
+        },
+        {
+          "term": "第三代海芙",
+          "lang": "zhHans"
+        },
+        {
+          "term": "韩版超声刀",
+          "lang": "zhHans"
+        },
         {
           "term": "黄金超声炮",
           "lang": "zhHans",
@@ -530,6 +565,58 @@
       ],
       "excluded": [],
       "dangerousConfusions": []
+    },
+    {
+      "id": "ellanse",
+      "canonicalEn": "Ellansé",
+      "clinicScope": [
+        "WLR",
+        "VRZ"
+      ],
+      "th": [],
+      "en": [],
+      "zhHans": [
+        "少女针"
+      ],
+      "excluded": [
+        {
+          "term": "เอลลานเซ่",
+          "lang": "th",
+          "state": "transliteration"
+        },
+        {
+          "term": "Ellansé",
+          "lang": "en",
+          "state": "brand-canonical"
+        }
+      ]
+    },
+    {
+      "id": "peninsula-ultrasound",
+      "canonicalEn": "Peninsula ultrasound (超声炮 device)",
+      "clinicScope": [
+        "VRZ"
+      ],
+      "th": [],
+      "en": [],
+      "zhHans": [
+        "超声炮"
+      ],
+      "excluded": [
+        {
+          "term": "Peninsula ultrasound (超声炮 device)",
+          "lang": "en",
+          "state": "adjudicated-opus-2026-09-11"
+        },
+        {
+          "term": "大超炮",
+          "lang": "zhHans"
+        },
+        {
+          "term": "半岛黄金超声炮",
+          "lang": "zhHans"
+        }
+      ]
     }
   ]
 }

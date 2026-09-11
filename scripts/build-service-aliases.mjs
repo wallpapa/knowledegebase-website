@@ -27,6 +27,10 @@ const ALLOWED_STATES = new Set([
   "kb-observed-th",
 ]);
 
+// Adjudicated states (e.g. "adjudicated-opus-2026-09-11") outrank observations;
+// they are rulings derived from evidence review and always exportable.
+const isAllowed = (state) => ALLOWED_STATES.has(state) || String(state || "").startsWith("adjudicated");
+
 const SITE_TO_SCOPE = {
   "waleeratclinic.com": "WLR",
   "waleeratinternational.com": "WLR",
@@ -62,11 +66,11 @@ function build(glossaryJson = readFileSync(GLOSSARY_PATH, "utf8")) {
       else family.excluded.push({ term: e.term, lang: "en", state: e.reviewState });
     }
     for (const e of term.zhHans || []) {
-      if (ALLOWED_STATES.has(e.reviewState) && !(e.usageNote || "").includes("AMBIGUITY WARNING")) family.zhHans.push(...splitVariants(e.term));
+      if (isAllowed(e.reviewState) && !(e.usageNote || "").includes("AMBIGUITY WARNING")) family.zhHans.push(...splitVariants(e.term));
       else family.excluded.push({ term: e.term, lang: "zhHans", state: e.reviewState, reason: (e.usageNote || "").includes("AMBIGUITY WARNING") ? "ambiguous-on-platform" : e.reviewState });
     }
     for (const s of term.subTerms || []) {
-      if (ALLOWED_STATES.has(s.reviewState)) family.zhHans.push(...splitVariants(s.term));
+      if (isAllowed(s.reviewState)) family.zhHans.push(...splitVariants(s.term));
       else family.excluded.push({ term: s.term, lang: "zhHans", state: s.reviewState });
     }
 

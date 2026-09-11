@@ -1,1047 +1,1131 @@
 {
-  "schemaVersion": 1,
-  "glossaryId": "th-en-zh-patient-aesthetic-terms",
-  "status": "partially-rednote-verified",
-  "createdAt": "2026-09-09",
-  "purpose": "Thai → English → Simplified-Chinese patient-facing terminology for the aesthetic-clinic websites (waleeratclinic.com, waleeratinternational.com, verzoclinic.com). Chinese terms are what prospective patients actually search and use (Rednote/Xiaohongshu register), mapped to each site's canonical English program names. This is a linguistic resource: it maps TERMS, never claims, prices or credentials, and must not be used to transfer claims between brands.",
-  "evidenceModel": {
-    "reviewStates": {
-      "site-published-zh": "The website itself already publishes this Chinese term (verifiable at the live zh URL recorded in the site's llms.txt snapshot in this repo).",
-      "site-canonical": "Canonical English program name from the site's own llms.txt program index.",
-      "site-keyword": "Thai term published by the site as a brand/SEO keyword (clinic.json keywords).",
-      "kb-observed-th": "Real Thai patient search phrase captured in the verzo evidence knowledge base (Google People Also Ask, intent-only review).",
-      "discovery-confirmed": "Agreed by >=2 independent sources in glossary/evidence/ (Tavily web discovery). Still needs the logged-in Rednote confirmation pass.",
-      "discovery-single-source": "Seen in one discovery source only; treat as hypothesis.",
-      "unverified-colloquial": "Common-usage assertion without evidence captured here; do not use in publication copy.",
-      "rednote-search-observed": "Term searched on rednote.com (logged-in web session); top-result titles, authors, dates, likes and related-query chips recorded verbatim in glossary/evidence/xhs-*.json."
-    },
-    "platformNote": "Verification pass 1 ran 2026-09-09: 16 terms search-verified inside rednote.com using the ZCode in-app browser (logged-in session; the owner's Chrome was left untouched). Raw per-term observations (post titles/authors/dates/likes + related-query chips) are in glossary/evidence/xhs-*.json. Verified entries carry reviewState 'rednote-search-observed'. Note-level verification (opening each post, reading body + comments) is still pending, so translation use should still pass each site's own i18n quality gates.",
-    "disambiguationRule": "Nicknames that identify a DIFFERENT product than the one named are recorded under disambiguation, not as translations. Example: 少女针 = Ellansé (PCL), NOT Sculptra — using it for a Sculptra program would misidentify the product."
+ "schemaVersion": 1,
+ "glossaryId": "th-en-zh-patient-aesthetic-terms",
+ "status": "partially-rednote-verified",
+ "createdAt": "2026-09-09",
+ "purpose": "Thai → English → Simplified-Chinese patient-facing terminology for the aesthetic-clinic websites (waleeratclinic.com, waleeratinternational.com, verzoclinic.com). Chinese terms are what prospective patients actually search and use (Rednote/Xiaohongshu register), mapped to each site's canonical English program names. This is a linguistic resource: it maps TERMS, never claims, prices or credentials, and must not be used to transfer claims between brands.",
+ "evidenceModel": {
+  "reviewStates": {
+   "site-published-zh": "The website itself already publishes this Chinese term (verifiable at the live zh URL recorded in the site's llms.txt snapshot in this repo).",
+   "site-canonical": "Canonical English program name from the site's own llms.txt program index.",
+   "site-keyword": "Thai term published by the site as a brand/SEO keyword (clinic.json keywords).",
+   "kb-observed-th": "Real Thai patient search phrase captured in the verzo evidence knowledge base (Google People Also Ask, intent-only review).",
+   "discovery-confirmed": "Agreed by >=2 independent sources in glossary/evidence/ (Tavily web discovery). Still needs the logged-in Rednote confirmation pass.",
+   "discovery-single-source": "Seen in one discovery source only; treat as hypothesis.",
+   "unverified-colloquial": "Common-usage assertion without evidence captured here; do not use in publication copy.",
+   "rednote-search-observed": "Term searched on rednote.com (logged-in web session); top-result titles, authors, dates, likes and related-query chips recorded verbatim in glossary/evidence/xhs-*.json."
   },
-  "provenance": {
-    "discoveryMethod": "15 bounded Tavily web searches, raw JSON preserved verbatim in glossary/evidence/ (q01–q15), 2026-09-09.",
-    "siteSnapshotSources": [
-      "sites/waleeratclinic.com/llms.txt (zh-Hans + zh-Hant + en + th program indexes)",
-      "sites/waleeratinternational.com/llms-full.txt (treatment reference)",
-      "sites/verzoclinic.com/llms-full.txt (treatment reference)",
-      "sites/waleeratclinic.com/clinic.json (Thai brand keywords)",
-      "sites/verzoclinic.com/knowledgebase/ (Thai patient search phrases)"
-    ],
-    "pendingVerification": "Rednote in-app searches for each zhHans term + device nickname; record post titles, URLs, observed frequency, and zh-Hant/zh-Hans variants; upgrade reviewStates accordingly."
-  },
-  "terms": [
-    {
-      "id": "thread-lift",
-      "family": "Thread lift",
-      "sites": [
-        "waleeratclinic.com",
-        "waleeratinternational.com",
-        "verzoclinic.com"
-      ],
-      "th": [
-        {
-          "term": "ร้อยไหม",
-          "reviewState": "site-keyword"
-        },
-        {
-          "term": "ฉีดไหม",
-          "reviewState": "site-keyword"
-        }
-      ],
-      "en": [
-        {
-          "term": "Thread Lift",
-          "reviewState": "site-canonical"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "线雕",
-          "register": "dominant patient term",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-线雕.json"
-          ],
-          "usageNote": "2026 线雕回潮 discourse ('2026真正的线雕年', '线雕终于又好起来了'); honest long-term posts (十年后) and 大实话 posts perform; concern words: 口角囊袋/下颌缘/印第安纹."
-        },
-        {
-          "term": "埋线提升",
-          "register": "formal/clinic synonym",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-埋线提升.json"
-          ]
-        }
-      ],
-      "subTerms": [
-        {
-          "term": "大V线",
-          "meaning": "PLLA cogged lifting thread (strong lift, mid/lower face)",
-          "reviewState": "discovery-confirmed",
-          "evidence": [
-            "evidence/q05-threadlift.json — mrcbc.com, voguestudio.org"
-          ]
-        },
-        {
-          "term": "小V线",
-          "meaning": "PDO fine thread (tightening/filling, no strong lift)",
-          "reviewState": "discovery-confirmed",
-          "evidence": [
-            "evidence/q05-threadlift.json — mrcbc.com, voguestudio.org"
-          ]
-        },
-        {
-          "term": "蛋白线",
-          "meaning": "absorbable protein thread (generic material word)",
-          "reviewState": "discovery-single-source",
-          "evidence": [
-            "evidence/q05-threadlift.json — mrcbc.com"
-          ]
-        },
-        {
-          "term": "Mint线雕 / Mint埋线拉提",
-          "meaning": "MINT PDO cog threads",
-          "reviewState": "discovery-single-source",
-          "evidence": [
-            "evidence/q13-mint.json — onlif.co.kr zh blog; TW clinics use 秘特拉提线/神力拉提 (Traditional script)"
-          ]
-        },
-        {
-          "term": "鱼骨线 / 压印线",
-          "meaning": "thread-type variants patients compare alongside 大V线",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-线雕.json"
-          ]
-        }
-      ],
-      "disambiguation": [],
-      "notes": "Site already pairs brand names with 线雕 (e.g. 'Ruby No.5 线雕 Program'). Rednote pass should confirm whether 埋线 or 线雕 dominates in search bars and note 抗衰/提升 collocations."
-    },
-    {
-      "id": "nose-thread-lift",
-      "family": "Nose thread lift",
-      "sites": [
-        "waleeratclinic.com"
-      ],
-      "th": [],
-      "en": [
-        {
-          "term": "Nose Thread Lift",
-          "reviewState": "site-canonical"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "鼻部线雕",
-          "reviewState": "site-published-zh",
-          "evidence": [
-            "sites/waleeratclinic.com/llms.txt — zh program: 鼻部线雕 Program"
-          ]
-        }
-      ],
-      "subTerms": [
-        {
-          "term": "鼻基底",
-          "meaning": "nose-base area patients name for threads/filler decisions",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-鼻基底-20260910.json"
-          ]
-        }
-      ],
-      "disambiguation": [],
-      "notes": "鼻线雕 and 隆鼻线雕 are likely variants — verify on Rednote before using."
-    },
-    {
-      "id": "eye-thread-lift",
-      "family": "Eye-area thread lift / foxy eye",
-      "sites": [
-        "waleeratclinic.com"
-      ],
-      "th": [],
-      "en": [
-        {
-          "term": "Eye Thread Lift / Endoline Foxy Eye",
-          "reviewState": "site-canonical"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "眼周线雕",
-          "reviewState": "site-published-zh",
-          "evidence": [
-            "sites/waleeratclinic.com/llms.txt — zh program: Pailin 眼周线雕 Program"
-          ]
-        },
-        {
-          "term": "狐狸眼线雕",
-          "reviewState": "site-published-zh",
-          "evidence": [
-            "sites/waleeratclinic.com/llms.txt — zh program: Endoline 狐狸眼线雕 Program"
-          ]
-        },
-        {
-          "term": "狐狸眼",
-          "register": "patient term for foxy-eye look",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-狐狸眼.json",
-            "evidence/xhs-狐狸眼-20260910.json"
-          ],
-          "usageNote": "Mostly eye-shape/aesthetic discourse (狐系眼/桃花眼/丹凤眼 typing, 2963-like comparison post) plus surgical honesty posts ('狐狸眼眼尾上扬，都是假案例！', '到底能不能做？'). Use 狐狸眼 as the look word, not as a procedure name."
-        },
-        {
-          "term": "眼尾提升",
-          "register": "eye-corner lift",
-          "reviewState": "discovery-single-source",
-          "evidence": [
-            "evidence/q10-eye.json — girinpscn.com"
-          ]
-        }
-      ],
-      "subTerms": [
-        {
-          "term": "眼袋",
-          "meaning": "eye bags (distinct concern; also 眼底脂肪重排 = under-eye fat repositioning)",
-          "reviewState": "discovery-single-source",
-          "evidence": [
-            "evidence/q10-eye.json"
-          ]
-        }
-      ],
-      "disambiguation": [],
-      "notes": ""
-    },
-    {
-      "id": "lower-face-thread-lift",
-      "family": "Lower-face thread lift",
-      "sites": [
-        "waleeratclinic.com"
-      ],
-      "th": [],
-      "en": [
-        {
-          "term": "Emerald Lower-Face Thread Lift",
-          "reviewState": "site-canonical"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "下脸线雕",
-          "reviewState": "site-published-zh",
-          "evidence": [
-            "sites/waleeratclinic.com/llms.txt — zh program: Emerald 下脸线雕 Program"
-          ]
-        }
-      ],
-      "subTerms": [
-        {
-          "term": "下颌线",
-          "meaning": "jawline — top concern word",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-下颌线-20260910.json"
-          ]
-        },
-        {
-          "term": "双下巴",
-          "meaning": "double chin co-occurring concern",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-下颌线-20260910.json"
-          ]
-        }
-      ],
-      "disambiguation": [],
-      "notes": "下颌线 (jawline) is the trending Rednote concern-word to verify for this family."
-    },
-    {
-      "id": "botox",
-      "family": "Botulinum toxin",
-      "sites": [
-        "waleeratclinic.com",
-        "waleeratinternational.com"
-      ],
-      "th": [
-        {
-          "term": "โบท็อกซ์",
-          "reviewState": "site-canonical (program name, EN script)"
-        },
-        {
-          "term": "ฉีดโบ",
-          "reviewState": "unverified-colloquial"
-        }
-      ],
-      "en": [
-        {
-          "term": "Botox Program",
-          "reviewState": "site-canonical"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "肉毒素",
-          "register": "generic substance term",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-瘦脸针.json"
-          ],
-          "usageNote": "Confirmed via 瘦脸针 search: related chip 保妥适肉毒 and top posts (1支肉毒…811 likes, 打肉毒必看指南)."
-        },
-        {
-          "term": "A型肉毒素",
-          "register": "A-type botulinum toxin (regulatory phrasing)",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-瘦脸针.json"
-          ],
-          "usageNote": "Confirmed via 瘦脸针 search: related chip 保妥适肉毒 and top posts (1支肉毒…811 likes, 打肉毒必看指南)."
-        },
-        {
-          "term": "瘦脸针",
-          "meaning": "jaw-slimming indication (masseter)",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-瘦脸针.json",
-            "evidence/xhs-瘦脸针-20260911.json"
-          ],
-          "usageNote": "Highest-engagement family (top post 4453 likes). Patient concerns: 脸颊凹陷/脸下垂/不跨脸; collocations 咬肌大/下颌提升/国字脸. Related chips include 保妥适肉毒 and 衡力针."
-        },
-        {
-          "term": "除皱针",
-          "meaning": "wrinkle-treatment indication",
-          "reviewState": "discovery-confirmed",
-          "evidence": [
-            "evidence/q06-botox.json — zhihu.com"
-          ]
-        },
-        {
-          "term": "保妥适",
-          "meaning": "Botox brand, CN-market name (Allergan)",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-保妥适-20260909.json",
-            "evidence/xhs-瘦脸针.json",
-            "evidence/xhs-保妥适-20260911.json"
-          ],
-          "usageNote": "Own evidence file now; high-engagement brand-choice discourse (进口vs国产肉毒 3318 likes; 美产/韩产/国产瘦脸针的区别 289) + 授权上市机构 framing + 100u全脸提升 dosage talk."
-        }
-      ],
-      "subTerms": [
-        {
-          "term": "兰州衡力",
-          "meaning": "China-domestic botulinum brand (Lanzhou Hengli) — disambiguation only; do not use for the clinic's product unless it is literally this brand",
-          "reviewState": "discovery-confirmed",
-          "evidence": [
-            "evidence/q06-botox.json"
-          ]
-        },
-        {
-          "term": "鱼尾纹",
-          "meaning": "crow's feet",
-          "reviewState": "discovery-single-source",
-          "evidence": [
-            "evidence/q06-botox.json — btch.edu.cn"
-          ]
-        }
-      ],
-      "disambiguation": [],
-      "notes": "Thai patient phrasing observed in verzo KB: 'ร้อยไหมกับ Botox อันไหนดีกว่ากัน', 'ราคา กี่ยูนิต อยู่ได้นานไหม' (unit-price framing) — evidence/sites/verzoclinic.com/knowledgebase/. Chinese pages should answer 瘦脸针/除皱针 by indication, not translate 'Botox Program' literally."
-    },
-    {
-      "id": "ha-filler",
-      "family": "HA dermal filler",
-      "sites": [
-        "waleeratclinic.com",
-        "waleeratinternational.com",
-        "verzoclinic.com"
-      ],
-      "th": [
-        {
-          "term": "ฟิลเลอร์",
-          "reviewState": "kb-observed-th ('ฉีดฟิลเลอร์ยกมุมปากได้ไหม' — verzo KB Google PAA)"
-        }
-      ],
-      "en": [
-        {
-          "term": "HA Filler",
-          "reviewState": "site-canonical"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "玻尿酸",
-          "register": "dominant patient term",
-          "reviewState": "discovery-confirmed",
-          "evidence": [
-            "evidence/q09-filler.json — niceclinic.com.tw, drxmedgroup.com.tw"
-          ]
-        },
-        {
-          "term": "玻尿酸填充",
-          "reviewState": "site-published-zh",
-          "evidence": [
-            "sites/waleeratclinic.com/llms.txt — zh program: 玻尿酸填充 Program"
-          ]
-        }
-      ],
-      "subTerms": [
-        {
-          "term": "苹果肌",
-          "meaning": "mid-face/cheek padding area",
-          "reviewState": "discovery-confirmed",
-          "evidence": [
-            "evidence/q09-filler.json"
-          ]
-        },
-        {
-          "term": "法令纹",
-          "meaning": "nasolabial fold",
-          "reviewState": "discovery-confirmed",
-          "evidence": [
-            "evidence/q09-filler.json"
-          ]
-        },
-        {
-          "term": "泪沟",
-          "meaning": "tear trough",
-          "reviewState": "discovery-confirmed",
-          "evidence": [
-            "evidence/q09-filler.json — niceclinic.com.tw"
-          ]
-        },
-        {
-          "term": "垫下巴 / 下巴填充",
-          "meaning": "chin augmentation / chin filler",
-          "reviewState": "discovery-confirmed",
-          "evidence": [
-            "evidence/q09-filler.json"
-          ]
-        }
-      ],
-      "disambiguation": [],
-      "notes": "Area words matter for Chinese SEO: patients search 玻尿酸+部位, not 'filler'."
-    },
-    {
-      "id": "sculptra",
-      "family": "PLLA collagen biostimulator",
-      "sites": [
-        "waleeratclinic.com",
-        "waleeratinternational.com",
-        "verzoclinic.com"
-      ],
-      "th": [],
-      "en": [
-        {
-          "term": "Sculptra",
-          "reviewState": "site-canonical"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "童颜针",
-          "register": "the established nickname for Sculptra (PLLA, Galderma)",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-童颜针.json",
-            "evidence/xhs-童颜针-20260911.json"
-          ],
-          "usageNote": "Brand ecosystem in related chips: 塑妍萃/爱唯缇/时凝萃/普丽妍/德美颜/悦雅颜 — bind a specific brand name ONLY after manufacturer-level verification; 童颜针 alone is the safe generic."
-        }
-      ],
-      "subTerms": [],
-      "disambiguation": [
-        {
-          "term": "少女针",
-          "meaning": "Ellansé (PCL + CMC) — a DIFFERENT product; never use for Sculptra programs",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-少女针.json"
-          ],
-          "usageNote": "Confirmed on Rednote: 少女针 = 伊妍仕/Ellansé (also spelled 伊妍士/伊研仕); dedicated 童颜针VS少女针 explainer posts (up to 322 likes); complication/rights post exists (少女针5年后面部硬化，还能维权吗) — never reuse 少女针 for Sculptra."
-        }
-      ],
-      "notes": "Highest mistranslation risk in the whole glossary: 童颜针/少女针 are confused even in Chinese-language clinic marketing. Site zh pages currently keep 'Sculptra Program' untranslated; a zh page could say 童颜针（Sculptra） only after the Rednote pass confirms local usage."
-    },
-    {
-      "id": "radiesse",
-      "family": "CaHA collagen biostimulator",
-      "sites": [
-        "waleeratclinic.com"
-      ],
-      "th": [],
-      "en": [
-        {
-          "term": "Radiesse (Plus)",
-          "reviewState": "site-canonical"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "微晶瓷",
-          "register": "dominant nickname (calcium-hydroxyapatite microspheres)",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-微晶瓷.json",
-            "evidence/xhs-微晶瓷-20260911.json"
-          ],
-          "usageNote": "Observed transliterations: 瑞德喜 (dominant) and 芮得怡; contour areas in related chips: 鼻基底/下巴/眉弓/额头; also 取出 (removal) and 痘坑 discourse."
-        },
-        {
-          "term": "瑞德喜",
-          "meaning": "transliteration of Radiesse",
-          "reviewState": "discovery-single-source",
-          "evidence": [
-            "evidence/q15-radiesse.json — cleanbeauty.tw"
-          ]
-        }
-      ],
-      "subTerms": [
-        {
-          "term": "晶亮瓷",
-          "meaning": "TW-market product name variant",
-          "reviewState": "discovery-single-source",
-          "evidence": [
-            "evidence/q15-radiesse.json — cleanbeauty.tw"
-          ]
-        }
-      ],
-      "disambiguation": [],
-      "notes": "微晶瓷 is strongly associated with nose/chin contouring in patient discourse — matches the site's Radiesse positioning; confirm register on Rednote."
-    },
-    {
-      "id": "juvelook",
-      "family": "PDLLA + HA collagen biostimulator",
-      "sites": [
-        "waleeratclinic.com",
-        "waleeratinternational.com",
-        "verzoclinic.com"
-      ],
-      "th": [],
-      "en": [
-        {
-          "term": "Juvelook",
-          "reviewState": "site-canonical"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "乔雅露",
-          "meaning": "transliteration (Traditional-script evidence: 喬雅露)",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-乔雅露.json",
-            "evidence/xhs-乔雅露-20260911.json"
-          ],
-          "usageNote": "Confirmed live zh term; variants 蓝瓶/黑瓶 (blue/black bottle) and 小绿瓶 in related chips; framed as 提升+水光 dual-effect; nodule-risk discourse exists (JUVELOOK全面结节?) — pages must not dismiss documented risks."
-        },
-        {
-          "term": "新童颜 / 素颜针",
-          "meaning": "nicknames seen in TW sources (新童妍/素顏針)",
-          "reviewState": "discovery-single-source",
-          "evidence": [
-            "evidence/q12-juvelook.json — icarebeauty.com.tw"
-          ]
-        }
-      ],
-      "subTerms": [],
-      "disambiguation": [
-        {
-          "term": "童颜针",
-          "meaning": "reserved for Sculptra (PLLA) — do not reuse for Juvelook (PDLLA) without explicit qualifier 新童颜",
-          "reviewState": "discovery-confirmed",
-          "evidence": [
-            "evidence/q03-collagen-stimulators.json"
-          ]
-        }
-      ],
-      "notes": "Weakest zh-Hans evidence in this set (sources are Traditional-script TW pages). Rednote pass is REQUIRED before any publication use; mainland discourse may prefer keeping the brand 'Juvelook' in Latin script."
-    },
-    {
-      "id": "rejuran",
-      "family": "PN (salmon DNA) skin healer",
-      "sites": [
-        "waleeratclinic.com",
-        "verzoclinic.com"
-      ],
-      "th": [],
-      "en": [
-        {
-          "term": "Rejuran",
-          "reviewState": "site-canonical"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "婴儿针",
-          "register": "dominant nickname ('baby injection' — skin healing/glow)",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-婴儿针.json"
-          ],
-          "usageNote": "AMBIGUITY WARNING: current Rednote surface for 婴儿针 is dominated by the NEUE 婴儿针 topical skincare/serum trend (HK SASA retail, 涂抹式), NOT the Rejuran injectable. For Rejuran pages, lead with 丽珠兰/Rejuran brand + 三文鱼 qualifier; never use bare 婴儿针."
-        },
-        {
-          "term": "丽珠兰",
-          "meaning": "brand transliteration",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-丽珠兰-20260909.json",
-            "evidence/xhs-丽珠兰-20260910.json"
-          ],
-          "usageNote": "Confirmed live: brand-transliteration posts + HQ-visit content; variants seen: 丽驻兰, 黑盒/红盒/眼部白盒 product-line words, PDRN technical term, related chip 三文鱼. 2026-09-10 re-check added aftercare chips 术后/淤青 — patient concern extends to recovery, not just product choice."
-        },
-        {
-          "term": "三文鱼针",
-          "meaning": "salmon-DNA nickname",
-          "reviewState": "discovery-single-source",
-          "evidence": [
-            "evidence/q04-skinboosters.json — idcosmeticclinic.ca ('三文鱼婴儿针')"
-          ]
-        }
-      ],
-      "subTerms": [
-        {
-          "term": "丽驻兰",
-          "meaning": "variant transliteration seen in top posts",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-丽珠兰-20260909.json"
-          ]
-        },
-        {
-          "term": "PDRN",
-          "meaning": "technical ingredient word patients use for Rejuran-class",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-丽珠兰-20260909.json"
-          ]
-        }
-      ],
-      "disambiguation": [],
-      "notes": ""
-    },
-    {
-      "id": "profhilo",
-      "family": "HA bio-remodelling",
-      "sites": [
-        "waleeratclinic.com",
-        "waleeratinternational.com",
-        "verzoclinic.com"
-      ],
-      "th": [],
-      "en": [
-        {
-          "term": "Profhilo Bio-Remodelling",
-          "reviewState": "site-canonical"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "逆龄针",
-          "register": "established nickname",
-          "reviewState": "conflicts-current-rednote-usage",
-          "evidence": [
-            "evidence/xhs-逆龄针.json"
-          ],
-          "usageNote": "CORRECTION (2026-09-09): current Rednote results for 逆龄针 are dominated by longevity/gene-therapy injection news (238万一针, Harvard first-human stories) and BeauEver skincare — NOT Profhilo. Do NOT use 逆龄针 for Profhilo pages; keep the Latin brand 'Profhilo' and frame it in 水光针-family copy (提升型水光)."
-        }
-      ],
-      "subTerms": [
-        {
-          "term": "BAP 五点式注射",
-          "meaning": "Bio Aesthetic Points 5-point injection technique",
-          "reviewState": "discovery-single-source",
-          "evidence": [
-            "evidence/q11-profhilo.json — ai-beauty.co"
-          ]
-        }
-      ],
-      "disambiguation": [],
-      "notes": "2026-09-09 Rednote check overturned the earlier discovery-grade mapping Profhilo=逆龄针. Use brand name + 水光针 family framing in zh copy until a qualified native review provides a better patient-facing nickname."
-    },
-    {
-      "id": "skin-booster-generic",
-      "family": "Skin booster / mesotherapy (generic)",
-      "sites": [
-        "waleeratclinic.com",
-        "waleeratinternational.com",
-        "verzoclinic.com"
-      ],
-      "th": [
-        {
-          "term": "เมโส / หน้าใส",
-          "reviewState": "unverified-colloquial"
-        }
-      ],
-      "en": [
-        {
-          "term": "Skin booster",
-          "reviewState": "site-canonical (descriptive)"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "水光针",
-          "register": "THE patient word for injectable hydration/glow treatments",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-水光针.json",
-            "evidence/xhs-水光针-20260911.json"
-          ],
-          "usageNote": "High-volume informational queries: 打完水光多久可以化妆 (841 likes — aftercare), 长期打水光十年后 (531 — long-term honesty), brand-ranking posts; related chips: 娃娃针/搭配组合/敏感肌/修复皮肤屏障."
-        }
-      ],
-      "subTerms": [
-        {
-          "term": "胶原水光",
-          "meaning": "collagen-booster variant term (1122-like post; '比普通水光更好吗' question live)",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-胶原水光-20260910.json"
-          ]
-        }
-      ],
-      "disambiguation": [],
-      "notes": "水光针 is the umbrella patients use for many injector skin treatments — a zh page must clarify device/product inside that frame rather than translate 'mesotherapy'."
-    },
-    {
-      "id": "ultherapy",
-      "family": "Micro-focused ultrasound (US, Ulthera)",
-      "sites": [
-        "waleeratclinic.com"
-      ],
-      "th": [
-        {
-          "term": "อัลเทอร่า",
-          "reviewState": "unverified-colloquial"
-        }
-      ],
-      "en": [
-        {
-          "term": "Ultherapy PRIME",
-          "reviewState": "site-canonical"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "超声刀",
-          "register": "nickname tied to US Ulthera lineage",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-超声刀.json"
-          ],
-          "usageNote": "Comparison posts vs 超声炮/热玛吉/XERF; 韧带提升 (ligament lifting) framing trend; celebrity-endorsement promos exist (verify authenticity before citing)."
-        }
-      ],
-      "subTerms": [
-        {
-          "term": "美版超声刀",
-          "meaning": "'US-version HIFU' qualifier used to distinguish Ulthera from Korean/China devices",
-          "reviewState": "discovery-single-source",
-          "evidence": [
-            "evidence/q02-hifu.json — idcosmeticclinic.ca"
-          ]
-        }
-      ],
-      "disambiguation": [
-        {
-          "term": "超声炮",
-          "meaning": "Korean/domestic multi-point HIFU (incl. Ultraformer) — different device class in patient discourse; see ultraformer entry",
-          "reviewState": "discovery-confirmed",
-          "evidence": [
-            "evidence/q02-hifu.json"
-          ]
-        }
-      ],
-      "notes": "Ultherapy PRIME (newer version) — check Rednote for 新一代超声刀/超声刀Prime usage."
-    },
-    {
-      "id": "ultraformer",
-      "family": "HIFU (Korean, Ultraformer)",
-      "sites": [
-        "waleeratclinic.com",
-        "waleeratinternational.com"
-      ],
-      "th": [],
-      "en": [
-        {
-          "term": "Ultraformer MPT",
-          "reviewState": "site-canonical"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "超声炮",
-          "register": "nickname for Korean/domestic multi-point HIFU incl. Ultraformer",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-超声炮.json",
-            "evidence/xhs-超声炮-20260911.json"
-          ],
-          "usageNote": "Observed device-brand nicknames: 大超炮 and 半岛黄金超声炮 (Peninsula = China-market brand). These are NOT verified mappings to Ultraformer — bind device names only after manufacturer-level verification. Recovery questions (恢复期多久) are common."
-        }
-      ],
-      "subTerms": [
-        {
-          "term": "黄金超声炮",
-          "meaning": "faster-energy variant branding; possibly maps to Ultraformer MPT but mapping NOT yet evidenced",
-          "reviewState": "discovery-single-source",
-          "evidence": [
-            "evidence/q02-hifu.json — zhuanlan.zhihu.com/p/635648466"
-          ]
-        }
-      ],
-      "disambiguation": [],
-      "notes": "Do not claim 黄金超声炮 = MPT without device-level verification (manufacturer + model); this is exactly the kind of transfer the evidence rules prohibit."
-    },
-    {
-      "id": "thermage",
-      "family": "Monopolar RF skin tightening (US, Solta)",
-      "sites": [
-        "waleeratclinic.com",
-        "waleeratinternational.com"
-      ],
-      "th": [
-        {
-          "term": "เทอร์มาจ",
-          "reviewState": "unverified-colloquial"
-        }
-      ],
-      "en": [
-        {
-          "term": "Thermage FLX",
-          "reviewState": "site-canonical (device)"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "热玛吉",
-          "register": "dominant nickname, universal",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-热玛吉.json",
-            "evidence/xhs-热玛吉-20260911.json"
-          ],
-          "usageNote": "Top Rednote discourse: 避坑/千万别乱打 guides, 超声炮-vs-热玛吉 confusion posts, price-by-shots questions (九百发五代热玛吉多少钱), 眼部热玛吉 subset. Related chips: 第五代/真实效果/疼痛程度/副作用/发数-level shopping."
-        },
-        {
-          "term": "第五代热玛吉 / 热玛吉五代 / 热玛吉FLX",
-          "meaning": "FLX = 5th generation",
-          "reviewState": "discovery-confirmed",
-          "evidence": [
-            "evidence/q01-thermage.json — eccliniclondon.com, bhpsmed.us, skinconfidenceclinic.com.au"
-          ]
-        }
-      ],
-      "subTerms": [
-        {
-          "term": "发数",
-          "meaning": "shot/pulse count (900发/600发) — patients compare protocols by shots",
-          "reviewState": "discovery-single-source",
-          "evidence": [
-            "evidence/q01-thermage.json — eccliniclondon.com"
-          ]
-        },
-        {
-          "term": "第五代热玛吉 / 5代热玛吉",
-          "meaning": "FLX generation — patients specify generation when asking price",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-热玛吉.json"
-          ]
-        }
-      ],
-      "disambiguation": [],
-      "notes": "Bangkok Thermage pages in Chinese already exist at competitors (evidence/q08) — 热玛吉 + 曼谷 is a live patient search pattern."
-    },
-    {
-      "id": "oligio",
-      "family": "Monopolar RF (Korean, Oligio)",
-      "sites": [
-        "waleeratclinic.com",
-        "waleeratinternational.com"
-      ],
-      "th": [],
-      "en": [
-        {
-          "term": "Oligio / Oligio X",
-          "reviewState": "site-canonical"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "韩版热玛吉",
-          "register": "dominant framing: 'Korean Thermage'",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-韩版热玛吉-20260909.json",
-            "evidence/xhs-韩版热玛吉-20260911.json"
-          ],
-          "usageNote": "Dominant forms: 韩式热玛吉 / 小韩热玛吉; direct product discourse links the frame to Oligio/Oligio X (火爆小韩的Oligiox…). Related chips: 美版区别/痛不痛/恢复期/维持时间. A '第六代热玛吉' claim appears — unverified, do NOT adopt."
-        }
-      ],
-      "subTerms": [
-        {
-          "term": "韩式热玛吉",
-          "meaning": "dominant variant",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-韩版热玛吉-20260909.json"
-          ]
-        },
-        {
-          "term": "小韩热玛吉",
-          "meaning": "colloquial variant",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-韩版热玛吉-20260909.json"
-          ]
-        }
-      ],
-      "disambiguation": [],
-      "notes": "Site already publishes 原版 Oligio 单极射频 / Oligio X 单极射频 — the patient-side hook is 韩版热玛吉."
-    },
-    {
-      "id": "pico-laser",
-      "family": "Picosecond laser",
-      "sites": [
-        "waleeratclinic.com",
-        "waleeratinternational.com"
-      ],
-      "th": [],
-      "en": [
-        {
-          "term": "Pico Laser",
-          "reviewState": "site-canonical"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "皮秒激光",
-          "register": "site-published program name",
-          "reviewState": "site-published-zh",
-          "evidence": [
-            "sites/waleeratclinic.com/llms.txt — zh program: 皮秒激光 Program"
-          ]
-        },
-        {
-          "term": "皮秒",
-          "register": "generic short form",
-          "reviewState": "discovery-confirmed",
-          "evidence": [
-            "evidence/q07-pico.json — estclinic.com.au, ai-beauty.co"
-          ]
-        },
-        {
-          "term": "蜂巢皮秒",
-          "meaning": "honeycomb-lens PicoSure specifically (NOT generic)",
-          "reviewState": "discovery-confirmed",
-          "evidence": [
-            "evidence/q07-pico.json"
-          ]
-        }
-      ],
-      "subTerms": [
-        {
-          "term": "赛诺秀",
-          "meaning": "Cynosure (PicoSure manufacturer), seen in zh copy",
-          "reviewState": "discovery-single-source",
-          "evidence": [
-            "evidence/q07-pico.json — estclinic.com.au"
-          ]
-        }
-      ],
-      "disambiguation": [],
-      "notes": "Device-specific nicknames (蜂巢皮秒=PicoSure; 超皮秒=PicoWay per common usage — UNVERIFIED here) must be bound to the clinic's actual device only after checking which pico platform each site uses."
-    },
-    {
-      "id": "laser-hair-removal",
-      "family": "Laser hair removal",
-      "sites": [
-        "waleeratclinic.com"
-      ],
-      "th": [],
-      "en": [
-        {
-          "term": "Laser Hair Removal",
-          "reviewState": "site-canonical"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "激光脱毛",
-          "reviewState": "site-published-zh",
-          "evidence": [
-            "sites/waleeratclinic.com/llms.txt — zh program: 激光脱毛 Program"
-          ]
-        }
-      ],
-      "subTerms": [],
-      "disambiguation": [],
-      "notes": "冰点脱毛 (sapphire-cooling variant) is the common Rednote variant — verify before using."
-    },
-    {
-      "id": "thailand-medical-aesthetics-context",
-      "family": "Market/intent context terms (not treatments)",
-      "sites": [
-        "waleeratclinic.com",
-        "waleeratinternational.com",
-        "verzoclinic.com"
-      ],
-      "th": [],
-      "en": [
-        {
-          "term": "Bangkok / Thailand medical aesthetics",
-          "reviewState": "descriptive"
-        }
-      ],
-      "zhHans": [
-        {
-          "term": "泰国医美",
-          "register": "medical aesthetics in Thailand",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-泰国医美.json",
-            "evidence/xhs-泰国医美-20260911.json"
-          ],
-          "usageNote": "Live Bangkok competitor activity in Chinese: KKC Aesthetic TH, 曼谷Onda, Secret皮肤管理店, Lumina Wellness post natively in Chinese. Trust discourse is strong: 避雷 posts and a 2026-09 news item about an influencer's death at a Bangkok clinic — license/credential transparency content answers a real, current patient concern."
-        },
-        {
-          "term": "曼谷医美 / 曼谷热玛吉",
-          "meaning": "Bangkok-scoped variants",
-          "reviewState": "rednote-search-observed",
-          "evidence": [
-            "evidence/xhs-曼谷医美.json"
-          ]
-        },
-        {
-          "term": "攻略",
-          "meaning": "'guide/strategy' — the word patients attach to trip-planning posts (泰国医美攻略)",
-          "reviewState": "discovery-single-source",
-          "evidence": [
-            "evidence/q08-thailand-medtour.json — beavoy.com"
-          ]
-        }
-      ],
-      "subTerms": [],
-      "disambiguation": [],
-      "notes": "These are intent/introduction terms for zh landing pages and Rednote content, not treatment names."
-    }
+  "platformNote": "Verification pass 1 ran 2026-09-09: 16 terms search-verified inside rednote.com using the ZCode in-app browser (logged-in session; the owner's Chrome was left untouched). Raw per-term observations (post titles/authors/dates/likes + related-query chips) are in glossary/evidence/xhs-*.json. Verified entries carry reviewState 'rednote-search-observed'. Note-level verification (opening each post, reading body + comments) is still pending, so translation use should still pass each site's own i18n quality gates.",
+  "disambiguationRule": "Nicknames that identify a DIFFERENT product than the one named are recorded under disambiguation, not as translations. Example: 少女针 = Ellansé (PCL), NOT Sculptra — using it for a Sculptra program would misidentify the product."
+ },
+ "provenance": {
+  "discoveryMethod": "15 bounded Tavily web searches, raw JSON preserved verbatim in glossary/evidence/ (q01–q15), 2026-09-09.",
+  "siteSnapshotSources": [
+   "sites/waleeratclinic.com/llms.txt (zh-Hans + zh-Hant + en + th program indexes)",
+   "sites/waleeratinternational.com/llms-full.txt (treatment reference)",
+   "sites/verzoclinic.com/llms-full.txt (treatment reference)",
+   "sites/waleeratclinic.com/clinic.json (Thai brand keywords)",
+   "sites/verzoclinic.com/knowledgebase/ (Thai patient search phrases)"
   ],
-  "notYetResearched": [
-    "therafill ( collagen )",
-    "nucleofill",
-    "plinest",
-    "belluxi",
-    "neofilera",
-    "ejal40",
-    "saypha",
-    "hyamax",
-    "ultracol",
-    "xerf",
-    "lipo-lifting-x",
-    "Note: these keep their Latin brand names in zh pages until a research pass adds evidenced nicknames."
-  ]
+  "pendingVerification": "Rednote in-app searches for each zhHans term + device nickname; record post titles, URLs, observed frequency, and zh-Hant/zh-Hans variants; upgrade reviewStates accordingly."
+ },
+ "terms": [
+  {
+   "id": "thread-lift",
+   "family": "Thread lift",
+   "sites": [
+    "waleeratclinic.com",
+    "waleeratinternational.com",
+    "verzoclinic.com"
+   ],
+   "th": [
+    {
+     "term": "ร้อยไหม",
+     "reviewState": "site-keyword"
+    },
+    {
+     "term": "ฉีดไหม",
+     "reviewState": "site-keyword"
+    }
+   ],
+   "en": [
+    {
+     "term": "Thread Lift",
+     "reviewState": "site-canonical"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "线雕",
+     "register": "dominant patient term",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-线雕.json"
+     ],
+     "usageNote": "2026 线雕回潮 discourse ('2026真正的线雕年', '线雕终于又好起来了'); honest long-term posts (十年后) and 大实话 posts perform; concern words: 口角囊袋/下颌缘/印第安纹."
+    },
+    {
+     "term": "埋线提升",
+     "register": "formal/clinic synonym",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-埋线提升.json"
+     ]
+    },
+    {
+     "term": "注射线",
+     "register": "injection-thread term",
+     "reviewState": "owner-ruling"
+    },
+    {
+     "term": "无痕线雕",
+     "register": "injection-thread term",
+     "reviewState": "owner-ruling"
+    }
+   ],
+   "subTerms": [
+    {
+     "term": "大V线",
+     "meaning": "PLLA cogged lifting thread (strong lift, mid/lower face)",
+     "reviewState": "discovery-confirmed",
+     "evidence": [
+      "evidence/q05-threadlift.json — mrcbc.com, voguestudio.org"
+     ]
+    },
+    {
+     "term": "小V线",
+     "meaning": "PDO fine thread (tightening/filling, no strong lift)",
+     "reviewState": "discovery-confirmed",
+     "evidence": [
+      "evidence/q05-threadlift.json — mrcbc.com, voguestudio.org"
+     ]
+    },
+    {
+     "term": "蛋白线",
+     "meaning": "absorbable protein thread (generic material word)",
+     "reviewState": "discovery-single-source",
+     "evidence": [
+      "evidence/q05-threadlift.json — mrcbc.com"
+     ]
+    },
+    {
+     "term": "Mint线雕 / Mint埋线拉提",
+     "meaning": "MINT PDO cog threads",
+     "reviewState": "discovery-single-source",
+     "evidence": [
+      "evidence/q13-mint.json — onlif.co.kr zh blog; TW clinics use 秘特拉提线/神力拉提 (Traditional script)"
+     ]
+    },
+    {
+     "term": "鱼骨线 / 压印线",
+     "meaning": "thread-type variants patients compare alongside 大V线",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-线雕.json"
+     ]
+    }
+   ],
+   "disambiguation": [],
+   "notes": "Site already pairs brand names with 线雕 (e.g. 'Ruby No.5 线雕 Program'). Rednote pass should confirm whether 埋线 or 线雕 dominates in search bars and note 抗衰/提升 collocations.",
+   "note": "OWNER RULINGS: exact pair mapping — ฉีดไหม→注射线 (injectable short threads), ร้อยไหม→埋线提升/线雕 (cannula-placed lifting threads). NEVER swap or merge the two; never translate ไหม as 'silk'. Merged from Whisperchat vocabulary.json 2026-09-11."
+  },
+  {
+   "id": "nose-thread-lift",
+   "family": "Nose thread lift",
+   "sites": [
+    "waleeratclinic.com"
+   ],
+   "th": [],
+   "en": [
+    {
+     "term": "Nose Thread Lift",
+     "reviewState": "site-canonical"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "鼻部线雕",
+     "reviewState": "site-published-zh",
+     "evidence": [
+      "sites/waleeratclinic.com/llms.txt — zh program: 鼻部线雕 Program"
+     ]
+    }
+   ],
+   "subTerms": [
+    {
+     "term": "鼻基底",
+     "meaning": "nose-base area patients name for threads/filler decisions",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-鼻基底-20260910.json"
+     ]
+    }
+   ],
+   "disambiguation": [],
+   "notes": "鼻线雕 and 隆鼻线雕 are likely variants — verify on Rednote before using."
+  },
+  {
+   "id": "eye-thread-lift",
+   "family": "Eye-area thread lift / foxy eye",
+   "sites": [
+    "waleeratclinic.com"
+   ],
+   "th": [],
+   "en": [
+    {
+     "term": "Eye Thread Lift / Endoline Foxy Eye",
+     "reviewState": "site-canonical"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "眼周线雕",
+     "reviewState": "site-published-zh",
+     "evidence": [
+      "sites/waleeratclinic.com/llms.txt — zh program: Pailin 眼周线雕 Program"
+     ]
+    },
+    {
+     "term": "狐狸眼线雕",
+     "reviewState": "site-published-zh",
+     "evidence": [
+      "sites/waleeratclinic.com/llms.txt — zh program: Endoline 狐狸眼线雕 Program"
+     ]
+    },
+    {
+     "term": "狐狸眼",
+     "register": "patient term for foxy-eye look",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-狐狸眼.json",
+      "evidence/xhs-狐狸眼-20260910.json"
+     ],
+     "usageNote": "Mostly eye-shape/aesthetic discourse (狐系眼/桃花眼/丹凤眼 typing, 2963-like comparison post) plus surgical honesty posts ('狐狸眼眼尾上扬，都是假案例！', '到底能不能做？'). Use 狐狸眼 as the look word, not as a procedure name."
+    },
+    {
+     "term": "眼尾提升",
+     "register": "eye-corner lift",
+     "reviewState": "discovery-single-source",
+     "evidence": [
+      "evidence/q10-eye.json — girinpscn.com"
+     ]
+    }
+   ],
+   "subTerms": [
+    {
+     "term": "眼袋",
+     "meaning": "eye bags (distinct concern; also 眼底脂肪重排 = under-eye fat repositioning)",
+     "reviewState": "discovery-single-source",
+     "evidence": [
+      "evidence/q10-eye.json"
+     ]
+    }
+   ],
+   "disambiguation": [],
+   "notes": ""
+  },
+  {
+   "id": "lower-face-thread-lift",
+   "family": "Lower-face thread lift",
+   "sites": [
+    "waleeratclinic.com"
+   ],
+   "th": [],
+   "en": [
+    {
+     "term": "Emerald Lower-Face Thread Lift",
+     "reviewState": "site-canonical"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "下脸线雕",
+     "reviewState": "site-published-zh",
+     "evidence": [
+      "sites/waleeratclinic.com/llms.txt — zh program: Emerald 下脸线雕 Program"
+     ]
+    }
+   ],
+   "subTerms": [
+    {
+     "term": "下颌线",
+     "meaning": "jawline — top concern word",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-下颌线-20260910.json"
+     ]
+    },
+    {
+     "term": "双下巴",
+     "meaning": "double chin co-occurring concern",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-下颌线-20260910.json"
+     ]
+    }
+   ],
+   "disambiguation": [],
+   "notes": "下颌线 (jawline) is the trending Rednote concern-word to verify for this family."
+  },
+  {
+   "id": "botox",
+   "family": "Botulinum toxin",
+   "sites": [
+    "waleeratclinic.com",
+    "waleeratinternational.com"
+   ],
+   "th": [
+    {
+     "term": "โบท็อกซ์",
+     "reviewState": "site-canonical (program name, EN script)"
+    },
+    {
+     "term": "ฉีดโบ",
+     "reviewState": "unverified-colloquial"
+    }
+   ],
+   "en": [
+    {
+     "term": "Botox Program",
+     "reviewState": "site-canonical"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "肉毒素",
+     "register": "generic substance term",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-瘦脸针.json"
+     ],
+     "usageNote": "Confirmed via 瘦脸针 search: related chip 保妥适肉毒 and top posts (1支肉毒…811 likes, 打肉毒必看指南)."
+    },
+    {
+     "term": "A型肉毒素",
+     "register": "A-type botulinum toxin (regulatory phrasing)",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-瘦脸针.json"
+     ],
+     "usageNote": "Confirmed via 瘦脸针 search: related chip 保妥适肉毒 and top posts (1支肉毒…811 likes, 打肉毒必看指南)."
+    },
+    {
+     "term": "瘦脸针",
+     "meaning": "jaw-slimming indication (masseter)",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-瘦脸针.json",
+      "evidence/xhs-瘦脸针-20260911.json"
+     ],
+     "usageNote": "Highest-engagement family (top post 4453 likes). Patient concerns: 脸颊凹陷/脸下垂/不跨脸; collocations 咬肌大/下颌提升/国字脸. Related chips include 保妥适肉毒 and 衡力针."
+    },
+    {
+     "term": "除皱针",
+     "meaning": "wrinkle-treatment indication",
+     "reviewState": "discovery-confirmed",
+     "evidence": [
+      "evidence/q06-botox.json — zhihu.com"
+     ]
+    },
+    {
+     "term": "保妥适",
+     "meaning": "Botox brand, CN-market name (Allergan)",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-保妥适-20260909.json",
+      "evidence/xhs-瘦脸针.json",
+      "evidence/xhs-保妥适-20260911.json"
+     ],
+     "usageNote": "Own evidence file now; high-engagement brand-choice discourse (进口vs国产肉毒 3318 likes; 美产/韩产/国产瘦脸针的区别 289) + 授权上市机构 framing + 100u全脸提升 dosage talk."
+    }
+   ],
+   "subTerms": [
+    {
+     "term": "兰州衡力",
+     "meaning": "China-domestic botulinum brand (Lanzhou Hengli) — disambiguation only; do not use for the clinic's product unless it is literally this brand",
+     "reviewState": "discovery-confirmed",
+     "evidence": [
+      "evidence/q06-botox.json"
+     ]
+    },
+    {
+     "term": "鱼尾纹",
+     "meaning": "crow's feet",
+     "reviewState": "discovery-single-source",
+     "evidence": [
+      "evidence/q06-botox.json — btch.edu.cn"
+     ]
+    }
+   ],
+   "disambiguation": [],
+   "notes": "Thai patient phrasing observed in verzo KB: 'ร้อยไหมกับ Botox อันไหนดีกว่ากัน', 'ราคา กี่ยูนิต อยู่ได้นานไหม' (unit-price framing) — evidence/sites/verzoclinic.com/knowledgebase/. Chinese pages should answer 瘦脸针/除皱针 by indication, not translate 'Botox Program' literally."
+  },
+  {
+   "id": "ha-filler",
+   "family": "HA dermal filler",
+   "sites": [
+    "waleeratclinic.com",
+    "waleeratinternational.com",
+    "verzoclinic.com"
+   ],
+   "th": [
+    {
+     "term": "ฟิลเลอร์",
+     "reviewState": "kb-observed-th ('ฉีดฟิลเลอร์ยกมุมปากได้ไหม' — verzo KB Google PAA)"
+    }
+   ],
+   "en": [
+    {
+     "term": "HA Filler",
+     "reviewState": "site-canonical"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "玻尿酸",
+     "register": "dominant patient term",
+     "reviewState": "discovery-confirmed",
+     "evidence": [
+      "evidence/q09-filler.json — niceclinic.com.tw, drxmedgroup.com.tw"
+     ]
+    },
+    {
+     "term": "玻尿酸填充",
+     "reviewState": "site-published-zh",
+     "evidence": [
+      "sites/waleeratclinic.com/llms.txt — zh program: 玻尿酸填充 Program"
+     ]
+    }
+   ],
+   "subTerms": [
+    {
+     "term": "苹果肌",
+     "meaning": "mid-face/cheek padding area",
+     "reviewState": "discovery-confirmed",
+     "evidence": [
+      "evidence/q09-filler.json"
+     ]
+    },
+    {
+     "term": "法令纹",
+     "meaning": "nasolabial fold",
+     "reviewState": "discovery-confirmed",
+     "evidence": [
+      "evidence/q09-filler.json"
+     ]
+    },
+    {
+     "term": "泪沟",
+     "meaning": "tear trough",
+     "reviewState": "discovery-confirmed",
+     "evidence": [
+      "evidence/q09-filler.json — niceclinic.com.tw"
+     ]
+    },
+    {
+     "term": "垫下巴 / 下巴填充",
+     "meaning": "chin augmentation / chin filler",
+     "reviewState": "discovery-confirmed",
+     "evidence": [
+      "evidence/q09-filler.json"
+     ]
+    }
+   ],
+   "disambiguation": [],
+   "notes": "Area words matter for Chinese SEO: patients search 玻尿酸+部位, not 'filler'."
+  },
+  {
+   "id": "sculptra",
+   "family": "PLLA collagen biostimulator",
+   "sites": [
+    "waleeratclinic.com",
+    "waleeratinternational.com",
+    "verzoclinic.com"
+   ],
+   "th": [],
+   "en": [
+    {
+     "term": "Sculptra",
+     "reviewState": "site-canonical"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "童颜针",
+     "register": "the established nickname for Sculptra (PLLA, Galderma)",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-童颜针.json",
+      "evidence/xhs-童颜针-20260911.json"
+     ],
+     "usageNote": "Brand ecosystem in related chips: 塑妍萃/爱唯缇/时凝萃/普丽妍/德美颜/悦雅颜 — bind a specific brand name ONLY after manufacturer-level verification; 童颜针 alone is the safe generic."
+    }
+   ],
+   "subTerms": [],
+   "disambiguation": [
+    {
+     "term": "少女针",
+     "meaning": "Ellansé (PCL + CMC) — a DIFFERENT product; never use for Sculptra programs",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-少女针.json"
+     ],
+     "usageNote": "Confirmed on Rednote: 少女针 = 伊妍仕/Ellansé (also spelled 伊妍士/伊研仕); dedicated 童颜针VS少女针 explainer posts (up to 322 likes); complication/rights post exists (少女针5年后面部硬化，还能维权吗) — never reuse 少女针 for Sculptra."
+    }
+   ],
+   "notes": "Highest mistranslation risk in the whole glossary: 童颜针/少女针 are confused even in Chinese-language clinic marketing. Site zh pages currently keep 'Sculptra Program' untranslated; a zh page could say 童颜针（Sculptra） only after the Rednote pass confirms local usage."
+  },
+  {
+   "id": "radiesse",
+   "family": "CaHA collagen biostimulator",
+   "sites": [
+    "waleeratclinic.com"
+   ],
+   "th": [],
+   "en": [
+    {
+     "term": "Radiesse (Plus)",
+     "reviewState": "site-canonical"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "微晶瓷",
+     "register": "dominant nickname (calcium-hydroxyapatite microspheres)",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-微晶瓷.json",
+      "evidence/xhs-微晶瓷-20260911.json"
+     ],
+     "usageNote": "Observed transliterations: 瑞德喜 (dominant) and 芮得怡; contour areas in related chips: 鼻基底/下巴/眉弓/额头; also 取出 (removal) and 痘坑 discourse."
+    },
+    {
+     "term": "瑞德喜",
+     "meaning": "transliteration of Radiesse",
+     "reviewState": "discovery-single-source",
+     "evidence": [
+      "evidence/q15-radiesse.json — cleanbeauty.tw"
+     ]
+    }
+   ],
+   "subTerms": [
+    {
+     "term": "晶亮瓷",
+     "meaning": "TW-market product name variant",
+     "reviewState": "discovery-single-source",
+     "evidence": [
+      "evidence/q15-radiesse.json — cleanbeauty.tw"
+     ]
+    }
+   ],
+   "disambiguation": [],
+   "notes": "微晶瓷 is strongly associated with nose/chin contouring in patient discourse — matches the site's Radiesse positioning; confirm register on Rednote."
+  },
+  {
+   "id": "juvelook",
+   "family": "PDLLA + HA collagen biostimulator",
+   "sites": [
+    "waleeratclinic.com",
+    "waleeratinternational.com",
+    "verzoclinic.com"
+   ],
+   "th": [],
+   "en": [
+    {
+     "term": "Juvelook",
+     "reviewState": "site-canonical"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "素颜针",
+     "register": "dominant patient term — primary",
+     "reviewState": "adjudicated-opus-2026-09-11"
+    },
+    {
+     "term": "乔雅露",
+     "register": "TW/HK trade name (喬雅露) — high inbound value from TW/HK patients; render 乔雅露(Juvelook); NOT 乔雅登",
+     "reviewState": "rednote-search-observed",
+     "usageNote": "Confirmed live zh term; variants 蓝瓶/黑瓶 (blue/black bottle) and 小绿瓶 in related chips; framed as 提升+水光 dual-effect; nodule-risk discourse exists (JUVELOOK全面结节?) — pages must not dismiss documented risks."
+    },
+    {
+     "term": "新童颜针",
+     "register": "variant"
+    },
+    {
+     "term": "液态童颜针",
+     "register": "variant"
+    },
+    {
+     "term": "新童妍",
+     "register": "TW co-brand (appears on TW clinic pages)",
+     "reviewState": "websearch-verified-2026-09-11"
+    }
+   ],
+   "subTerms": [],
+   "disambiguation": [
+    {
+     "term": "童颜针",
+     "meaning": "reserved for Sculptra (PLLA) — do not reuse for Juvelook (PDLLA) without explicit qualifier 新童颜",
+     "reviewState": "discovery-confirmed",
+     "evidence": [
+      "evidence/q03-collagen-stimulators.json"
+     ]
+    }
+   ],
+   "notes": "Weakest zh-Hans evidence in this set (sources are Traditional-script TW pages). Rednote pass is REQUIRED before any publication use; mainland discourse may prefer keeping the brand 'Juvelook' in Latin script.",
+   "note": "ADJUDICATED (Claude Opus 2026-09-11, medium confidence): primary=素颜针 (PDLLA). 乔雅露 demoted — one char from 乔雅登 (Juvederm HA filler); disambiguate always. NOT 少女针 (=Ellansé PCL). PRE-LOCK CHECK CLOSED (Claude websearch 2026-09-11): 乔雅露/喬雅露 = TW/HK official trade name, NOT a mainland registration (all uses are traditional-script TW/HK clinics; NMPA search finds no registration). Demotion LOCKED."
+  },
+  {
+   "id": "rejuran",
+   "family": "PN (salmon DNA) skin healer",
+   "sites": [
+    "waleeratclinic.com",
+    "verzoclinic.com"
+   ],
+   "th": [],
+   "en": [
+    {
+     "term": "Rejuran",
+     "reviewState": "site-canonical"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "丽珠兰",
+     "register": "brand transliteration — primary",
+     "reviewState": "adjudicated-opus-2026-09-11",
+     "usageNote": "Confirmed live: brand-transliteration posts + HQ-visit content; variants seen: 丽驻兰, 黑盒/红盒/眼部白盒 product-line words, PDRN technical term, related chip 三文鱼. 2026-09-10 re-check added aftercare chips 术后/淤青 — patient concern extends to recovery, not just product choice."
+    },
+    {
+     "term": "婴儿针",
+     "register": "spoken/search term, ambiguous — never emit as headline",
+     "reviewState": "rednote-search-observed",
+     "usageNote": "AMBIGUITY WARNING: current Rednote surface for 婴儿针 is dominated by the NEUE 婴儿针 topical skincare/serum trend (HK SASA retail, 涂抹式), NOT the Rejuran injectable. For Rejuran pages, lead with 丽珠兰/Rejuran brand + 三文鱼 qualifier; never use bare 婴儿针."
+    },
+    {
+     "term": "三文鱼针",
+     "register": "category nickname"
+    },
+    {
+     "term": "丽驻兰",
+     "register": "spelling variant"
+    }
+   ],
+   "subTerms": [
+    {
+     "term": "丽驻兰",
+     "meaning": "variant transliteration seen in top posts",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-丽珠兰-20260909.json"
+     ]
+    },
+    {
+     "term": "PDRN",
+     "meaning": "technical ingredient word patients use for Rejuran-class",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-丽珠兰-20260909.json"
+     ]
+    }
+   ],
+   "disambiguation": [],
+   "notes": "",
+   "note": "ADJUDICATED (Claude Opus 2026-09-11, medium confidence): primary=丽珠兰. 婴儿针 search surface dominated by NEUE topical serum — match inbound but never headline. Render as 丽珠兰(婴儿针) + qualify 注射. TW=鮭魚針. Watch Livzon(丽珠) pharma confusion."
+  },
+  {
+   "id": "profhilo",
+   "family": "HA bio-remodelling",
+   "sites": [
+    "waleeratclinic.com",
+    "waleeratinternational.com",
+    "verzoclinic.com"
+   ],
+   "th": [],
+   "en": [
+    {
+     "term": "Profhilo Bio-Remodelling",
+     "reviewState": "site-canonical"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "逆龄针",
+     "register": "established nickname",
+     "reviewState": "conflicts-current-rednote-usage",
+     "evidence": [
+      "evidence/xhs-逆龄针.json"
+     ],
+     "usageNote": "CORRECTION (2026-09-09): current Rednote results for 逆龄针 are dominated by longevity/gene-therapy injection news (238万一针, Harvard first-human stories) and BeauEver skincare — NOT Profhilo. Do NOT use 逆龄针 for Profhilo pages; keep the Latin brand 'Profhilo' and frame it in 水光针-family copy (提升型水光)."
+    }
+   ],
+   "subTerms": [
+    {
+     "term": "BAP 五点式注射",
+     "meaning": "Bio Aesthetic Points 5-point injection technique",
+     "reviewState": "discovery-single-source",
+     "evidence": [
+      "evidence/q11-profhilo.json — ai-beauty.co"
+     ]
+    }
+   ],
+   "disambiguation": [],
+   "notes": "2026-09-09 Rednote check overturned the earlier discovery-grade mapping Profhilo=逆龄针. Use brand name + 水光针 family framing in zh copy until a qualified native review provides a better patient-facing nickname."
+  },
+  {
+   "id": "skin-booster-generic",
+   "family": "Skin booster / mesotherapy (generic)",
+   "sites": [
+    "waleeratclinic.com",
+    "waleeratinternational.com",
+    "verzoclinic.com"
+   ],
+   "th": [
+    {
+     "term": "เมโส / หน้าใส",
+     "reviewState": "unverified-colloquial"
+    }
+   ],
+   "en": [
+    {
+     "term": "Skin booster",
+     "reviewState": "site-canonical (descriptive)"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "水光针",
+     "register": "THE patient word for injectable hydration/glow treatments",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-水光针.json",
+      "evidence/xhs-水光针-20260911.json"
+     ],
+     "usageNote": "High-volume informational queries: 打完水光多久可以化妆 (841 likes — aftercare), 长期打水光十年后 (531 — long-term honesty), brand-ranking posts; related chips: 娃娃针/搭配组合/敏感肌/修复皮肤屏障."
+    }
+   ],
+   "subTerms": [
+    {
+     "term": "胶原水光",
+     "meaning": "collagen-booster variant term (1122-like post; '比普通水光更好吗' question live)",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-胶原水光-20260910.json"
+     ]
+    }
+   ],
+   "disambiguation": [],
+   "notes": "水光针 is the umbrella patients use for many injector skin treatments — a zh page must clarify device/product inside that frame rather than translate 'mesotherapy'."
+  },
+  {
+   "id": "ultherapy",
+   "family": "Micro-focused ultrasound (US, Ulthera)",
+   "sites": [
+    "waleeratclinic.com"
+   ],
+   "th": [
+    {
+     "term": "อัลเทอร่า",
+     "reviewState": "unverified-colloquial"
+    }
+   ],
+   "en": [
+    {
+     "term": "Ultherapy PRIME",
+     "reviewState": "site-canonical"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "超声刀",
+     "register": "nickname tied to US Ulthera lineage",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-超声刀.json"
+     ],
+     "usageNote": "Comparison posts vs 超声炮/热玛吉/XERF; 韧带提升 (ligament lifting) framing trend; celebrity-endorsement promos exist (verify authenticity before citing)."
+    }
+   ],
+   "subTerms": [
+    {
+     "term": "美版超声刀",
+     "meaning": "'US-version HIFU' qualifier used to distinguish Ulthera from Korean/China devices",
+     "reviewState": "discovery-single-source",
+     "evidence": [
+      "evidence/q02-hifu.json — idcosmeticclinic.ca"
+     ]
+    }
+   ],
+   "disambiguation": [
+    {
+     "term": "超声炮",
+     "meaning": "Korean/domestic multi-point HIFU (incl. Ultraformer) — different device class in patient discourse; see ultraformer entry",
+     "reviewState": "discovery-confirmed",
+     "evidence": [
+      "evidence/q02-hifu.json"
+     ]
+    }
+   ],
+   "notes": "Ultherapy PRIME (newer version) — check Rednote for 新一代超声刀/超声刀Prime usage."
+  },
+  {
+   "id": "ultraformer",
+   "family": "HIFU (Korean, Ultraformer)",
+   "sites": [
+    "waleeratclinic.com",
+    "waleeratinternational.com"
+   ],
+   "th": [],
+   "en": [
+    {
+     "term": "Ultraformer MPT",
+     "reviewState": "site-canonical"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "海芙",
+     "register": "mainland transliteration — primary",
+     "reviewState": "adjudicated-opus-2026-09-11"
+    },
+    {
+     "term": "海芙音波",
+     "register": "variant"
+    },
+    {
+     "term": "第三代海芙",
+     "register": "variant"
+    },
+    {
+     "term": "韩版超声刀",
+     "register": "comparison-shopping phrase — require 韩版 qualifier when 超声刀 is rendered"
+    }
+   ],
+   "subTerms": [
+    {
+     "term": "黄金超声炮",
+     "meaning": "faster-energy variant branding; possibly maps to Ultraformer MPT but mapping NOT yet evidenced",
+     "reviewState": "discovery-single-source",
+     "evidence": [
+      "evidence/q02-hifu.json — zhuanlan.zhihu.com/p/635648466"
+     ]
+    }
+   ],
+   "disambiguation": [],
+   "notes": "Do not claim 黄金超声炮 = MPT without device-level verification (manufacturer + model); this is exactly the kind of transfer the evidence rules prohibit.",
+   "note": "ADJUDICATED (Claude Opus 2026-09-11, high confidence): primary=海芙. 超声炮/大超炮/半岛黄金超声炮 = Peninsula China-market device, NOT Ultraformer — see separate entry. NOT 优提拉 (=Ulthera)."
+  },
+  {
+   "id": "thermage",
+   "family": "Monopolar RF skin tightening (US, Solta)",
+   "sites": [
+    "waleeratclinic.com",
+    "waleeratinternational.com"
+   ],
+   "th": [
+    {
+     "term": "เทอร์มาจ",
+     "reviewState": "unverified-colloquial"
+    }
+   ],
+   "en": [
+    {
+     "term": "Thermage FLX",
+     "reviewState": "site-canonical (device)"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "热玛吉",
+     "register": "dominant nickname, universal",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-热玛吉.json",
+      "evidence/xhs-热玛吉-20260911.json"
+     ],
+     "usageNote": "Top Rednote discourse: 避坑/千万别乱打 guides, 超声炮-vs-热玛吉 confusion posts, price-by-shots questions (九百发五代热玛吉多少钱), 眼部热玛吉 subset. Related chips: 第五代/真实效果/疼痛程度/副作用/发数-level shopping."
+    },
+    {
+     "term": "第五代热玛吉 / 热玛吉五代 / 热玛吉FLX",
+     "meaning": "FLX = 5th generation",
+     "reviewState": "discovery-confirmed",
+     "evidence": [
+      "evidence/q01-thermage.json — eccliniclondon.com, bhpsmed.us, skinconfidenceclinic.com.au"
+     ]
+    }
+   ],
+   "subTerms": [
+    {
+     "term": "发数",
+     "meaning": "shot/pulse count (900发/600发) — patients compare protocols by shots",
+     "reviewState": "discovery-single-source",
+     "evidence": [
+      "evidence/q01-thermage.json — eccliniclondon.com"
+     ]
+    },
+    {
+     "term": "第五代热玛吉 / 5代热玛吉",
+     "meaning": "FLX generation — patients specify generation when asking price",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-热玛吉.json"
+     ]
+    }
+   ],
+   "disambiguation": [],
+   "notes": "Bangkok Thermage pages in Chinese already exist at competitors (evidence/q08) — 热玛吉 + 曼谷 is a live patient search pattern."
+  },
+  {
+   "id": "oligio",
+   "family": "Monopolar RF (Korean, Oligio)",
+   "sites": [
+    "waleeratclinic.com",
+    "waleeratinternational.com"
+   ],
+   "th": [],
+   "en": [
+    {
+     "term": "Oligio / Oligio X",
+     "reviewState": "site-canonical"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "韩版热玛吉",
+     "register": "dominant framing: 'Korean Thermage'",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-韩版热玛吉-20260909.json",
+      "evidence/xhs-韩版热玛吉-20260911.json"
+     ],
+     "usageNote": "Dominant forms: 韩式热玛吉 / 小韩热玛吉; direct product discourse links the frame to Oligio/Oligio X (火爆小韩的Oligiox…). Related chips: 美版区别/痛不痛/恢复期/维持时间. A '第六代热玛吉' claim appears — unverified, do NOT adopt."
+    }
+   ],
+   "subTerms": [
+    {
+     "term": "韩式热玛吉",
+     "meaning": "dominant variant",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-韩版热玛吉-20260909.json"
+     ]
+    },
+    {
+     "term": "小韩热玛吉",
+     "meaning": "colloquial variant",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-韩版热玛吉-20260909.json"
+     ]
+    }
+   ],
+   "disambiguation": [],
+   "notes": "Site already publishes 原版 Oligio 单极射频 / Oligio X 单极射频 — the patient-side hook is 韩版热玛吉."
+  },
+  {
+   "id": "pico-laser",
+   "family": "Picosecond laser",
+   "sites": [
+    "waleeratclinic.com",
+    "waleeratinternational.com"
+   ],
+   "th": [],
+   "en": [
+    {
+     "term": "Pico Laser",
+     "reviewState": "site-canonical"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "皮秒激光",
+     "register": "site-published program name",
+     "reviewState": "site-published-zh",
+     "evidence": [
+      "sites/waleeratclinic.com/llms.txt — zh program: 皮秒激光 Program"
+     ]
+    },
+    {
+     "term": "皮秒",
+     "register": "generic short form",
+     "reviewState": "discovery-confirmed",
+     "evidence": [
+      "evidence/q07-pico.json — estclinic.com.au, ai-beauty.co"
+     ]
+    },
+    {
+     "term": "蜂巢皮秒",
+     "meaning": "honeycomb-lens PicoSure specifically (NOT generic)",
+     "reviewState": "discovery-confirmed",
+     "evidence": [
+      "evidence/q07-pico.json"
+     ]
+    }
+   ],
+   "subTerms": [
+    {
+     "term": "赛诺秀",
+     "meaning": "Cynosure (PicoSure manufacturer), seen in zh copy",
+     "reviewState": "discovery-single-source",
+     "evidence": [
+      "evidence/q07-pico.json — estclinic.com.au"
+     ]
+    }
+   ],
+   "disambiguation": [],
+   "notes": "Device-specific nicknames (蜂巢皮秒=PicoSure; 超皮秒=PicoWay per common usage — UNVERIFIED here) must be bound to the clinic's actual device only after checking which pico platform each site uses."
+  },
+  {
+   "id": "laser-hair-removal",
+   "family": "Laser hair removal",
+   "sites": [
+    "waleeratclinic.com"
+   ],
+   "th": [],
+   "en": [
+    {
+     "term": "Laser Hair Removal",
+     "reviewState": "site-canonical"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "激光脱毛",
+     "reviewState": "site-published-zh",
+     "evidence": [
+      "sites/waleeratclinic.com/llms.txt — zh program: 激光脱毛 Program"
+     ]
+    }
+   ],
+   "subTerms": [],
+   "disambiguation": [],
+   "notes": "冰点脱毛 (sapphire-cooling variant) is the common Rednote variant — verify before using."
+  },
+  {
+   "id": "thailand-medical-aesthetics-context",
+   "family": "Market/intent context terms (not treatments)",
+   "sites": [
+    "waleeratclinic.com",
+    "waleeratinternational.com",
+    "verzoclinic.com"
+   ],
+   "th": [],
+   "en": [
+    {
+     "term": "Bangkok / Thailand medical aesthetics",
+     "reviewState": "descriptive"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "泰国医美",
+     "register": "medical aesthetics in Thailand",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-泰国医美.json",
+      "evidence/xhs-泰国医美-20260911.json"
+     ],
+     "usageNote": "Live Bangkok competitor activity in Chinese: KKC Aesthetic TH, 曼谷Onda, Secret皮肤管理店, Lumina Wellness post natively in Chinese. Trust discourse is strong: 避雷 posts and a 2026-09 news item about an influencer's death at a Bangkok clinic — license/credential transparency content answers a real, current patient concern."
+    },
+    {
+     "term": "曼谷医美 / 曼谷热玛吉",
+     "meaning": "Bangkok-scoped variants",
+     "reviewState": "rednote-search-observed",
+     "evidence": [
+      "evidence/xhs-曼谷医美.json"
+     ]
+    },
+    {
+     "term": "攻略",
+     "meaning": "'guide/strategy' — the word patients attach to trip-planning posts (泰国医美攻略)",
+     "reviewState": "discovery-single-source",
+     "evidence": [
+      "evidence/q08-thailand-medtour.json — beavoy.com"
+     ]
+    }
+   ],
+   "subTerms": [],
+   "disambiguation": [],
+   "notes": "These are intent/introduction terms for zh landing pages and Rednote content, not treatment names."
+  },
+  {
+   "id": "ellanse",
+   "family": "Collagen stimulator",
+   "sites": [
+    "waleeratclinic.com",
+    "verzoclinic.com"
+   ],
+   "th": [
+    {
+     "term": "เอลลานเซ่",
+     "reviewState": "transliteration"
+    }
+   ],
+   "en": [
+    {
+     "term": "Ellansé",
+     "reviewState": "brand-canonical"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "少女针",
+     "register": "dominant patient term",
+     "reviewState": "rednote-search-observed"
+    }
+   ],
+   "note": "少女针 = Ellansé; do not confuse with 童颜针 (Sculptra) or 素颜针 (Juvelook)."
+  },
+  {
+   "id": "peninsula-ultrasound",
+   "family": "HIFU device (China market)",
+   "sites": [
+    "verzoclinic.com"
+   ],
+   "th": [],
+   "en": [
+    {
+     "term": "Peninsula ultrasound (超声炮 device)",
+     "reviewState": "adjudicated-opus-2026-09-11"
+    }
+   ],
+   "zhHans": [
+    {
+     "term": "超声炮",
+     "register": "mainland nickname — Peninsula dot-matrix ultrasound",
+     "reviewState": "rednote-search-observed",
+     "usageNote": "Observed device-brand nicknames: 大超炮 and 半岛黄金超声炮 (Peninsula = China-market brand). These are NOT verified mappings to Ultraformer — bind device names only after manufacturer-level verification. Recovery questions (恢复期多久) are common."
+    },
+    {
+     "term": "大超炮",
+     "register": "nickname"
+    },
+    {
+     "term": "半岛黄金超声炮",
+     "register": "brand nickname"
+    }
+   ],
+   "note": "not_equivalent_to: Ultraformer (海芙). Never bind these terms to Ultraformer services."
+  }
+ ],
+ "notYetResearched": [
+  "therafill ( collagen )",
+  "nucleofill",
+  "plinest",
+  "belluxi",
+  "neofilera",
+  "ejal40",
+  "saypha",
+  "hyamax",
+  "ultracol",
+  "xerf",
+  "lipo-lifting-x",
+  "Note: these keep their Latin brand names in zh pages until a research pass adds evidenced nicknames."
+ ],
+ "sources": [
+  "macagent translation QA 2026-09-11 (Ellansé mapping)",
+  "Claude Opus adjudication 2026-09-11 (dossier: shared/handoff)"
+ ],
+ "updatedAt": "2026-09-11"
 }
