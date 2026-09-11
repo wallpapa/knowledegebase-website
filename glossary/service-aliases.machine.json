@@ -3,7 +3,7 @@
   "aliasMapId": "service-aliases",
   "generatedAt": "2026-09-11",
   "sourceGlossary": "glossary/th-en-zh-patient-aesthetic-terms.json",
-  "sourceDigest": "c254d2f272be1e7040d0dcff062293d0a5d8e8fcd98125c0e2353be55dab4515",
+  "sourceDigest": "e5293e3298a2d0e318b2973fb38ea2f530590f385adc6fde724d24998afd9823",
   "evidenceRule": "Only reviewState in {rednote-search-observed, site-published-zh, site-canonical, site-keyword, kb-observed-th} is exported. Discovery-grade, unverified and conflicting terms stay in the glossary only.",
   "consumers": [
     "Whisper repo scripts/sync-service-aliases-from-kb.mjs -> clinic_services.aliases (whisperchat.co/chat service matching)",
@@ -590,6 +590,55 @@
           "state": "brand-canonical"
         }
       ]
+    },
+    {
+      "id": "laetigen",
+      "canonicalEn": "Laetigen",
+      "clinicScope": [],
+      "th": [],
+      "en": [],
+      "zhHans": [],
+      "excluded": [
+        {
+          "term": "Laetigen",
+          "lang": "en",
+          "state": "brand-canonical"
+        },
+        {
+          "term": "Advanced Collagen Matrix",
+          "lang": "zhHans",
+          "state": "owner-supplied-artwork"
+        }
+      ],
+      "dangerousConfusions": []
+    },
+    {
+      "id": "vitaran",
+      "canonicalEn": "Vitaran",
+      "clinicScope": [
+        "VRZ"
+      ],
+      "th": [],
+      "en": [],
+      "zhHans": [],
+      "excluded": [
+        {
+          "term": "Vitaran",
+          "lang": "en",
+          "state": "brand-canonical"
+        },
+        {
+          "term": "HP Vitaran i II",
+          "lang": "zhHans",
+          "state": "owner-supplied-artwork"
+        },
+        {
+          "term": "Polynucleotide Intradermal Gel",
+          "lang": "zhHans",
+          "state": "vendor-packaging-sheet"
+        }
+      ],
+      "dangerousConfusions": []
     },
     {
       "id": "peninsula-ultrasound",

@@ -1086,6 +1086,71 @@
       "note": "少女针 = Ellansé; do not confuse with 童颜针 (Sculptra) or 素颜针 (Juvelook)."
     },
     {
+      "id": "laetigen",
+      "family": "Collagen stimulator",
+      "sites": [],
+      "th": [],
+      "en": [
+        {
+          "term": "Laetigen",
+          "reviewState": "brand-canonical"
+        }
+      ],
+      "zhHans": [],
+      "subTerms": [
+        {
+          "term": "Advanced Collagen Matrix",
+          "meaning": "the descriptor printed on the carton; not a patient term",
+          "reviewState": "owner-supplied-artwork",
+          "evidence": [
+            "Whisperchat repo:docs/ssot/waleerat-9-9-flash-sale-2026-09-15.md"
+          ]
+        }
+      ],
+      "disambiguation": [],
+      "note": "New at Waleerat; first appears in the 9.9 flash-sale artwork of 2026-09-11 (box = 2.0 mL, sold Box ละ). No Thai or Chinese patient term is evidenced yet, so the Latin brand name is what every locale publishes until a research pass adds one. Do not borrow 童颜针 / 少女针 / 素颜针 from Sculptra, Ellansé or Juvelook: those are bound to other products."
+    },
+    {
+      "id": "vitaran",
+      "family": "Polynucleotide skin booster",
+      "sites": [
+        "verzoclinic.com"
+      ],
+      "th": [],
+      "en": [
+        {
+          "term": "Vitaran",
+          "reviewState": "brand-canonical"
+        }
+      ],
+      "zhHans": [],
+      "subTerms": [
+        {
+          "term": "HP Vitaran i II",
+          "meaning": "the variant pictured in the 2026-09-11 Waleerat flash-sale artwork",
+          "reviewState": "owner-supplied-artwork",
+          "evidence": [
+            "Whisperchat repo:docs/ssot/waleerat-9-9-flash-sale-2026-09-15.md"
+          ]
+        },
+        {
+          "term": "Polynucleotide Intradermal Gel",
+          "meaning": "carton descriptor from 2026; replaces the earlier 'Polynucleotide Sodium' wording",
+          "reviewState": "vendor-packaging-sheet",
+          "evidence": [
+            "owner-supplied vendor packaging-change sheet, 2026-09-11"
+          ]
+        }
+      ],
+      "disambiguation": [
+        {
+          "against": "rejuran",
+          "why": "Both are polynucleotide injectables, so patients and staff conflate them. They are different brands with different prices; never answer a Vitaran question with a Rejuran price or the 丽珠兰 / 婴儿针 aliases."
+        }
+      ],
+      "note": "Packaging changed in 2026: the box is 1 mL syringe x 2, i.e. 2 cc, and the carton art moved from white/orange to black/red. A box therefore holds 2 cc, which matters because the flash-sale price is quoted cc ละ. No evidenced Thai or Chinese patient term yet; publish the Latin brand name until a research pass adds one."
+    },
+    {
       "id": "peninsula-ultrasound",
       "family": "HIFU device (China market)",
       "sites": [
