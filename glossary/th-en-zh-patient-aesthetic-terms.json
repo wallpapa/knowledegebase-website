@@ -652,6 +652,15 @@
             "clinic owner, chat 2026-09-11"
           ],
           "usageNote": "INTERNAL ONLY. Staff may use this to answer 'why does yours look different' and to check their own stock. It must never become patient-facing comparative copy about other clinics: it is an unverified claim about third parties and Thai advertising rules do not permit disparaging comparison. Say what OUR package is; do not say what a competitor's is."
+        },
+        {
+          "term": "five-point genuine check (Rejuran Healer, new package)",
+          "meaning": "All-black box; a Thai registration number (อย.) printed on it; black syringe plunger; 2.7 cc per syringe; a scannable QR code on the box.",
+          "reviewState": "owner-statement",
+          "evidence": [
+            "clinic owner, chat 2026-09-11"
+          ],
+          "usageNote": "Publishable, and the strongest asset here: every point is checkable by the patient while the carton is open in front of them. Stating that the box CARRIES a Thai registration number is description; stating or implying that อย. endorses the product's safety or results is not permitted. Do not reprint the number in copy."
         }
       ],
       "disambiguation": [
