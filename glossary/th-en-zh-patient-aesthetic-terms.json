@@ -657,11 +657,11 @@
       "disambiguation": [
         {
           "against": "rejuran-box-contents",
-          "why": "UNRESOLVED, and it is a 2x error on a 9,999 THB product. Whisperchat's own records disagree: the service row is named 'Rejuran Healer รุ่นใหม่ กล่องละ 2.7 cc' (box = 2.7 cc) while an alias on the VERZO Rejuran Healer row reads 'กล่องละ 2 syringe 1 syringe = 2.7 cc' (box = 5.4 cc). The vendor sheet shows two syringes beside each carton but labels only the syringe. Do not state a box volume until the owner confirms how many syringes a box holds."
+          "why": "RESOLVED by the clinic owner on 2026-09-11: a box holds 2 syringes. New package = 2 x 2.7 cc = 5.4 cc per box; old package = 2 x 2 cc = 4 cc per box. Whisperchat's own rows still state the SYRINGE volume while labelling it 'กล่องละ' ('Rejuran Healer รุ่นใหม่ กล่องละ 2.7 cc' and a 'Rejuran Healer' row whose unit reads '2 cc'), so both understate what 9,999 THB buys by half. Quote 5.4 cc per box for the new package until those rows are corrected."
         }
       ],
       "notes": "",
-      "note": "ADJUDICATED (Claude Opus 2026-09-11, medium confidence): primary=丽珠兰. 婴儿针 search surface dominated by NEUE topical serum — match inbound but never headline. Render as 丽珠兰(婴儿针) + qualify 注射. TW=鮭魚針. Watch Livzon(丽珠) pharma confusion. Packaging note 2026-09-11: syringe volume moved 2 cc → 2.7 cc; box contents unconfirmed (see disambiguation). Both clinics stock the new package, so a white syringe is old stock."
+      "note": "ADJUDICATED (Claude Opus 2026-09-11, medium confidence): primary=丽珠兰. 婴儿针 search surface dominated by NEUE topical serum — match inbound but never headline. Render as 丽珠兰(婴儿针) + qualify 注射. TW=鮭魚針. Watch Livzon(丽珠) pharma confusion. Packaging note 2026-09-11: syringe volume moved 2 cc → 2.7 cc; a box holds 2 syringes, so the new package is 5.4 cc per box and the old was 4 cc. Both clinics stock the new package, so a white syringe is old stock."
     },
     {
       "id": "profhilo",
