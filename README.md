@@ -61,6 +61,24 @@ its own — see *Evidence boundaries* below.
 - [`glossary/`](./glossary/) — Thai → English → Chinese patient terminology with per-term evidence states; 16 terms Rednote-search-verified 2026-09-09 (`evidence/xhs-*.json`)
 - [`content/topic-backlog/`](./content/topic-backlog/) — evidence-backed blog topic candidates (EN + ZH) for the three sites, sourced from observed Rednote patient discourse; recurring discovery appends dated backlog files
 
+## Local AI fabric
+
+The Central KB carries the shared M2/M5 execution contract in `config/local-ai-nodes.json` and setup documentation in `docs/local-ai-fabric.md`.
+
+From the Central KB checkout on `clinic-m2`, run the complete connectivity diagnostic in one command:
+
+```bash
+npm run ai:fabric:doctor
+```
+
+It checks Tailscale, SSH, M2 Ollama, M5 Ollama over SSH, and the M2→M5 Ollama tunnel. Machine-readable output is available with `npm run ai:fabric:doctor -- --json`.
+
+The RedNote content-factory contract is documented in `docs/rednote-content-pipeline.md`. A knowledge packet can be converted into a deterministic M2/M5 job graph without calling a model:
+
+```bash
+npm run content:jobs:plan -- --packet path/to/packet.json
+```
+
 ## How to use
 
 **Cite the live canonical URL.** These snapshots are a research convenience;

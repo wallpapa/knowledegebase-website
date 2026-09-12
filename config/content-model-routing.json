@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "fabricId": "clinic-local-ai-fabric-v1",
+  "updatedAt": "2026-09-09",
+  "purpose": "Bounded model execution contract for the RedNote -> KB pipeline. Only the ZH+EN master stages may run; site drafts, reviews and localization fan-out stay plan-only until explicitly re-scoped by a human.",
+  "execution": {
+    "mode": "bounded-zh-en-only",
+    "automaticPublication": false,
+    "publicWriteAllowed": false,
+    "sourceMutationAllowed": false,
+    "outputMode": "append-only-candidate",
+    "candidateDirectory": "outputs/content-jobs",
+    "maximumConcurrentHeavyJobs": 1,
+    "requestTimeoutMs": 300000,
+    "maxPromptChars": 24000,
+    "maxOutputTokens": 4096,
+    "maxContextTokens": 8192
+  },
+  "allowedRoles": {
+    "normalize-insight": {
+      "node": "m2",
+      "model": "gemma3:4b"
+    },
+    "deduplicate-insight": {
+      "node": "m2",
+      "model": "gemma3:4b"
+    },
+    "classify-intent": {
+      "node": "m2",
+      "model": "gemma3:4b"
+    },
+    "zh-intent-synthesis": {
+      "node": "m5",
+      "model": "qwen3.5:9b",
+      "thinking": false,
+      "maxOutputTokens": 4096,
+      "maxContextTokens": 16384
+    },
+    "en-evidence-synthesis": {
+      "node": "m5",
+      "model": "qwen3.5:9b",
+      "thinking": false,
+      "maxOutputTokens": 4096,
+      "maxContextTokens": 16384
+    }
+  },
+  "nodes": {
+    "m2": {
+      "ollamaEndpoint": "http://127.0.0.1:11434",
+      "endpointEnv": "OLLAMA_M2_URL"
+    },
+    "m5": {
+      "ollamaEndpoint": "http://127.0.0.1:11435",
+      "endpointEnv": "OLLAMA_M5_URL"
+    }
+  },
+  "blockedModels": [
+    {
+      "model": "qwen3.8:27b-mlx",
+      "reason": "Do not restore as a shared workflow route without new benchmark evidence; existing website workflow records repeated MLX runner shutdowns."
+    },
+    {
+      "model": "qwen2.5:14b",
+      "reason": "Blocked for medical translation by existing website benchmark evidence."
+    }
+  ]
+}

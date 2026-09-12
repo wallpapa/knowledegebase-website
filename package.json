@@ -6,10 +6,15 @@
   "description": "SSOT knowledge base gathering the AI-facing surfaces of waleeratclinic.com, waleeratinternational.com and verzoclinic.com",
   "scripts": {
     "content:quality-gate": "node scripts/content-quality-gate.mjs --mode=release",
-    "content:quality-test": "node --test tests/content-quality-gate.test.mjs tests/build-service-aliases.test.mjs",
-    "code:quality-gate": "npm run content:quality-test && node --check scripts/content-quality-gate.mjs && node --check scripts/build-service-aliases.mjs && node --check tests/content-quality-gate.test.mjs && node --check tests/build-service-aliases.test.mjs",
+    "content:quality-test": "node --test tests/content-quality-gate.test.mjs tests/build-service-aliases.test.mjs tests/local-ai-nodes.test.mjs tests/local-ai-fabric-doctor.test.mjs tests/content-job-routing.test.mjs tests/content-job-execution.test.mjs",
+    "code:quality-gate": "npm run content:quality-test && node --check scripts/content-quality-gate.mjs && node --check scripts/build-service-aliases.mjs && node --check scripts/check-local-ai-nodes.mjs && node --check scripts/doctor-local-ai-fabric.mjs && node --check scripts/plan-content-jobs.mjs && node --check scripts/run-content-jobs.mjs && node --check tests/content-quality-gate.test.mjs && node --check tests/build-service-aliases.test.mjs && node --check tests/local-ai-nodes.test.mjs && node --check tests/local-ai-fabric-doctor.test.mjs && node --check tests/content-job-routing.test.mjs && node --check tests/content-job-execution.test.mjs",
     "test": "npm run content:quality-test",
-    "build:aliases": "node scripts/build-service-aliases.mjs"
+    "build:aliases": "node scripts/build-service-aliases.mjs",
+    "ai:nodes:check": "node scripts/check-local-ai-nodes.mjs",
+    "ai:fabric:doctor": "node scripts/doctor-local-ai-fabric.mjs",
+    "content:jobs:plan": "node scripts/plan-content-jobs.mjs",
+    "content:jobs:run": "node scripts/run-content-jobs.mjs",
+    "content:jobs:execute": "node scripts/run-content-jobs.mjs --execute"
   },
   "engines": {
     "node": ">=20"
