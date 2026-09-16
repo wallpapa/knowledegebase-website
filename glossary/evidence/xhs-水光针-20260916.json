@@ -1,0 +1,88 @@
+{
+ "platform": "rednote.com web search (ZCode IAB, hidden pane)",
+ "observedAt": "2026-09-16T19:45+07:00",
+ "method": "Hidden-pane cron; visibility=false; author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "水光针",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=水光针",
+ "comparisonWithPrevious": "MATERIAL: gained 打法教程+抗皱+注意事项+皮肤屏障受损+纯补水+适合人群 — 皮肤屏障受损 (barrier damage) NEW safety concern; 打法教程 = technique how-to.",
+ "relatedQueries": [
+  "韩国",
+  "revive",
+  "上瘾红",
+  "品牌排名",
+  "打法教程",
+  "真实效果",
+  "改善毛孔粗大",
+  "皮肤屏障受损",
+  "敏感肌",
+  "适合人群",
+  "搭配组合",
+  "注意事项",
+  "抗皱",
+  "纯补水",
+  "提亮肤色"
+ ],
+ "notes": [
+  {
+   "author": "医美刘滢",
+   "date": "07-25",
+   "likes": "61",
+   "url": "https://www.rednote.com/discovery/item/6a64886b000000000f010da2"
+  },
+  {
+   "author": "八大处蒋丽雅",
+   "date": "2025-10-28",
+   "likes": "856",
+   "url": "https://www.rednote.com/discovery/item/690066f50000000005010bc5"
+  },
+  {
+   "author": "上海九院周双白",
+   "date": "2天前",
+   "likes": "75",
+   "url": "https://www.rednote.com/discovery/item/6aa763af000000002902ff02"
+  },
+  {
+   "author": "上海九院方斌",
+   "date": "2天前",
+   "likes": "10",
+   "url": "https://www.rednote.com/discovery/item/6aa3d0780000000012002259"
+  },
+  {
+   "author": "上海九院段然",
+   "date": "08-21",
+   "likes": "721",
+   "url": "https://www.rednote.com/discovery/item/6a858adb0000000005030f41"
+  },
+  {
+   "author": "上海九院段然",
+   "date": "08-04",
+   "likes": "1028",
+   "url": "https://www.rednote.com/discovery/item/6a6c3897000000003300b9b5"
+  },
+  {
+   "author": "皮肤科黄美佳医生",
+   "date": "05-27",
+   "likes": "167",
+   "url": "https://www.rednote.com/discovery/item/6a16fffa0000000036018f77"
+  },
+  {
+   "author": "上海九院王韵",
+   "date": "5天前",
+   "likes": "1715",
+   "url": "https://www.rednote.com/discovery/item/6aa261b9000000002b0020b0"
+  },
+  {
+   "author": "皮肤科杨猛博士",
+   "date": "02-25",
+   "likes": "291",
+   "url": "https://www.rednote.com/discovery/item/699eca9a0000000028020b81"
+  },
+  {
+   "author": "柴武斌医生",
+   "date": "09-02",
+   "likes": "128",
+   "url": "https://www.rednote.com/discovery/item/6a96f9f2000000000d025d63"
+  }
+ ]
+}

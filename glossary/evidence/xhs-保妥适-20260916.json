@@ -1,0 +1,88 @@
+{
+ "platform": "rednote.com web search (ZCode IAB, hidden pane)",
+ "observedAt": "2026-09-16T19:45+07:00",
+ "method": "Hidden-pane cron; visibility=false; author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "保妥适",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=保妥适",
+ "comparisonWithPrevious": "MATERIAL: gained 50单位(dosage)+压眉+去皱针+起效时间+除皱 — dosage-specific question intent (50 units) NEW; 压眉 (brow pressure side-effect) is a NEW patient concern.",
+ "relatedQueries": [
+  "美国",
+  "100u",
+  "西安",
+  "英伦大提升",
+  "瘦脸针",
+  "50单位",
+  "除皱",
+  "方圆脸",
+  "扫码",
+  "咬肌",
+  "去皱针",
+  "肉毒素",
+  "水光",
+  "压眉",
+  "起效时间"
+ ],
+ "notes": [
+  {
+   "author": "王青茹",
+   "date": "2025-10-26",
+   "likes": "576",
+   "url": "https://www.rednote.com/discovery/item/68fdef760000000004029562"
+  },
+  {
+   "author": "东方标局-美业界物传播",
+   "date": "06-08",
+   "likes": "17",
+   "url": "https://www.rednote.com/discovery/item/6a265ee6000000000702e13e"
+  },
+  {
+   "author": "小红薯6A62135B",
+   "date": "04-16",
+   "likes": "13",
+   "url": "https://www.rednote.com/discovery/item/69e0addd000000000a00496a"
+  },
+  {
+   "author": "无锡同舟医美-颜究所",
+   "date": "06-01",
+   "likes": "5",
+   "url": "https://www.rednote.com/discovery/item/6a1cf1cc0000000036030b8e"
+  },
+  {
+   "author": "MYLIKE北京美莱",
+   "date": "05-22",
+   "likes": "4",
+   "url": "https://www.rednote.com/discovery/item/6a0fb1dc0000000007027ecc"
+  },
+  {
+   "author": "肚肚日韩go",
+   "date": "2025-11-15",
+   "likes": "277",
+   "url": "https://www.rednote.com/discovery/item/682ca6dc0000000012000be1"
+  },
+  {
+   "author": "上海九院段然",
+   "date": "08-18",
+   "likes": "83",
+   "url": "https://www.rednote.com/discovery/item/6a7efe24000000002402eaa4"
+  },
+  {
+   "author": "整形医生王晨羽",
+   "date": "08-17",
+   "likes": "4479",
+   "url": "https://www.rednote.com/discovery/item/6911ee98000000000302ca21"
+  },
+  {
+   "author": "丹丹医生",
+   "date": "07-31",
+   "likes": "478",
+   "url": "https://www.rednote.com/discovery/item/6a6c732700000000060053ee"
+  },
+  {
+   "author": "Dr.毕鑫-眼周抗衰",
+   "date": "2025-12-05",
+   "likes": "",
+   "url": "https://www.rednote.com/discovery/item/691c66e6000000001d03b491"
+  }
+ ]
+}

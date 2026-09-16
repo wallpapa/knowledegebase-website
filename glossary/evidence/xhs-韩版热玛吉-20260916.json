@@ -1,0 +1,88 @@
+{
+ "platform": "rednote.com web search (ZCode IAB, hidden pane)",
+ "observedAt": "2026-09-16T19:45+07:00",
+ "method": "Hidden-pane cron; visibility=false; author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "韩版热玛吉",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=韩版热玛吉",
+ "comparisonWithPrevious": "MILD: gained 使用方法+对比+提拉 — usage-intent words, no new concern.",
+ "relatedQueries": [
+  "therma",
+  "真实案例",
+  "美版区别",
+  "眼周",
+  "能量",
+  "对比",
+  "恢复期",
+  "痛不痛",
+  "维持时间",
+  "使用方法",
+  "二代",
+  "原理",
+  "提拉",
+  "价格",
+  "下巴"
+ ],
+ "notes": [
+  {
+   "author": "김나영金娜莹",
+   "date": "5天前",
+   "likes": "3",
+   "url": "https://www.rednote.com/discovery/item/6aa3b51a0000000011037a2b"
+  },
+  {
+   "author": "宁心Kitty",
+   "date": "2025-11-27",
+   "likes": "199",
+   "url": "https://www.rednote.com/discovery/item/6926d807000000001e004dc6"
+  },
+  {
+   "author": "李知垠在深圳",
+   "date": "08-22",
+   "likes": "11",
+   "url": "https://www.rednote.com/discovery/item/6a87c3d000000000350153ee"
+  },
+  {
+   "author": "김나영金娜莹",
+   "date": "08-20",
+   "likes": "848",
+   "url": "https://www.rednote.com/discovery/item/6a2936350000000016024746"
+  },
+  {
+   "author": "김나영金娜莹",
+   "date": "09-01",
+   "likes": "36",
+   "url": "https://www.rednote.com/discovery/item/6a96b32a000000002802d7a7"
+  },
+  {
+   "author": "김나영金娜莹",
+   "date": "09-04",
+   "likes": "78",
+   "url": "https://www.rednote.com/discovery/item/6a843a260000000006007196"
+  },
+  {
+   "author": "김나영金娜莹",
+   "date": "08-31",
+   "likes": "31",
+   "url": "https://www.rednote.com/discovery/item/6a954da90000000026006128"
+  },
+  {
+   "author": "Personal允真",
+   "date": "03-24",
+   "likes": "89",
+   "url": "https://www.rednote.com/discovery/item/69c28e23000000001a023689"
+  },
+  {
+   "author": "💜我是鱼子呀💜",
+   "date": "07-14",
+   "likes": "",
+   "url": "https://www.rednote.com/discovery/item/6a5657430000000008009c00"
+  },
+  {
+   "author": "Olivia蜜",
+   "date": "08-27",
+   "likes": "",
+   "url": "https://www.rednote.com/discovery/item/6a8fdde10000000029029d5c"
+  }
+ ]
+}

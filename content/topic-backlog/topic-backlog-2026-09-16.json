@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "backlogId": "clinic-blog-topic-backlog-2026-09-16",
+  "createdAt": "2026-09-16",
+  "source": "Hidden-pane rednote run 19:45 (6 terms after 5-day gap: 线雕/丽珠兰/保妥适/水光针/超声炮/韩版热玛吉)",
+  "topics": [
+    {
+      "id": "botox-dosage-and-brow-pressure",
+      "sites": ["waleeratclinic.com", "verzoclinic.com"],
+      "titleEn": "Botox 50 units: what the number means (and the brow-pressure question patients are afraid to ask)",
+      "titleZh": "保妥适50单位是什么概念？压眉这个副作用怎么说",
+      "angle": "Material change: 保妥适 chips gained 50单位 (specific dosage query — number appearing in patient search = high purchase intent), 压眉 (brow heaviness side-effect — NEW patient concern, fear of looking worse), 起效时间 (onset timeline). Article: what unit numbers actually measure, why 50 is a quantity not a quality grade, the brow-pressure phenomenon explained honestly (dose-dependent, placement-dependent, temporary), onset timeline FAQ. Distinct from botox-vial-verification (authenticity) and fangyuanlian-botox-warning (face-type suitability).",
+      "evidence": ["xhs-保妥适-20260916.json: chips 50单位/压眉/起效时间/去皱针 NEW"],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "skinbooster-barrier-damage-safety",
+      "sites": ["verzoclinic.com", "waleeratclinic.com"],
+      "titleEn": "Can skin boosters damage your skin barrier? What 皮肤屏障受损 searches reveal about patient fear",
+      "titleZh": "水光针会伤皮肤屏障吗？打完烂脸是真的吗",
+      "angle": "Material change: 水光针 chips gained 皮肤屏障受损 (barrier damage — first explicit SAFETY-CONCERN chip on this term; fear of 'ruining face'), 打法教程 (technique how-to — patients researching depth/method before booking), 注意事项 (precautions). Article: honest answer about barrier risk (technique-dependent, over-treatment risk, recovery window), how to assess if your skin is in a suitable state, what 打法 variations exist and why they matter. Distinct from skinbooster-variant-selector (product choice) and skin-booster-aftercare-makeup (recovery).",
+      "evidence": ["xhs-水光针-20260916.json: chips 皮肤屏障受损/打法教程/注意事项/纯补水/适合人群 NEW"],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "onda-device-cross-pollination",
+      "sites": ["verzoclinic.com"],
+      "titleEn": "Why 'Onda' keeps appearing on Rejuran and HIFU pages — a device name spreading across unrelated treatments",
+      "titleZh": "onda为什么出现在丽珠兰和超声刀的搜索里？一个设备名的跨界传播",
+      "angle": "Material change: onda chip now appears on BOTH 丽珠兰 AND 超声刀 search pages (confirmed 09-11 on 超声刀, now on 丽珠兰 too 09-16). This is marketing cross-pollination: one device name being pushed into multiple treatment conversations by clinic marketing accounts. Article: what onda actually is (Italian microwave RF platform), why it appears where it doesn't belong, how patients can recognize when a device name is being marketed into unrelated treatment searches. Fills the onda-rf-market-watch candidate from 09-11 with new evidence.",
+      "evidence": ["xhs-丽珠兰-20260916.json: chip onda (now on 2nd treatment page)", "xhs-超声刀-20260911.json: chip onda (first observed)"],
+      "medicalHigh": false,
+      "status": "candidate"
+    }
+  ]
+}
