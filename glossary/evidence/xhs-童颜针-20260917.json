@@ -1,0 +1,88 @@
+{
+ "platform": "rednote.com web search (ZCode IAB, hidden pane)",
+ "observedAt": "2026-09-17T01:00+07:00",
+ "method": "Hidden-pane cron; visibility=false; author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "童颜针",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=童颜针",
+ "comparisonWithPrevious": "MATERIAL: gained 口周 (perioral — NEW site-specific discourse) + 奥芮佳 (NEW brand name in chips — 5th brand now) + 北京/广州/深圳 (3 cities = cross-border geo intent). Top: 张越越 1973.",
+ "relatedQueries": [
+  "澳门",
+  "香港",
+  "广州",
+  "牌子排名",
+  "真实反馈",
+  "按摩手法",
+  "深圳",
+  "时凝萃",
+  "新氧",
+  "韧带提升",
+  "太阳穴",
+  "pdlla",
+  "北京",
+  "奥芮佳",
+  "口周"
+ ],
+ "notes": [
+  {
+   "author": "张越越助理丨胶原童颜扣",
+   "date": "08-21",
+   "likes": "1973",
+   "url": "https://www.rednote.com/discovery/item/6a0c18a50000000035026910"
+  },
+  {
+   "author": "整形外科王朝辉",
+   "date": "08-01",
+   "likes": "87",
+   "url": "https://www.rednote.com/discovery/item/6a6d9a670000000028001f39"
+  },
+  {
+   "author": "整形外科王朝辉",
+   "date": "09-01",
+   "likes": "80",
+   "url": "https://www.rednote.com/discovery/item/6a96ba8a0000000026016c7f"
+  },
+  {
+   "author": "张歌",
+   "date": "2025-12-31",
+   "likes": "180",
+   "url": "https://www.rednote.com/discovery/item/69551c20000000001e0113aa"
+  },
+  {
+   "author": "李花停高阶审美小助理Redream",
+   "date": "06-09",
+   "likes": "1003",
+   "url": "https://www.rednote.com/discovery/item/6a27e73000000000220191be"
+  },
+  {
+   "author": "上海九院周双白",
+   "date": "4天前",
+   "likes": "35",
+   "url": "https://www.rednote.com/discovery/item/6aa367a7000000002902fa29"
+  },
+  {
+   "author": "八大处整形张倜然",
+   "date": "09-05",
+   "likes": "9",
+   "url": "https://www.rednote.com/discovery/item/6a9a9f9600000000280336b8"
+  },
+  {
+   "author": "皮肤科于泳医生",
+   "date": "06-08",
+   "likes": "70",
+   "url": "https://www.rednote.com/discovery/item/6a269bd3000000000803d36c"
+  },
+  {
+   "author": "上海九院周双白",
+   "date": "09-08",
+   "likes": "71",
+   "url": "https://www.rednote.com/discovery/item/6a9f87de000000002803b0a5"
+  },
+  {
+   "author": "八大处整形梁雪冰",
+   "date": "06-05",
+   "likes": "65",
+   "url": "https://www.rednote.com/discovery/item/6a22a511000000003502be66"
+  }
+ ]
+}

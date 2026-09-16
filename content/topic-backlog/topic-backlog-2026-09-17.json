@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "backlogId": "clinic-blog-topic-backlog-2026-09-17",
+  "createdAt": "2026-09-17",
+  "source": "Hidden-pane rednote run 01:00 (6 terms: 微晶瓷/童颜针/少女针/泰国医美/热玛吉/瘦脸针 — all >24h from 09-11 baselines)",
+  "topics": [
+    {
+      "id": "regen-filler-nodule-safety",
+      "sites": ["verzoclinic.com", "waleeratclinic.com"],
+      "titleEn": "Nodule fears around regenerative fillers (结节增生): what actually causes lumps and how to reduce the risk",
+      "titleZh": "少女针结节增生是真的吗？再生填充的硬块风险怎么降低",
+      "angle": "Material change: 少女针 chips gained 结节增生 (nodule hyperplasia) — this is the SECOND safety-concern chip on regenerative fillers after 铓化修复 from 09-11. Combined signal: patients are increasingly afraid of lumps/hard nodules from PLLA/PCL/Ellansé-type products. Article: what nodules actually are (product clumping vs granuloma vs normal palpability), why they form (dilution, placement, massage, individual response), which product types carry higher risk, prevention at the clinic level (proper dilution protocol, follow-up schedule), and what to do if you feel a lump after treatment. Distinct from regen-filler-overfill-repair (volume excess) — this is the texture/lump angle.",
+      "evidence": ["xhs-少女针-20260917.json: chip 结节增生 NEW vs 09-11", "xhs-少女针-20260911.json: chip 铓化修复 (first safety chip, related)"],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "caha-removal-decision-tree",
+      "sites": ["waleeratclinic.com"],
+      "titleEn": "CAHA/Radiesse removal (取出): when it's actually needed, what it involves, and how to decide",
+      "titleZh": "微晶瓷取出：什么时候真的需要，怎么做",
+      "angle": "Material change: 微晶瓷 chips gained 取出 (removal) — now co-dominant with site-specific chips; removal doctor (周云超异物取出) in top3 for second consecutive run. This is NOT a new concern (异物取出 was present 09-11) but 取出 as a standalone chip means it's now a primary search intent, not a sub-topic. Article: decision tree for CAHA removal (observation vs intervention), what the procedure actually involves (incision vs injection-assisted), recovery expectations, and crucially: when NOT to remove (asymmetry that will settle, overreaction to normal palpability). Fills the removal gap in caha-site-selector-removal (backlog).",
+      "evidence": ["xhs-微晶瓷-20260917.json: chip 取出 NEW standalone + 周云超 in top3", "xhs-微晶瓷-20260911.json: 异物取出 doctor first appeared"],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "thermage-vs-hifu-confusion",
+      "sites": ["verzoclinic.com"],
+      "titleEn": "Thermage or Ultherapy? Patients are confusing them (and the search data proves it)",
+      "titleZh": "热玛吉还是超声刀？搜索数据显示你在混淆它们",
+      "angle": "Material change: 热玛吉 chips gained 超声刀 (HIFU cross-search — patients searching for RF are also being shown/seeking HIFU) + 有用吗 (does-it-work skepticism) + 眼部 (eye-area treatment) + 改善法令纹. Combined signal: RF/HIFU confusion is now measurable in search behavior, not just assumed. Article: energy type comparison (RF heats broadly vs focused ultrasound targets depth), what each actually treats, why they're marketed interchangeably but aren't interchangeable, which suits which concern. Data-driven angle: 'the fact you're searching both means you need to understand the difference before choosing either.'",
+      "evidence": ["xhs-热玛吉-20260917.json: chip 超声刀 (cross-search) + 有用吗 + 眼部 NEW", "xhs-超声刀-20260911.json: HIFU page had onda chip (device confusion already noted)"],
+      "medicalHigh": false,
+      "status": "candidate"
+    }
+  ]
+}

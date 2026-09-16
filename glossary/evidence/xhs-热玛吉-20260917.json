@@ -1,0 +1,88 @@
+{
+ "platform": "rednote.com web search (ZCode IAB, hidden pane)",
+ "observedAt": "2026-09-17T01:00+07:00",
+ "method": "Hidden-pane cron; visibility=false; author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "热玛吉",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=热玛吉",
+ "comparisonWithPrevious": "MATERIAL: gained 改善法令纹 + 有用吗 (does-it-work skepticism) + 眼部 (eye-area treatment) + 超声刀 (cross-search into HIFU — RF/HIFU confusion). Top: 邱阳助理 919.",
+ "relatedQueries": [
+  "第五代",
+  "西安",
+  "韩国",
+  "武汉",
+  "南京",
+  "真实效果",
+  "方圆脸",
+  "疼痛程度",
+  "首尔",
+  "改善法令纹",
+  "超声刀",
+  "眼部",
+  "主要功效",
+  "副作用",
+  "有用吗"
+ ],
+ "notes": [
+  {
+   "author": "邱阳助理｜卓栎丽格",
+   "date": "08-26",
+   "likes": "919",
+   "url": "https://www.rednote.com/discovery/item/6a58af2f000000001c012e6d"
+  },
+  {
+   "author": "风举青云",
+   "date": "06-17",
+   "likes": "200",
+   "url": "https://www.rednote.com/discovery/item/6a3231f30000000008031bd5"
+  },
+  {
+   "author": "医美刘滢",
+   "date": "5天前",
+   "likes": "54",
+   "url": "https://www.rednote.com/discovery/item/6aa3e827000000002701410f"
+  },
+  {
+   "author": "八大处整形梁雪冰",
+   "date": "07-30",
+   "likes": "31",
+   "url": "https://www.rednote.com/discovery/item/6a6b1e6a0000000032023aeb"
+  },
+  {
+   "author": "成都余平丨热玛吉联合抗衰",
+   "date": "",
+   "likes": "3",
+   "url": "https://www.rednote.com/discovery/item/6aaa10a50000000027015efa"
+  },
+  {
+   "author": "新闻晨报",
+   "date": "04-19",
+   "likes": "7870",
+   "url": "https://www.rednote.com/discovery/item/69e48a060000000022026e86"
+  },
+  {
+   "author": "上海九院王韵",
+   "date": "05-02",
+   "likes": "807",
+   "url": "https://www.rednote.com/discovery/item/69f32494000000003502f585"
+  },
+  {
+   "author": "陳欣妍",
+   "date": "05-30",
+   "likes": "404",
+   "url": "https://www.rednote.com/discovery/item/6a1aaec0000000001002d000"
+  },
+  {
+   "author": "上海华山医院皮肤科 段希蕾",
+   "date": "06-13",
+   "likes": "90",
+   "url": "https://www.rednote.com/discovery/item/6a2d37400000000017028d45"
+  },
+  {
+   "author": "上海九院王韵",
+   "date": "06-01",
+   "likes": "38",
+   "url": "https://www.rednote.com/discovery/item/6a19603b0000000008002baf"
+  }
+ ]
+}

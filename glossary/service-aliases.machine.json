@@ -3,7 +3,7 @@
   "aliasMapId": "service-aliases",
   "generatedAt": "2026-09-16",
   "sourceGlossary": "glossary/th-en-zh-patient-aesthetic-terms.json",
-  "sourceDigest": "b14308e6235d9a27440046ff0555aff2da47d278199c8c83d083b3695a6924a8",
+  "sourceDigest": "857412061e5745443fc972332e709ba54176efe27130f39b19714ead523e20ef",
   "evidenceRule": "Only reviewState in {rednote-search-observed, site-published-zh, site-canonical, site-keyword, kb-observed-th} is exported. Discovery-grade, unverified and conflicting terms stay in the glossary only.",
   "consumers": [
     "Whisper repo scripts/sync-service-aliases-from-kb.mjs -> clinic_services.aliases (whisperchat.co/chat service matching)",

@@ -1,0 +1,88 @@
+{
+ "platform": "rednote.com web search (ZCode IAB, hidden pane)",
+ "observedAt": "2026-09-17T01:00+07:00",
+ "method": "Hidden-pane cron; visibility=false; author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "微晶瓷",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=微晶瓷",
+ "comparisonWithPrevious": "MATERIAL: gained 取出 (removal — now co-dominant with site-specific; removal doctor 周云超 in top3 again) + 店铺 (shop/store — commercial search intent).",
+ "relatedQueries": [
+  "鼻基底",
+  "填充",
+  "面部提升",
+  "副作用",
+  "店铺",
+  "下巴",
+  "口周",
+  "眉弓",
+  "瑞德喜",
+  "取出",
+  "恢复期",
+  "额头",
+  "痘坑",
+  "价格",
+  "效果"
+ ],
+ "notes": [
+  {
+   "author": "陈向东教授",
+   "date": "05-26",
+   "likes": "19",
+   "url": "https://www.rednote.com/discovery/item/691abefb0000000007023646"
+  },
+  {
+   "author": "周云超异物取出医生",
+   "date": "08-10",
+   "likes": "4",
+   "url": "https://www.rednote.com/discovery/item/6a799783000000002402f215"
+  },
+  {
+   "author": "皮肤科于泳医生",
+   "date": "06-08",
+   "likes": "70",
+   "url": "https://www.rednote.com/discovery/item/6a269bd3000000000803d36c"
+  },
+  {
+   "author": "王曼姬🏅（预约在这）",
+   "date": "2025-11-03",
+   "likes": "23",
+   "url": "https://www.rednote.com/discovery/item/690081c800000000030137ca"
+  },
+  {
+   "author": "碧爱丽思JN | 美容咨询",
+   "date": "07-24",
+   "likes": "4",
+   "url": "https://www.rednote.com/discovery/item/6a631d12000000001c00fc02"
+  },
+  {
+   "author": "Jfeel李容硕小助理｜轮廓抗衰",
+   "date": "",
+   "likes": "52",
+   "url": "https://www.rednote.com/discovery/item/6aaa51dc000000002a0245cc"
+  },
+  {
+   "author": "金敏英小助理",
+   "date": "01-23",
+   "likes": "109",
+   "url": "https://www.rednote.com/discovery/item/6973261f000000000a03d336"
+  },
+  {
+   "author": "桐心美学本店",
+   "date": "07-25",
+   "likes": "3",
+   "url": "https://www.rednote.com/discovery/item/6a647e19000000000401dd9c"
+  },
+  {
+   "author": "碧爱丽思MD｜美容咨询",
+   "date": "07-27",
+   "likes": "2",
+   "url": "https://www.rednote.com/discovery/item/6a66cdb4000000001c00cfbb"
+  },
+  {
+   "author": "芙艾医疗PHISKIN",
+   "date": "2025-10-20",
+   "likes": "19",
+   "url": "https://www.rednote.com/discovery/item/68f5a240000000000402a7c0"
+  }
+ ]
+}
