@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "backlogId": "clinic-blog-topic-backlog-2026-09-17-gsc",
+  "createdAt": "2026-09-17",
+  "source": "GSC query enrichment analysis (content/topic-backlog/gsc-enrichment-2026-09-10.json) — 8 urgent gaps + 6 FAQ sets + intent hierarchy; all cross-checked against 40 existing topic ids (zero overlap)",
+  "topics": [
+    {
+      "id": "ulthera-page-ctr-rescue",
+      "sites": ["waleeratclinic.com"],
+      "titleEn": "Ulthera in Bangkok: what 10,000 searchers can't find on our page (and what they're actually asking)",
+      "titleZh": "超声刀曼谷：一万次搜索只换来一次点击，页面缺了什么",
+      "angle": "URGENT GAP: 9,838 impressions / 1 click on waleeratclinic.com — the Ulthera page EXISTS but title/meta/direct-answer are broken. This is NOT a new article; it's a CTR-rescue rewrite: fix title to match search intent (people searching 'ulthera' want price range + how it works + who suits), add a direct-answer paragraph in first 100 words, embed the 3 most-asked questions (from GSC: ulthera vs hifu, ราคา, เจ็บไหม), and add FAQPage schema. This alone could recover ~10k impressions/mo worth of traffic. medicalHigh.",
+      "evidence": [
+        "gsc-enrichment-2026-09-10.json: ulthera 9838i/1c — page exists but CTR broken",
+        "GSC FAQ set: thermage เจ็บไหม (maps to ulthera เจ็บไหม)"
+      ],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "thai-filler-area-hub",
+      "sites": ["waleeratclinic.com"],
+      "titleEn": "ฟิลเลอร์: which area, which filler? Thai-area hub (คาง/แก้มตอบ/ใต้ตา/จมูก/ร่องแก้ม)",
+      "titleZh": "玻尿酸按部位选：泰语版面部分区指南",
+      "angle": "URGENT GAP: ฟิลเลอร์ (filler) 9,482i/0c on waleeratclinic.com — NO Thai filler hub page exists. Patients search by AREA not by brand: คาง (chin), แก้มตอบ (sunken cheeks), ใต้ตา (under-eye), จมูก (nose), ร่องแก้ม (nasolabial). Create a Thai-first hub page: area-specific filler selection, duration expectations, what to ask at consult. Links to each filler service page. FAQ from GSC: ฟิลเลอร์ จมูก (nose filler), ฟิลเลอร์แก้มตอบ (cheek filler). This is the highest-volume Thai-language gap. medicalHigh.",
+      "evidence": [
+        "gsc-enrichment-2026-09-10.json: ฟิลเลอร์ 9482i/0c",
+        "GSC FAQ set nose-shadow-vs-thread: ฟิลเลอร์ จมูก",
+        "GSC FAQ set glp1-face: ฟิลเลอร์แก้มตอบ"
+      ],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "sculptra-thai-direct-answer",
+      "sites": ["waleeratclinic.com"],
+      "titleEn": "Sculptra (线程酸/塑妍萃) in Bangkok: how it works, how many sessions, who it suits — Thai-first rewrite",
+      "titleZh": "Sculptra泰语版：工作原理、疗程数、适合人群",
+      "angle": "URGENT GAP: sculptra 7,698i/2c — page exists but not answering Thai-language queries. Rewrite with Thai-first direct answer (what it is in 1 sentence, how many sessions typical, maintenance timeline), then EN for international. GSC FAQ: sculptra ราคา, lenisna vs sculptra, radiesse vs sculptra. This is the regenerative-filler literacy hub for the Thai market — pairs with our existing zh-language 童颜针 content. medicalHigh.",
+      "evidence": [
+        "gsc-enrichment-2026-09-10.json: sculptra 7698i/2c",
+        "GSC FAQ set regen-vs-ha: sculptra ราคา, lenisna vs sculptra, radiesse vs sculptra"
+      ],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "botox-bangkok-geo-guide",
+      "sites": ["verzoclinic.com"],
+      "titleEn": "Botox in Bangkok: which brand, which clinic, what to check (Allergan/Xeomin/Dysport guide for visitors)",
+      "titleZh": "曼谷肉毒指南：品牌选择与验真清单",
+      "angle": "URGENT GAP: botox bangkok 1,324i/0c + xeomin price bangkok 726i/0c on verzoclinic.com — verzo HAS Allergan/Xeomin/Hutox/Nabota but NO geo-intent page. This is a Bangkok-visitor guide: which brands are available in Thailand, what a legitimate price range looks like (routes to our price page, doesn't state prices), how to verify a genuine vial (ties to our existing injection-vial-verification article), clinic-location/transport info. Different from our existing botox jaw article (face-type suitability) — this is the geo/logistics page. medicalHigh.",
+      "evidence": [
+        "gsc-enrichment-2026-09-10.json: botox bangkok 1324i/0c, xeomin price bangkok 726i/0c on verzo",
+        "GSC FAQ set mens-aesthetics: botox bangkok, botox in bangkok, xeomin price bangkok"
+      ],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "ptosis-hidden-eyelid-thai",
+      "sites": ["waleeratinternational.com"],
+      "titleEn": "ตาสองชั้นหลบใน (hidden eyelid/ptosis): why your eyelid disappears and what treatment actually does",
+      "titleZh": "眼皮下垂（隐藏双眼皮）：原因与治疗方案",
+      "angle": "GAP: ตาสองชั้นหลบใน 862i/0c on waleeratinternational.com — clinic OFFERS ptosis treatment but no dedicated page. This is a Thai-language patient concern with high emotional urgency (functional + aesthetic). Article: what causes the eyelid to hood/drop (age, genetics, levator weakness), when it's medical vs aesthetic, what ptosis correction involves, realistic expectations. This is the highest-converting emotional-intent gap on wlri. medicalHigh.",
+      "evidence": [
+        "gsc-enrichment-2026-09-10.json: ตาสองชั้นหลบใน 862i/0c",
+        "gsc-enrichment notOfferedButHighDemand: ตาสองชั้นหลบใน 862i (listed as 'not offered' but clinic DOES offer ptosis tx — page gap, not service gap)"
+      ],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "juvelook-bangkok-price-guide",
+      "sites": ["waleeratinternational.com", "verzoclinic.com"],
+      "titleEn": "Juvelook in Bangkok: price factors, what's in it, and who it suits (素颜针/PDLLA guide)",
+      "titleZh": "曼谷乔雅露（素颜针）：价格因素与适合人群",
+      "angle": "GAP: juvelook bangkok / juvelook ราคา 995i/1c on wlri. We have a Juvelook service page but no price-context or Bangkok-geo article. Article: what PDLLA+HA dual mechanism means in plain language, price FACTORS (not prices — area treated, sessions needed, product verification), why Bangkok is a Juvelook destination, GSC FAQ: juvelook vs rejuran comparison. Pairs with our existing zh Juvelook content and the new juvelook-素颜针-site-specific-maturation topic from this morning's Rednote run. medicalHigh.",
+      "evidence": [
+        "gsc-enrichment-2026-09-10.json: juvelook bangkok 995i/1c on wlri",
+        "GSC FAQ set pdrn-science: juvelook vs rejuran",
+        "xhs-乔雅露-20260917.json: site-specific maturation (眼周/毛孔/成分)"
+      ],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "mens-botox-bangkok-landing",
+      "sites": ["verzoclinic.com"],
+      "titleEn": "Men's Botox in Bangkok: jaw slimming, sweat treatment, what men actually ask for",
+      "titleZh": "男士肉毒曼谷：瘦脸、止汗，男性真正想问的",
+      "angle": "GSC FAQ set mens-aesthetics contains botox bangkok + xeomin price bangkok — these are likely male-skewing queries. Create a men-specific Botox landing: masseter jaw (ties to our jaw-botox article), hyperhidrosis (sweat), brotox trend framing (no cringe), verzo's 4 toxin brands, verify-vial trust angle. This serves the male segment that our current content doesn't address directly. NOT medicalHigh (toxin is routine).",
+      "evidence": [
+        "GSC FAQ set mens-aesthetics: botox bangkok, xeomin price bangkok",
+        "gsc-enrichment-2026-09-10.json: botox bangkok 1324i/0c on verzo"
+      ],
+      "medicalHigh": false,
+      "status": "candidate"
+    },
+    {
+      "id": "pink-lips-laser-ราคา-optimize",
+      "sites": ["waleeratinternational.com"],
+      "titleEn": "เลเซอร์ปากชมพู ราคา: optimize existing pink-lips laser page for price-intent search",
+      "titleZh": "粉嫩激光价格优化：现有页面标题改造",
+      "angle": "MINOR GAP: เลเซอร์ปากชมพู ราคา 196i/5c — page EXISTS and gets 5 clicks (2.5% CTR, decent). This is a title/meta optimization only: current title likely doesn't include ราคา keyword. Add ราคา to title, add a direct-answer paragraph mentioning price range factors, add FAQ schema for ราคา questions. NOT a new article. Quick win. NOT medicalHigh (laser is routine).",
+      "evidence": [
+        "gsc-enrichment-2026-09-10.json: เลเซอร์ปากชมพู ราคา 196i/5c"
+      ],
+      "medicalHigh": false,
+      "status": "candidate"
+    }
+  ]
+}
