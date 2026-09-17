@@ -1,0 +1,87 @@
+{
+ "platform": "rednote.com web search (ZCode IAB, hidden pane)",
+ "observedAt": "2026-09-18T01:01+07:00",
+ "method": "Hidden-pane cron; visibility=false; author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "丽珠兰",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=丽珠兰",
+ "comparisonWithPrevious": "MATERIAL: gained 痛感 (pain-level question — NEW patient concern on this term) + 必买系列 (must-buy list = shopping intent) + 棉片 (persists) + 精华 + 香港 (cross-border). Pain discourse now explicit.",
+ "relatedQueries": [
+  "红盒",
+  "香港",
+  "护肤品",
+  "效果对比",
+  "水光",
+  "面霜",
+  "韩国",
+  "再生霜",
+  "必买系列",
+  "眼部白盒",
+  "星巴克",
+  "精华",
+  "痛感",
+  "棉片"
+ ],
+ "notes": [
+  {
+   "author": "EUNCHAE恩彩",
+   "date": "06-01",
+   "likes": "37",
+   "url": "https://www.rednote.com/discovery/item/6a1d947f000000003502a565"
+  },
+  {
+   "author": "REJURAN®丽驻兰",
+   "date": "6天前",
+   "likes": "2",
+   "url": "https://www.rednote.com/discovery/item/6aa3ee410000000026018211"
+  },
+  {
+   "author": "查理",
+   "date": "05-23",
+   "likes": "89",
+   "url": "https://www.rednote.com/discovery/item/6a1164700000000035030719"
+  },
+  {
+   "author": "reyoung_canshi",
+   "date": "06-09",
+   "likes": "13",
+   "url": "https://www.rednote.com/discovery/item/6a27e46e00000000210166ad"
+  },
+  {
+   "author": "REJURAN®丽驻兰",
+   "date": "08-28",
+   "likes": "",
+   "url": "https://www.rednote.com/discovery/item/6a918e2c000000002c03c843"
+  },
+  {
+   "author": "reyoung_canshi",
+   "date": "06-12",
+   "likes": "7",
+   "url": "https://www.rednote.com/discovery/item/6a29037100000000070218d3"
+  },
+  {
+   "author": "REJURAN®丽驻兰",
+   "date": "3天前",
+   "likes": "1",
+   "url": "https://www.rednote.com/discovery/item/6aa7f0f5000000002601f6d4"
+  },
+  {
+   "author": "乐乐",
+   "date": "01-21",
+   "likes": "203",
+   "url": "https://www.rednote.com/discovery/item/6970a9f6000000002103de02"
+  },
+  {
+   "author": "REJURAN®丽驻兰",
+   "date": "5天前",
+   "likes": "3",
+   "url": "https://www.rednote.com/discovery/item/6aa559620000000027017b4a"
+  },
+  {
+   "author": "LuxSkin奢妍科技美肤",
+   "date": "06-19",
+   "likes": "77",
+   "url": "https://www.rednote.com/discovery/item/6a34d75f000000000f0052e7"
+  }
+ ]
+}

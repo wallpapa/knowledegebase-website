@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "backlogId": "clinic-blog-topic-backlog-2026-09-18",
+  "createdAt": "2026-09-18",
+  "source": "Hidden-pane rednote run 01:01 (6 terms: 丽珠兰/保妥适/水光针/线雕/超声炮/韩版热玛吉)",
+  "topics": [
+    {
+      "id": "botox-elderly-demographic",
+      "sites": ["waleeratclinic.com"],
+      "titleEn": "Botox for older patients (中老年人): what changes with age and what to discuss at consultation",
+      "titleZh": "中老年人打肉毒：年龄带来的变化与面诊要点",
+      "angle": "Material change: 保妥适 chips gained 中老年人 (elderly demographic — FIRST time an age-qualifier appears on this term). Combined with 副作用 (side-effects) + 提升轮廓 (contour lifting) + 除皱价格 (price for wrinkle treatment) — older patients researching botox for the first time with safety concerns. Article: how skin and muscle change with age affecting botox decisions, realistic expectations for 60+ patients, when botox alone is insufficient (needs combination with filler/lifting), safety screening specific to older patients (medication interactions, medical history). New audience segment not covered by existing botox content. medicalHigh.",
+      "evidence": ["xhs-保妥适-20260918.json: chip 中老年人 NEW + 副作用/提升轮廓/除皱价格"],
+      "medicalHigh": true,
+      "status": "candidate"
+    },
+    {
+      "id": "rejuran-pain-level-question",
+      "sites": ["verzoclinic.com", "waleeratclinic.com"],
+      "titleEn": "How painful is Rejuran really? 痛感 questions are now the #1 search concern",
+      "titleZh": "丽珠兰到底有多痛？痛感成为搜索第一关注",
+      "angle": "Material change: 丽珠兰 chips gained 痛感 (pain level) — first time pain appears as a standalone chip on this term, combined with 必买系列 (must-buy shopping intent = patients past research phase, ready to book but pain-fear is the last barrier). Article: honest pain scale across Rejuran treatment areas (face vs neck vs under-eye), what clinics do for pain management (numbing cream, ice, vibration), comparison with other injectables (botox vs filler vs Rejuran pain levels), and when to ask about sedation options. Fills the gap between our rejuran-aftercare (recovery) and rejuran-naming-clarification (product literacy) — this is the PRE-treatment fear question. medicalHigh.",
+      "evidence": ["xhs-丽珠兰-20260918.json: chip 痛感 NEW + 必买系列 (shopping intent)"],
+      "medicalHigh": true,
+      "status": "candidate"
+    }
+  ]
+}

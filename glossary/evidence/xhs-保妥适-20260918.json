@@ -1,0 +1,88 @@
+{
+ "platform": "rednote.com web search (ZCode IAB, hidden pane)",
+ "observedAt": "2026-09-18T01:01+07:00",
+ "method": "Hidden-pane cron; visibility=false; author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "保妥适",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=保妥适",
+ "comparisonWithPrevious": "MATERIAL: gained 中老年人 (elderly demographic — NEW audience qualifier, botox for older patients) + 副作用 (side-effects concern persists but now explicit chip) + 提升轮廓 (contour lifting intent) + 除皱价格 (price-intent for wrinkle treatment).",
+ "relatedQueries": [
+  "美国",
+  "100u",
+  "中老年人",
+  "西安",
+  "提升轮廓",
+  "瘦脸针",
+  "除皱价格",
+  "咬肌",
+  "方圆脸",
+  "扫码",
+  "水光",
+  "肉毒素",
+  "副作用",
+  "起效时间",
+  "50单位"
+ ],
+ "notes": [
+  {
+   "author": "小红薯6A62135B",
+   "date": "04-16",
+   "likes": "13",
+   "url": "https://www.rednote.com/discovery/item/69e0addd000000000a00496a"
+  },
+  {
+   "author": "东方标局-美业界物传播",
+   "date": "06-08",
+   "likes": "17",
+   "url": "https://www.rednote.com/discovery/item/6a265ee6000000000702e13e"
+  },
+  {
+   "author": "雪然品质医美",
+   "date": "2025-04-03",
+   "likes": "12",
+   "url": "https://www.rednote.com/discovery/item/67ee02d7000000000e007887"
+  },
+  {
+   "author": "王青茹",
+   "date": "2025-10-26",
+   "likes": "588",
+   "url": "https://www.rednote.com/discovery/item/68fdef760000000004029562"
+  },
+  {
+   "author": "无锡同舟医美-颜究所",
+   "date": "06-01",
+   "likes": "5",
+   "url": "https://www.rednote.com/discovery/item/6a1cf1cc0000000036030b8e"
+  },
+  {
+   "author": "施尔美石雪冰｜面部注射美学",
+   "date": "05-19",
+   "likes": "5",
+   "url": "https://www.rednote.com/discovery/item/6a0c27ac00000000350243a0"
+  },
+  {
+   "author": "医美医生赖敏",
+   "date": "2025-08-21",
+   "likes": "50",
+   "url": "https://www.rednote.com/discovery/item/68a6be13000000001d01e230"
+  },
+  {
+   "author": "上海九院段然",
+   "date": "08-18",
+   "likes": "84",
+   "url": "https://www.rednote.com/discovery/item/6a7efe24000000002402eaa4"
+  },
+  {
+   "author": "唐婷丨注射美学",
+   "date": "08-20",
+   "likes": "95",
+   "url": "https://www.rednote.com/discovery/item/6a86ce4c000000002701d444"
+  },
+  {
+   "author": "邵逸夫美容马红芳",
+   "date": "06-04",
+   "likes": "1017",
+   "url": "https://www.rednote.com/discovery/item/6a210ec5000000003700e4f8"
+  }
+ ]
+}
