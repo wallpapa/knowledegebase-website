@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "backlogId": "clinic-blog-topic-backlog-2026-09-17b",
+  "createdAt": "2026-09-17",
+  "source": "Hidden-pane rednote run 07:01 (6 terms: 乔雅露/埋线提升/婴儿针/曼谷医美/超声刀/狐狸眼)",
+  "topics": [
+    {
+      "id": "juvelook-素颜针-site-specific-maturation",
+      "sites": ["verzoclinic.com"],
+      "titleEn": "Juvelook grows up: patients now search 素颜针 + 眼周 + 毛孔 — brand discourse shifting from awareness to site-specific",
+      "titleZh": "乔雅露素颜针：从认牌子到问部位，搜索在变深",
+      "angle": "Material change: 乔雅露 chips gained 素颜针 (Juvelook's colloquial CN name on its own page — nickname adoption complete), 眼周 (periorbital — Juvelook is NMPA-cleared for eye area in China), 毛孔 (pore concern), 成分 (ingredient scrutiny), 黄金微针 (adjacent device in same search). Combined: patients past brand-awareness, now asking WHERE it works and WHAT's in it. Article: ingredient (PDLLA+HA dual mechanism — fill glossary SSOT distinction from 童颜针/少女针), periorbital suitability, pore improvement evidence framing, and how Juvelook differs from the PLLA/PCL family patients confuse it with. This is the Juvelook counterpart to the existing tongyan-brand-ranking and skinbooster-variant-selector literacy series.",
+      "evidence": ["xhs-乔雅露-20260917.json: chips 素颜针/眼周/毛孔/成分/黄金微针 NEW vs 09-11"],
+      "medicalHigh": true,
+      "status": "candidate"
+    }
+  ]
+}
