@@ -1,0 +1,88 @@
+{
+ "platform": "rednote.com web search (ZCode IAB, hidden pane)",
+ "observedAt": "2026-09-18T07:00+07:00",
+ "method": "Hidden-pane cron; visibility=false; author/date/likes/noteId captured.",
+ "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师.",
+ "term": "微晶瓷",
+ "searchUrl": "https://www.rednote.com/search_result?keyword=微晶瓷",
+ "comparisonWithPrevious": "MATERIAL: gained caha (English acronym now standalone chip — patient literacy maturing) + 骨粉 (bone filler — NEW concern about filler being 'bone powder', misconception/fear) + 维持时间 (duration question persists) + 法令纹 (site-specific persists) + 菱形脸 (diamond face shape) + 店铺推荐 (clinic recommendation intent). 9/10 overlap = very stable.",
+ "relatedQueries": [
+  "面部提升",
+  "填充",
+  "鼻基底",
+  "下巴",
+  "店铺推荐",
+  "取出",
+  "恢复期",
+  "价格",
+  "效果",
+  "法令纹",
+  "额头",
+  "维持时间",
+  "骨粉",
+  "菱形脸",
+  "caha"
+ ],
+ "notes": [
+  {
+   "author": "金敏英小助理",
+   "date": "01-23",
+   "likes": "109",
+   "url": "https://www.rednote.com/discovery/item/6973261f000000000a03d336"
+  },
+  {
+   "author": "周云超异物取出医生",
+   "date": "08-10",
+   "likes": "4",
+   "url": "https://www.rednote.com/discovery/item/6a799783000000002402f215"
+  },
+  {
+   "author": "皮肤科于泳医生",
+   "date": "06-08",
+   "likes": "70",
+   "url": "https://www.rednote.com/discovery/item/6a269bd3000000000803d36c"
+  },
+  {
+   "author": "王曼姬🏅（预约在这）",
+   "date": "2025-11-03",
+   "likes": "23",
+   "url": "https://www.rednote.com/discovery/item/690081c800000000030137ca"
+  },
+  {
+   "author": "碧爱丽思JN | 美容咨询",
+   "date": "07-24",
+   "likes": "4",
+   "url": "https://www.rednote.com/discovery/item/6a631d12000000001c00fc02"
+  },
+  {
+   "author": "陈向东教授",
+   "date": "05-26",
+   "likes": "19",
+   "url": "https://www.rednote.com/discovery/item/691abefb0000000007023646"
+  },
+  {
+   "author": "Jfeel李容硕小助理｜轮廓抗衰",
+   "date": "1天前",
+   "likes": "52",
+   "url": "https://www.rednote.com/discovery/item/6aaa51dc000000002a0245cc"
+  },
+  {
+   "author": "黄予婷Tivia｜抗衰助理",
+   "date": "2025-11-22",
+   "likes": "17",
+   "url": "https://www.rednote.com/discovery/item/69216039000000001e02fe22"
+  },
+  {
+   "author": "桐心美学本店",
+   "date": "07-25",
+   "likes": "3",
+   "url": "https://www.rednote.com/discovery/item/6a647e19000000000401dd9c"
+  },
+  {
+   "author": "碧爱丽思MD｜美容咨询",
+   "date": "07-27",
+   "likes": "2",
+   "url": "https://www.rednote.com/discovery/item/6a66cdb4000000001c00cfbb"
+  }
+ ]
+}
