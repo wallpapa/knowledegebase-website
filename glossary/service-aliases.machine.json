@@ -3,7 +3,7 @@
   "aliasMapId": "service-aliases",
   "generatedAt": "2026-09-18",
   "sourceGlossary": "glossary/th-en-zh-patient-aesthetic-terms.json",
-  "sourceDigest": "0c7285775712910674759f13c15af903e43e908aee8a107e746cac6c2a6a9b8f",
+  "sourceDigest": "931a2a448f531d5a6b4ebd0e9e929b4972ce1b0ffdfe9660907de0e8de660e17",
   "evidenceRule": "Only reviewState in {rednote-search-observed, site-published-zh, site-canonical, site-keyword, kb-observed-th} is exported. Discovery-grade, unverified and conflicting terms stay in the glossary only.",
   "consumers": [
     "Whisper repo scripts/sync-service-aliases-from-kb.mjs -> clinic_services.aliases (whisperchat.co/chat service matching)",
@@ -679,6 +679,28 @@
         {
           "term": "半岛黄金超声炮",
           "lang": "zhHans"
+        }
+      ]
+    },
+    {
+      "id": "laser-hair-removal",
+      "canonicalEn": "Laser Hair Removal",
+      "clinicScope": [],
+      "th": [
+        "เลเซอร์กำจัดขน"
+      ],
+      "en": [
+        "Laser Hair Removal"
+      ],
+      "zhHans": [
+        "激光脱毛"
+      ],
+      "excluded": [
+        {
+          "term": "脱毛",
+          "lang": "zhHans",
+          "state": "discovery-single-source",
+          "reason": "discovery-single-source"
         }
       ]
     }

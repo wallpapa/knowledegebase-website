@@ -1228,6 +1228,39 @@
         }
       ],
       "note": "not_equivalent_to: Ultraformer (海芙). Never bind these terms to Ultraformer services."
+    },
+    {
+      "id": "laser-hair-removal",
+      "zhHans": [
+        {
+          "term": "激光脱毛",
+          "register": "standard term for laser hair removal",
+          "reviewState": "site-canonical",
+          "evidence": [
+            "owner provided Gentle Max Pro pricing table 2026-09-17"
+          ]
+        },
+        {
+          "term": "脱毛",
+          "register": "short colloquial for hair removal",
+          "reviewState": "discovery-single-source",
+          "evidence": [
+            "common CN search term for laser hair removal"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "term": "Laser Hair Removal",
+          "reviewState": "site-canonical"
+        }
+      ],
+      "th": [
+        {
+          "term": "เลเซอร์กำจัดขน",
+          "reviewState": "site-canonical"
+        }
+      ]
     }
   ],
   "notYetResearched": [
