@@ -1,176 +1,225 @@
 {
-  "schemaVersion": 1,
-  "registryId": "central-blog-image-registry",
-  "createdAt": "2026-09-11",
-  "description": "Centralized blog infographic registry — single source of truth for the 14 AI-generated patient-education infographics (ChatGPT web pipeline, Vision-OCR verified). Each entry carries SEO filename, trilingual alt text, and metadata. Downstream sites (verzoclinic.com, waleeratclinic.com, waleeratinternational.com) copy from this registry and keep the filename + alt text intact. Social media cross-posts use the same alt text as the caption lead.",
-  "license": "Internal use only — AI-generated infographics (ChatGPT web, free quota). No third-party content. Style exemplar approved by owner 2026-09-10.",
-  "ocrVerification": "All images verified via agent-mesh/bin/vision-ocr (whitespace-stripped match). 100% key-string pass rate.",
-  "images": [
-    {
-      "file": "foxeye-revision-v1.png",
-      "seoSlug": "fox-eye-revision-signals",
-      "altEn": "Infographic: fox-eye tail lift — done right vs needing revision, 3 comparison panels with mascots, checkmark bullets, and a medical disclaimer footer bar",
-      "altZh": "信息图：狐狸眼做之前先看修复信号 — 三栏对比面板，含可爱吉祥物、勾选要点和医疗免责声明底栏",
-      "altTh": "อินโฟกราฟิก: สัญญาณฟอกซ์อายที่ต้องกลับมาแก้ — 3 แผงเปรียบเทียบ พร้อมมาสคอต หัวข้อเช็กลิสต์ และแถบ disclaimer",
-      "topic": "foxy-eye-revision-caution",
-      "sites": ["waleeratclinic.com"],
-      "ocrVerified": true,
-      "pairedArticle": "fox-eye-tail-lift-revision-signals"
-    },
-    {
-      "file": "rejuran-aftercare-v1.png",
-      "seoSlug": "rejuran-aftercare-72-hours",
-      "altEn": "Infographic: Rejuran aftercare first 72 hours — timeline panels with day markers, mascots, and aftercare checklist",
-      "altZh": "信息图：丽珠兰术后72小时护理 — 时间线面板含日期标记、吉祥物和护理清单",
-      "altTh": "อินโฟกราฟิก: ดูแลตัวเองหลังฉีด Rejuran 72 ชั่วโมงแรก — ไทม์ไลน์พร้อมมาสคอตและเช็กลิสต์",
-      "topic": "rejuran-aftercare-bruising",
-      "sites": ["waleeratclinic.com", "verzoclinic.com"],
-      "ocrVerified": true,
-      "pairedArticle": "rejuran-aftercare-first-72-hours"
-    },
-    {
-      "file": "tongyan-one-bottle-v1.png",
-      "seoSlug": "sculptra-single-vial-protocol",
-      "altEn": "Infographic: Sculptra single-vial protocol — who needs one bottle vs multi-bottle, with mascots and disclaimer bar",
-      "altZh": "信息图：童颜针打一瓶够吗 — 单瓶适合谁与多瓶规划的边界，含吉祥物和免责声明",
-      "altTh": "อินโฟกราฟิก: Sculptra หนึ่งขวดพอไหม — ใครเหมาะกับ 1 ขวด vs หลายขวด",
-      "topic": "tongyan-one-bottle-protocol",
-      "sites": ["waleeratclinic.com", "verzoclinic.com"],
-      "ocrVerified": true,
-      "pairedArticle": "sculptra-single-vial-protocol"
-    },
-    {
-      "file": "fangyuanlian-v1",
-      "seoSlug": "jaw-botox-suitability-by-face-type",
-      "altEn": "Infographic: jaw Botox suitability by face type (masseter vs bone vs fat), 3 panels with mascots",
-      "altZh": "信息图：瘦脸针适合你吗？先看脸型 — 咬肌型/骨骼型/脂肪型三栏对比",
-      "altTh": "อินโฟกราฟิก: โบท็อกซ์กรามเหมาะกับคุณไหม — เทียบ 3 ประเภทหน้า",
-      "topic": "fangyuanlian-botox-warning",
-      "sites": ["waleeratclinic.com"],
-      "ocrVerified": true,
-      "pairedArticle": "jaw-botox-suitability-by-face-type",
-      "note": "file on disk: botox-jaw-facetype-v2-textfix.png (v1 kept as source)"
-    },
-    {
-      "file": "caha-aftercare-v1.png",
-      "seoSlug": "caha-radiesse-aftercare-watch-signals",
-      "altEn": "Infographic: CAHA (Radiesse) aftercare — normal reaction vs watch vs return-to-clinic, 3 checklist panels with mascots",
-      "altZh": "信息图：微晶瓷术后观察清单 — 正常反应/需要留意/立即回诊三栏清单",
-      "altTh": "อินโฟกราฟิก: สังเกตตัวเองหลังฉีด Radiesse — ปกติ/เฝ้าระวัง/กลับคลินิก",
-      "topic": "caha-aftercare-risk-talk",
-      "sites": ["waleeratclinic.com"],
-      "ocrVerified": true,
-      "pairedArticle": "caha-radiesse-aftercare-watch-signals"
-    },
-    {
-      "file": "tongyan-brand-ranking-v1.png",
-      "seoSlug": "collagen-stimulator-choosing-guide",
-      "altEn": "Infographic: collagen-stimulator brands — the 4 things to compare instead of rankings (genuine product, practitioner, indication, plan)",
-      "altZh": "信息图：童颜针怎么选？先比这四件事 — 正品渠道/医生资质/个人适应症/后续规划",
-      "altTh": "อินโฟกราฟิก: เลือก collagen stimulator — เทียบ 4 ประเด็นสำคัญกว่าอันดับแบรนด์",
-      "topic": "tongyan-brand-ranking (overnight)",
-      "sites": ["verzoclinic.com"],
-      "ocrVerified": true,
-      "pairedArticle": "collagen-stimulator-choosing-guide"
-    },
-    {
-      "file": "thailand-checklist-v1.png",
-      "seoSlug": "bangkok-medical-aesthetics-verification-checklist",
-      "altEn": "Infographic: Bangkok medical-aesthetics verification checklist — before departure (3 checks), at consultation (4 questions), after arrival (3 keeps)",
-      "altZh": "信息图：赴泰医美避坑清单 — 出发前三查/面诊四问/到达后三留",
-      "altTh": "อินโฟกราฟิก: เช็กลิสต์ตรวจสอบคลินิกความงามกรุงเทพ — ก่อนบิน/ตอนพบหมอ/หลังถึง",
-      "topic": "thailand-clinic-verification (overnight)",
-      "sites": ["verzoclinic.com", "waleeratclinic.com"],
-      "ocrVerified": true,
-      "pairedArticle": "bangkok-medical-aesthetics-verification-checklist"
-    },
-    {
-      "file": "skinbooster-selector-v1.png",
-      "seoSlug": "skin-booster-how-to-choose",
-      "altEn": "Infographic: skin-booster decision order — 4 steps (need → ingredient → rhythm → authenticity) instead of picking a product name",
-      "altZh": "信息图：水光针怎么选？四步想清楚 — 先分清需求/看懂成分/用法节奏/正品验证",
-      "altTh": "อินโฟกราฟิก: เลือกสกินบูสเตอร์ 4 ขั้น — ความต้องการ/ส่วนผสม/จังหวะ/ของแท้",
-      "topic": "skinbooster-variant-selector (overnight)",
-      "sites": ["verzoclinic.com"],
-      "ocrVerified": true,
-      "pairedArticle": "skin-booster-how-to-choose"
-    },
-    {
-      "file": "caha-site-selector-v1.png",
-      "seoSlug": "caha-site-selector-removal",
-      "altEn": "Infographic: calcium-based filler site selection — why doctors decline some areas, with removal-prevention framing",
-      "altZh": "信息图：微晶瓷为什么有的部位医生会说不 — 部位取舍与取出警示",
-      "altTh": "อินโฟกราฟิก: ทำไมหมอไม่ฉีด Radiesse บางตำแหน่ง — การเลือกตำแหน่งและการป้องกัน",
-      "topic": "caha-site-selector-removal (overnight)",
-      "sites": ["waleeratclinic.com"],
-      "ocrVerified": true,
-      "pairedArticle": "caha-site-selector-removal"
-    },
-    {
-      "file": "first-timer-pathway-v1.png",
-      "seoSlug": "first-aesthetic-treatment-guide",
-      "altEn": "Infographic: first aesthetic treatment — start gentle, 3 directions to consider, with beginner-friendly mascots",
-      "altZh": "信息图：第一次做医美先别上强度 — 先想清楚目标/从浅的开始/预算花对地方",
-      "altTh": "อินโฟกราฟิก: ครั้งแรกกับความงาม — เริ่มจากเบา พิจารณา 3 ทิศทาง",
-      "topic": "first-timer-pathway (overnight)",
-      "sites": ["verzoclinic.com"],
-      "ocrVerified": true,
-      "pairedArticle": "first-aesthetic-treatment-guide"
-    },
-    {
-      "file": "botox-vial-verification-v1.png",
-      "seoSlug": "injection-vial-verification-guide",
-      "altEn": "Infographic: injection vial verification — unseal in person, official verification code, written plan; shield/inspect mascot theme",
-      "altZh": "信息图：先验真再谈价 — 当面拆封/官方验证/书面方案三步清单",
-      "altTh": "อินโฟกราฟิก: ตรวจของแท้ก่อนฉีด — เปิดซีลต่อหน้า/เช็กโค้ด/แผนเป็นลายลักษณ์",
-      "topic": "botox-vial-verification (overnight)",
-      "sites": ["waleeratclinic.com", "verzoclinic.com"],
-      "ocrVerified": true,
-      "pairedArticle": "injection-vial-verification-guide"
-    },
-    {
-      "file": "botox-jaw-facetype-v2-textfix.png",
-      "seoSlug": "jaw-botox-facetype-selector",
-      "altEn": "Infographic: jaw Botox by face type — masseter, bone, fat panels with mascots, summary card, disclaimer bar",
-      "altZh": "信息图：瘦脸针适合你吗？先看脸型 — 咬肌型/骨骼型/脂肪型三栏对比",
-      "altTh": "อินโฟกราฟิก: โบท็อกซ์กราม — เทียบ 3 ประเภทหน้า",
-      "topic": "fangyuanlian-botox-warning",
-      "sites": ["waleeratclinic.com"],
-      "ocrVerified": true,
-      "pairedArticle": "jaw-botox-suitability-by-face-type"
-    },
-    {
-      "file": "nose-shadow-vs-threadlift-v1.png",
-      "seoSlug": "nose-shadow-vs-thread-lift",
-      "altEn": "Infographic: nose-shadow makeup vs nose thread lift vs filler — which suits you, 3 comparison panels",
-      "altZh": "信息图：鼻侧影救急 vs 鼻线雕 — 三个方案怎么选",
-      "altTh": "อินโฟกราฟิก: แต่งหน้าเงาจมูก vs ไหมเสริมจมูก — เลือกอย่างไร",
-      "topic": "nose-shadow-vs-thread",
-      "sites": ["verzoclinic.com"],
-      "ocrVerified": true,
-      "pairedArticle": "nose-shadow-makeup-vs-nose-thread-lift"
-    },
-    {
-      "file": "thermage-checklist-v1.png",
-      "seoSlug": "thermage-quality-checklist",
-      "altEn": "Infographic: Thermage authenticity checklist — 3 steps to avoid fakes (machine, tip, shot count)",
-      "altZh": "信息图：热玛吉验真清单 — 3步避坑（正品机器/探头验证/治疗头计数）",
-      "altTh": "อินโฟกราฟิก: เช็กลิสต์ Thermage ของแท้ — 3 ขั้นตอน",
-      "topic": "thermage-quality-checklist",
-      "sites": ["verzoclinic.com"],
-      "ocrVerified": true,
-      "pairedArticle": "thermage-quality-checklist-patient-guide"
-    },
-    {
-      "file": "glp1-face-restore-v1.png",
-      "seoSlug": "glp1-face-restoration",
-      "altEn": "Infographic: GLP-1 face restoration — post-weight-loss volume loss, collagen stimulation, hydration maintenance",
-      "altZh": "信息图：瘦了脸垮了？GLP-1面部修复三步",
-      "altTh": "อินโฟกราฟิก: หน้ายุบหลังลดน้ำหนัก GLP-1 — ฟื้นฟู 3 ด้าน",
-      "topic": "glp1-face",
-      "sites": ["verzoclinic.com"],
-      "ocrVerified": true,
-      "pairedArticle": "glp1-weight-loss-face-restoration-bangkok"
-    }
-  ]
+ "schemaVersion": 1,
+ "registryId": "central-blog-image-registry",
+ "createdAt": "2026-09-11",
+ "description": "Centralized blog infographic registry — single source of truth for the 14 AI-generated patient-education infographics (ChatGPT web pipeline, Vision-OCR verified). Each entry carries SEO filename, trilingual alt text, and metadata. Downstream sites (verzoclinic.com, waleeratclinic.com, waleeratinternational.com) copy from this registry and keep the filename + alt text intact. Social media cross-posts use the same alt text as the caption lead.",
+ "license": "Internal use only — AI-generated infographics (ChatGPT web, free quota). No third-party content. Style exemplar approved by owner 2026-09-10.",
+ "ocrVerification": "All images verified via agent-mesh/bin/vision-ocr (whitespace-stripped match). 100% key-string pass rate.",
+ "images": [
+  {
+   "file": "foxeye-revision-v1.png",
+   "seoSlug": "fox-eye-revision-signals",
+   "altEn": "Infographic: fox-eye tail lift — done right vs needing revision, 3 comparison panels with mascots, checkmark bullets, and a medical disclaimer footer bar",
+   "altZh": "信息图：狐狸眼做之前先看修复信号 — 三栏对比面板，含可爱吉祥物、勾选要点和医疗免责声明底栏",
+   "altTh": "อินโฟกราฟิก: สัญญาณฟอกซ์อายที่ต้องกลับมาแก้ — 3 แผงเปรียบเทียบ พร้อมมาสคอต หัวข้อเช็กลิสต์ และแถบ disclaimer",
+   "topic": "foxy-eye-revision-caution",
+   "sites": [
+    "waleeratclinic.com"
+   ],
+   "ocrVerified": true,
+   "pairedArticle": "fox-eye-tail-lift-revision-signals"
+  },
+  {
+   "file": "rejuran-aftercare-v1.png",
+   "seoSlug": "rejuran-aftercare-72-hours",
+   "altEn": "Infographic: Rejuran aftercare first 72 hours — timeline panels with day markers, mascots, and aftercare checklist",
+   "altZh": "信息图：丽珠兰术后72小时护理 — 时间线面板含日期标记、吉祥物和护理清单",
+   "altTh": "อินโฟกราฟิก: ดูแลตัวเองหลังฉีด Rejuran 72 ชั่วโมงแรก — ไทม์ไลน์พร้อมมาสคอตและเช็กลิสต์",
+   "topic": "rejuran-aftercare-bruising",
+   "sites": [
+    "waleeratclinic.com",
+    "verzoclinic.com"
+   ],
+   "ocrVerified": true,
+   "pairedArticle": "rejuran-aftercare-first-72-hours"
+  },
+  {
+   "file": "tongyan-one-bottle-v1.png",
+   "seoSlug": "sculptra-single-vial-protocol",
+   "altEn": "Infographic: Sculptra single-vial protocol — who needs one bottle vs multi-bottle, with mascots and disclaimer bar",
+   "altZh": "信息图：童颜针打一瓶够吗 — 单瓶适合谁与多瓶规划的边界，含吉祥物和免责声明",
+   "altTh": "อินโฟกราฟิก: Sculptra หนึ่งขวดพอไหม — ใครเหมาะกับ 1 ขวด vs หลายขวด",
+   "topic": "tongyan-one-bottle-protocol",
+   "sites": [
+    "waleeratclinic.com",
+    "verzoclinic.com"
+   ],
+   "ocrVerified": true,
+   "pairedArticle": "sculptra-single-vial-protocol"
+  },
+  {
+   "file": "fangyuanlian-v1",
+   "seoSlug": "jaw-botox-suitability-by-face-type",
+   "altEn": "Infographic: jaw Botox suitability by face type (masseter vs bone vs fat), 3 panels with mascots",
+   "altZh": "信息图：瘦脸针适合你吗？先看脸型 — 咬肌型/骨骼型/脂肪型三栏对比",
+   "altTh": "อินโฟกราฟิก: โบท็อกซ์กรามเหมาะกับคุณไหม — เทียบ 3 ประเภทหน้า",
+   "topic": "fangyuanlian-botox-warning",
+   "sites": [
+    "waleeratclinic.com"
+   ],
+   "ocrVerified": true,
+   "pairedArticle": "jaw-botox-suitability-by-face-type",
+   "note": "file on disk: botox-jaw-facetype-v2-textfix.png (v1 kept as source)"
+  },
+  {
+   "file": "caha-aftercare-v1.png",
+   "seoSlug": "caha-radiesse-aftercare-watch-signals",
+   "altEn": "Infographic: CAHA (Radiesse) aftercare — normal reaction vs watch vs return-to-clinic, 3 checklist panels with mascots",
+   "altZh": "信息图：微晶瓷术后观察清单 — 正常反应/需要留意/立即回诊三栏清单",
+   "altTh": "อินโฟกราฟิก: สังเกตตัวเองหลังฉีด Radiesse — ปกติ/เฝ้าระวัง/กลับคลินิก",
+   "topic": "caha-aftercare-risk-talk",
+   "sites": [
+    "waleeratclinic.com"
+   ],
+   "ocrVerified": true,
+   "pairedArticle": "caha-radiesse-aftercare-watch-signals"
+  },
+  {
+   "file": "tongyan-brand-ranking-v1.png",
+   "seoSlug": "collagen-stimulator-choosing-guide",
+   "altEn": "Infographic: collagen-stimulator brands — the 4 things to compare instead of rankings (genuine product, practitioner, indication, plan)",
+   "altZh": "信息图：童颜针怎么选？先比这四件事 — 正品渠道/医生资质/个人适应症/后续规划",
+   "altTh": "อินโฟกราฟิก: เลือก collagen stimulator — เทียบ 4 ประเด็นสำคัญกว่าอันดับแบรนด์",
+   "topic": "tongyan-brand-ranking (overnight)",
+   "sites": [
+    "verzoclinic.com"
+   ],
+   "ocrVerified": true,
+   "pairedArticle": "collagen-stimulator-choosing-guide"
+  },
+  {
+   "file": "thailand-checklist-v1.png",
+   "seoSlug": "bangkok-medical-aesthetics-verification-checklist",
+   "altEn": "Infographic: Bangkok medical-aesthetics verification checklist — before departure (3 checks), at consultation (4 questions), after arrival (3 keeps)",
+   "altZh": "信息图：赴泰医美避坑清单 — 出发前三查/面诊四问/到达后三留",
+   "altTh": "อินโฟกราฟิก: เช็กลิสต์ตรวจสอบคลินิกความงามกรุงเทพ — ก่อนบิน/ตอนพบหมอ/หลังถึง",
+   "topic": "thailand-clinic-verification (overnight)",
+   "sites": [
+    "verzoclinic.com",
+    "waleeratclinic.com"
+   ],
+   "ocrVerified": true,
+   "pairedArticle": "bangkok-medical-aesthetics-verification-checklist"
+  },
+  {
+   "file": "skinbooster-selector-v1.png",
+   "seoSlug": "skin-booster-how-to-choose",
+   "altEn": "Infographic: skin-booster decision order — 4 steps (need → ingredient → rhythm → authenticity) instead of picking a product name",
+   "altZh": "信息图：水光针怎么选？四步想清楚 — 先分清需求/看懂成分/用法节奏/正品验证",
+   "altTh": "อินโฟกราฟิก: เลือกสกินบูสเตอร์ 4 ขั้น — ความต้องการ/ส่วนผสม/จังหวะ/ของแท้",
+   "topic": "skinbooster-variant-selector (overnight)",
+   "sites": [
+    "verzoclinic.com"
+   ],
+   "ocrVerified": true,
+   "pairedArticle": "skin-booster-how-to-choose"
+  },
+  {
+   "file": "caha-site-selector-v1.png",
+   "seoSlug": "caha-site-selector-removal",
+   "altEn": "Infographic: calcium-based filler site selection — why doctors decline some areas, with removal-prevention framing",
+   "altZh": "信息图：微晶瓷为什么有的部位医生会说不 — 部位取舍与取出警示",
+   "altTh": "อินโฟกราฟิก: ทำไมหมอไม่ฉีด Radiesse บางตำแหน่ง — การเลือกตำแหน่งและการป้องกัน",
+   "topic": "caha-site-selector-removal (overnight)",
+   "sites": [
+    "waleeratclinic.com"
+   ],
+   "ocrVerified": true,
+   "pairedArticle": "caha-site-selector-removal"
+  },
+  {
+   "file": "first-timer-pathway-v1.png",
+   "seoSlug": "first-aesthetic-treatment-guide",
+   "altEn": "Infographic: first aesthetic treatment — start gentle, 3 directions to consider, with beginner-friendly mascots",
+   "altZh": "信息图：第一次做医美先别上强度 — 先想清楚目标/从浅的开始/预算花对地方",
+   "altTh": "อินโฟกราฟิก: ครั้งแรกกับความงาม — เริ่มจากเบา พิจารณา 3 ทิศทาง",
+   "topic": "first-timer-pathway (overnight)",
+   "sites": [
+    "verzoclinic.com"
+   ],
+   "ocrVerified": true,
+   "pairedArticle": "first-aesthetic-treatment-guide"
+  },
+  {
+   "file": "botox-vial-verification-v1.png",
+   "seoSlug": "injection-vial-verification-guide",
+   "altEn": "Infographic: injection vial verification — unseal in person, official verification code, written plan; shield/inspect mascot theme",
+   "altZh": "信息图：先验真再谈价 — 当面拆封/官方验证/书面方案三步清单",
+   "altTh": "อินโฟกราฟิก: ตรวจของแท้ก่อนฉีด — เปิดซีลต่อหน้า/เช็กโค้ด/แผนเป็นลายลักษณ์",
+   "topic": "botox-vial-verification (overnight)",
+   "sites": [
+    "waleeratclinic.com",
+    "verzoclinic.com"
+   ],
+   "ocrVerified": true,
+   "pairedArticle": "injection-vial-verification-guide"
+  },
+  {
+   "file": "botox-jaw-facetype-v2-textfix.png",
+   "seoSlug": "jaw-botox-facetype-selector",
+   "altEn": "Infographic: jaw Botox by face type — masseter, bone, fat panels with mascots, summary card, disclaimer bar",
+   "altZh": "信息图：瘦脸针适合你吗？先看脸型 — 咬肌型/骨骼型/脂肪型三栏对比",
+   "altTh": "อินโฟกราฟิก: โบท็อกซ์กราม — เทียบ 3 ประเภทหน้า",
+   "topic": "fangyuanlian-botox-warning",
+   "sites": [
+    "waleeratclinic.com"
+   ],
+   "ocrVerified": true,
+   "pairedArticle": "jaw-botox-suitability-by-face-type"
+  },
+  {
+   "file": "nose-shadow-vs-threadlift-v1.png",
+   "seoSlug": "nose-shadow-vs-thread-lift",
+   "altEn": "Infographic: nose-shadow makeup vs nose thread lift vs filler — which suits you, 3 comparison panels",
+   "altZh": "信息图：鼻侧影救急 vs 鼻线雕 — 三个方案怎么选",
+   "altTh": "อินโฟกราฟิก: แต่งหน้าเงาจมูก vs ไหมเสริมจมูก — เลือกอย่างไร",
+   "topic": "nose-shadow-vs-thread",
+   "sites": [
+    "verzoclinic.com"
+   ],
+   "ocrVerified": true,
+   "pairedArticle": "nose-shadow-makeup-vs-nose-thread-lift"
+  },
+  {
+   "file": "thermage-checklist-v1.png",
+   "seoSlug": "thermage-quality-checklist",
+   "altEn": "Infographic: Thermage authenticity checklist — 3 steps to avoid fakes (machine, tip, shot count)",
+   "altZh": "信息图：热玛吉验真清单 — 3步避坑（正品机器/探头验证/治疗头计数）",
+   "altTh": "อินโฟกราฟิก: เช็กลิสต์ Thermage ของแท้ — 3 ขั้นตอน",
+   "topic": "thermage-quality-checklist",
+   "sites": [
+    "verzoclinic.com"
+   ],
+   "ocrVerified": true,
+   "pairedArticle": "thermage-quality-checklist-patient-guide"
+  },
+  {
+   "file": "glp1-face-restore-v1.png",
+   "seoSlug": "glp1-face-restoration",
+   "altEn": "Infographic: GLP-1 face restoration — post-weight-loss volume loss, collagen stimulation, hydration maintenance",
+   "altZh": "信息图：瘦了脸垮了？GLP-1面部修复三步",
+   "altTh": "อินโฟกราฟิก: หน้ายุบหลังลดน้ำหนัก GLP-1 — ฟื้นฟู 3 ด้าน",
+   "topic": "glp1-face",
+   "sites": [
+    "verzoclinic.com"
+   ],
+   "ocrVerified": true,
+   "pairedArticle": "glp1-weight-loss-face-restoration-bangkok"
+  },
+  {
+   "file": "ipl-vs-diode-vs-gentle-yag-comparison.png",
+   "seoSlug": "ipl-vs-diode-vs-gentle-yag-comparison",
+   "altEn": "Comparison infographic: IPL vs Diode Laser vs Gentle YAG for hair removal — wavelength, penetration depth, skin type suitability, pain level, results, and session count compared side by side",
+   "altZh": "对比信息图：IPL vs 二极管激光 vs Gentle YAG — 波长、穿透深度、肤质适应性、疼痛程度、效果和疗程次数并排对比",
+   "altTh": "อินโฟกราฟิกเปรียบเทียบ: IPL vs Diode Laser vs Gentle YAG — ความยาวคลื่น ความลึกในการทำงาน ความปลอดภัย ความเจ็บ ผลลัพธ์ และจำนวนครั้ง",
+   "topic": "laser-hair-removal-technology-comparison",
+   "sites": [
+    "verzoclinic.com",
+    "waleeratclinic.com",
+    "waleeratinternational.com"
+   ],
+   "ocrVerified": true,
+   "pairedArticle": "gentle-max-pro-service-pages"
+  }
+ ]
 }
