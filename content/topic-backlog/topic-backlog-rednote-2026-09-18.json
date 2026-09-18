@@ -1,0 +1,150 @@
+{
+  "source": "rednote/xiaohongshu mining 2026-09-18 via indexed industry reports (official Xiaohongshu medical-aesthetics monthly report analyses — Sohu 医美慢谈 2026-01 edition, Xiaohongshu commercial monthly report PDF; direct search is login-walled from agent browsers tonight)",
+  "method": "Tavily-indexed secondary sources carrying Xiaohongshu official search-trend data (search-volume deltas, topic view counts, top-click title lists); candidate topics mapped to live VERZO/Waleerat service rows; compliance note: Xiaohongshu's own audit spec bans 类比医美 claims for cosmetic products — clinic-owned educational content is unaffected but wording must keep อย./แพทยสภา banned-term rules",
+  "topics": [
+    {
+      "id": "fangyuanlian-contour-lifting-choice",
+      "sites": ["verzoclinic.com"],
+      "titleEn": "Square-round faces are the new beauty ideal — which lifting approach actually suits one?",
+      "titleZh": "方圆脸爆火：想提升脸型，热玛吉/超声炮/线雕到底怎么选？",
+      "toc": [
+        "直接回答：方圆脸审美走红，但提升方式要看你的软组织和骨骼，而不是跟潮流",
+        "方圆脸为什么被喜欢（辨识度/高级感 vs 幼态脸）",
+        "三种路线对比：能量设备紧致（热玛吉/超声炮类）vs 线雕提升 vs 轮廓固定（填充塑形）",
+        "方圆脸最怕什么：过度瘦脸让轮廓更宽或更凹",
+        "医生评估顺序：骨骼宽度/咬肌/脂肪垫/皮肤弹性",
+        "FAQ：方圆脸要打瘦脸针吗/多久见效/会不会脸垮"
+      ],
+      "faqs": [
+        "方圆脸适合打瘦脸针吗？",
+        "热玛吉和线雕哪个更适合方圆脸？",
+        "轮廓固定会让脸变宽吗？"
+      ],
+      "hashtags": ["#方圆脸", "#轮廓固定", "#热玛吉", "#超声炮", "#线雕", "#面部轮廓"],
+      "directAnswer": "方圆脸是否要提升、用哪种方式，取决于软组织厚度和骨骼结构：皮肤松垂为主选能量设备，下垂位移为主选线雕，容量凹陷选填充塑形——先面诊评估，不要跟审美潮流直接套项目。",
+      "medicalHigh": true,
+      "evidence": [
+        "Xiaohongshu 2026-01 monthly report: 方圆脸 demand +1956.03% MoM, framed as successor to 幼态脸 aesthetics",
+        "#轮廓固定 topic 15.8亿 views — underlying logic 面部折叠度",
+        "verzo catalog rows: Thermage FLX / Ultherapy / Ultraformer III / MPT / thread programs — all live"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "shuiguang-dermal-first-failures",
+      "sites": ["verzoclinic.com"],
+      "titleEn": "Why some skin boosters disappoint: treating the dermis before chasing collagen",
+      "titleZh": "水光白打了？高点击笔记都在说：先救真皮层，再谈胶原",
+      "toc": [
+        "直接回答：水光效果差多数不是产品问题，而是真皮层状态和方案次序问题",
+        "小红书高点击标题拆解：造假碰瓷/真皮层优先/不踩雷指南——用户在怕什么",
+        "真皮层三层自查：含水量/炎症屏障/胶原支架",
+        "方案次序：屏障修复→基础水光→胶原刺激剂的组合逻辑",
+        "如何看懂产品登记与正品验证（防翻车）",
+        "FAQ：多久打一次/和胶原刺激剂冲突吗/术后爆痘怎么办"
+      ],
+      "faqs": [
+        "水光针多久打一次合适？",
+        "水光和童颜针能同时做吗？",
+        "打完水光爆痘是正常吗？"
+      ],
+      "hashtags": ["#水光针", "#真皮层", "#皮肤屏障", "#胶原", "#医美避雷"],
+      "directAnswer": "水光不满意的高频原因是真皮层基线差（屏障受损、慢性炎症、胶原支架弱），正确次序是先修复屏障再按层制定水光+胶原刺激方案，并核对产品登记与正品渠道。",
+      "medicalHigh": true,
+      "evidence": [
+        "Xiaohongshu monthly report top-click titles (水光): 「不止碰瓷还敢造假？你们都被水光给骗了」「别只盯胶原！先救真皮层，水光才不白打」「25+长期变美主义丨水光不踩雷指南」",
+        "verzo catalog: full skinbooster range (Profhilo/Ejal40/Rejuran/NCTF/Karisma…) — 天然衔接",
+        "authenticity angle proven demand (MPT verification article shipped 2026-09-17)"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "eye-bag-tear-trough-order",
+      "sites": ["verzoclinic.com"],
+      "titleEn": "Eye bags or tear troughs first? The non-surgical decision order",
+      "titleZh": "眼袋泪沟太重怎么办？先做哪个、不做哪个（非手术版）",
+      "toc": [
+        "直接回答：泪沟凹陷用填充/胶原刺激解决；真性眼袋脂肪突出填充救不了，需外科评估",
+        "小红书搜索信号：「眼袋泪沟太重了有什么方法」+28.12%",
+        "一分钟自查：卧蚕/泪沟/眼袋怎么区分",
+        "非手术选项与适配：透明质酸/胶原刺激剂/能量设备收紧",
+        "为什么眼袋上打填充会显更肿（风险边界）",
+        "FAQ：维持多久/恢复期/会不会压眼睛"
+      ],
+      "faqs": [
+        "泪沟填充能维持多久？",
+        "眼袋还能用填充救吗？",
+        "泪沟打完更肿了怎么办？"
+      ],
+      "hashtags": ["#眼袋", "#泪沟", "#黑眼圈", "#眼周年轻化"],
+      "directAnswer": "泪沟是凹陷，适配填充或胶原刺激剂；眼袋是脂肪突出，填充会加重肿胀感，需要外科评估——先分清是哪一个再选方案。",
+      "medicalHigh": true,
+      "evidence": [
+        "Xiaohongshu 2026-01 monthly report: 「眼袋泪沟太重了有什么方法」 search +28.12%",
+        "verzo catalog: Juvelook/filler rows live; surgical referral boundary honest",
+        "GSC zh intents: what-is + price dominate eye-area queries"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "ipool-photofacial-day1-7",
+      "sites": ["verzoclinic.com", "waleeratinternational.com"],
+      "titleEn": "Photofacial days 1–7: what the skin actually goes through (and who should skip it)",
+      "titleZh": "光子嫩肤一到七天对比图背后：皮肤真实恢复时间线（附不适用人群）",
+      "toc": [
+        "直接回答：光子嫩肤是基础光电项目，热量会带来短期泛红与结痂点，1-7天是屏障修复窗口",
+        "为什么「一到七天对比图」搜索暴涨（+27.32%）：用户要看过程不是看承诺",
+        "Day-by-day时间线：即刻泛红→微痂→色沉代谢→屏障重建",
+        "光子 vs 超皮秒：色素/泛红/毛孔怎么分工",
+        "不适用人群：孕哺/近期暴晒/黄褐斑活动期/光敏药物",
+        "FAQ：几次一个疗程/会不会反黑/和刷酸间隔"
+      ],
+      "faqs": [
+        "光子嫩肤做几次才有效？",
+        "光子嫩肤会反黑吗？",
+        "光子嫩肤和刷酸要隔多久？"
+      ],
+      "hashtags": ["#光子嫩肤", "#超皮秒", "#医美恢复期", "#皮肤管理"],
+      "directAnswer": "光子嫩肤的1-7天是可预期的修复时间线：泛红、微小结痂、色沉代谢、屏障重建；效果按疗程计，黄褐斑活动期/光敏状态不适用，项目选择交给医生面诊。",
+      "medicalHigh": true,
+      "evidence": [
+        "Xiaohongshu 2026-01 monthly report: 光子嫩肤 single-month heat 73.1w; 「光子嫩肤一到七天对比图」+27.32%, 「光子嫩肤的功效」+15.44%",
+        "blue-ocean note: 皮秒 listed as 站内蓝海; verzo/wlri pico-laser rows live",
+        "process-transparency angle matches answer-first editorial doctrine"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "ai-era-clinic-info-verification",
+      "sites": ["verzoclinic.com", "waleeratinternational.com"],
+      "titleEn": "Asking AI about aesthetics? How to verify what it tells you before booking",
+      "titleZh": "用AI问医美靠谱吗：问出来的答案怎么验证再去面诊",
+      "toc": [
+        "直接回答：AI是好的第一步信息源，但项目适配、剂量、价格只能来自持证医生面诊",
+        "德勤2026报告：AI工具已成求美者决策「智能入口」，决策更理性",
+        "AI回答常见的三类坑：过时数据/无地区登记信息/把广告当科普",
+        "三步验证法：来源可查→登记可核→面诊确认",
+        "怎么向医生带着AI答案问问题（效率翻倍）",
+        "FAQ：AI推荐的项目能直接预约吗/怎么查医生资质/价格为什么AI答不准"
+      ],
+      "faqs": [
+        "AI推荐的医美项目能直接做吗？",
+        "怎么查医生的执业资质？",
+        "为什么AI给的价格和 clinic 报价不一样？"
+      ],
+      "hashtags": ["#医美科普", "#AI", "#面诊", "#避雷"],
+      "directAnswer": "AI适合用来理解项目原理和整理问题清单，不适合替代面诊：适配性、剂量、登记状态和价格必须由持证医生确认——用三步验证法把AI答案变成面诊问题。",
+      "medicalHigh": false,
+      "evidence": [
+        "Deloitte China medical-aesthetics outlook 2026: AI tools = decision smart-entry; demand shifts 单点矫正→综合提升, 单次效果→全周期管理",
+        "matches shipped ai.txt/AEO doctrine; strengthens clinic's answer-first AI-visibility moat",
+        "verzo already publishes llms.txt + WebMCP tools — this article teaches patients to use them"
+      ],
+      "status": "candidate"
+    }
+  ],
+  "dedupeNotes": [
+    "鼻侧影半永久 (+5476% YoY) NOT re-added — already in topic-backlog-trends-2026-09.json (nose-shadow-makeup-vs-nose-thread-lift)",
+    "no overlap with topic-backlog-2026-09-18.json (botox-elderly, rejuran-pain) or 09-17b (juvelook-maturation)"
+  ]
+}
