@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "workflowId": "clinic-rednote-content-factory-v1",
+  "updatedAt": "2026-09-09",
+  "execution": {
+    "mode": "plan-only",
+    "executeModels": false,
+    "automaticPublication": false,
+    "sourceMutationAllowed": false,
+    "candidateDirectory": "outputs/content-jobs",
+    "maximumConcurrentHeavyJobs": 1
+  },
+  "roles": {
+    "normalize-insight": {
+      "node": "m2",
+      "class": "lightweight",
+      "requiresFabricReady": false
+    },
+    "deduplicate-insight": {
+      "node": "m2",
+      "class": "lightweight",
+      "requiresFabricReady": false
+    },
+    "classify-intent": {
+      "node": "m2",
+      "class": "lightweight",
+      "requiresFabricReady": false
+    },
+    "zh-intent-synthesis": {
+      "node": "m5",
+      "class": "generation",
+      "requiresFabricReady": true
+    },
+    "en-evidence-synthesis": {
+      "node": "m5",
+      "class": "generation",
+      "requiresFabricReady": true
+    },
+    "site-editorial-draft": {
+      "node": "m5",
+      "class": "generation",
+      "requiresFabricReady": true
+    },
+    "semantic-review": {
+      "node": "m5",
+      "class": "review",
+      "requiresFabricReady": true
+    },
+    "medical-high-review": {
+      "node": "m5",
+      "class": "review",
+      "requiresFabricReady": true,
+      "automaticRelease": false
+    },
+    "localization-draft": {
+      "node": "m5",
+      "class": "generation",
+      "requiresFabricReady": true
+    }
+  },
+  "stageOrder": [
+    "normalize-insight",
+    "deduplicate-insight",
+    "classify-intent",
+    "zh-intent-synthesis",
+    "en-evidence-synthesis",
+    "site-editorial-draft",
+    "semantic-review",
+    "medical-high-review",
+    "localization-draft"
+  ],
+  "masterLocales": ["zh", "en"],
+  "targetLocales": ["th", "zh-hant", "ja", "ko", "es", "de", "fr", "pt", "ar", "ms", "ru", "id", "tl"],
+  "siteRepositories": {
+    "waleeratclinic.com": "wallpapa/waleeratclinic.com",
+    "waleeratinternational.com": "wallpapa/waleeratinternational.com",
+    "verzoclinic.com": "wallpapa/verzoclinic.com"
+  }
+}

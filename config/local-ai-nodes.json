@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "fabricId": "clinic-local-ai-fabric-v1",
+  "updatedAt": "2026-09-09",
+  "purpose": "Shared two-node local AI execution contract for the centralized clinic knowledge base and the three website repositories.",
+  "safety": {
+    "publicNetworkExposureAllowed": false,
+    "credentialsInConfigAllowed": false,
+    "automaticPublicationAllowed": false,
+    "medicalApprovalByModelAllowed": false,
+    "sourceMutationByWorkerAllowed": false
+  },
+  "nodes": {
+    "m2": {
+      "role": "control-plane",
+      "hostnameHint": "clinic-m2",
+      "memoryGb": 8,
+      "availability": "24x7",
+      "ollamaEndpoint": "http://127.0.0.1:11434",
+      "endpointEnv": "OLLAMA_M2_URL",
+      "responsibilities": [
+        "git-watch",
+        "central-kb-sync",
+        "job-queue",
+        "deterministic-gates",
+        "deduplication",
+        "embedding",
+        "rag",
+        "lightweight-classification",
+        "health-monitoring"
+      ],
+      "largeModelEligible": false
+    },
+    "m5": {
+      "role": "compute-plane",
+      "hostnameHint": "clinic-m5",
+      "memoryGb": 32,
+      "availability": "on-demand",
+      "ollamaEndpoint": "http://127.0.0.1:11435",
+      "endpointEnv": "OLLAMA_M5_URL",
+      "transport": "ssh-tunnel-over-private-network",
+      "remoteOllamaLoopback": "http://127.0.0.1:11434",
+      "responsibilities": [
+        "zh-intent-synthesis",
+        "en-evidence-synthesis",
+        "blog-drafting",
+        "semantic-review",
+        "medical-nuance-review",
+        "localization-review",
+        "escalation"
+      ],
+      "largeModelEligible": true
+    }
+  },
+  "routing": {
+    "lightweight": {
+      "preferredNode": "m2",
+      "fallbackNode": "m5"
+    },
+    "generation": {
+      "preferredNode": "m5",
+      "fallbackNode": null
+    },
+    "semanticReview": {
+      "preferredNode": "m5",
+      "fallbackNode": null
+    },
+    "medicalHigh": {
+      "preferredNode": "m5",
+      "fallbackNode": null,
+      "automaticRelease": false
+    }
+  },
+  "modelPolicy": {
+    "m2RecommendedClass": ["1b-4b", "embedding"],
+    "m2ActiveCandidates": ["gemma3:4b", "qwen3:4b", "bge-m3"],
+    "m5ActiveCandidates": [
+      "qwen3.5:9b",
+      "gemma4:12b",
+      "qwen3.8:27b-gguf-ad-q4k"
+    ],
+    "blockedSharedRoutes": [
+      {
+        "model": "qwen3:4b",
+        "reason": "Installed on clinic-m2 as a candidate, but the installed Ollama ignores think:false and /no_think for this model, so it reasons out loud and burns the whole num_predict cap instead of emitting bounded JSON. Do not route clinic light jobs to it until Ollama honors thinking controls; bge-m3 embeddings are unaffected."
+      },
+      {
+        "model": "qwen3.8:27b-mlx",
+        "reason": "Do not restore as a shared workflow route without new benchmark evidence; existing website workflow records repeated MLX runner shutdowns."
+      },
+      {
+        "model": "qwen2.5:14b",
+        "reason": "Blocked for medical translation by existing website benchmark evidence."
+      }
+    ]
+  },
+  "repositories": [
+    "wallpapa/knowledegebase-website",
+    "wallpapa/waleeratclinic.com",
+    "wallpapa/waleeratinternational.com",
+    "wallpapa/verzoclinic.com"
+  ]
+}

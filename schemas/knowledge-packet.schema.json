@@ -1,0 +1,120 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/wallpapa/knowledegebase-website/schemas/knowledge-packet.schema.json",
+  "title": "Clinic Content Knowledge Packet",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "packetId", "createdAt", "topic", "sourceInsightRefs", "evidence", "claims", "bilingualMaster", "siteRouting", "localization", "status"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "packetId": { "type": "string", "pattern": "^[a-z0-9][a-z0-9._-]+$" },
+    "createdAt": { "type": "string", "format": "date-time" },
+    "topic": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "titleZh", "titleEn", "medicalHigh"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "titleZh": { "type": "string", "minLength": 1 },
+        "titleEn": { "type": "string", "minLength": 1 },
+        "medicalHigh": { "type": "boolean" }
+      }
+    },
+    "sourceInsightRefs": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 1 },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["evidenceId", "authority", "scope"],
+        "properties": {
+          "evidenceId": { "type": "string", "minLength": 1 },
+          "authority": { "enum": ["patient-discourse", "first-party-site", "manufacturer", "regulator", "biomedical-literature", "owner-operational-authority"] },
+          "sourceRef": { "type": ["string", "null"] },
+          "url": { "type": ["string", "null"] },
+          "scope": { "type": "string", "minLength": 1 },
+          "verifiedAt": { "type": ["string", "null"], "format": "date-time" }
+        }
+      }
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["claimId", "statement", "evidenceRefs", "riskTier", "publicationAuthority"],
+        "properties": {
+          "claimId": { "type": "string", "minLength": 1 },
+          "statement": { "type": "string", "minLength": 1 },
+          "evidenceRefs": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 1 },
+          "riskTier": { "enum": ["low", "medical", "medical-high", "regulatory", "price"] },
+          "publicationAuthority": { "type": "boolean" }
+        }
+      }
+    },
+    "bilingualMaster": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["zhIntent", "enEvidence"],
+      "properties": {
+        "zhIntent": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["patientQuestions", "terms", "concerns"],
+          "properties": {
+            "patientQuestions": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+            "terms": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+            "concerns": { "type": "array", "items": { "type": "string", "minLength": 1 } }
+          }
+        },
+        "enEvidence": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["answerFrame", "claimRefs", "sourceBoundaries"],
+          "properties": {
+            "answerFrame": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+            "claimRefs": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+            "sourceBoundaries": { "type": "array", "items": { "type": "string", "minLength": 1 } }
+          }
+        }
+      }
+    },
+    "siteRouting": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["waleeratclinic.com", "waleeratinternational.com", "verzoclinic.com"],
+      "properties": {
+        "waleeratclinic.com": { "$ref": "#/$defs/siteRoute" },
+        "waleeratinternational.com": { "$ref": "#/$defs/siteRoute" },
+        "verzoclinic.com": { "$ref": "#/$defs/siteRoute" }
+      }
+    },
+    "localization": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["masterLocales", "targetLocales", "automaticPublication"],
+      "properties": {
+        "masterLocales": { "const": ["zh", "en"] },
+        "targetLocales": {
+          "type": "array",
+          "items": { "enum": ["th", "zh-hant", "ja", "ko", "es", "de", "fr", "pt", "ar", "ms", "ru", "id", "tl"] },
+          "uniqueItems": true
+        },
+        "automaticPublication": { "const": false }
+      }
+    },
+    "status": { "enum": ["candidate", "research-ready", "bilingual-master-draft", "reviewed-candidate", "localized-candidate", "superseded"] }
+  },
+  "$defs": {
+    "siteRoute": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["eligible", "editorialAngle", "publicWriteAllowed"],
+      "properties": {
+        "eligible": { "type": "boolean" },
+        "editorialAngle": { "type": ["string", "null"] },
+        "publicWriteAllowed": { "const": false }
+      }
+    }
+  }
+}
