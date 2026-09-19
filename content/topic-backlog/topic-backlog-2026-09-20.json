@@ -1,0 +1,80 @@
+{
+  "source": "rednote.com direct search mining 2026-09-20 01:05 via ZCode IAB (logged-in hidden pane, noteId captured); terms: 水光针/丽珠兰/韩版热玛吉/保妥适/热玛吉/童颜针 + 2 Tavily supplements (q28 brand-war, q29 swelling-aftercare)",
+  "method": "Bounded rotation pass, 6 terms oldest-first by last-check time; compared against 0916/0917/0918 evidence; material change in 童颜针 only, no-change notes recorded for the other 5; chips captured for last term (童颜针)",
+  "topics": [
+    {
+      "id": "tongyan-brand-war-how-to-evaluate",
+      "sites": [
+        "verzoclinic.com"
+      ],
+      "titleEn": "Nine PLLA \"youth injections\" are now fighting a price war — how to evaluate a brand you've never heard of",
+      "titleZh": "童颜针九牌混战、2999元价格战：不认识的牌子怎么判断能不能打？",
+      "toc": [
+        "直接回答：价格战不代表不能打，但选牌子的核心是查注册证（械三）、成分工艺和注射者资质，不是看排名帖",
+        "九款获批童颜针格局速览（3进口+6国产：艾塑菲/塑妍萃/Olidia/艾维岚/濡白天使/普丽妍/斯弗妍/丽真然/乐普）",
+        "价格跨度为什么这么大：370mg→45mg 小规格低价策略、水光型号、渠道加价",
+        "PCL、PLLA、PDLLA 傻傻分不清？成分大类一图分清",
+        "小红书“牌子排名”帖怎么看：排名依据不透明，替代的四个自查步骤",
+        "在曼谷打童颜针的品牌核对清单（注册证+医生面诊确认产品）",
+        "FAQ：进口和国产童颜针差别大吗/便宜的品牌能打吗/怎么查注册证"
+      ],
+      "faqs": [
+        "童颜针哪个牌子最好？",
+        "便宜的童颜针可以打吗？",
+        "进口和国产童颜针怎么选？"
+      ],
+      "hashtags": [
+        "#童颜针",
+        "#塑妍萃",
+        "#再生材料",
+        "#医美避坑",
+        "#价格"
+      ],
+      "directAnswer": "童颜针市场已有九款获批品牌并在打价格战（2999-18800元），“牌子排名”帖依据不透明——比排名更可靠的是三步自查：查国家药监局三类器械注册证、确认成分大类（PLLA/PDLLA/PCL）、面诊时核对将注射的实际产品与医生资质。",
+      "medicalHigh": true,
+      "evidence": [
+        "glossary/evidence/xhs-童颜针-20260920.json: chips 牌子排名 + 乐普 (NEW brand) + 普丽妍/悦雅颜/时凝萃 ecosystem; notes 2瓶8999 price anchor + 相信一瓶打全脸的可以划走了 anti-hype (92)",
+        "glossary/evidence/q28-zh-tongyan-brand-war.json: 9 approved brands (乐普=Lepu Medical approved 2026-06, dual-SKU 8800/5800 CNY); 新氧 2999 floor; consumer confusion 'PCL、PLLA傻傻分不清'",
+        "distinct from sculptra-vs-ellanse-disambiguation (2-brand type comparison) and collagen-stimulator-choosing-guide (type-level) — this topic is the CN brand-fragmentation + price-war evaluation angle"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "tongyan-swelling-phase-aftercare",
+      "sites": [
+        "verzoclinic.com"
+      ],
+      "titleEn": "The swelling phase after a PLLA youth injection — timeline, massage, and what's not normal",
+      "titleZh": "童颜针肿胀期全解：多久消肿、要不要按摩、什么情况要回诊",
+      "toc": [
+        "直接回答：注射后24-48小时水肿最明显（配液量大），3-7天逐渐消退——这是流程不是事故",
+        "为什么童颜针比玻尿酸肿：无菌注射用水复配带来的体积",
+        "按摩手法：5-5-5原则（连续5天、每天5次、每次5分钟，点线面手法）与新一代免自行按摩产品的差异",
+        "肿胀期时间线：当天/3-7天/2周/1个月胶原生长期各阶段的样子",
+        "硬块与结节：一个月内的轻微硬块常见，什么情况必须回诊",
+        "术后一周避雷清单：高温场所、剧烈运动、酸类护肤、烟酒辛辣",
+        "FAQ：肿多久正常/不按摩会结节吗/多久能看到最终效果"
+      ],
+      "faqs": [
+        "童颜针肿胀多久会消？",
+        "童颜针后一定要按摩吗？",
+        "童颜针打完有硬块怎么办？"
+      ],
+      "hashtags": [
+        "#童颜针",
+        "#术后护理",
+        "#肿胀期",
+        "#按摩手法",
+        "#再生材料"
+      ],
+      "directAnswer": "童颜针注射后24-48小时水肿最明显（复配液体量大），通常3-7天消退；经典PLLA方案配合5-5-5按摩（连续5天、每天5次、每次5分钟）帮助材料均匀分布、降低结节风险——一个月内轻微紧绷感常见，持续增大或疼痛的硬块需要回诊。",
+      "medicalHigh": true,
+      "evidence": [
+        "glossary/evidence/xhs-童颜针-20260920.json: 肿胀期 NEW concern chip + 按摩手法 chip (persisting) on the term's search page",
+        "glossary/evidence/q29-zh-tongyan-swelling-aftercare.json: 24-48h edema / 3-7d resolution baseline; 5-5-5 massage rule vs 4D no-self-massage protocol divergence; early-nodule follow-up guidance; 1-week avoid list",
+        "distinct from caha-aftercare-risk-talk (CAHA) and rejuran-aftercare-bruising (PN bruising) — this is PLLA/PDLLA swelling-phase + massage protocol specifically"
+      ],
+      "status": "candidate"
+    }
+  ]
+}

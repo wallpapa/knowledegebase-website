@@ -1,0 +1,41 @@
+{
+  "query": "童颜针 肿胀期 多久 消肿 按摩 注意事项",
+  "queriedAt": "2026-09-20T01:15+07:00",
+  "reason": "New-signal supplement from Rednote pass 2026-09-20: 肿胀期 (swelling phase) NEW concern chip on 童颜针 search, paired with 按摩手法 chip; establish the public aftercare discourse baseline.",
+  "engine": "tavily (remote MCP, keyed)",
+  "keyFindings": [
+    "Swelling mechanism: 童颜针 reconstituted with sterile water + anesthetic → larger injected volume than HA; prominent facial edema first 24-48h, typically resolving in 3-7 days",
+    "5-5-5 massage rule (classic 3D Sculptra protocol): 5 consecutive days × 5 times/day × 5 min, point-line-plane technique — purpose is even PLLA distribution, nodule/swelling prevention",
+    "4D-generation products (finer particles, 1-min reconstitution) claim in-clinic massage only, no home massage required — protocol divergence by product generation",
+    "Early firmness/nodules within first month may reflect collagen not yet softened; massage + follow-up; persistent lumps need clinic review",
+    "General aftercare: no makeup 24h, avoid heat (sauna/hot spring/sun), alcohol/spicy, strenuous exercise, acids/retinoids ~1 week; follow-up at 6-12 months for maintenance",
+    "Contraindication lists circulating: keloid history, pregnancy/breastfeeding, PLLA allergy, active inflammation, rheumatoid/severe autoimmune disease, coagulation disorders/anticoagulants, not for lips"
+  ],
+  "results": [
+    {
+      "url": "https://www.instagram.com/reel/DRZkHxlExMn",
+      "title": "术后护理：3个5按摩原则",
+      "score": 0.7077
+    },
+    {
+      "url": "https://www.lexcellence.com.tw/sculptra-collagen-stimulator-guide",
+      "title": "童顏針是什麼？效果、價格與維持時間解析（越診所）",
+      "score": 0.6277
+    },
+    {
+      "url": "https://asimontclinic.com/童颜针-副作用",
+      "title": "童颜针副作用：治疗前必须了解的风险",
+      "score": 0.6108
+    },
+    {
+      "url": "https://tresure-clinic.com/sculptra-fail",
+      "title": "童妍針後遺症有哪些？避免舒顏萃失敗必知的5大重點",
+      "score": 0.4507
+    },
+    {
+      "url": "https://takumibeauty.com.tw/article/skincareclumn/sculptra",
+      "title": "童顏針效果如何？（琢美妍）",
+      "score": 0.4501
+    }
+  ]
+}

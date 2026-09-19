@@ -1,0 +1,46 @@
+{
+  "query": "童颜针 乐普 时凝萃 普丽妍 塑妍萃 品牌 区别 PDLLA",
+  "queriedAt": "2026-09-20T01:15+07:00",
+  "reason": "New-signal supplement from Rednote pass 2026-09-20: 乐普 chip appeared on 童颜针 search (absent from 09-17 ecosystem note); identify the brand and the market context behind the 牌子排名 chip.",
+  "engine": "tavily (remote MCP, keyed)",
+  "keyFindings": [
+    "乐普 = 乐普医疗 (Lepu Medical, 300003.SZ) 聚乳酸面部填充剂, approved 2026-06; dual-SKU strategy: PLLA 童颜针 terminal price 8800 CNY (premium) + 童颜水光 PLLA+HA 5800 CNY (value)",
+    "CN-approved 童颜针 now NINE brands (3 imported + 6 domestic): 艾塑菲 (江苏吴中), 塑妍萃 (Galderma), Olidia (爱唯缇), 艾维岚 (长春圣博玛), 濡白天使 (爱美客), 普丽妍, 斯弗妍 (四环医药), 丽真然 (西宏/康哲), 乐普 — market described as 混战 (melee)",
+    "Price war: 新氧 奇迹童颜3.0-塑缇妍 at 2999 CNY (史上最低, water-light variant); dose spans 370mg→45mg as a small-spec low-price tactic",
+    "Global 2024 share: 艾塑菲 28.3%, 塑妍萃 (Galderma) 25.8%",
+    "Consumer-side confusion signal in comments: 'PCL、PLLA傻傻分不清，消费者：我只看价格'",
+    "Pipeline: 杭盖生物 瑞博, 东方妍美 XH301, 华东医药 Lanluma in registration/trials"
+  ],
+  "results": [
+    {
+      "url": "https://m.cls.cn/detail/2162087",
+      "title": "医美赛道格局再生变！2999元的平价童颜针来了 价格战前夜已至？",
+      "score": 0.5643
+    },
+    {
+      "url": "https://www.nbd.com.cn/rss/hexun/articles/3897755.html",
+      "title": "乐普医疗童颜针获批 再生医美针剂竞争白热化",
+      "score": 0.6568
+    },
+    {
+      "url": "https://www.caimei365.com/info/detail-8311-1.html",
+      "title": "乐普童颜针珍珠童颜与逆龄童颜的抗衰效果",
+      "score": 0.6796
+    },
+    {
+      "url": "https://m.baidu.com/bh/m/detail/ar_6715833113336249389",
+      "title": "普丽妍童颜针是玻尿酸吗",
+      "score": 0.693
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/2032374196014163686",
+      "title": "械三童颜针横向对比科普",
+      "score": 0.6453
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1ZWJEz7EhX",
+      "title": "四款童颜针大盘点（艾维岚/艾塑菲/塑颜萃/普丽妍）",
+      "score": 0.6315
+    }
+  ]
+}
