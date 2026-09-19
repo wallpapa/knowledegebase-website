@@ -1,0 +1,91 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, hidden pane)",
+  "observedAt": "2026-09-19T19:05+07:00",
+  "method": "Bounded cron pass; noteId + sidebar chips captured this run.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "埋线提升",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=埋线提升",
+  "comparisonWithPrevious": "MATERIAL: contraindication/avoid discourse now 3 of top-10 (脸下垂不要碰线雕！！！114; 为什么不要做线雕 36; 这些项目得避坑 45) + duration question 这些提升项目能维持多久？(70) + high-engagement procedure explainer 线雕手术如何操作，动画模拟手术过程 (338). Same top note as 09-11 (关于传统线雕…大实话 589↔585).",
+  "relatedQueries": [
+    "广州",
+    "武汉",
+    "真实案例",
+    "深圳",
+    "上海",
+    "对比图",
+    "北京",
+    "法令纹",
+    "成都",
+    "方圆脸",
+    "苹果肌",
+    "自然款",
+    "快速恢复",
+    "减龄",
+    "效果图"
+  ],
+  "notes": [
+    {
+      "title": "关于传统线雕说点可能得罪人的大实话...",
+      "author": "陈颖助理｜童颜韧带支架提升",
+      "date": "04-02",
+      "likes": "589",
+      "url": "https://www.rednote.com/discovery/item/69c64a0b00000000230061ac"
+    },
+    {
+      "title": "线雕手术如何操作，动画模拟手术过程",
+      "author": "整形医生陈永",
+      "date": "2025-11-27",
+      "likes": "338",
+      "url": "https://www.rednote.com/discovery/item/6928457b000000000d039a08"
+    },
+    {
+      "title": "脸下垂不要碰线雕！！！",
+      "author": "圆圆yvette",
+      "date": "05-15",
+      "likes": "114",
+      "url": "https://www.rednote.com/discovery/item/6a06d65e0000000007012e02"
+    },
+    {
+      "title": "这些提升项目 能维持多久？",
+      "author": "整形外科夏志冉",
+      "date": "2025-12-24",
+      "likes": "70",
+      "url": "https://www.rednote.com/discovery/item/694bb452000000001e006f97"
+    },
+    {
+      "title": "武汉肉脸消肿｜60s垮脸逆袭‼️~~",
+      "author": "陈娟_助理",
+      "date": "4天前",
+      "likes": "49",
+      "url": "https://www.rednote.com/discovery/item/6aa7bf98000000002802aca1"
+    },
+    {
+      "title": "面部提升-这些项目得避坑！！！",
+      "author": "上海四院刘岱良|面吸支架提升",
+      "date": "08-26",
+      "likes": "45",
+      "url": "https://www.rednote.com/discovery/item/6a8e52680000000026005c13"
+    },
+    {
+      "title": "为什么不要做线雕",
+      "author": "张弘ys",
+      "date": "09-08",
+      "likes": "36",
+      "url": "https://www.rednote.com/discovery/item/6a9fc96c000000002b0020d8"
+    },
+    {
+      "title": "做过线雕的人 现在怎么样了？",
+      "author": "整形外科王朝辉",
+      "date": "08-16",
+      "likes": "31",
+      "url": "https://www.rednote.com/discovery/item/6a801dca0000000028008843"
+    },
+    {
+      "title": "我也不想做啊，可是全面部提升真的太香了❗",
+      "author": "北京杜建宾|轮廓提升",
+      "date": "08-25",
+      "likes": "13",
+      "url": "https://www.rednote.com/discovery/item/6a8428fe000000002c00629c"
+    }
+  ]
+}

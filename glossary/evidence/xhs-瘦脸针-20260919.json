@@ -1,0 +1,54 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, hidden pane)",
+  "observedAt": "2026-09-19T19:05+07:00",
+  "method": "Bounded cron pass; noteId captured this run; chips not captured this pass.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "瘦脸针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=瘦脸针",
+  "comparisonWithPrevious": "MATERIAL: post-injection sag concern now 2 of top-6 titles (打了瘦脸针，脸下垂了？ 华西邱禾; 阔面脸听劝！咬肌瘦了脸只会更垮 97); NEW myth pattern 瘦脸针三次定型？别被忽悠了 (permanence myth); hospital-doctor accounts dominate (上海九院段然 别再盲目打瘦脸针了 2939, 华西, 新华); 沉浸式体验100单位肉毒瘦脸 (223, 6天前) shows unit-count transparency discourse.",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "快收藏⚠️你不知道的瘦脸针全脸进阶打发！",
+      "author": "整形医生王晨羽",
+      "date": "08-17",
+      "likes": "4488",
+      "url": "https://www.rednote.com/discovery/item/6911ee98000000000302ca21"
+    },
+    {
+      "title": "别再盲目打瘦脸针了！",
+      "author": "上海九院段然",
+      "date": "06-26",
+      "likes": "2939",
+      "url": "https://www.rednote.com/discovery/item/6a2a5935000000002201883e"
+    },
+    {
+      "title": "沉浸式体验100单位肉毒瘦脸",
+      "author": "上海新华医院严珍珍",
+      "date": "6天前",
+      "likes": "223",
+      "url": "https://www.rednote.com/discovery/item/6aa686230000000029011539"
+    },
+    {
+      "title": "阔面脸听劝！咬肌瘦了脸只会更垮",
+      "author": "阿杜姐姐（变美版）",
+      "date": "05-15",
+      "likes": "97",
+      "url": "https://www.rednote.com/discovery/item/6a043826000000003501eac8"
+    },
+    {
+      "title": "打了瘦脸针，脸下垂了？",
+      "author": "华西整形美容_邱禾",
+      "date": "05-28",
+      "likes": "26",
+      "url": "https://www.rednote.com/discovery/item/6a181e380000000006030b99"
+    },
+    {
+      "title": "瘦脸针三次定型？别被忽悠了！",
+      "author": "Dr婧璐爱分享",
+      "date": "07-07",
+      "likes": "9",
+      "url": "https://www.rednote.com/discovery/item/6a4b64020000000021008016"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, hidden pane)",
+  "observedAt": "2026-09-19T19:05+07:00",
+  "method": "Bounded cron pass; noteId captured this run; chips not captured (sidebar chips render per-term at pass end only — captured for last term only).",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "超声炮",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=超声炮",
+  "comparisonWithPrevious": "MATERIAL: 半岛医疗 official account now posts 大超炮 content directly (美，自深层始 63 likes 09-11); price anchoring discourse (半岛大超炮9K+就能做 46; 万元超声炮 150 likes 1天前); honest-review top note 刚体验完…大超炮讲两句实话 at 896 likes (prev ceiling 550); 热玛吉vs超声炮 comparison questions persist (2 notes).",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "刚体验完…关于大超炮的讲两句实话",
+      "author": "尹建玲助理｜光电重塑",
+      "date": "04-03",
+      "likes": "896",
+      "url": "https://www.rednote.com/discovery/item/69315fab000000001e03b714"
+    },
+    {
+      "title": "30岁做100件让自己开心的事｜万元超声炮✨",
+      "author": "汪汪",
+      "date": "1天前",
+      "likes": "150",
+      "url": "https://www.rednote.com/discovery/item/6aabe18c000000002b013f52"
+    },
+    {
+      "title": "热玛吉和超声炮怎么选❓你选对了吗❓",
+      "author": "김나영金娜莹",
+      "date": "09-01",
+      "likes": "65",
+      "url": "https://www.rednote.com/discovery/item/6a9166780000000021031803"
+    },
+    {
+      "title": "美，自深层始｜半岛大超炮高定抗衰",
+      "author": "半岛 医疗器械",
+      "date": "09-11",
+      "likes": "63",
+      "url": "https://www.rednote.com/discovery/item/6aa37df1000000002a0051dd"
+    },
+    {
+      "title": "姐妹们！是真的💥半岛大超炮9K+就能做",
+      "author": "上海曼领医疗美容医院",
+      "date": "07-23",
+      "likes": "46",
+      "url": "https://www.rednote.com/discovery/item/6927ad4b000000001e011c74"
+    },
+    {
+      "title": "热玛吉vs超声炮，垮脸到底该怎么选？",
+      "author": "鱼鱼变美（干货版）",
+      "date": "09-09",
+      "likes": "13",
+      "url": "https://www.rednote.com/discovery/item/6aa0d20a00000000250377d4"
+    },
+    {
+      "title": "上镜显脸小，大超炮绝了",
+      "author": "优时颜医美",
+      "date": "07-20",
+      "likes": "21",
+      "url": "https://www.rednote.com/discovery/item/6a56f89e000000000803c214"
+    },
+    {
+      "title": "福州丨大超炮看得见 才敢打",
+      "author": "海峡医学美容",
+      "date": "09-06",
+      "likes": "6",
+      "url": "https://www.rednote.com/discovery/item/6a9cbb6f0000000011034448"
+    }
+  ]
+}

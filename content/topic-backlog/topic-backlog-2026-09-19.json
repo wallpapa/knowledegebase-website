@@ -1,0 +1,114 @@
+{
+  "source": "rednote.com direct search mining 2026-09-19 19:05 via ZCode IAB (logged-in hidden pane, noteId captured); terms: 线雕/超声炮/瘦脸针/泰国医美/曼谷医美/埋线提升",
+  "method": "Bounded rotation pass, 6 terms oldest-first by evidence date; compared against xhs-<term>-20260910/0911.json; material change in 4 terms, no-change notes recorded for 线雕/泰国医美; chips captured for 埋线提升 only (sidebar renders per-term at pass end)",
+  "topics": [
+    {
+      "id": "dachaopao-price-anchor-discourse",
+      "sites": [
+        "verzoclinic.com"
+      ],
+      "titleEn": "“Big Ultrasound Cannon” price posts are everywhere — what an energy-device price actually buys",
+      "titleZh": "大超炮9K+、万元超声炮到底便宜吗？价格背后的设备/发数/机构差异",
+      "toc": [
+        "直接回答：“9K+就能做”是真的，但发数、设备代次、操作者资质决定你买到的是什么",
+        "超声炮/大超炮类设备定价结构：按发数 vs 按全脸 vs 套餐",
+        "同一个词下的不同设备：半岛超声炮、Ultraformer、其它能量设备的关系",
+        "低价套餐的常见坑：缩水/发数不足、非正品机头、无资质操作",
+        "曼谷就医的价格对比视角（面诊确认发数与设备型号）",
+        "FAQ：大超炮和Ultraformer一样吗/几发起步/一年几次"
+      ],
+      "faqs": [
+        "大超炮9K+的套餐能信吗？",
+        "超声炮类设备多少钱算合理？",
+        "便宜和贵的超声炮差在哪里？"
+      ],
+      "hashtags": [
+        "#超声炮",
+        "#大超炮",
+        "#抗衰",
+        "#医美价格",
+        "#热玛吉对比"
+      ],
+      "directAnswer": "“9K+”的超声炮类优惠真实存在，但价格差异主要来自发数、设备代次和操作者资质：同名设备不同套餐可能是不同的东西——面诊时确认发数、设备型号和操作者，再对比价格才有意义。",
+      "medicalHigh": true,
+      "evidence": [
+        "glossary/evidence/xhs-超声炮-20260919.json: 半岛医疗 official account posting 大超炮 content (63 likes 09-11); price-anchor notes “半岛大超炮9K+就能做” (46) and “万元超声炮” (150, 1天前); honest-review top note 896 likes (prev ceiling 550)",
+        "verzo catalog: Ultraformer III / MPT rows live — device-category price education maps to offered services",
+        "existing thermage-vs-hifu-confusion covers comparison confusion; this topic covers the PRICE/BRAND discourse layer only"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "botox-three-session-permanence-myth",
+      "sites": [
+        "verzoclinic.com"
+      ],
+      "titleEn": "“Three sessions and your slim face is permanent” — busting the masseter-Botox myth",
+      "titleZh": "瘦脸针打三次就定型？别被弓悠了——肌肉代谢的真实规律",
+      "toc": [
+        "直接回答：不存在“打满三次永久定型”，肌肉会随停针逐渐恢复活力",
+        "为什么“三次定型”听起来可信：长期规律性注射后肌体确实会缩小，但不是永久",
+        "反复注射的真实节奏：效果期、间隔、单次剂量逻辑",
+        "哪些人不适合：靠骨骛/脏脊肪宽的脸打了也瘦不了",
+        "单位数透明化：100单位沉浸式体验为何走红",
+        "FAQ：停针会反弹吗/打几次比较稳/为什么有人说脸下垂"
+      ],
+      "faqs": [
+        "瘦脸针打三次真的能定型吗？",
+        "停止打瘦脸针后会反弹吗？",
+        "一次瘦脸针多少单位合适？"
+      ],
+      "hashtags": [
+        "#瘦脸针",
+        "#肉毒",
+        "#医美避坑",
+        "#咬肌",
+        "#变美干货"
+      ],
+      "directAnswer": "“三次定型”是营销话术：规律性注射可以让咬肌长期保持较小、视觉上更稳，但停针后肌肉会逐渐恢复；另外脸宽来自骨骛或脌肪的人，瘦脸针本身就不是对的工具——先面诊判断宽的来源。",
+      "medicalHigh": true,
+      "evidence": [
+        "glossary/evidence/xhs-瘦脸针-20260919.json: “瘦脸针三次定型？别被弓悠了！” (myth-bust framing); sag-concern titles 2 of top-6 (打了瘦脸针，脸下垂了？ / 咬肌瘦了脸只会更垮 97 likes); 沉浦式100单位肉毒瘦脸 (223, 6天前) shows unit-transparency demand",
+        "distinct from botox-jaw-slimming-safety (sag risk) and botox-dosage-and-brow-pressure (dosage) — this topic is the permanence MYTH specifically",
+        "verzo: botox-jaw-slimming-safety-guide article already live; this is the CN-discourse myth angle for zh content"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "thread-lift-who-should-not",
+      "sites": [
+        "verzoclinic.com"
+      ],
+      "titleEn": "“Don't touch thread lift if your face sags” — who genuinely should not get threads",
+      "titleZh": "脸下垂不要碰线雕？哪些人真的不适合，适合的又该做什么",
+      "toc": [
+        "直接回答：严重下垂、皮膚过薄、以容量丢失为主的人，单靠线雕效果有限",
+        "“不要做线雕”帖子在说什么：适应症边界而非项目本身",
+        "下垂的三种来源与对应解法：皮肤松弋/脌肪下降/骨骛改变",
+        "组合思路：线雕+容量、线雕+能量设备的医生评估逻辑",
+        "维持时间的诚实回答（对接“能维持多久”高热问题）",
+        "FAQ：什么情况不建议做/线雕坑在哪/怎么判断自己适不适合"
+      ],
+      "faqs": [
+        "脸下垂的人能做线雕吗？",
+        "线雕的坑主要在哪里？",
+        "怎么判断自己适不适合线雕？"
+      ],
+      "hashtags": [
+        "#线雕",
+        "#埋线提升",
+        "#面部下垂",
+        "#医美避坑",
+        "#抗衰"
+      ],
+      "directAnswer": "“不要做线雕”的诚实版本是：它只解决“轻中度皮肤松弋+软组织位移”这一层问题；严重下垂、皮太薄或以容量丢失为主的脸，单靠线雕效果有限且风险更高——先弄清下垂来源，再选工具。",
+      "medicalHigh": true,
+      "evidence": [
+        "glossary/evidence/xhs-埋线提升-20260919.json: contraindication/avoid titles 3 of top-10 (脸下垂不要碰线雕！！！ 114; 为什么不要做线雕 36; 这些项目得避坑 45) + duration question 能维持多久 (70) + animation explainer 338 likes",
+        "distinct from thread-lift-longevity-honest (duration) — this topic is the WHO-SHOULD-NOT contraindication angle",
+        "verzo: Vogue Lift = signature program; contraindication-first honest content matches the honest-talk discourse dominant on rednote"
+      ],
+      "status": "candidate"
+    }
+  ]
+}

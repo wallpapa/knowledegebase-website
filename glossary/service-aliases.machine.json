@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "aliasMapId": "service-aliases",
-  "generatedAt": "2026-09-18",
+  "generatedAt": "2026-09-19",
   "sourceGlossary": "glossary/th-en-zh-patient-aesthetic-terms.json",
   "sourceDigest": "931a2a448f531d5a6b4ebd0e9e929b4972ce1b0ffdfe9660907de0e8de660e17",
   "evidenceRule": "Only reviewState in {rednote-search-observed, site-published-zh, site-canonical, site-keyword, kb-observed-th} is exported. Discovery-grade, unverified and conflicting terms stay in the glossary only.",
