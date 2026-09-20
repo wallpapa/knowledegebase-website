@@ -1,0 +1,43 @@
+{
+  "source": "rednote.com direct search mining 2026-09-20 13:10 via ZCode IAB (logged-in hidden pane, noteId captured); terms: 微晶瓷/少女针/乔雅露/狐狸眼/超声刀/婴儿针",
+  "method": "Bounded rotation pass, 6 terms oldest-first by last-check time; compared against 0911/0917/0918 evidence; material change in 乔雅露 only, no-change notes recorded for the other 5",
+  "topics": [
+    {
+      "id": "juvelook-mainland-rollout-bangkok-still-worth",
+      "sites": [
+        "verzoclinic.com"
+      ],
+      "titleEn": "JUVELOOK is finally being promoted at mainland clinics — is getting it in Bangkok still worth it?",
+      "titleZh": "国内也能打乔雅露了？曼谷打和国内打的区别：防伪、价格、医生怎么比",
+      "toc": [
+        "直接回答：能就近打是好事，但乔雅露的核心变量是正品保障+注射设计，两地的差价和保真方式都值得先问清",
+        "发生了什么：JUVELOOK 童颜水光开始出现在大陆机构推广里（厦门/泉州等城市铺开）",
+        "防伪是第一道关：官方防伪查询方法 + 毁容帖的教训（假货/错配才是最大风险源）",
+        "价格对比框架：大陆机构价 vs 曼谷机构价 vs 韩国本地价——同一产品三地结构",
+        "注射设计差异：支撑收紧0增容 vs 9cc 等打法流派，医生怎么选",
+        "在曼谷打的核对清单：当面拆封+防伪码+医生资质",
+        "FAQ：国内打乔雅露靠谱吗/怎么查正品/曼谷便宜多少"
+      ],
+      "faqs": [
+        "国内打乔雅露是真的吗？",
+        "乔雅露怎么查正品？",
+        "曼谷打乔雅露比国内便宜吗？"
+      ],
+      "hashtags": [
+        "#乔雅露",
+        "#Juvelook",
+        "#童颜水光",
+        "#素颜针",
+        "#曼谷医美"
+      ],
+      "directAnswer": "JUVELOOK 童颜水光确实开始进入大陆机构推广，就近打更方便，但决策核心始终是正品保障与注射设计：面诊时要求当面拆封并核对官方防伪码，再比较两地价格与医生方案，比看推广帖更可靠。",
+      "medicalHigh": true,
+      "evidence": [
+        "glossary/evidence/xhs-乔雅露-20260920.json: 3 rollout promos posted 1天前 (和光医疗美容/LANLANLI 韩国夯级JUVELOOK童颜水光 + 厦泉也有啦小韩童颜 = Xiamen/Quanzhou expansion); 打完Juvelook毁容了 adverse post in top-10; official 乔雅露童颜防伪查询方法 (9→12 likes)",
+        "distinct from juvelook-bangkok-price-guide (price hub), juvelook-variants-and-risks (product variants), juvelook-素颜针-site-specific-maturation (site technique) — this topic is the mainland-rollout decision angle: authenticity + geo price + doctor",
+        "verzo catalog: Juvelook program live — geo-competitiveness angle serves CN patient acquisition"
+      ],
+      "status": "candidate"
+    }
+  ]
+}
