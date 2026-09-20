@@ -1,0 +1,78 @@
+{
+  "source": "rednote.com direct search mining 2026-09-21 01:10 via ZCode IAB (logged-in hidden pane, noteId captured); terms: 线雕/超声炮/瘦脸针/泰国医美/曼谷医美/埋线提升",
+  "method": "Bounded rotation pass, 6 terms oldest-first by last-check time; compared against 0919/0920 evidence; material change in 5 terms, no-change note for 泰国医美; chips captured for last term (埋线提升)",
+  "topics": [
+    {
+      "id": "dachaopao-vs-classic-chaoshengpao",
+      "sites": [
+        "verzoclinic.com"
+      ],
+      "titleEn": "“Big Ultrasound Cannon” vs classic 超声炮 — same brand, different machines: what actually differs",
+      "titleZh": "大超炮和超声炮有什么区别？同一家族的两代机器差在哪",
+      "toc": [
+        "直接回答：大超炮是半岛新一代设备，经典超声炮仍在服务——能量输出、治疗舒适度、价格都不同",
+        "为什么这个问题现在很多人问：两代同名并售，价格差距大",
+        "能量效果差异有多大：三甲医生怎么看两代设备",
+        "999元不限量的套餐到底是哪一代：低价套餐与设备代次的对照",
+        "曼谷就医的对应视角：超声炮类设备对应 Ultraformer 系列的哪一代",
+        "FAQ：大超炮更好吗/经典超声炮过时了吗/怎么确认机器代次"
+      ],
+      "faqs": [
+        "大超炮和超声炮区别大吗？",
+        "超声炮999元的套餐能做吗？",
+        "怎么判断机构用的是哪一代？"
+      ],
+      "hashtags": [
+        "#超声炮",
+        "#大超炮",
+        "#抗衰",
+        "#医美价格",
+        "#设备"
+      ],
+      "directAnswer": "大超炮是半岛新一代设备，与经典超声炮同族但不是同一台机器：能量输出、适用范围和价格都有差异——面诊时直接问机构用的具体设备型号和发数，比比较“大/小超炮”这种叫法更可靠。",
+      "medicalHigh": true,
+      "evidence": [
+        "glossary/evidence/xhs-超声炮-20260921.json: 2 hospital-doctor distinction notes (八大处梁雪冰 能量效果差异有多大 20; 宁波二院池龙军 有什么区别 7, 2天前) + 三甲医生只选超声炮 (73) + 成都999不限量 price floor",
+        "glossary/evidence/q28-zh-tongyan-brand-war.json context: 半岛 official-account push already recorded 09-19",
+        "distinct from dachaopao-price-anchor-discourse (price angle) — this topic is the device-generation distinction question; thermage-vs-hifu-confusion covers RF-vs-HIFU instead"
+      ],
+      "status": "candidate"
+    },
+    {
+      "id": "fascia-suspension-vs-thread-decode",
+      "sites": [
+        "verzoclinic.com"
+      ],
+      "titleEn": "“Fascia suspension big-V threads” — isn't that just a thread lift? Decoding rebranded lifting names",
+      "titleZh": "筋膜悬吊大V线不就是线雕吗？一次认清提升项目的新名字",
+      "toc": [
+        "直接回答：大多数“筋膜悬吊/韧带支架提升”本质上是线雕的营销名，核心变量仍是线的材质、层次和设计",
+        "常见新名字对照表：筋膜悬吊/大V线/韧带支架/章鱼韧带→各自对应什么",
+        "为什么机构爱起新名字：差异化营销 vs 真正的技术升级",
+        "比名字更重要的三个问题：线的材质（蛋白线/小V/大V）、层次、医生设计",
+        "曼谷面诊时怎么问才不被名字迷惑：三个直接问题",
+        "FAQ：筋膜悬吊是线雕吗/蛋白线是什么/怎么判断项目实不实"
+      ],
+      "faqs": [
+        "筋膜悬吊和线雕一样吗？",
+        "蛋白线和大V线有什么区别？",
+        "怎么判断提升项目的名字是不是营销话术？"
+      ],
+      "hashtags": [
+        "#埋线提升",
+        "#线雕",
+        "#筋膜悬吊",
+        "#医美避坑",
+        "#面部下垂"
+      ],
+      "directAnswer": "“筋膜悬吊大V线”这类新名字大多数是线雕的营销表述：内核仍是在皮下放置可吸收线做提升——判断项目实不实，看线的材质、放置层次和医生的个例化设计，不看名字。",
+      "medicalHigh": true,
+      "evidence": [
+        "glossary/evidence/xhs-埋线提升-20260921.json: 质疑：筋膜悬吊大V线，不就是线雕吗？(八大处郭鑫 67) — naming-decode question; chips gained 蛋白线 (protein-thread material) + 医生 (doctor selection); revival Q 线雕现在还能做吗为什么又开始火起来了 (39) shared with 线雕 term",
+        "distinct from thread-types-explained (PDO/PCL/PLLA materials) and thread-lift-who-should-not (contraindication) — this topic decodes MARKETING NAMES back to the underlying procedure",
+        "verzo: Vogue Lift is itself a branded thread program — honest name-decoding content aligns with signature-program positioning"
+      ],
+      "status": "candidate"
+    }
+  ]
+}
