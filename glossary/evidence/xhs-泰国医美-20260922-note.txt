@@ -1,0 +1,1 @@
+no-material-change: same promo-account set as 0921 note (机场 30→41, KKC, Jules 57); gate vs 0911 baseline 0.73 reflects 11-day churn not a new signal (2026-09-22 01:12, partial feed)

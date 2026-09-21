@@ -1,0 +1,49 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-22T01:12+07:00",
+  "method": "Fastpass 2-lane (first production use); settle-poll wait; PARTIAL FEED this pass (3 of usual ~10 cards rendered at rest — rednote waterfall layout tonight); top cards captured are verified-real by id comparison vs 20260921 evidence.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "埋线提升",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=埋线提升",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260921 (xhs-gate noul 0.75, theme caution-risk; manual id-check concurs): 避坑 title persists and GROWS (面部提升-这些项目得避坑 45→55, id 6a8e5268 same note); 2026迎来真正的线技术迭代！不变宽不僵硬 RESURFACES into top (杭州孙奔 65; present in 0910 file at 60, absent since) — device-iteration revival marketing pairs with the revival-question signal on 线雕 term (0921); top note stable (大实话 589→590). Yesterday's naming-confusion note (筋膜悬吊=线雕? 67) rotated out of the partial feed — cannot confirm persistence this pass.",
+  "relatedQueries": [
+    "北京",
+    "真实案例",
+    "上海",
+    "成都",
+    "高级感",
+    "方圆脸",
+    "快速恢复",
+    "苹果肌",
+    "对比图",
+    "大v",
+    "维持时间",
+    "教程",
+    "效果图",
+    "中医",
+    "副作用"
+  ],
+  "notes": [
+    {
+      "title": "关于传统线雕说点可能得罪人的大实话...",
+      "author": "陈颖助理｜童颜韧带支架提升",
+      "date": "04-02",
+      "likes": "590",
+      "url": "https://www.rednote.com/discovery/item/69c64a0b00000000230061ac"
+    },
+    {
+      "title": "2026迎来真正的线技术迭代！不变宽不僵硬",
+      "author": "杭州孙奔｜助理",
+      "date": "08-10",
+      "likes": "65",
+      "url": "https://www.rednote.com/discovery/item/6a798f260000000022032c89"
+    },
+    {
+      "title": "面部提升-这些项目得避坑！！！",
+      "author": "上海面吸提升Dr刘",
+      "date": "08-26",
+      "likes": "55",
+      "url": "https://www.rednote.com/discovery/item/6a8e52680000000026005c13"
+    }
+  ]
+}
