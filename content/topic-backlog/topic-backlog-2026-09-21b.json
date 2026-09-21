@@ -1,0 +1,42 @@
+{
+  "source": "rednote.com direct search mining 2026-09-21 07:25 via ZCode IAB (logged-in hidden pane, noteId captured); terms: 水光针/丽珠兰/韩版热玛吉/保妥适/热玛吉/童颜针",
+  "method": "Bounded rotation pass, 6 terms oldest-first by last-check time; compared against 0920 evidence; material change in 4 terms, no-change notes for 丽珠兰/保妥适; chips captured for last term (童颜针)",
+  "topics": [
+    {
+      "id": "thermage-accelerated-aging-myth",
+      "sites": [
+        "verzoclinic.com"
+      ],
+      "titleEn": "“Will Thermage make your face sag FASTER later?” — the accelerated-aging myth, honestly answered",
+      "titleZh": "做完热玛吉以后会加速变老吗？把这个传言说清楚",
+      "toc": [
+        "直接回答：不会——射频不会把胶原烧没，也不会让瘮后松得更快；但“做完更老”的感觉有两个真实来源",
+        "传言从哪来：把原本会发生的自然老化归因于上一次做过的项目",
+        "两个真实来源：效果回落后的对比错觉 + 能量不足/适配错误导致的无效感",
+        "正确的期待管理：效果维持时间、补做节奏、何时选其它项目",
+        "怎么判断自己适不适合热玛吉（皮ⷂ薄/脌肪凹陷/重度下垂的对策）",
+        "FAQ：热玛吉做多了会松吗/停做会反弹吗/几岁做合适"
+      ],
+      "faqs": [
+        "做完热玛吉以后会加速老化吗？",
+        "热玛吉停做会反弹吗？",
+        "什么人不适合做热玛吉？"
+      ],
+      "hashtags": [
+        "#热玛吉",
+        "#抗衰",
+        "#医美避坑",
+        "#提升",
+        "#RF"
+      ],
+      "directAnswer": "热玛吉不会加速老化：射频刺激胶原收紧，不消耗它——“做完更老”多半是效果回落后的对比错觉或能量适配不足的无效感；正确的做法是面诊评估瘮型和能量参数，并规划好维持节奏。",
+      "medicalHigh": true,
+      "evidence": [
+        "glossary/evidence/xhs-热玛吉-20260921.json: 做热玛吉后期会加速脸垮？(八大处梁雪冰 抗衰大实话 33) — the skepticism sharpened from 09-17's 有吗 chip into a specific accelerated-aging question; 热玛吉做完年轻5岁？skeptical Q (7, 4天前); 5代招募 posts show clinics actively recruiting amid the doubt",
+        "distinct from thermage-quality-checklist (choosing a provider/machine) and thermage-bangkok-avoid-pitfalls (geo pitfalls) — this topic answers the LONG-TERM-SAFETY myth directly",
+        "verzo: Thermage FLX service live; myth-first framing matches honest-talk positioning and existing anti-hype content"
+      ],
+      "status": "candidate"
+    }
+  ]
+}
