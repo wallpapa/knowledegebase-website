@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-23T01:02+07:00",
+  "method": "Fastpass v3 2-lane settle-wait (8.3s wall for 6 terms, 10/10 notes each); noteId + chips captured; jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "丽珠兰",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=丽珠兰",
+  "comparisonWithPrevious": "MILD-MATERIAL vs 20260918 (gate noul 0.65 brand-shift): NEW brand-loyalty campaign discourse — 2026韩国丽珠兰 兑换星巴克攻略 (13, 4天前 — points redemption promo, brand investing in patient loyalty) alongside official REJURAN®丽驻兰 posts (让素颜更有底气 4天前); pain note 丽珠兰真的巨痛 persists (11→13); base promo set unchanged (恩彩 42→45, reyoung_canshi). First evidence file since 09-18.",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "丽驻兰让素颜更有底气🐠",
+      "author": "REJURAN®丽驻兰",
+      "date": "4天前",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6aad3339000000000b00d8ac"
+    },
+    {
+      "title": "丽珠兰公司开会也就去了五六七八次吧",
+      "author": "EUNCHAE恩彩",
+      "date": "06-01",
+      "likes": "45",
+      "url": "https://www.rednote.com/discovery/item/6a1d947f000000003502a565"
+    },
+    {
+      "title": "2026韩国丽珠兰 兑换星巴克攻略",
+      "author": "明明Nomad｜户外生活",
+      "date": "4天前",
+      "likes": "13",
+      "url": "https://www.rednote.com/discovery/item/6aaccbe9000000002802b436"
+    },
+    {
+      "title": "受邀参观pharmaresearch韩国总部🇰🇷",
+      "author": "reyoung_canshi",
+      "date": "06-09",
+      "likes": "16",
+      "url": "https://www.rednote.com/discovery/item/6a27e46e00000000210166ad"
+    },
+    {
+      "title": "🔥丽驻兰DOT科疗院线｜门店打造专属护理间",
+      "author": "REJURAN®丽驻兰",
+      "date": "08-28",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6a918e2c000000002c03c843"
+    },
+    {
+      "title": "🇰🇷rejuve-s韩国总部溯源之旅",
+      "author": "reyoung_canshi",
+      "date": "06-12",
+      "likes": "8",
+      "url": "https://www.rednote.com/discovery/item/6a29037100000000070218d3"
+    },
+    {
+      "title": "韩国丽珠兰黑盒",
+      "author": "..",
+      "date": "3天前",
+      "likes": "11",
+      "url": "https://www.rednote.com/discovery/item/6aae55b3000000002b000087"
+    },
+    {
+      "title": "韩国药妆必买PDRN",
+      "author": "查理",
+      "date": "05-23",
+      "likes": "91",
+      "url": "https://www.rednote.com/discovery/item/6a1164700000000035030719"
+    },
+    {
+      "title": "丽驻兰水光💦，让你的肌肤焕发新生！",
+      "author": "REJURAN®丽驻兰",
+      "date": "09-11",
+      "likes": "2",
+      "url": "https://www.rednote.com/discovery/item/6aa3ee410000000026018211"
+    },
+    {
+      "title": "🎨 丽珠兰黑盒｜皮肤充电宝海报分享✨",
+      "author": "乐乐",
+      "date": "01-21",
+      "likes": "204",
+      "url": "https://www.rednote.com/discovery/item/6970a9f6000000002103de02"
+    }
+  ]
+}

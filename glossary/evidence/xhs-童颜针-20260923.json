@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-23T01:02+07:00",
+  "method": "Fastpass v3 2-lane settle-wait (8.3s wall for 6 terms, 10/10 notes each); noteId + chips captured; jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "童颜针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=童颜针",
+  "comparisonWithPrevious": "MATERIAL vs 20260921 (gate noul 0.86 new-concern, manual concurs): NEW session-count rationale question 童颜为什么要3次？一次不行吗？(八大处整形张倜然, 3天前) — pairs with the anti-hype counter-discourse (相信一瓶打全脸的可以划走了 95) as two sides of the protocol-count confusion; chips churned: 口周/副作用/肿胀期/额头/效果对比/结节 returned or new (副作用+结节 = safety-concern chips back in top; 肿胀期 persists), 澳门/北京/爱维岚/丽真然/素颜萃/新氧 rotated out; top set stable with drift (张越越 2001, 李花停 1012, 周双白 112→135). Session-count angle folds into existing tongyan-one-bottle-protocol topic — no new topic needed.",
+  "relatedQueries": [
+    "香港",
+    "牌子排名",
+    "按摩手法",
+    "乐普",
+    "真实反馈",
+    "时凝萃",
+    "水光",
+    "口周",
+    "副作用",
+    "肿胀期",
+    "额头",
+    "效果对比",
+    "提升",
+    "结节",
+    "法令纹"
+  ],
+  "notes": [
+    {
+      "title": "仅需一瓶童颜✅面部回春省量高阶打法",
+      "author": "张越越助理丨胶原童颜扣",
+      "date": "08-21",
+      "likes": "2009",
+      "url": "https://www.rednote.com/discovery/item/6a0c18a50000000035026910"
+    },
+    {
+      "title": "童颜针全攻略，一定要看完这个视频",
+      "author": "上海九院周双白",
+      "date": "09-08",
+      "likes": "135",
+      "url": "https://www.rednote.com/discovery/item/6a9f87de000000002803b0a5"
+    },
+    {
+      "title": "相信一瓶童颜打全脸的可以划走了...",
+      "author": "整形外科王朝辉",
+      "date": "08-01",
+      "likes": "95",
+      "url": "https://www.rednote.com/discovery/item/6a6d9a670000000028001f39"
+    },
+    {
+      "title": "童颜为什么要3次？一次不行吗？",
+      "author": "八大处整形张倜然",
+      "date": "3天前",
+      "likes": "15",
+      "url": "https://www.rednote.com/discovery/item/6aad15de000000000b000c39"
+    },
+    {
+      "title": "一瓶打全脸，塑妍萃童颜全脸提升打法升级！",
+      "author": "李花停高阶审美小助理Redream",
+      "date": "06-09",
+      "likes": "1017",
+      "url": "https://www.rednote.com/discovery/item/6a27e73000000000220191be"
+    },
+    {
+      "title": "童颜针可以打在哪些位置？",
+      "author": "上海九院周双白",
+      "date": "09-12",
+      "likes": "57",
+      "url": "https://www.rednote.com/discovery/item/6aa367a7000000002902fa29"
+    },
+    {
+      "title": "关于再生材料你可能感兴趣的",
+      "author": "皮肤科于泳医生",
+      "date": "06-08",
+      "likes": "76",
+      "url": "https://www.rednote.com/discovery/item/6a269bd3000000000803d36c"
+    },
+    {
+      "title": "长期打童颜脸会怎么样？",
+      "author": "上海九院梁奕敏",
+      "date": "06-03",
+      "likes": "329",
+      "url": "https://www.rednote.com/discovery/item/6a1eaaff0000000038036a45"
+    },
+    {
+      "title": "为什么注射能够达到面部提升的效果呢？",
+      "author": "八大处整形梁雪冰",
+      "date": "06-29",
+      "likes": "82",
+      "url": "https://www.rednote.com/discovery/item/6a424dc4000000001101d701"
+    },
+    {
+      "title": "童颜针到底值不值？看完这篇再掏钱！",
+      "author": "皮肤科樊一斌博士",
+      "date": "09-02",
+      "likes": "151",
+      "url": "https://www.rednote.com/discovery/item/6a97fff7000000002803476c"
+    }
+  ]
+}
