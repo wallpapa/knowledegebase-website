@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-23T13:02+07:00",
+  "method": "Fastpass v4 2-lane settle-wait (8.8s wall, 10/10 notes each); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "婴儿针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=婴儿针",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260911 (gate 0.71): NEUE retail-product skew continues with GROWING skepticism — 跟风入了风大的neue婴儿针 真心难评！(半颗桃烁 127, 09-14 — honest hard-to-recommend review) joins 香港neue有点吓人 (221); chips gained 打针过程 + 医美 (procedure-process curiosity emerging around the retail product); semantic note stands: rednote 婴儿针 = NEUE topical, not Rejuran injectable.",
+  "relatedQueries": [
+    "马来西亚",
+    "neue",
+    "香港",
+    "使用方法",
+    "打针过程",
+    "面膜测评",
+    "亮爆镜",
+    "医美",
+    "水光作用",
+    "医用级",
+    "三文鱼",
+    "sasa",
+    "提亮肤色",
+    "敏感肌",
+    "丝美妮"
+  ],
+  "notes": [
+    {
+      "title": "✨ ULTRAEXO BOOSTER HA1.5",
+      "author": "G2 Beauty澳門分店",
+      "date": "05-29",
+      "likes": "",
+      "url": "https://www.rednote.com/discovery/item/6a195769000000000803e229"
+    },
+    {
+      "title": "sasa这款面膜风吹的好大 吹到我了",
+      "author": "Yayaaaa",
+      "date": "05-25",
+      "likes": "154",
+      "url": "https://www.rednote.com/discovery/item/6a13c0550000000036002ef3"
+    },
+    {
+      "title": "sasa风很大的NEUE婴儿💉",
+      "author": "米呀米米娅",
+      "date": "09-06",
+      "likes": "16",
+      "url": "https://www.rednote.com/discovery/item/6a9d3b2500000000110345ec"
+    },
+    {
+      "title": "香港neue婴儿针 有点吓人",
+      "author": "甜口美奈子",
+      "date": "08-19",
+      "likes": "221",
+      "url": "https://www.rednote.com/discovery/item/6a847921000000002403fc2e"
+    },
+    {
+      "title": "跟风入了风很大的neue婴儿针 真心难评！",
+      "author": "半颗桃烁",
+      "date": "09-14",
+      "likes": "127",
+      "url": "https://www.rednote.com/discovery/item/6aa6233e000000002502ff96"
+    },
+    {
+      "title": "NEUE婴儿针初体验～",
+      "author": "柚关我什么柿🍅",
+      "date": "2025-11-09",
+      "likes": "11",
+      "url": "https://www.rednote.com/discovery/item/691093610000000004003cf2"
+    },
+    {
+      "title": "肤色真给我拉均匀了，港女吃太好了",
+      "author": "小安左左",
+      "date": "1天前",
+      "likes": "242",
+      "url": "https://www.rednote.com/discovery/item/6ab10f2d0000000034035f0b"
+    },
+    {
+      "title": "在香港看到一定要多拿几盒。。。",
+      "author": "百分之百果冻",
+      "date": "09-02",
+      "likes": "780",
+      "url": "https://www.rednote.com/discovery/item/6a97be52000000002803a98a"
+    },
+    {
+      "title": "香港sasa这个好吓人。。。。",
+      "author": "Okok",
+      "date": "3天前",
+      "likes": "361",
+      "url": "https://www.rednote.com/discovery/item/6aaa30740000000029018d76"
+    },
+    {
+      "title": "聊聊涂抹婴儿针和少女针使用体验",
+      "author": "hh莫妮卡",
+      "date": "07-16",
+      "likes": "145",
+      "url": "https://www.rednote.com/discovery/item/6a583c87000000001101c7ff"
+    }
+  ]
+}

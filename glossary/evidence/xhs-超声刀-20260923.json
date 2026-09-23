@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-23T13:02+07:00",
+  "method": "Fastpass v4 2-lane settle-wait (8.8s wall, 10/10 notes each); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "超声刀",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=超声刀",
+  "comparisonWithPrevious": "MATERIAL vs 20260911 (gate 0.81 question-pattern): SHOT-COUNT question fresh at top — “我要打多少发？”——答案藏在你的脸里 (特拉小助理, 5小时前) — exactly the verzo-shipped hifu-shot-count-what-you-are-buying article's intent; 深扒美版超声dao工作原理 explainer (滨海湾医疗器械, 09-13 NEW); 美版 discourse + chips persist (美版二代/第三代/首尔/洛杉矶); 王韵 1477 evergreen. No new topic — live article serves it.",
+  "relatedQueries": [
+    "洛杉矶",
+    "美版二代",
+    "香港",
+    "韩国",
+    "湾区",
+    "改善法令纹",
+    "首尔",
+    "第三代",
+    "方圆脸",
+    "肽提升",
+    "onda",
+    "热玛吉",
+    "效果对比",
+    "眼部",
+    "仪器"
+  ],
+  "notes": [
+    {
+      "title": "\"我要打多少发？\"——答案藏在你的脸里👀",
+      "author": "特拉小助理",
+      "date": "5小时前",
+      "likes": "",
+      "url": "https://www.rednote.com/discovery/item/6ab1106d0000000031025d37"
+    },
+    {
+      "title": "美版超声刀解析：技术上限与亚洲皮肤的适配",
+      "author": "皮肤科于泳医生",
+      "date": "09-11",
+      "likes": "22",
+      "url": "https://www.rednote.com/discovery/item/6aa3d194000000002802d8d2"
+    },
+    {
+      "title": "抗衰坦白局？要提升还是收紧？",
+      "author": "陳欣妍",
+      "date": "05-30",
+      "likes": "420",
+      "url": "https://www.rednote.com/discovery/item/6a1aaec0000000001002d000"
+    },
+    {
+      "title": "想比同龄人更年轻，选什么仪器？",
+      "author": "上海九院王韵",
+      "date": "08-05",
+      "likes": "1477",
+      "url": "https://www.rednote.com/discovery/item/6a71d0a80000000006004673"
+    },
+    {
+      "title": "深扒美版超声dao的工作原理",
+      "author": "滨海湾医疗器械",
+      "date": "09-13",
+      "likes": "",
+      "url": "https://www.rednote.com/discovery/item/6aa68fc8000000001401e9cc"
+    },
+    {
+      "title": "超声提升怎么选：MPT和三代的真实区别",
+      "author": "User6AA54A46",
+      "date": "09-11",
+      "likes": "",
+      "url": "https://www.rednote.com/discovery/item/6aa3d5f00000000019026ee0"
+    },
+    {
+      "title": "真正能延缓衰老的光电项目",
+      "author": "整形医生颜玲主任",
+      "date": "08-06",
+      "likes": "89",
+      "url": "https://www.rednote.com/discovery/item/6a74526600000000250140b6"
+    },
+    {
+      "title": "超声刀大白话科普",
+      "author": "晶晶不胖",
+      "date": "04-16",
+      "likes": "640",
+      "url": "https://www.rednote.com/discovery/item/69e10224000000001d01c59c"
+    },
+    {
+      "title": "桐心美学本店",
+      "author": "09-11",
+      "date": "09-11",
+      "likes": "3",
+      "url": "https://www.rednote.com/discovery/item/6aa37b310000000026014345"
+    },
+    {
+      "title": "抗衰不是单一项目就够啦",
+      "author": "秀丽医疗器械",
+      "date": "4天前",
+      "likes": "4",
+      "url": "https://www.rednote.com/discovery/item/6aacf6ea000000002a02c5c5"
+    }
+  ]
+}

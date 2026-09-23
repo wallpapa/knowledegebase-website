@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-23T13:02+07:00",
+  "method": "Fastpass v4 2-lane settle-wait (8.8s wall, 10/10 notes each); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "微晶瓷",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=微晶瓷",
+  "comparisonWithPrevious": "MATERIAL vs 20260918 (gate 0.87 brand-shift): NEW patient-side authenticity question 第一次买微晶瓷，求懂的姐妹帮忙鉴别真假 (碳烤小乳猪 2, 09-10 — a patient BUYING product themselves asking how to verify — self-purchase verification pattern, distinct from clinic-side unsealing); 芮得怡 trade-name adoption deepens (王永书 老朋友芮得怡 explainer 276 NEW-to-top; 赖彦任 打前必看一篇讲清芮得怡 76, 1天前 — the undated 09-18 note now dated+growing); base set persists (于泳 77, 周云超 4). Maps to shipped injection-vial-verification-guide — no new topic.",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "今天讲讲老朋友：Radiesse芮得怡（瑞德喜）",
+      "author": "王永书",
+      "date": "02-07",
+      "likes": "276",
+      "url": "https://www.rednote.com/discovery/item/696101a4000000000d008d0e"
+    },
+    {
+      "title": "第一次买微晶瓷，求懂的姐妹帮忙鉴别真假",
+      "author": "碳烤小乳猪",
+      "date": "09-10",
+      "likes": "2",
+      "url": "https://www.rednote.com/discovery/item/6aa27daa000000000d026a05"
+    },
+    {
+      "title": "什么是微晶瓷？",
+      "author": "周云超异物取出医生",
+      "date": "08-10",
+      "likes": "4",
+      "url": "https://www.rednote.com/discovery/item/6a799783000000002402f215"
+    },
+    {
+      "title": "关于再生材料你可能感兴趣的",
+      "author": "皮肤科于泳医生",
+      "date": "06-08",
+      "likes": "77",
+      "url": "https://www.rednote.com/discovery/item/6a269bd3000000000803d36c"
+    },
+    {
+      "title": "打前必看 一篇讲清芮得怡！",
+      "author": "赖彦任｜上海助理版",
+      "date": "1天前",
+      "likes": "76",
+      "url": "https://www.rednote.com/discovery/item/6aaf7eb4000000002502f738"
+    },
+    {
+      "title": "塑形上镜脸｜RADIESSE瑞德喜",
+      "author": "金敏英小助理",
+      "date": "01-23",
+      "likes": "110",
+      "url": "https://www.rednote.com/discovery/item/6973261f000000000a03d336"
+    },
+    {
+      "title": "Radiesse“Caha”微晶瓷应该打哪里？",
+      "author": "王曼姬🏅（预约在这）",
+      "date": "2025-11-03",
+      "likes": "23",
+      "url": "https://www.rednote.com/discovery/item/690081c800000000030137ca"
+    },
+    {
+      "title": "瑞德喜——自然抗衰的另一种思路",
+      "author": "李炫定 | 美容小助理",
+      "date": "",
+      "likes": "",
+      "url": "https://www.rednote.com/discovery/item/6ab33e2f000000001b02ec99"
+    },
+    {
+      "title": "RADIESSE重磅上市｜自然填充的天花板来了！",
+      "author": "芙艾医疗PHISKIN",
+      "date": "2025-10-20",
+      "likes": "21",
+      "url": "https://www.rednote.com/discovery/item/68f5a240000000000402a7c0"
+    },
+    {
+      "title": "30+不容错过的轮廓组合✨双节好礼别错过",
+      "author": "Jfeel李容硕小助理｜轮廓抗衰",
+      "date": "5天前",
+      "likes": "45",
+      "url": "https://www.rednote.com/discovery/item/6aacce03000000000b001f9c"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-23T13:02+07:00",
+  "method": "Fastpass v4 2-lane settle-wait (8.8s wall, 10/10 notes each); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "少女针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=少女针",
+  "comparisonWithPrevious": "MATERIAL vs 20260917 (gate 0.84 question-pattern): SITE-SPECIFIC material-selection questions surface — 颞区天选材料-伊妍仕黄金少女 (temple-area material choice, 12, 08-31 NEW) + 印第安纹填充材料对比 (midface-line filler comparison by 八大处梁雪冰 128 — resurfaced into top); 馒化 fear persists (22, 6天前); L-code/C-code 打法 discourse (13). Area-by-area material choosing maps to existing collagen-stimulator/sculptra topics — no new topic.",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "颞区天选材料-伊妍仕黄金少女",
+      "author": "张雯雯小助理",
+      "date": "08-31",
+      "likes": "12",
+      "url": "https://www.rednote.com/discovery/item/6a9540ec000000002003f058"
+    },
+    {
+      "title": "教你快速区分少女针和童颜针",
+      "author": "整形外科詹炜卿",
+      "date": "02-16",
+      "likes": "350",
+      "url": "https://www.rednote.com/discovery/item/6990301d000000000d008c44"
+    },
+    {
+      "title": "少女针馒化，比你想象的还要可怕",
+      "author": "小吉变美日记",
+      "date": "6天前",
+      "likes": "22",
+      "url": "https://www.rednote.com/discovery/item/6aaa8c7f000000000d026fa7"
+    },
+    {
+      "title": "印第安纹填充材料对比",
+      "author": "八大处整形梁雪冰",
+      "date": "04-16",
+      "likes": "128",
+      "url": "https://www.rednote.com/discovery/item/69e0bd5a000000002301323b"
+    },
+    {
+      "title": "少女针｜L-code&C-code打法全解析✨",
+      "author": "可丽尊享小助理",
+      "date": "04-23",
+      "likes": "13",
+      "url": "https://www.rednote.com/discovery/item/69e9da89000000001f031802"
+    },
+    {
+      "title": "少女针🪡童颜针🪡是智商税吗？一次性讲透！",
+      "author": "整形医生茹扎",
+      "date": "07-28",
+      "likes": "36",
+      "url": "https://www.rednote.com/discovery/item/6a68a832000000000a0388f9"
+    },
+    {
+      "title": "童颜针、少女针，到底该如何选？",
+      "author": "省人民孙燚",
+      "date": "02-15",
+      "likes": "56",
+      "url": "https://www.rednote.com/discovery/item/698edc10000000001a0284f9"
+    },
+    {
+      "title": "少女针到底能不能打，打了10年之后会怎么样",
+      "author": "整形医生司小强",
+      "date": "06-27",
+      "likes": "34",
+      "url": "https://www.rednote.com/discovery/item/6a324ad2000000001702f346"
+    },
+    {
+      "title": "每天一个妆械产品科普：聚己内酯（少女针）",
+      "author": "Andy去哪里",
+      "date": "08-25",
+      "likes": "24",
+      "url": "https://www.rednote.com/discovery/item/6a8d973c00000000260360df"
+    },
+    {
+      "title": "伊妍仕，轮廓固定为什么非它不可？",
+      "author": "欧恩助理｜童颜美学",
+      "date": "09-15",
+      "likes": "6",
+      "url": "https://www.rednote.com/discovery/item/6a97d603000000002802dff9"
+    }
+  ]
+}
