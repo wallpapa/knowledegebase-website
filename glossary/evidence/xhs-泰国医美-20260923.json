@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-23T19:03+07:00",
+  "method": "Fastpass v5 2-lane settle-wait (8.3s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "泰国医美",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=泰国医美",
+  "comparisonWithPrevious": "MATERIAL vs 20260911 json (12-day baseline; notes-only since): NEW cross-border industry discourse — 🇹🇭泰国YM从业者，想聊聊国内市场 (iDL翻译小助理, 09-08, 5 — Thai-aesthetics PRACTITIONER perspective addressing the CN market, insider-angle new to this term) + 曼谷夏日出行指南 (85, 4天前 — travel-guide framing); base promo set persists (Jules 57, KKC 7, 探店官 42, SET明月 48). First evidence file since 09-11.",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "听说曼谷是最好的美容护理城市之一",
+      "author": "Jules悉尼生活分享",
+      "date": "09-15",
+      "likes": "57",
+      "url": "https://www.rednote.com/discovery/item/6aa56eeb000000002601d59a"
+    },
+    {
+      "title": "小测试｜KKC医生老师的手，到底有多稳？",
+      "author": "KKC Aesthetic TH",
+      "date": "07-08",
+      "likes": "7",
+      "url": "https://www.rednote.com/discovery/item/6a47590200000000200382e9"
+    },
+    {
+      "title": "曼谷探店官 Bangkok Discovery",
+      "author": "09-08",
+      "date": "09-08",
+      "likes": "42",
+      "url": "https://www.rednote.com/discovery/item/6a9d5da70000000026031289"
+    },
+    {
+      "title": "🇹🇭泰国YM从业者，想聊聊国内市场",
+      "author": "iDL翻译小助理",
+      "date": "09-08",
+      "likes": "5",
+      "url": "https://www.rednote.com/discovery/item/6a9fd0a5000000001203551b"
+    },
+    {
+      "title": "曼谷夏日出行指南🌞",
+      "author": "好小豪",
+      "date": "4天前",
+      "likes": "85",
+      "url": "https://www.rednote.com/discovery/item/6aad36a6000000000f03ba21"
+    },
+    {
+      "title": "在🇹🇭泰国找机构，进门前先注意这个❗️",
+      "author": "金希(曼谷版",
+      "date": "3天前",
+      "likes": "2",
+      "url": "https://www.rednote.com/discovery/item/6aae689f000000001901fdc3"
+    },
+    {
+      "title": "曼谷变美日记",
+      "author": "泰国SET明月",
+      "date": "09-07",
+      "likes": "48",
+      "url": "https://www.rednote.com/discovery/item/6a9e8efd000000001401369c"
+    },
+    {
+      "title": "LABX Harmony Skin 明星护肤秘密💫",
+      "author": "L.A.B.X美学",
+      "date": "1天前",
+      "likes": "5",
+      "url": "https://www.rednote.com/discovery/item/6ab124b9000000000d02066e"
+    },
+    {
+      "title": "筹备许久，THE O2 BANGKOK 终于正式启幕✨",
+      "author": "Dee",
+      "date": "08-03",
+      "likes": "6",
+      "url": "https://www.rednote.com/discovery/item/6a706f430000000011020cd9"
+    },
+    {
+      "title": "🇹🇭曼谷0n*da美叨 肉🥩脸的福音",
+      "author": "小红薯6AA81DA3",
+      "date": "2天前",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6ab104de000000000f03a400"
+    }
+  ]
+}

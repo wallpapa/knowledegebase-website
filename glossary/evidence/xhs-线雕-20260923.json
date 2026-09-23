@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-23T19:03+07:00",
+  "method": "Fastpass v5 2-lane settle-wait (8.3s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "线雕",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=线雕",
+  "comparisonWithPrevious": "MATERIAL vs 20260921 (gate 0.81 brand-device-shift): NEW marketing name to decode — 为什么我不做传统线D，要做逆向提升 (陈娟_助理, 2天前, 60) — 逆向提升 joins the 筋膜悬吊/大V线 rebrand family (shipped fascia-suspension-vs-thread-decode article covers the decode approach; new instance recorded); 线雕核心迭代在哪里？线材是基础！(杭州孙奔, 5天前, 24 — the 线技术迭代 discourse becomes a series: iteration-now-lives-in-the-thread-material framing); base stable (大实话 593, 十年后 288); 杜建宾 promo active (3天前).",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "关于传统线雕说点可能得罪人的大实话...",
+      "author": "陈颖助理｜童颜韧带支架提升",
+      "date": "04-02",
+      "likes": "593",
+      "url": "https://www.rednote.com/discovery/item/69c64a0b00000000230061ac"
+    },
+    {
+      "title": "做过线雕的人，十年后脸会变成什么样？#整",
+      "author": "整形外科范巨峰医生",
+      "date": "06-21",
+      "likes": "288",
+      "url": "https://www.rednote.com/discovery/item/6a354ba500000000060339db"
+    },
+    {
+      "title": "线雕核心迭代在哪里？线材是基础！",
+      "author": "杭州孙奔｜助理",
+      "date": "5天前",
+      "likes": "24",
+      "url": "https://www.rednote.com/discovery/item/6aad1fa5000000002802fb5f"
+    },
+    {
+      "title": "为什么我不做传统线D，要做逆向提升",
+      "author": "陈娟_助理",
+      "date": "2天前",
+      "likes": "60",
+      "url": "https://www.rednote.com/discovery/item/6aa4ab62000000002600a132"
+    },
+    {
+      "title": "我也不想做啊，可是全面部提升真的太香了❗",
+      "author": "北京杜建宾|轮廓提升",
+      "date": "3天前",
+      "likes": "14",
+      "url": "https://www.rednote.com/discovery/item/6a8428fe000000002c00629c"
+    },
+    {
+      "title": "就这么打，脸不垮了！",
+      "author": "陈颖助理｜童颜韧带支架提升",
+      "date": "5天前",
+      "likes": "31",
+      "url": "https://www.rednote.com/discovery/item/6aabc2ce000000002b0012b7"
+    },
+    {
+      "title": "2026年，线雕终于又好起来了",
+      "author": "王永书",
+      "date": "07-17",
+      "likes": "33",
+      "url": "https://www.rednote.com/discovery/item/6a44df8e000000001702fc60"
+    },
+    {
+      "title": "⚠️线雕提升可以维持多久？什么样的人不适合",
+      "author": "廖孟南｜助理",
+      "date": "05-08",
+      "likes": "145",
+      "url": "https://www.rednote.com/discovery/item/69fdbfa1000000001f0051c7"
+    },
+    {
+      "title": "我悟了 原来肉脸显轻薄 只要这3步就足够了",
+      "author": "刘磊｜抗衰助理",
+      "date": "07-13",
+      "likes": "325",
+      "url": "https://www.rednote.com/discovery/item/6a548a3b0000000022016627"
+    },
+    {
+      "title": "垮脸松弛✨线雕案例招募｜9800 做全脸提升",
+      "author": "北京杜建宾|轮廓提升",
+      "date": "09-07",
+      "likes": "92",
+      "url": "https://www.rednote.com/discovery/item/6a323e89000000001101f9cc"
+    }
+  ]
+}
