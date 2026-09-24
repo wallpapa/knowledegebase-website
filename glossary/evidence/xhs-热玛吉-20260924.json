@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-24T07:02+07:00",
+  "method": "Fastpass v6 2-lane settle-wait (8.2s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "热玛吉",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=热玛吉",
+  "comparisonWithPrevious": "MATERIAL vs 20260921/23 (gate 0.78 brand-device-shift): 做热玛吉后期会加速脸垮？ note BACK in top-10 (梁雪冰 33) — the accelerated-aging myth question persists in rotation, validating the shipped thermage-accelerated-aging-myth article; NEW cross-category comparison 收紧PK 童颜🆚热玛吉哪个更适合你 (廖孟南, 06-21, 77 — collagen-stimulator vs RF decision question); core stable with drift (邱阳 912, 风举青云 228, 施歌 5代vs4代 57); chips persist geo+第五代.",
+  "relatedQueries": [
+    "多伦多",
+    "纽约",
+    "美国",
+    "新加坡",
+    "洛杉矶",
+    "第五代",
+    "厦门",
+    "南昌",
+    "长沙",
+    "成都",
+    "昆明",
+    "广州",
+    "沈阳",
+    "西安",
+    "武汉"
+  ],
+  "notes": [
+    {
+      "title": "拒绝无效抗衰✘热玛吉2026高阶紧致打法",
+      "author": "邱阳助理｜卓栎丽格",
+      "date": "08-26",
+      "likes": "912",
+      "url": "https://www.rednote.com/discovery/item/6a58af2f000000001c012e6d"
+    },
+    {
+      "title": "超声炮&热玛吉傻傻分不清的看过来",
+      "author": "风举青云",
+      "date": "06-17",
+      "likes": "228",
+      "url": "https://www.rednote.com/discovery/item/6a3231f30000000008031bd5"
+    },
+    {
+      "title": "5代和4代热玛吉怎么选？",
+      "author": "施歌主任",
+      "date": "03-19",
+      "likes": "57",
+      "url": "https://www.rednote.com/discovery/item/69bbd0be000000002003a381"
+    },
+    {
+      "title": "抗衰大实话 | 做热玛吉后期会加速脸垮？",
+      "author": "八大处整形梁雪冰",
+      "date": "07-30",
+      "likes": "33",
+      "url": "https://www.rednote.com/discovery/item/6a6b1e6a0000000032023aeb"
+    },
+    {
+      "title": "收紧PK ❗️童颜🆚热玛吉，哪个更适合你",
+      "author": "廖孟南｜助理",
+      "date": "06-21",
+      "likes": "77",
+      "url": "https://www.rednote.com/discovery/item/6a36744d0000000017029108"
+    },
+    {
+      "title": "三甲医生每年都要做什么项目？",
+      "author": "上海华山医院皮肤科 段希蕾",
+      "date": "06-13",
+      "likes": "93",
+      "url": "https://www.rednote.com/discovery/item/6a2d37400000000017028d45"
+    },
+    {
+      "title": "热玛吉做完年轻5岁？",
+      "author": "宁波二院整形池龙军",
+      "date": "09-16",
+      "likes": "7",
+      "url": "https://www.rednote.com/discovery/item/6aaa6a58000000002802e147"
+    },
+    {
+      "title": "热M吉 vs T颜，一次讲清区别、顺序、间隔",
+      "author": "整形医生 斯楼斌",
+      "date": "05-08",
+      "likes": "62",
+      "url": "https://www.rednote.com/discovery/item/69ca1ad8000000001f0050c8"
+    },
+    {
+      "title": "5代热玛吉真实招募｜限量5名松弛垮脸速来！",
+      "author": "吕桦|3C云感热玛吉（小助理）",
+      "date": "07-05",
+      "likes": "15",
+      "url": "https://www.rednote.com/discovery/item/6a0288c5000000003703739a"
+    },
+    {
+      "title": "🤫不必多说 | 疲态垮脸天菜---五代热玛吉",
+      "author": "北京魏晓红｜专注抗衰助理",
+      "date": "6天前",
+      "likes": "181",
+      "url": "https://www.rednote.com/discovery/item/6a9e26e90000000027017ec5"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-24T07:02+07:00",
+  "method": "Fastpass v6 2-lane settle-wait (8.2s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "韩版热玛吉",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=韩版热玛吉",
+  "comparisonWithPrevious": "MILD-MATERIAL vs 20260921 (gate 0.51 manual-band, my call): 김나영 cluster now posts DAILY (3 notes 1-2天前) and adds a PRICE-question title 韩式热玛吉多少钱一次❓欧尼不让你多花钱 — price transparency framing new for this term; 李知垠 到底是什么 explainer persists (11); 不敷麻 comfort-technique series continues (35-44).",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "韩式热玛吉到底是什么？",
+      "author": "李知垠在深圳",
+      "date": "08-22",
+      "likes": "11",
+      "url": "https://www.rednote.com/discovery/item/6a87c3d000000000350153ee"
+    },
+    {
+      "title": "为什么热玛吉都找她❓不敷麻舒适韩式打法",
+      "author": "김나영金娜莹",
+      "date": "1天前",
+      "likes": "44",
+      "url": "https://www.rednote.com/discovery/item/6a97ff4e0000000011035870"
+    },
+    {
+      "title": "不敷麻韩式热玛吉，为什么都只认准她？",
+      "author": "김나영金娜莹",
+      "date": "2天前",
+      "likes": "40",
+      "url": "https://www.rednote.com/discovery/item/6aa3b51a0000000011037a2b"
+    },
+    {
+      "title": "韩式热玛吉多少钱一次❓欧尼不让你多花钱",
+      "author": "김나영金娜莹",
+      "date": "",
+      "likes": "",
+      "url": "https://www.rednote.com/discovery/item/6ab3a9100000000014000788"
+    },
+    {
+      "title": "不再痛🔥不敷麻韩式热玛吉搞定垮脸",
+      "author": "김나영金娜莹",
+      "date": "1天前",
+      "likes": "35",
+      "url": "https://www.rednote.com/discovery/item/6a954da90000000026006128"
+    },
+    {
+      "title": "为什么你做的热玛吉没效果？别再白花钱",
+      "author": "김나영金娜莹",
+      "date": "09-04",
+      "likes": "119",
+      "url": "https://www.rednote.com/discovery/item/6a9a7ea30000000011031e81"
+    },
+    {
+      "title": "松弛下垂法令纹❌韩式热玛吉这样打✅",
+      "author": "김나영金娜莹",
+      "date": "09-01",
+      "likes": "99",
+      "url": "https://www.rednote.com/discovery/item/6a96b32a000000002802d7a7"
+    },
+    {
+      "title": "韩国疯狂打Call的第六代热玛吉",
+      "author": "Coweroay医疗器械",
+      "date": "2025-11-01",
+      "likes": "43",
+      "url": "https://www.rednote.com/discovery/item/6905fc410000000005038848"
+    },
+    {
+      "title": "韩式红绿灯热玛吉打法，半脸即刻夯到爆！",
+      "author": "김나영金娜莹",
+      "date": "09-03",
+      "likes": "3",
+      "url": "https://www.rednote.com/discovery/item/6a9938fb000000002802ca4e"
+    },
+    {
+      "title": "韩式苹果肌复位打法",
+      "author": "李知垠在深圳",
+      "date": "1天前",
+      "likes": "5",
+      "url": "https://www.rednote.com/discovery/item/6ab1f2d20000000033026f11"
+    }
+  ]
+}

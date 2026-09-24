@@ -1,0 +1,1 @@
+no-material-change vs 0918/23 (gate 0.80 vs 6-day baseline but manual id-check: every top note overlaps prior sets — 王青茹 628→633, 常毅 269→283, 王星洁 3370→3375, 段然 90→93; magnitude drift + baseline gap, not composition) (2026-09-24 07:02)
