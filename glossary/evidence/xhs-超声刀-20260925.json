@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-25T04:52+07:00",
+  "method": "Fastpass v7 2-lane settle-wait (10.1s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison (gate API error on 狐狸眼/婴儿针 — manual only for those).",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "超声刀",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=超声刀",
+  "comparisonWithPrevious": "MATERIAL vs 20260923 (gate 0.77): patients now name the device generation directly — 超声刀ultratherapy prime真实测评 (炭烤小板黎, 1天前) — Ultherapy PRIME appearing in patient-review language, validating verzo's live ulthera-prime service page; chips gained 肽提升 (peptide-lift adjacent trend); 深扒/于泳 美版 discourse persists (22), 晶晶 646 evergreen.",
+  "relatedQueries": [
+    "美版二代",
+    "韩国",
+    "杭州",
+    "改善法令纹",
+    "第三代",
+    "对比图",
+    "肽提升",
+    "首尔",
+    "原理分析",
+    "眼部",
+    "方圆脸",
+    "双下巴",
+    "发数",
+    "能量",
+    "水光"
+  ],
+  "notes": [
+    {
+      "title": "深扒美版超声dao的工作原理",
+      "author": "滨海湾医疗器械",
+      "date": "09-13",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6aa68fc8000000001401e9cc"
+    },
+    {
+      "title": "美版超声刀解析：技术上限与亚洲皮肤的适配",
+      "author": "皮肤科于泳医生",
+      "date": "09-11",
+      "likes": "22",
+      "url": "https://www.rednote.com/discovery/item/6aa3d194000000002802d8d2"
+    },
+    {
+      "title": "超声刀ultratherapy prime真实测评",
+      "author": "炭烤小板黎",
+      "date": "1天前",
+      "likes": "3",
+      "url": "https://www.rednote.com/discovery/item/6ab475e6000000000c03c183"
+    },
+    {
+      "title": "超声刀大白话科普",
+      "author": "晶晶不胖",
+      "date": "04-16",
+      "likes": "646",
+      "url": "https://www.rednote.com/discovery/item/69e10224000000001d01c59c"
+    },
+    {
+      "title": "美拉美超声刀半边脸即刻效果，效果太惊喜",
+      "author": "成都王庆助理｜仪器抗衰",
+      "date": "01-12",
+      "likes": "68",
+      "url": "https://www.rednote.com/discovery/item/696324cd000000000e00ce6b"
+    },
+    {
+      "title": "抗衰坦白局？要提升还是收紧？",
+      "author": "陳欣妍",
+      "date": "05-30",
+      "likes": "422",
+      "url": "https://www.rednote.com/discovery/item/6a1aaec0000000001002d000"
+    },
+    {
+      "title": "Orchid Dai",
+      "author": "1天前",
+      "date": "1天前",
+      "likes": "8",
+      "url": "https://www.rednote.com/discovery/item/6ab48e92000000001400149f"
+    },
+    {
+      "title": "真正能延缓衰老的光电项目",
+      "author": "整形医生颜玲主任",
+      "date": "08-06",
+      "likes": "96",
+      "url": "https://www.rednote.com/discovery/item/6a74526600000000250140b6"
+    },
+    {
+      "title": "超声提升怎么选：MPT和三代的真实区别",
+      "author": "User6AA54A46",
+      "date": "09-11",
+      "likes": "",
+      "url": "https://www.rednote.com/discovery/item/6aa3d5f00000000019026ee0"
+    },
+    {
+      "title": "北京超声刀不同刀头大揭秘 你适合哪种❓",
+      "author": "北京朱延静助理｜专研皮肤抗衰",
+      "date": "06-26",
+      "likes": "22",
+      "url": "https://www.rednote.com/discovery/item/6a3a49b4000000001102e022"
+    }
+  ]
+}

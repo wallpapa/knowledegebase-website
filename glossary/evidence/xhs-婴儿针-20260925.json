@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-25T04:52+07:00",
+  "method": "Fastpass v7 2-lane settle-wait (10.1s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison (gate API error on 狐狸眼/婴儿针 — manual only for those).",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "婴儿针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=婴儿针",
+  "comparisonWithPrevious": "MATERIAL vs 20260923 (manual — gate API errored): ingredient-safety concern EMERGES — chip 荧光剂 NEW (fluorescent-agent worry about the NEUE topical) + high-engagement honest review at #1 锐评火爆香港的三支精华 (苏苏护肤 890, 09-01 — NEUE among the three viral HK serums) + topical-vs-少女针 usage comparison (149); semantic note stands: rednote 婴儿针 = NEUE retail product.",
+  "relatedQueries": [
+    "马来西亚",
+    "澳门",
+    "neue",
+    "香港",
+    "使用方法",
+    "亮爆镜",
+    "荧光剂",
+    "面膜测评",
+    "祛痘",
+    "水光作用",
+    "敏感肌",
+    "医用级",
+    "三文鱼",
+    "提亮肤色",
+    "sasa"
+  ],
+  "notes": [
+    {
+      "title": "锐评火爆香港的三支精华",
+      "author": "苏苏护肤（资讯版）",
+      "date": "09-01",
+      "likes": "890",
+      "url": "https://www.rednote.com/discovery/item/6a957cd4000000002c03d79e"
+    },
+    {
+      "title": "sasa这款面膜风吹的好大 吹到我了",
+      "author": "Yayaaaa",
+      "date": "05-25",
+      "likes": "158",
+      "url": "https://www.rednote.com/discovery/item/6a13c0550000000036002ef3"
+    },
+    {
+      "title": "香港neue婴儿针 有点吓人",
+      "author": "甜口美奈子",
+      "date": "08-19",
+      "likes": "250",
+      "url": "https://www.rednote.com/discovery/item/6a847921000000002403fc2e"
+    },
+    {
+      "title": "sasa风很大的NEUE婴儿💉",
+      "author": "米呀米米娅",
+      "date": "09-06",
+      "likes": "19",
+      "url": "https://www.rednote.com/discovery/item/6a9d3b2500000000110345ec"
+    },
+    {
+      "title": "聊聊涂抹婴儿针和少女针使用体验",
+      "author": "hh莫妮卡",
+      "date": "07-16",
+      "likes": "149",
+      "url": "https://www.rednote.com/discovery/item/6a583c87000000001101c7ff"
+    },
+    {
+      "title": "锐评香港saso很火的NEUE婴儿针",
+      "author": "我的ID是江南美人",
+      "date": "09-13",
+      "likes": "887",
+      "url": "https://www.rednote.com/discovery/item/6aa0c5340000000026022790"
+    },
+    {
+      "title": "不懂原理，但是无痛💡了8度。。",
+      "author": "喵脆角",
+      "date": "5天前",
+      "likes": "1042",
+      "url": "https://www.rednote.com/discovery/item/6aad09830000000027014b1b"
+    },
+    {
+      "title": "跟风入了风很大的neue婴儿针 真心难评！",
+      "author": "半颗桃烁",
+      "date": "09-14",
+      "likes": "127",
+      "url": "https://www.rednote.com/discovery/item/6aa6233e000000002502ff96"
+    },
+    {
+      "title": "香港sasa这个好吓人。。。。",
+      "author": "Okok",
+      "date": "5天前",
+      "likes": "375",
+      "url": "https://www.rednote.com/discovery/item/6aaa30740000000029018d76"
+    },
+    {
+      "title": "听我一句劝 neue真的别乱买！",
+      "author": "粘糊糊豆包",
+      "date": "07-28",
+      "likes": "1229",
+      "url": "https://www.rednote.com/discovery/item/6a67399d000000001101b1f4"
+    }
+  ]
+}

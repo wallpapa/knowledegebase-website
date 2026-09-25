@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-25T04:52+07:00",
+  "method": "Fastpass v7 2-lane settle-wait (10.1s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison (gate API error on 狐狸眼/婴儿针 — manual only for those).",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "少女针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=少女针",
+  "comparisonWithPrevious": "MATERIAL vs 20260923 (gate 0.73 brand-device-shift): NEW PRODUCT LAUNCH — 伊妍仕恒耀PRO新品首发｜归来伊是少女 (ELLANSE伊妍仕医疗器 official account, 08-27) — Ellansé's PRO-variant generation entering the 少女针 (PCL) market; official-account education expands (丽妍常医疗器械 童颜针vs少女针区别 114); base persists (梁雪冰不踩坑 48, 方斌 244, 于泳 79). Brand-generation watch continues under existing regen-filler topics.",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "科普 | 童颜针和少女针有什么区别？",
+      "author": "丽妍常医疗器械",
+      "date": "07-15",
+      "likes": "114",
+      "url": "https://www.rednote.com/discovery/item/6a5737b6000000001603fb53"
+    },
+    {
+      "title": "关于再生材料你可能感兴趣的",
+      "author": "皮肤科于泳医生",
+      "date": "06-08",
+      "likes": "79",
+      "url": "https://www.rednote.com/discovery/item/6a269bd3000000000803d36c"
+    },
+    {
+      "title": "少女针不踩坑 | 黄金部位+用量打法干货",
+      "author": "八大处整形梁雪冰",
+      "date": "06-27",
+      "likes": "48",
+      "url": "https://www.rednote.com/discovery/item/6a3faa8e000000001101a80b"
+    },
+    {
+      "title": "脸真的变紧了！",
+      "author": "上海九院方斌",
+      "date": "05-23",
+      "likes": "244",
+      "url": "https://www.rednote.com/discovery/item/6a103c1a0000000036032701"
+    },
+    {
+      "title": "伊妍仕恒耀PRO新品首发 | 归来伊是少女",
+      "author": "ELLANSE伊妍仕医疗器械",
+      "date": "08-27",
+      "likes": "8",
+      "url": "https://www.rednote.com/discovery/item/6a8fd2cb0000000025039fd9"
+    },
+    {
+      "title": "教你快速区分少女针和童颜针",
+      "author": "整形外科詹炜卿",
+      "date": "02-16",
+      "likes": "352",
+      "url": "https://www.rednote.com/discovery/item/6990301d000000000d008c44"
+    },
+    {
+      "title": "伊妍仕，轮廓固定为什么非它不可？",
+      "author": "欧恩助理｜童颜美学",
+      "date": "09-15",
+      "likes": "6",
+      "url": "https://www.rednote.com/discovery/item/6a97d603000000002802dff9"
+    },
+    {
+      "title": "黄金少女恒耀，维持时间更久，回落更少？",
+      "author": "王永书",
+      "date": "1天前",
+      "likes": "288",
+      "url": "https://www.rednote.com/discovery/item/6aaa07090000000026023665"
+    },
+    {
+      "title": "黄金少女恒耀PRO，看这一篇就够了",
+      "author": "王永书Alan杭州助理版",
+      "date": "08-14",
+      "likes": "1353",
+      "url": "https://www.rednote.com/discovery/item/6a7eebbd0000000005033e75"
+    },
+    {
+      "title": "见证伊妍仕少女针的迭代与新生",
+      "author": "刘冰 | 减法美学",
+      "date": "09-03",
+      "likes": "6",
+      "url": "https://www.rednote.com/discovery/item/6a9959e7000000002802d896"
+    }
+  ]
+}
