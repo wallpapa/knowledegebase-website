@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-25T19:03+07:00",
+  "method": "Fastpass v8 2-lane (9.5s wall); 线雕/超声炮 cold-tab first-load captured 3 notes -> warm-tab refetch got 10/10 (double-fetch noted); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "泰国医美",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=泰国医美",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260923 (gate 0.83 new-concern): the pfk caution note 🇹🇭泰国pfk真的要想清楚再动身 (灰雨尾诗 10, 09-17) now ALSO surfaces on this term (was 曼谷医美-only) — caution discourse persisting across both geo terms; base promo set stable (Jules 58, KKC 7, 从业者 5, SET明月 49).",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "听说曼谷是最好的美容护理城市之一",
+      "author": "Jules悉尼生活分享",
+      "date": "09-15",
+      "likes": "58",
+      "url": "https://www.rednote.com/discovery/item/6aa56eeb000000002601d59a"
+    },
+    {
+      "title": "小测试｜KKC医生老师的手，到底有多稳？",
+      "author": "KKC Aesthetic TH",
+      "date": "07-08",
+      "likes": "7",
+      "url": "https://www.rednote.com/discovery/item/6a47590200000000200382e9"
+    },
+    {
+      "title": "🇹🇭泰国YM从业者，想聊聊国内市场",
+      "author": "iDL翻译小助理",
+      "date": "09-08",
+      "likes": "5",
+      "url": "https://www.rednote.com/discovery/item/6a9fd0a5000000001203551b"
+    },
+    {
+      "title": "🇹🇭泰国pfk真的要想清楚再动身",
+      "author": "灰雨尾诗",
+      "date": "09-17",
+      "likes": "10",
+      "url": "https://www.rednote.com/discovery/item/6aabeecb000000001202483a"
+    },
+    {
+      "title": "曼谷变美日记",
+      "author": "泰国SET明月",
+      "date": "09-07",
+      "likes": "49",
+      "url": "https://www.rednote.com/discovery/item/6a9e8efd000000001401369c"
+    },
+    {
+      "title": "泰国中文社",
+      "author": "09-06",
+      "date": "09-06",
+      "likes": "998",
+      "url": "https://www.rednote.com/discovery/item/6a9cfbff000000002802ddbc"
+    },
+    {
+      "title": "曼谷探店官 Bangkok Discovery",
+      "author": "09-08",
+      "date": "09-08",
+      "likes": "43",
+      "url": "https://www.rednote.com/discovery/item/6a9d5da70000000026031289"
+    },
+    {
+      "title": "SSC STRATEGY STUDIO",
+      "author": "09-06",
+      "date": "09-06",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6a9caf24000000001001c018"
+    },
+    {
+      "title": "私人飛機空姐｜曼谷变美日記vlog🇹🇭💉💕",
+      "author": "唯一",
+      "date": "09-05",
+      "likes": "285",
+      "url": "https://www.rednote.com/discovery/item/6a9ba13f0000000028034332"
+    },
+    {
+      "title": "曼谷美学｜遇见更美的自己",
+      "author": "Bangkok Secret 皮肤管理",
+      "date": "01-26",
+      "likes": "4",
+      "url": "https://www.rednote.com/discovery/item/697709a1000000000b0113bf"
+    }
+  ]
+}

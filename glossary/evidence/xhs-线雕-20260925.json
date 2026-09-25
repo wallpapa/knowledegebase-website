@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-25T19:06+07:00",
+  "method": "Fastpass v8 2-lane (9.5s wall); 线雕/超声炮 cold-tab first-load captured 3 notes -> warm-tab refetch got 10/10 (double-fetch noted); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "线雕",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=线雕",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260923 (gate 0.74 question-pattern): NEW comparison note 筋膜提升🆚线雕，一次性讲清楚！(面部提升宋超超, 4天前, 14) — another instance of the naming-decode family (筋膜提升 variant joins 筋膜悬吊/逆向提升); iteration-series (孙奔 线材是基础 24) and revival-question (王文进 45) persist; 十年后 292 stable. Shipped fascia-decode article's A-vs-B structure covers the approach.",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "线雕核心迭代在哪里？线材是基础！",
+      "author": "杭州孙奔｜助理",
+      "date": "09-18",
+      "likes": "24",
+      "url": "https://www.rednote.com/discovery/item/6aad1fa5000000002802fb5f"
+    },
+    {
+      "title": "做过线雕的人，十年后脸会变成什么样？#整",
+      "author": "整形外科范巨峰医生",
+      "date": "06-21",
+      "likes": "292",
+      "url": "https://www.rednote.com/discovery/item/6a354ba500000000060339db"
+    },
+    {
+      "title": "筋膜提升🆚线雕，一次性讲清楚！",
+      "author": "面部提升 宋超超",
+      "date": "4天前",
+      "likes": "14",
+      "url": "https://www.rednote.com/discovery/item/6ab0ebcd00000000330277f9"
+    },
+    {
+      "title": "线雕现在还能做吗？为什么又开始火起来了？",
+      "author": "上海九院王文进医生",
+      "date": "08-31",
+      "likes": "45",
+      "url": "https://www.rednote.com/discovery/item/6a915c7d00000000240054a6"
+    },
+    {
+      "title": "2026年，线雕终于又好起来了",
+      "author": "王永书",
+      "date": "07-17",
+      "likes": "33",
+      "url": "https://www.rednote.com/discovery/item/6a44df8e000000001702fc60"
+    },
+    {
+      "title": "做过线雕的人 现在怎么样了？",
+      "author": "整形外科王朝辉",
+      "date": "08-16",
+      "likes": "31",
+      "url": "https://www.rednote.com/discovery/item/6a801dca0000000028008843"
+    },
+    {
+      "title": "线雕手术如何操作，动画模拟手术过程",
+      "author": "整形医生陈永",
+      "date": "2025-11-27",
+      "likes": "348",
+      "url": "https://www.rednote.com/discovery/item/6928457b000000000d039a08"
+    },
+    {
+      "title": "陈昊宇的秋冬🔥有「线雕」更有型",
+      "author": "潮流情报官",
+      "date": "5天前",
+      "likes": "496",
+      "url": "https://www.rednote.com/discovery/item/6a9f834b000000002901bd26"
+    },
+    {
+      "title": "like🐟",
+      "author": "4天前",
+      "date": "4天前",
+      "likes": "55",
+      "url": "https://www.rednote.com/discovery/item/6ab0d3a4000000003b0068ae"
+    },
+    {
+      "title": "线雕和筋膜提升的区别你懂了吗❓",
+      "author": "王武琴|轻薄提升",
+      "date": "06-21",
+      "likes": "85",
+      "url": "https://www.rednote.com/discovery/item/6a37bbcd000000001c025bc0"
+    }
+  ]
+}

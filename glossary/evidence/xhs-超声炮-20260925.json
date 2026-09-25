@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-25T19:06+07:00",
+  "method": "Fastpass v8 2-lane (9.5s wall); 线雕/超声炮 cold-tab first-load captured 3 notes -> warm-tab refetch got 10/10 (double-fetch noted); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "超声炮",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=超声炮",
+  "comparisonWithPrevious": "MATERIAL vs 20260921 (gate 0.87 brand-device-shift): THIRD device-generation name enters — 大超炮和半岛黄金超声炮有什么区别？(皮肤科医生杨莉莉 506) — the Peninsula family is now a 3-way (经典/大超炮/黄金超声炮), extending the shipped dachaopao-vs-classic article's territory; price-war spreads to tier-2/3 cities (chips 乌鲁木齐/海口/太原/洛阳/佛山); 999 不限量 persists (10); hospital-doctor preference framing grows (郭济菡 73→103).",
+  "relatedQueries": [
+    "乌鲁木齐",
+    "海口",
+    "太原",
+    "洛阳",
+    "福州",
+    "厦门",
+    "佛山",
+    "南昌",
+    "合肥",
+    "无锡",
+    "哈尔滨",
+    "武汉",
+    "真实案例",
+    "青岛",
+    "大连"
+  ],
+  "notes": [
+    {
+      "title": "成都超声炮卷疯🔥999不限量！松垮肉脸姐妹进",
+      "author": "美呗素美严选",
+      "date": "09-03",
+      "likes": "10",
+      "url": "https://www.rednote.com/discovery/item/6a991a150000000011037c73"
+    },
+    {
+      "title": "大超炮和半岛黄金超声炮有什么区别？",
+      "author": "皮肤科医生杨莉莉",
+      "date": "05-06",
+      "likes": "506",
+      "url": "https://www.rednote.com/discovery/item/69fab5a7000000003802080a"
+    },
+    {
+      "title": "单妮1",
+      "author": "09-03",
+      "date": "09-03",
+      "likes": "50",
+      "url": "https://www.rednote.com/discovery/item/6a98ff57000000002b01f9ad"
+    },
+    {
+      "title": "提升抗衰，三甲整形医生只选超声炮",
+      "author": "八大处激光郭济菡",
+      "date": "09-11",
+      "likes": "103",
+      "url": "https://www.rednote.com/discovery/item/6aa280ef000000002601ea7e"
+    },
+    {
+      "title": "美，自深层始｜半岛大超炮高定抗衰",
+      "author": "半岛 医疗器械",
+      "date": "09-11",
+      "likes": "76",
+      "url": "https://www.rednote.com/discovery/item/6aa37df1000000002a0051dd"
+    },
+    {
+      "title": "热玛吉vs超声炮，抗衰效果究竟有啥不一样？",
+      "author": "八大处整形梁雪冰",
+      "date": "09-17",
+      "likes": "20",
+      "url": "https://www.rednote.com/discovery/item/6aabcbbf000000002900da31"
+    },
+    {
+      "title": "超声炮和大超炮有什么区别？",
+      "author": "宁波二院整形池龙军",
+      "date": "09-18",
+      "likes": "11",
+      "url": "https://www.rednote.com/discovery/item/6aacfa30000000000d027fb4"
+    },
+    {
+      "title": "大超炮这5个部位不能打！小心脸又方又垂",
+      "author": "医美大石话",
+      "date": "07-22",
+      "likes": "142",
+      "url": "https://www.rednote.com/discovery/item/6a609a1b00000000050382b4"
+    },
+    {
+      "title": "提升下颌线-打造面部轮廓感",
+      "author": "北京陈辛亮整形医生",
+      "date": "05-11",
+      "likes": "16",
+      "url": "https://www.rednote.com/discovery/item/6a01b52d0000000006023c11"
+    },
+    {
+      "title": "超声炮怎么选｜黑钻 vs 大超炮",
+      "author": "八大处激光郭济菡",
+      "date": "1天前",
+      "likes": "20",
+      "url": "https://www.rednote.com/discovery/item/6aafad5c000000000d02540e"
+    }
+  ]
+}
