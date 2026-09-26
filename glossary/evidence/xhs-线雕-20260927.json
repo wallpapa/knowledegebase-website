@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-27T01:03+07:00",
+  "method": "Fastpass v11 2-lane settle-wait (8.7s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "线雕",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=线雕",
+  "comparisonWithPrevious": "MATERIAL vs 20260925 (gate 0.88 brand-device-shift): NAMING-DISTINCTION discourse now DOMINANT — 3 of top-5 are 筋膜提升-vs-线雕 confusion (宋超超 🆚对比 14, 5天前; 王武琴 区别你懂了吗 85 resurfaced; 面部提升就是线雕？ 5) — direct field validation of the shipped fascia-suspension-vs-thread-decode article; iteration-series (孙奔 24) + revival-question (王文进 46) persist. Decode-family growth: 筋膜提升 joins 筋膜悬吊/逆向提升.",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "线雕核心迭代在哪里？线材是基础！",
+      "author": "杭州孙奔｜助理",
+      "date": "09-18",
+      "likes": "24",
+      "url": "https://www.rednote.com/discovery/item/6aad1fa5000000002802fb5f"
+    },
+    {
+      "title": "线雕现在还能做吗？为什么又开始火起来了？",
+      "author": "上海九院王文进医生",
+      "date": "08-31",
+      "likes": "46",
+      "url": "https://www.rednote.com/discovery/item/6a915c7d00000000240054a6"
+    },
+    {
+      "title": "筋膜提升🆚线雕，一次性讲清楚！",
+      "author": "面部提升 宋超超",
+      "date": "5天前",
+      "likes": "14",
+      "url": "https://www.rednote.com/discovery/item/6ab0ebcd00000000330277f9"
+    },
+    {
+      "title": "面部提升就是线雕？",
+      "author": "上海面部五件套Dr.张｜小助理",
+      "date": "03-31",
+      "likes": "5",
+      "url": "https://www.rednote.com/discovery/item/69cba02000000000210137bc"
+    },
+    {
+      "title": "线雕和筋膜提升的区别你懂了吗❓",
+      "author": "王武琴|轻薄提升",
+      "date": "06-21",
+      "likes": "85",
+      "url": "https://www.rednote.com/discovery/item/6a37bbcd000000001c025bc0"
+    },
+    {
+      "title": "⚠️线雕提升可以维持多久？什么样的人不适合",
+      "author": "廖孟南｜助理",
+      "date": "05-08",
+      "likes": "147",
+      "url": "https://www.rednote.com/discovery/item/69fdbfa1000000001f0051c7"
+    },
+    {
+      "title": "行走变美教科书易梦玲，到底做线雕了没❓",
+      "author": "北京杜建宾|轮廓提升",
+      "date": "06-26",
+      "likes": "58",
+      "url": "https://www.rednote.com/discovery/item/6a3e12c900000000110143ed"
+    },
+    {
+      "title": "一张图看懂｜提美拉为什么能做到复位不僵",
+      "author": "提美拉 医疗器械",
+      "date": "06-22",
+      "likes": "53",
+      "url": "https://www.rednote.com/discovery/item/69f4287a000000002202bb24"
+    },
+    {
+      "title": "韩国溯源｜线雕 你们想知道的材料问题❓",
+      "author": "郑涵文不会老",
+      "date": "08-11",
+      "likes": "33",
+      "url": "https://www.rednote.com/discovery/item/6a79887f0000000022033dd1"
+    },
+    {
+      "title": "面部提升｜线雕线材怎么选？（上）",
+      "author": "周杰老爸侃抗衰（助理版）",
+      "date": "06-29",
+      "likes": "223",
+      "url": "https://www.rednote.com/discovery/item/6a3b5350000000002103d9f5"
+    }
+  ]
+}

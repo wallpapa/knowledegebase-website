@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-27T01:03+07:00",
+  "method": "Fastpass v11 2-lane settle-wait (8.7s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "曼谷医美",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=曼谷医美",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260925 (gate 0.55, my call — new actors): THAI-CN COMMUNITY MEDIA entry — 泰国中文社 (1000 likes, 09-06) surfacing on the term (CN-language media in Thailand as content actor); KKC award/credibility marketing 亚洲TOP50受邀海菲秀颁奖典礼 (KKC曼谷 official, 2) — competitor-credibility play; base promo set persists (Jules 59, 端午 809). No caution-discourse in top tonight.",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "小测试｜KKC医生老师的手，到底有多稳？",
+      "author": "KKC Aesthetic TH",
+      "date": "07-08",
+      "likes": "7",
+      "url": "https://www.rednote.com/discovery/item/6a47590200000000200382e9"
+    },
+    {
+      "title": "听说曼谷是最好的美容护理城市之一",
+      "author": "Jules悉尼生活分享",
+      "date": "09-15",
+      "likes": "59",
+      "url": "https://www.rednote.com/discovery/item/6aa56eeb000000002601d59a"
+    },
+    {
+      "title": "端午曼谷度假碎片",
+      "author": "草莓香蕉车厘子",
+      "date": "06-23",
+      "likes": "809",
+      "url": "https://www.rednote.com/discovery/item/6a39e4f40000000007024278"
+    },
+    {
+      "title": "泰国中文社",
+      "author": "09-06",
+      "date": "09-06",
+      "likes": "1000",
+      "url": "https://www.rednote.com/discovery/item/6a9cfbff000000002802ddbc"
+    },
+    {
+      "title": "亚洲TOP50｜KKC受邀出席海菲秀颁奖典礼",
+      "author": "KKC曼谷",
+      "date": "08-10",
+      "likes": "2",
+      "url": "https://www.rednote.com/discovery/item/6a742b9e000000000502b39a"
+    },
+    {
+      "title": "曼谷探店官 Bangkok Discovery",
+      "author": "09-08",
+      "date": "09-08",
+      "likes": "43",
+      "url": "https://www.rednote.com/discovery/item/6a9d5da70000000026031289"
+    },
+    {
+      "title": "泰国曼谷KKC👍",
+      "author": "YY",
+      "date": "06-10",
+      "likes": "9",
+      "url": "https://www.rednote.com/discovery/item/6a290a2e00000000210201c4"
+    },
+    {
+      "title": "私人飛機空姐｜曼谷变美日記vlog🇹🇭💉💕",
+      "author": "唯一",
+      "date": "09-05",
+      "likes": "287",
+      "url": "https://www.rednote.com/discovery/item/6a9ba13f0000000028034332"
+    },
+    {
+      "title": "SSC STRATEGY STUDIO",
+      "author": "09-06",
+      "date": "09-06",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6a9caf24000000001001c018"
+    },
+    {
+      "title": "曼谷真香警告！",
+      "author": "琳达",
+      "date": "1天前",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6ab5f2b1000000001303edb4"
+    }
+  ]
+}
