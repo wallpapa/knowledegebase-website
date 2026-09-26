@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-26T13:03+07:00",
+  "method": "Fastpass v9 2-lane settle-wait (9.0s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "热玛吉",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=热玛吉",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260924 (gate 0.68 new-concern): AGE-DEMOGRAPHIC framing — 40+面部松垮垂疲态重 (长沙颜长青, 1天前, 47) targets the 40+ cohort explicitly; cartridge education 热玛吉治疗头，原来长这样！(罗玉燕 trainer, 21) — tip/cartridge show-and-tell entering patient education; 刘滢 烤肉 myth persists (65→99); 邱阳 note rotated out.",
+  "relatedQueries": [
+    "洛杉矶",
+    "厦门",
+    "第五代",
+    "南昌",
+    "长沙",
+    "昆明",
+    "上海",
+    "成都",
+    "沈阳",
+    "郑州",
+    "青岛",
+    "西安",
+    "韩国",
+    "重庆",
+    "武汉"
+  ],
+  "notes": [
+    {
+      "title": "40+面部松垮垂疲态重❓热玛吉就应该这么打",
+      "author": "长沙颜长青｜高阶抗衰",
+      "date": "1天前",
+      "likes": "47",
+      "url": "https://www.rednote.com/discovery/item/6ab4f626000000000b005618"
+    },
+    {
+      "title": "热玛吉5代真不疼啊",
+      "author": "🔆我是顺顺💭",
+      "date": "09-13",
+      "likes": "9",
+      "url": "https://www.rednote.com/discovery/item/6a9a64c9000000002803784d"
+    },
+    {
+      "title": "超声炮&热玛吉傻傻分不清的看过来",
+      "author": "风举青云",
+      "date": "06-17",
+      "likes": "230",
+      "url": "https://www.rednote.com/discovery/item/6a3231f30000000008031bd5"
+    },
+    {
+      "title": "热玛吉就是在烤肉？这2个真相你必须知道",
+      "author": "医美刘滢",
+      "date": "09-11",
+      "likes": "99",
+      "url": "https://www.rednote.com/discovery/item/6aa3e827000000002701410f"
+    },
+    {
+      "title": "热玛吉治疗头，原来长这样！",
+      "author": "罗玉燕 | 热玛吉培训导师（抗衰助理）",
+      "date": "08-31",
+      "likes": "21",
+      "url": "https://www.rednote.com/discovery/item/6a95546e000000000a009a54"
+    },
+    {
+      "title": "5代和4代热玛吉怎么选？",
+      "author": "施歌主任",
+      "date": "03-19",
+      "likes": "58",
+      "url": "https://www.rednote.com/discovery/item/69bbd0be000000002003a381"
+    },
+    {
+      "title": "沈梦辰透露“变美秘籍”",
+      "author": "新闻晨报",
+      "date": "04-19",
+      "likes": "7936",
+      "url": "https://www.rednote.com/discovery/item/69e48a060000000022026e86"
+    },
+    {
+      "title": "只能做一个项目，大超炮和热玛吉到底选哪个",
+      "author": "皮肤科梅奕洁",
+      "date": "05-30",
+      "likes": "223",
+      "url": "https://www.rednote.com/discovery/item/6a1964c20000000006035f09"
+    },
+    {
+      "title": "三甲医生每年都要做什么项目？",
+      "author": "上海华山医院皮肤科 段希蕾",
+      "date": "06-13",
+      "likes": "95",
+      "url": "https://www.rednote.com/discovery/item/6a2d37400000000017028d45"
+    },
+    {
+      "title": "热玛吉做完年轻5岁？",
+      "author": "宁波二院整形池龙军",
+      "date": "09-16",
+      "likes": "8",
+      "url": "https://www.rednote.com/discovery/item/6aaa6a58000000002802e147"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-26T13:03+07:00",
+  "method": "Fastpass v9 2-lane settle-wait (9.0s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "保妥适",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=保妥适",
+  "comparisonWithPrevious": "MATERIAL vs 20260918 (gate 0.83 brand-device-shift; top turned over): FRESH 2-hour-old comparison 来粤区打s脸，宝妥适vs珍珠小黑盒，怎么选？(Lightmac莉美) — 珍珠小黑盒 NEW product nickname entering the toxin brand-choosing discourse; 美产/韩产/国产瘦脸针的区别 (297) import-vs-domestic framing persists; 王青茹 轮廓提升点位 (1339 — her second high-engagement positioning note); brand-nickname churn continues under botox-brand-choice topic.",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "哥哥",
+      "author": "2025-10-14",
+      "date": "2025-10-14",
+      "likes": "7",
+      "url": "https://www.rednote.com/discovery/item/68edffdb00000000070035fb"
+    },
+    {
+      "title": "Botox不只是“除皱”！选对才不花冤枉钱",
+      "author": "小红薯6A18709F",
+      "date": "03-24",
+      "likes": "5",
+      "url": "https://www.rednote.com/discovery/item/69c2397a000000001a033196"
+    },
+    {
+      "title": "来粤区打s脸，宝妥适vs珍珠小黑盒，怎么选？",
+      "author": "Lightmac莉美",
+      "date": "2小时前",
+      "likes": "",
+      "url": "https://www.rednote.com/discovery/item/6ab721d1000000000a01c237"
+    },
+    {
+      "title": "瘦脸打肉毒素？美产/韩产/国产瘦脸针的区别",
+      "author": "杳霭流玉_",
+      "date": "2025-11-15",
+      "likes": "297",
+      "url": "https://www.rednote.com/discovery/item/6917ff1500000000040124ca"
+    },
+    {
+      "title": "轮廓提升~肉毒可以biu这几个点位！",
+      "author": "北京王青茹",
+      "date": "2025-08-31",
+      "likes": "1339",
+      "url": "https://www.rednote.com/discovery/item/67fb7c13000000001d0255ff"
+    },
+    {
+      "title": "【纯科普】医生才知道的1、2、3代除皱内幕",
+      "author": "皮肤科田歆教授",
+      "date": "03-18",
+      "likes": "2862",
+      "url": "https://www.rednote.com/discovery/item/69b7f6e2000000001a02b2f4"
+    },
+    {
+      "title": "除皱针分别怎么选？",
+      "author": "上海九院段然",
+      "date": "08-18",
+      "likes": "98",
+      "url": "https://www.rednote.com/discovery/item/6a7efe24000000002402eaa4"
+    },
+    {
+      "title": "广药附一保妥适拼团2800",
+      "author": "李李李说",
+      "date": "5天前",
+      "likes": "33",
+      "url": "https://www.rednote.com/discovery/item/6ab0b92c000000003b0124f1"
+    },
+    {
+      "title": "英伦大提升怎么打❗",
+      "author": "华东整外王恒医生",
+      "date": "09-10",
+      "likes": "7",
+      "url": "https://www.rednote.com/discovery/item/6aa245000000000025036bb1"
+    },
+    {
+      "title": "打了瘦脸针，脸下垂了？",
+      "author": "华西整形美容_邱禾",
+      "date": "05-28",
+      "likes": "31",
+      "url": "https://www.rednote.com/discovery/item/6a181e380000000006030b99"
+    }
+  ]
+}

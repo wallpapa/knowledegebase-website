@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-26T13:03+07:00",
+  "method": "Fastpass v9 2-lane settle-wait (9.0s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "水光针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=水光针",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260924 note (gate 0.78): the 长期打水光十年后 long-term-safety question now has TWO hospital-doctor versions in top (段然 883 + 王韵 129 — second institution's version resurfacing); variant-by-skin-type selector (Dr姚 13) joins 马红芳's; base stable (刘滢 80, 蒋丽雅 883).",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "水光这样调整深度和局部修饰 效果翻翻✅",
+      "author": "医美刘滢",
+      "date": "07-25",
+      "likes": "80",
+      "url": "https://www.rednote.com/discovery/item/6a64886b000000000f010da2"
+    },
+    {
+      "title": "打完水光多久可以化妆？",
+      "author": "八大处蒋丽雅",
+      "date": "2025-10-28",
+      "likes": "883",
+      "url": "https://www.rednote.com/discovery/item/690066f50000000005010bc5"
+    },
+    {
+      "title": "长期打水光针，10 年后会变成什么样子呢？",
+      "author": "上海九院王韵",
+      "date": "2025-10-04",
+      "likes": "129",
+      "url": "https://www.rednote.com/discovery/item/68db62a60000000003022712"
+    },
+    {
+      "title": "4种不同的水光针，你的皮肤适合哪一种呢？",
+      "author": "上海韧带提升Dr姚",
+      "date": "09-01",
+      "likes": "13",
+      "url": "https://www.rednote.com/discovery/item/6a963441000000002601461c"
+    },
+    {
+      "title": "长期打水光，十年后会变成什么样？",
+      "author": "上海九院段然",
+      "date": "08-21",
+      "likes": "883",
+      "url": "https://www.rednote.com/discovery/item/6a858adb0000000005030f41"
+    },
+    {
+      "title": "打水光针，真的会馒化吗？",
+      "author": "皮肤科樊一斌博士",
+      "date": "05-22",
+      "likes": "116",
+      "url": "https://www.rednote.com/discovery/item/6a101bcd000000000803cb1b"
+    },
+    {
+      "title": "毛孔粗大+出油多，试试这两个黄金cp组合！",
+      "author": "黄韶斌博士",
+      "date": "08-03",
+      "likes": "113",
+      "url": "https://www.rednote.com/discovery/item/6a7067310000000024025ab2"
+    },
+    {
+      "title": "光子嫩肤和水光针有什么区别？",
+      "author": "鲁佳敏医生丨广州妇儿",
+      "date": "09-16",
+      "likes": "98",
+      "url": "https://www.rednote.com/discovery/item/6aaa12420000000011034d0e"
+    },
+    {
+      "title": "在公立医院打水光，是如何进行的？",
+      "author": "柴武斌医生",
+      "date": "09-02",
+      "likes": "212",
+      "url": "https://www.rednote.com/discovery/item/6a96f9f2000000000d025d63"
+    },
+    {
+      "title": "医生坦白局：打水光针真能秒变韩剧女主吗？",
+      "author": "海南医科大学第一附属医院",
+      "date": "09-03",
+      "likes": "65",
+      "url": "https://www.rednote.com/discovery/item/6a99244200000000110392d2"
+    }
+  ]
+}

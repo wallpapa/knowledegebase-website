@@ -1,0 +1,1 @@
+no-material-change vs 0924 (gate 0.32 — clean): same promo/loyalty set (2026-09-26 13:03)
