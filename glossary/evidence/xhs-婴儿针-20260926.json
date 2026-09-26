@@ -1,0 +1,49 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-26T19:06+07:00",
+  "method": "Fastpass v10 2-lane (9.8s wall); 微晶瓷 partial-render refetched to 10/10; 婴儿针 rendered 3 notes across 3 attempts (consistent — accepted as current true render, partial caveat); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "婴儿针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=婴儿针",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260925 (gate 0.68; PARTIAL FEED — page rendered 3 notes across 3 attempts, treated as current true render): 锐评三支精华 review at top growing (890→894); stockpiling note resurfaces — 香港sasa少女针婴儿针囤到了 (186 — retail bulk-buy framing, note title blurs 少女针/婴儿针 retail names); chips 荧光剂 safety concern persists + 使用方法. NEUE-topical semantic note stands.",
+  "relatedQueries": [
+    "马来西亚",
+    "澳门",
+    "neue",
+    "使用方法",
+    "香港",
+    "亮爆镜",
+    "荧光剂",
+    "面膜测评",
+    "三文鱼",
+    "有用吗",
+    "美白",
+    "敏感肌",
+    "sasa",
+    "祛痘",
+    "修复"
+  ],
+  "notes": [
+    {
+      "title": "锐评火爆香港的三支精华",
+      "author": "苏苏护肤（资讯版）",
+      "date": "09-01",
+      "likes": "894",
+      "url": "https://www.rednote.com/discovery/item/6a957cd4000000002c03d79e"
+    },
+    {
+      "title": "sasa这款面膜风吹的好大 吹到我了",
+      "author": "Yayaaaa",
+      "date": "05-25",
+      "likes": "162",
+      "url": "https://www.rednote.com/discovery/item/6a13c0550000000036002ef3"
+    },
+    {
+      "title": "🇭🇰购物｜香港sasa少女针婴儿针囤到了🥳",
+      "author": "小玲姐ACE",
+      "date": "05-02",
+      "likes": "186",
+      "url": "https://www.rednote.com/discovery/item/69f5d7c8000000003501d1ca"
+    }
+  ]
+}

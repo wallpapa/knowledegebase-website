@@ -1,0 +1,1 @@
+no-material-change vs 0925 note (gate 0.72 but theme same-set-drift; id-check: same template core) (2026-09-26 19:03)

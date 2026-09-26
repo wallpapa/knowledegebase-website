@@ -1,0 +1,96 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-26T19:03+07:00",
+  "method": "Fastpass v10 2-lane (9.8s wall); 微晶瓷 partial-render refetched to 10/10; 婴儿针 rendered 3 notes across 3 attempts (consistent — accepted as current true render, partial caveat); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "超声刀",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=超声刀",
+  "comparisonWithPrevious": "MATERIAL vs 20260925 (gate 0.85 new-concern): MACHINE-AUTHENTICITY question emerges — 美版超声刀怎么验真？(李炫定, 1天前) — patients asking how to verify genuine US-version Ultherapy hardware (verification discourse extends from injectables to devices; maps to thermage-quality-checklist/verification topics); SE-ASIA geo demand — 求吉隆坡超声刀 (berr 9, 09-06 — Kuala Lumpur request); Ultherapy Prime patient review persists (7, 2天前); chips gained 钛提升 (titanium-lift — NEW adjacent device-category chip, watch only).",
+  "relatedQueries": [
+    "美版二代",
+    "杭州",
+    "韩国",
+    "改善法令纹",
+    "第三代",
+    "对比图",
+    "首尔",
+    "钛提升",
+    "方圆脸",
+    "眼部",
+    "护理",
+    "发数",
+    "双下巴"
+  ],
+  "notes": [
+    {
+      "title": "深扒美版超声dao的工作原理",
+      "author": "滨海湾医疗器械",
+      "date": "09-13",
+      "likes": "2",
+      "url": "https://www.rednote.com/discovery/item/6aa68fc8000000001401e9cc"
+    },
+    {
+      "title": "美版超声刀解析：技术上限与亚洲皮肤的适配",
+      "author": "皮肤科于泳医生",
+      "date": "09-11",
+      "likes": "22",
+      "url": "https://www.rednote.com/discovery/item/6aa3d194000000002802d8d2"
+    },
+    {
+      "title": "超声刀ultratherapy prime真实测评",
+      "author": "炭烤小板黎",
+      "date": "2天前",
+      "likes": "7",
+      "url": "https://www.rednote.com/discovery/item/6ab475e6000000000c03c183"
+    },
+    {
+      "title": "求吉隆坡超声刀🔪",
+      "author": "berr",
+      "date": "09-06",
+      "likes": "9",
+      "url": "https://www.rednote.com/discovery/item/6a9d6c63000000000d024a90"
+    },
+    {
+      "title": "美版超声刀怎么验真？🔍",
+      "author": "李炫定 | 美容小助理",
+      "date": "1天前",
+      "likes": "2",
+      "url": "https://www.rednote.com/discovery/item/6ab3db84000000001203c9af"
+    },
+    {
+      "title": "韩国爆火的 Onda、美版超声刀，为什么国内",
+      "author": "美业范律师",
+      "date": "3天前",
+      "likes": "212",
+      "url": "https://www.rednote.com/discovery/item/6a9565b8000000002501d321"
+    },
+    {
+      "title": "抗衰坦白局？要提升还是收紧？",
+      "author": "陳欣妍",
+      "date": "05-30",
+      "likes": "426",
+      "url": "https://www.rednote.com/discovery/item/6a1aaec0000000001002d000"
+    },
+    {
+      "title": "超声刀大白话科普",
+      "author": "晶晶不胖",
+      "date": "04-16",
+      "likes": "647",
+      "url": "https://www.rednote.com/discovery/item/69e10224000000001d01c59c"
+    },
+    {
+      "title": "想要面部提升 做超声刀还是超声炮？",
+      "author": "八大处激光郭济菡",
+      "date": "06-30",
+      "likes": "110",
+      "url": "https://www.rednote.com/discovery/item/6a423f45000000002200bcd6"
+    },
+    {
+      "title": "十大酷刑一下占俩",
+      "author": "Kio鱼🎀",
+      "date": "09-15",
+      "likes": "6",
+      "url": "https://www.rednote.com/discovery/item/6aa8ef29000000000d026d18"
+    }
+  ]
+}

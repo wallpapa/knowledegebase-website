@@ -1,0 +1,1 @@
+no-material-change vs 0925 (gate 0.43): rollout wave persists (和光 13, 釜山 1, 尹泰彬 7) + 防伪 official (13) — same mix (2026-09-26 19:03)

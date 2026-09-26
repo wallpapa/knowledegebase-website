@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-26T19:03+07:00",
+  "method": "Fastpass v10 2-lane (9.8s wall); 微晶瓷 partial-render refetched to 10/10; 婴儿针 rendered 3 notes across 3 attempts (consistent — accepted as current true render, partial caveat); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "少女针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=少女针",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260925 (gate 0.78 new-concern): Ellansé positioning discourse builds around the 恒耀PRO launch — 伊妍仕，轮廓固定为什么非它不可？(欧恩助理, 09-15) contour-fixation framing; patient authenticity question persists (萱萱 24 — is-my-vial-genuine); 恒耀PRO launch note (8) + 梁雪冰不踩坑 (48) stable. Brand-generation watch continues.",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "伊妍仕，轮廓固定为什么非它不可？",
+      "author": "欧恩助理｜童颜美学",
+      "date": "09-15",
+      "likes": "6",
+      "url": "https://www.rednote.com/discovery/item/6a97d603000000002802dff9"
+    },
+    {
+      "title": "有懂得姐妹吗？帮我看看这个少女针是不是正",
+      "author": "萱萱",
+      "date": "06-24",
+      "likes": "24",
+      "url": "https://www.rednote.com/discovery/item/6a3b8555000000000f033a56"
+    },
+    {
+      "title": "关于再生材料你可能感兴趣的",
+      "author": "皮肤科于泳医生",
+      "date": "06-08",
+      "likes": "80",
+      "url": "https://www.rednote.com/discovery/item/6a269bd3000000000803d36c"
+    },
+    {
+      "title": "少女针不踩坑 | 黄金部位+用量打法干货",
+      "author": "八大处整形梁雪冰",
+      "date": "06-27",
+      "likes": "48",
+      "url": "https://www.rednote.com/discovery/item/6a3faa8e000000001101a80b"
+    },
+    {
+      "title": "伊妍仕恒耀PRO新品首发 | 归来伊是少女",
+      "author": "ELLANSE伊妍仕医疗器械",
+      "date": "08-27",
+      "likes": "8",
+      "url": "https://www.rednote.com/discovery/item/6a8fd2cb0000000025039fd9"
+    },
+    {
+      "title": "脸真的变紧了！",
+      "author": "上海九院方斌",
+      "date": "05-23",
+      "likes": "245",
+      "url": "https://www.rednote.com/discovery/item/6a103c1a0000000036032701"
+    },
+    {
+      "title": "伊妍仕少女针打鼻基底，不疼正常吗",
+      "author": "生活多美好",
+      "date": "6天前",
+      "likes": "9",
+      "url": "https://www.rednote.com/discovery/item/6aae8209000000001001c36c"
+    },
+    {
+      "title": "教你快速区分少女针和童颜针",
+      "author": "整形外科詹炜卿",
+      "date": "02-16",
+      "likes": "354",
+      "url": "https://www.rednote.com/discovery/item/6990301d000000000d008c44"
+    },
+    {
+      "title": "🇭🇰购物｜香港sasa少女针婴儿针囤到了🥳",
+      "author": "小玲姐ACE",
+      "date": "05-02",
+      "likes": "186",
+      "url": "https://www.rednote.com/discovery/item/69f5d7c8000000003501d1ca"
+    },
+    {
+      "title": "童颜针、少女针，到底该如何选？",
+      "author": "省人民孙燚",
+      "date": "02-15",
+      "likes": "56",
+      "url": "https://www.rednote.com/discovery/item/698edc10000000001a0284f9"
+    }
+  ]
+}
