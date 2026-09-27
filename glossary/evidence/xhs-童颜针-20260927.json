@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-27T19:03+07:00",
+  "method": "Fastpass v12 2-lane settle-wait (8.8s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "童颜针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=童颜针",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260926 (gate 0.69): FRESH high-engagement chooser video — 刚biu完💉一篇视频告诉你童颜应该怎么选！(娇点丨曹萍萍 1414, 09-20) + mechanism-explainer demand (童颜的原理 李洋 172 resurfacing); stacking note persists (张潇 74); 周双白 pair grows (186/71); chips stable (牌子排名/爱唯缇/时凝萃/肿胀期).",
+  "relatedQueries": [
+    "牌子排名",
+    "按摩手法",
+    "爱唯缇",
+    "真实反馈",
+    "时凝萃",
+    "肿胀期",
+    "效果对比",
+    "提升",
+    "水光",
+    "口周",
+    "副作用",
+    "法令纹",
+    "逆龄",
+    "结节",
+    "额头"
+  ],
+  "notes": [
+    {
+      "title": "1瓶塑妍萃，打出3瓶效果，核心韧带打法",
+      "author": "张潇 | 定制美学",
+      "date": "07-12",
+      "likes": "74",
+      "url": "https://www.rednote.com/discovery/item/6a5363ba0000000016025e01"
+    },
+    {
+      "title": "童颜针全攻略，一定要看完这个视频",
+      "author": "上海九院周双白",
+      "date": "09-08",
+      "likes": "186",
+      "url": "https://www.rednote.com/discovery/item/6a9f87de000000002803b0a5"
+    },
+    {
+      "title": "童颜的原理",
+      "author": "李洋医生",
+      "date": "03-11",
+      "likes": "172",
+      "url": "https://www.rednote.com/discovery/item/69b102ea0000000009020caf"
+    },
+    {
+      "title": "童颜针可以打在哪些位置？",
+      "author": "上海九院周双白",
+      "date": "09-12",
+      "likes": "71",
+      "url": "https://www.rednote.com/discovery/item/6aa367a7000000002902fa29"
+    },
+    {
+      "title": "刚biu完💉一篇视频告诉你童颜应该怎么选！",
+      "author": "娇点丨曹萍萍",
+      "date": "09-20",
+      "likes": "1414",
+      "url": "https://www.rednote.com/discovery/item/6a7022b60000000027021d0f"
+    },
+    {
+      "title": "相信一瓶童颜打全脸的可以划走了...",
+      "author": "整形外科王朝辉",
+      "date": "08-01",
+      "likes": "102",
+      "url": "https://www.rednote.com/discovery/item/6a6d9a670000000028001f39"
+    },
+    {
+      "title": "脸真的变紧了！",
+      "author": "上海九院方斌",
+      "date": "05-23",
+      "likes": "245",
+      "url": "https://www.rednote.com/discovery/item/6a103c1a0000000036032701"
+    },
+    {
+      "title": "长期打童颜脸会怎么样？",
+      "author": "上海九院梁奕敏",
+      "date": "06-03",
+      "likes": "348",
+      "url": "https://www.rednote.com/discovery/item/6a1eaaff0000000038036a45"
+    },
+    {
+      "title": "童颜是怎么刺激皮肤自身长胶原的❓",
+      "author": "三甲主任单继刚博士",
+      "date": "09-01",
+      "likes": "53",
+      "url": "https://www.rednote.com/discovery/item/6a953cd10000000021032afb"
+    },
+    {
+      "title": "玻尿酸，童颜针，Caha谁最厉害？",
+      "author": "八大处整形医生杨莉亚",
+      "date": "2小时前",
+      "likes": "3",
+      "url": "https://www.rednote.com/discovery/item/6ab48f510000000018018bed"
+    }
+  ]
+}

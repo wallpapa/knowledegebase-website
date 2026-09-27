@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-27T19:03+07:00",
+  "method": "Fastpass v12 2-lane settle-wait (8.8s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "热玛吉",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=热玛吉",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260926 (gate 0.63): CROSS-DEVICE STACKING — 大超炮➕热玛吉全层次抗衰 (李静助理, 2天前 — HIFU+RF full-layer combination, matching the combine doctrine and verzo's duo offerings); 郑春玲 半脸即刻 demo (5); core stable (施歌 5代vs4代 58, 新闻晨报 7943, 顺顺 10).",
+  "relatedQueries": [
+    "洛杉矶",
+    "厦门",
+    "南昌",
+    "第五代",
+    "长沙",
+    "昆明",
+    "上海",
+    "成都",
+    "郑州",
+    "沈阳",
+    "西安",
+    "青岛",
+    "武汉",
+    "韩国",
+    "大连"
+  ],
+  "notes": [
+    {
+      "title": "大超炮➕热玛吉全层次抗衰，细节决定成败❗",
+      "author": "李静助理｜热＆超抗衰导师",
+      "date": "2天前",
+      "likes": "16",
+      "url": "https://www.rednote.com/discovery/item/6ab499020000000012039101"
+    },
+    {
+      "title": "5代和4代热玛吉怎么选？",
+      "author": "施歌主任",
+      "date": "03-19",
+      "likes": "58",
+      "url": "https://www.rednote.com/discovery/item/69bbd0be000000002003a381"
+    },
+    {
+      "title": "沈梦辰透露“变美秘籍”",
+      "author": "新闻晨报",
+      "date": "04-19",
+      "likes": "7943",
+      "url": "https://www.rednote.com/discovery/item/69e48a060000000022026e86"
+    },
+    {
+      "title": "热玛吉5代真不疼啊",
+      "author": "🔆我是顺顺💭",
+      "date": "09-13",
+      "likes": "10",
+      "url": "https://www.rednote.com/discovery/item/6a9a64c9000000002803784d"
+    },
+    {
+      "title": "热玛吉半脸即刻～不止紧致更在提升",
+      "author": "郑春玲|重庆轻感热玛吉",
+      "date": "08-08",
+      "likes": "5",
+      "url": "https://www.rednote.com/discovery/item/6a698034000000002201af97"
+    },
+    {
+      "title": "避坑指南！热玛吉千万别乱打！",
+      "author": "上海九院王韵",
+      "date": "05-02",
+      "likes": "859",
+      "url": "https://www.rednote.com/discovery/item/69f32494000000003502f585"
+    },
+    {
+      "title": "超声炮&热玛吉傻傻分不清的看过来",
+      "author": "风举青云",
+      "date": "06-17",
+      "likes": "231",
+      "url": "https://www.rednote.com/discovery/item/6a3231f30000000008031bd5"
+    },
+    {
+      "title": "抗衰坦白局？要提升还是收紧？",
+      "author": "陳欣妍",
+      "date": "05-30",
+      "likes": "430",
+      "url": "https://www.rednote.com/discovery/item/6a1aaec0000000001002d000"
+    },
+    {
+      "title": "三甲医生每年都要做什么项目？",
+      "author": "上海华山医院皮肤科 段希蕾",
+      "date": "06-13",
+      "likes": "95",
+      "url": "https://www.rednote.com/discovery/item/6a2d37400000000017028d45"
+    },
+    {
+      "title": "热玛吉就是在烤肉？这2个真相你必须知道",
+      "author": "医美刘滢",
+      "date": "09-11",
+      "likes": "101",
+      "url": "https://www.rednote.com/discovery/item/6aa3e827000000002701410f"
+    }
+  ]
+}

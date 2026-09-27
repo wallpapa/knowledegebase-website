@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-27T19:03+07:00",
+  "method": "Fastpass v12 2-lane settle-wait (8.8s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "水光针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=水光针",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260926 (gate 0.66): OVERFILL-FEAR question applied to long-acting boosters — 长效水光会让你的脸馒化吗？(上海九院王韵 296, 07-10 — 馒化 fear migrating from fillers to 长效水光; third hospital doctor in the long-term discourse); base stable (刘滢 81, 段然 906, 彭掌门 471, 蒋丽雅 887). Maps to overfill/long-term topics.",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "水光这样调整深度和局部修饰 效果翻翻✅",
+      "author": "医美刘滢",
+      "date": "07-25",
+      "likes": "81",
+      "url": "https://www.rednote.com/discovery/item/6a64886b000000000f010da2"
+    },
+    {
+      "title": "长效水光会让你的脸馒化吗？",
+      "author": "上海九院王韵",
+      "date": "07-10",
+      "likes": "296",
+      "url": "https://www.rednote.com/discovery/item/6a50609e000000001c0267ee"
+    },
+    {
+      "title": "长期打水光，十年后会变成什么样？",
+      "author": "上海九院段然",
+      "date": "08-21",
+      "likes": "906",
+      "url": "https://www.rednote.com/discovery/item/6a858adb0000000005030f41"
+    },
+    {
+      "title": "三甲医生｜一句话总结10款热门水光✅",
+      "author": "抗衰彭掌门",
+      "date": "2025-11-21",
+      "likes": "471",
+      "url": "https://www.rednote.com/discovery/item/691ff5d6000000001e0369fc"
+    },
+    {
+      "title": "打完水光多久可以化妆？",
+      "author": "八大处蒋丽雅",
+      "date": "2025-10-28",
+      "likes": "887",
+      "url": "https://www.rednote.com/discovery/item/690066f50000000005010bc5"
+    },
+    {
+      "title": "4种不同的水光针，你的皮肤适合哪一种呢？",
+      "author": "上海韧带提升Dr姚",
+      "date": "09-01",
+      "likes": "16",
+      "url": "https://www.rednote.com/discovery/item/6a963441000000002601461c"
+    },
+    {
+      "title": "水光针这么做1+1>2，至少能年轻5岁",
+      "author": "上海九院段然",
+      "date": "6天前",
+      "likes": "53",
+      "url": "https://www.rednote.com/discovery/item/6aaf6dc4000000002902d2f8"
+    },
+    {
+      "title": "40+女生只用水光抗衰，三甲医生帮你整理",
+      "author": "上海九院周双白",
+      "date": "07-15",
+      "likes": "622",
+      "url": "https://www.rednote.com/discovery/item/6a55e970000000001702a296"
+    },
+    {
+      "title": "打水光会不会馒化？！",
+      "author": "赵寰宇｜台系美学",
+      "date": "05-27",
+      "likes": "21",
+      "url": "https://www.rednote.com/discovery/item/6a16be4e0000000006023e2c"
+    },
+    {
+      "title": "在公立医院打水光，是如何进行的？",
+      "author": "柴武斌医生",
+      "date": "09-02",
+      "likes": "219",
+      "url": "https://www.rednote.com/discovery/item/6a96f9f2000000000d025d63"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-27T19:03+07:00",
+  "method": "Fastpass v12 2-lane settle-wait (8.8s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "保妥适",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=保妥适",
+  "comparisonWithPrevious": "MATERIAL vs 20260926 (gate 0.70): NEW needle-count question — 100单位肉毒素 一共要打多少针？(厦门徐洋 147, 5天前 — injection-count practical question, extends the 100u/dosage discourse); NEW positioning notes: 全脸提升紧致不增容 (王俊 68, 2天前 — tighten-without-volume) + 全国首家保妥适额纹适应症授权上市机构 (MYLIKE美莱 — authorized-indication institutional marketing); 珍珠小黑盒 nickname persists.",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "Botox｜全脸提升｜紧致不增容",
+      "author": "王俊长期主义美学｜小助理",
+      "date": "2天前",
+      "likes": "68",
+      "url": "https://www.rednote.com/discovery/item/6ab62c970000000014002c24"
+    },
+    {
+      "title": "100单位肉毒素 一共要打多少针？",
+      "author": "厦门徐洋整形博士",
+      "date": "5天前",
+      "likes": "147",
+      "url": "https://www.rednote.com/discovery/item/6ab20049000000003602ba39"
+    },
+    {
+      "title": "来粤区打s脸，宝妥适vs珍珠小黑盒，怎么选？",
+      "author": "Lightmac莉美",
+      "date": "1天前",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6ab721d1000000000a01c237"
+    },
+    {
+      "title": "设计包月｜小红书美业保妥适水光设计",
+      "author": "橙意设计(包月)",
+      "date": "06-16",
+      "likes": "3",
+      "url": "https://www.rednote.com/discovery/item/6a30e04b000000001c02607d"
+    },
+    {
+      "title": "全国首家保妥适额纹适应症授权上市机构🏥",
+      "author": "MYLIKE北京美莱",
+      "date": "05-22",
+      "likes": "4",
+      "url": "https://www.rednote.com/discovery/item/6a0fb1dc0000000007027ecc"
+    },
+    {
+      "title": "进口和国产肉毒到底该怎么选呢？",
+      "author": "王星洁",
+      "date": "2025-05-23",
+      "likes": "3384",
+      "url": "https://www.rednote.com/discovery/item/68302a52000000002202c32a"
+    },
+    {
+      "title": "哥哥",
+      "author": "2025-10-14",
+      "date": "2025-10-14",
+      "likes": "7",
+      "url": "https://www.rednote.com/discovery/item/68edffdb00000000070035fb"
+    },
+    {
+      "title": "雅思必考|医美项目相关单词",
+      "author": "萌熊英语",
+      "date": "05-07",
+      "likes": "136",
+      "url": "https://www.rednote.com/discovery/item/69fc85a2000000001f0004de"
+    },
+    {
+      "title": "广药附一保妥适拼团2800",
+      "author": "李李李说",
+      "date": "6天前",
+      "likes": "37",
+      "url": "https://www.rednote.com/discovery/item/6ab0b92c000000003b0124f1"
+    },
+    {
+      "title": "抗衰不是选项目，而是找对衰老结构",
+      "author": "潘萍",
+      "date": "08-02",
+      "likes": "20",
+      "url": "https://www.rednote.com/discovery/item/6a6ef1f6000000003300a692"
+    }
+  ]
+}
