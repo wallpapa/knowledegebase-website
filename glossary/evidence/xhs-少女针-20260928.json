@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-28T01:02+07:00",
+  "method": "Fastpass v13 2-lane settle-wait (7.4s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "少女针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=少女针",
+  "comparisonWithPrevious": "MATERIAL vs 20260926 (gate 0.73 new-concern): IQ-TAX skepticism applied to the category — 少女针🪡童颜针🪡是智商税吗？一次性讲透！(整形医生茹扎 37) — is-it-a-ripoff framing joins the anti-hype family; NEW-product longevity framing 维持更久，回落更少？少女新品适合谁？(胡丽萍 65, 09-10 — 恒耀PRO-adjacent positioning); base persists (梁雪冰 48, 于泳 85).",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "少女针｜L-code&C-code打法全解析✨",
+      "author": "可丽尊享小助理",
+      "date": "04-23",
+      "likes": "13",
+      "url": "https://www.rednote.com/discovery/item/69e9da89000000001f031802"
+    },
+    {
+      "title": "少女针不踩坑 | 黄金部位+用量打法干货",
+      "author": "八大处整形梁雪冰",
+      "date": "06-27",
+      "likes": "48",
+      "url": "https://www.rednote.com/discovery/item/6a3faa8e000000001101a80b"
+    },
+    {
+      "title": "关于再生材料你可能感兴趣的",
+      "author": "皮肤科于泳医生",
+      "date": "06-08",
+      "likes": "85",
+      "url": "https://www.rednote.com/discovery/item/6a269bd3000000000803d36c"
+    },
+    {
+      "title": "少女针🪡童颜针🪡是智商税吗？一次性讲透！",
+      "author": "整形医生茹扎",
+      "date": "07-28",
+      "likes": "37",
+      "url": "https://www.rednote.com/discovery/item/6a68a832000000000a0388f9"
+    },
+    {
+      "title": "维持更久，回落更少？少女新品适合谁？",
+      "author": "胡丽萍小助理｜材料科普版",
+      "date": "09-10",
+      "likes": "65",
+      "url": "https://www.rednote.com/discovery/item/6aa29456000000002b000d8f"
+    },
+    {
+      "title": "脸真的变紧了！",
+      "author": "上海九院方斌",
+      "date": "05-23",
+      "likes": "245",
+      "url": "https://www.rednote.com/discovery/item/6a103c1a0000000036032701"
+    },
+    {
+      "title": "教你快速区分少女针和童颜针",
+      "author": "整形外科詹炜卿",
+      "date": "02-16",
+      "likes": "357",
+      "url": "https://www.rednote.com/discovery/item/6990301d000000000d008c44"
+    },
+    {
+      "title": "少女针到底能不能打，打了10年之后会怎么样",
+      "author": "整形医生司小强",
+      "date": "06-27",
+      "likes": "36",
+      "url": "https://www.rednote.com/discovery/item/6a324ad2000000001702f346"
+    },
+    {
+      "title": "童颜针、少女针，到底该如何选？",
+      "author": "省人民孙燚",
+      "date": "02-15",
+      "likes": "56",
+      "url": "https://www.rednote.com/discovery/item/698edc10000000001a0284f9"
+    },
+    {
+      "title": "有懂得姐妹吗？帮我看看这个少女针是不是正",
+      "author": "萱萱",
+      "date": "06-24",
+      "likes": "24",
+      "url": "https://www.rednote.com/discovery/item/6a3b8555000000000f033a56"
+    }
+  ]
+}

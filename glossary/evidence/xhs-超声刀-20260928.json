@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-28T01:02+07:00",
+  "method": "Fastpass v13 2-lane settle-wait (7.4s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "超声刀",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=超声刀",
+  "comparisonWithPrevious": "MATERIAL vs 20260926 (gate 0.74 brand-device-shift): CROSS-MARKET question — 韩国爆火的 Onda、美版超声刀，为什么国内… (美业范律师 228, 4天前 — why Korea-hot Onda + US-version Ultherapy lag in the mainland: market-comparison discourse) + 不用飞🇰🇷也能有「韩女同款」K衰体验 (张红畅丨澳玛星光 50 — no-need-to-fly-to-Korea domestic-substitute framing — directly relevant to Bangkok's geo positioning vs Korea); chips gained 热玛吉 (cross-term) + 日本; Ultherapy-Prime review + 美版验真 persist from 0926.",
+  "relatedQueries": [
+    "日本",
+    "美版二代",
+    "香港",
+    "韩国",
+    "改善法令纹",
+    "第三代",
+    "热玛吉",
+    "首尔",
+    "肽提升",
+    "双下巴",
+    "方圆脸",
+    "护理",
+    "眼部",
+    "仪器",
+    "能量"
+  ],
+  "notes": [
+    {
+      "title": "深扒美版超声dao的工作原理",
+      "author": "滨海湾医疗器械",
+      "date": "09-13",
+      "likes": "4",
+      "url": "https://www.rednote.com/discovery/item/6aa68fc8000000001401e9cc"
+    },
+    {
+      "title": "抗衰坦白局？要提升还是收紧？",
+      "author": "陳欣妍",
+      "date": "05-30",
+      "likes": "430",
+      "url": "https://www.rednote.com/discovery/item/6a1aaec0000000001002d000"
+    },
+    {
+      "title": "美版超声刀解析：技术上限与亚洲皮肤的适配",
+      "author": "皮肤科于泳医生",
+      "date": "09-11",
+      "likes": "23",
+      "url": "https://www.rednote.com/discovery/item/6aa3d194000000002802d8d2"
+    },
+    {
+      "title": "韩国爆火的 Onda、美版超声刀，为什么国内",
+      "author": "美业范律师",
+      "date": "4天前",
+      "likes": "228",
+      "url": "https://www.rednote.com/discovery/item/6a9565b8000000002501d321"
+    },
+    {
+      "title": "不用飞🇰🇷也能有「韩女同款 」K衰体验",
+      "author": "张红畅丨澳玛星光",
+      "date": "09-15",
+      "likes": "50",
+      "url": "https://www.rednote.com/discovery/item/6a50b57d000000000701263e"
+    },
+    {
+      "title": "超声刀（Ultherapy/Ulthera），是一类利用聚焦",
+      "author": "美奈-Minako",
+      "date": "06-28",
+      "likes": "70",
+      "url": "https://www.rednote.com/discovery/item/6a40f7cd000000000e031400"
+    },
+    {
+      "title": "超声刀大白话科普",
+      "author": "晶晶不胖",
+      "date": "04-16",
+      "likes": "649",
+      "url": "https://www.rednote.com/discovery/item/69e10224000000001d01c59c"
+    },
+    {
+      "title": "想比同龄人更年轻，选什么仪器？",
+      "author": "上海九院王韵",
+      "date": "08-05",
+      "likes": "1588",
+      "url": "https://www.rednote.com/discovery/item/6a71d0a80000000006004673"
+    },
+    {
+      "title": "想要面部提升 做超声刀还是超声炮？",
+      "author": "八大处激光郭济菡",
+      "date": "06-30",
+      "likes": "111",
+      "url": "https://www.rednote.com/discovery/item/6a423f45000000002200bcd6"
+    },
+    {
+      "title": "真正能延缓衰老的光电项目",
+      "author": "整形医生颜玲主任",
+      "date": "08-06",
+      "likes": "102",
+      "url": "https://www.rednote.com/discovery/item/6a74526600000000250140b6"
+    }
+  ]
+}
