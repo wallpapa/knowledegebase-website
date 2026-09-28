@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-28T07:02+07:00",
+  "method": "Fastpass v14 2-lane settle-wait (8.4s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "泰国医美",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=泰国医美",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260927 (gate 0.72 new-concern): FRESH direct-intent patient question — 曼谷有没有靠谱的医美机构嗷 (挂机小白, 7小时前) — 'are there reliable aesthetics clinics in Bangkok' asked plainly; pairs with 曼谷真香警告 positive-verdict note (2天前) — direct validation of the shipped bangkok-clinic-verification-guide article's intent; base promo set persists (KKC, Jules 59, SET明月 50).",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "小测试｜KKC医生老师的手，到底有多稳？",
+      "author": "KKC Aesthetic TH",
+      "date": "07-08",
+      "likes": "7",
+      "url": "https://www.rednote.com/discovery/item/6a47590200000000200382e9"
+    },
+    {
+      "title": "曼谷真香警告！",
+      "author": "琳达",
+      "date": "2天前",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6ab5f2b1000000001303edb4"
+    },
+    {
+      "title": "听说曼谷是最好的美容护理城市之一",
+      "author": "Jules悉尼生活分享",
+      "date": "09-15",
+      "likes": "59",
+      "url": "https://www.rednote.com/discovery/item/6aa56eeb000000002601d59a"
+    },
+    {
+      "title": "曼谷有没有靠谱的医美机构嗷",
+      "author": "挂机小白",
+      "date": "7小时前",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6ab8f52d000000001c00c591"
+    },
+    {
+      "title": "曼谷变美日记",
+      "author": "泰国SET明月",
+      "date": "09-07",
+      "likes": "50",
+      "url": "https://www.rednote.com/discovery/item/6a9e8efd000000001401369c"
+    },
+    {
+      "title": "曼谷探店官 Bangkok Discovery",
+      "author": "09-08",
+      "date": "09-08",
+      "likes": "43",
+      "url": "https://www.rednote.com/discovery/item/6a9d5da70000000026031289"
+    },
+    {
+      "title": "泰国中文社",
+      "author": "09-06",
+      "date": "09-06",
+      "likes": "1001",
+      "url": "https://www.rednote.com/discovery/item/6a9cfbff000000002802ddbc"
+    },
+    {
+      "title": "SSC STRATEGY STUDIO",
+      "author": "09-06",
+      "date": "09-06",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6a9caf24000000001001c018"
+    },
+    {
+      "title": "亚洲TOP50｜KKC受邀出席海菲秀颁奖典礼",
+      "author": "KKC曼谷",
+      "date": "08-10",
+      "likes": "2",
+      "url": "https://www.rednote.com/discovery/item/6a742b9e000000000502b39a"
+    },
+    {
+      "title": "KKC暹罗百丽宫分店一家人一起庆祝宋丹节💦",
+      "author": "Angie 曼谷生活",
+      "date": "04-15",
+      "likes": "4",
+      "url": "https://www.rednote.com/discovery/item/69de899100000000210053a3"
+    }
+  ]
+}

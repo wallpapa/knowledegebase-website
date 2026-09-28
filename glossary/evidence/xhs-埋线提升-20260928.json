@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-28T07:02+07:00",
+  "method": "Fastpass v14 2-lane settle-wait (8.4s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "埋线提升",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=埋线提升",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260927 (gate 0.82 new-concern): QUALITY-PARAMETER question — 想做线雕，线材如何选择？力度越大越好吗？(韩胜线雕小助理 120, 07-27 — thread-material selection + is-more-tension-better, a technique-parameter question for patients) + the 十年后 long-term question MULTIPLYING (宋玉龙 09-11 — another doctor's version joins 范巨峰's); iteration-series + revival persist (孙奔 67, 王文进 48); chips = geo set + 韩国.",
+  "relatedQueries": [
+    "北京",
+    "武汉",
+    "韩国",
+    "真实案例",
+    "上海",
+    "成都",
+    "杭州",
+    "法令纹",
+    "双眼皮",
+    "对比图",
+    "苹果肌",
+    "高级感",
+    "快速恢复",
+    "方圆脸",
+    "医生"
+  ],
+  "notes": [
+    {
+      "title": "2026迎来真正的线技术迭代！不变宽不僵硬",
+      "author": "杭州孙奔｜助理",
+      "date": "08-10",
+      "likes": "67",
+      "url": "https://www.rednote.com/discovery/item/6a798f260000000022032c89"
+    },
+    {
+      "title": "做过线雕的人 现在怎么样了？",
+      "author": "整形外科王朝辉",
+      "date": "08-16",
+      "likes": "31",
+      "url": "https://www.rednote.com/discovery/item/6a801dca0000000028008843"
+    },
+    {
+      "title": "线雕十年后会怎么样❓",
+      "author": "宋玉龙",
+      "date": "09-11",
+      "likes": "5",
+      "url": "https://www.rednote.com/discovery/item/6aa3e2d7000000002802c8ff"
+    },
+    {
+      "title": "线雕现在还能做吗？为什么又开始火起来了？",
+      "author": "上海九院王文进医生",
+      "date": "08-31",
+      "likes": "48",
+      "url": "https://www.rednote.com/discovery/item/6a915c7d00000000240054a6"
+    },
+    {
+      "title": "想做线雕，线材如何选择？力度越大越好吗？",
+      "author": "韩胜线雕小助理 | 口角囊袋下颌缘",
+      "date": "07-27",
+      "likes": "120",
+      "url": "https://www.rednote.com/discovery/item/6a6723f9000000000f02aa83"
+    },
+    {
+      "title": "原来是小武",
+      "author": "6天前",
+      "date": "6天前",
+      "likes": "11",
+      "url": "https://www.rednote.com/discovery/item/6ab0ef23000000003703eb54"
+    },
+    {
+      "title": "就这么打，脸不垮了！",
+      "author": "陈颖助理｜童颜韧带支架提升",
+      "date": "09-17",
+      "likes": "39",
+      "url": "https://www.rednote.com/discovery/item/6aabc2ce000000002b0012b7"
+    },
+    {
+      "title": "2026迎来真正的线技术迭代！不变宽不僵硬",
+      "author": "杭州孙奔｜助理",
+      "date": "08-22",
+      "likes": "74",
+      "url": "https://www.rednote.com/discovery/item/6a896a4a0000000016020686"
+    },
+    {
+      "title": "除非你的脸部很下垂了,那就很适合你",
+      "author": "Joann提升你的美",
+      "date": "06-26",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6a3df10b000000000e021800"
+    },
+    {
+      "title": "谁懂面部提升的含金量？真的好像年轻了10岁",
+      "author": "陈颖助理｜童颜韧带支架提升",
+      "date": "02-18",
+      "likes": "32",
+      "url": "https://www.rednote.com/discovery/item/6989d6e3000000001a025667"
+    }
+  ]
+}
