@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-30T01:03+07:00",
+  "method": "Fastpass v17 2-lane settle-wait (8.9s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage (API errored on 线雕 — manual only) + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "泰国医美",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=泰国医美",
+  "comparisonWithPrevious": "MATERIAL vs 20260928 (gate 0.72): CHIANG MAI geo-expansion with safety skepticism — 敢在清迈做医美，胆子真是肥嘟嘟 (分期喝雪王 16, 1天前 — 'brave enough to do aesthetics in Chiang Mai' mocking framing: a second Thai city entering discourse WITH trust doubt attached — contrasts Bangkok trust-building) + the direct-intent questions persist (靠谱机构 2天前, 真香 4天前); base promo set stable.",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "敢在清迈做医美，胆子真是肥嘟嘟",
+      "author": "分期喝雪王",
+      "date": "1天前",
+      "likes": "16",
+      "url": "https://www.rednote.com/discovery/item/6ab91d1d000000001a033bb1"
+    },
+    {
+      "title": "听说曼谷是最好的美容护理城市之一",
+      "author": "Jules悉尼生活分享",
+      "date": "09-15",
+      "likes": "59",
+      "url": "https://www.rednote.com/discovery/item/6aa56eeb000000002601d59a"
+    },
+    {
+      "title": "曼谷真香警告！",
+      "author": "琳达",
+      "date": "4天前",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6ab5f2b1000000001303edb4"
+    },
+    {
+      "title": "曼谷有没有靠谱的医美机构嗷",
+      "author": "挂机小白",
+      "date": "2天前",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6ab8f52d000000001c00c591"
+    },
+    {
+      "title": "小测试｜KKC医生老师的手，到底有多稳？",
+      "author": "KKC Aesthetic TH",
+      "date": "07-08",
+      "likes": "7",
+      "url": "https://www.rednote.com/discovery/item/6a47590200000000200382e9"
+    },
+    {
+      "title": "曼谷探店官 Bangkok Discovery",
+      "author": "09-08",
+      "date": "09-08",
+      "likes": "44",
+      "url": "https://www.rednote.com/discovery/item/6a9d5da70000000026031289"
+    },
+    {
+      "title": "Lena的精致小脸秘诀✨",
+      "author": "Aura 奥拉美学",
+      "date": "3天前",
+      "likes": "110",
+      "url": "https://www.rednote.com/discovery/item/6ab7664c0000000019030090"
+    },
+    {
+      "title": "曼谷美学｜遇见更美的自己",
+      "author": "Bangkok Secret 皮肤管理",
+      "date": "01-26",
+      "likes": "4",
+      "url": "https://www.rednote.com/discovery/item/697709a1000000000b0113bf"
+    },
+    {
+      "title": "曼谷变美日记",
+      "author": "泰国SET明月",
+      "date": "09-07",
+      "likes": "52",
+      "url": "https://www.rednote.com/discovery/item/6a9e8efd000000001401369c"
+    },
+    {
+      "title": "亚洲TOP50｜KKC受邀出席海菲秀颁奖典礼",
+      "author": "KKC曼谷",
+      "date": "08-10",
+      "likes": "2",
+      "url": "https://www.rednote.com/discovery/item/6a742b9e000000000502b39a"
+    }
+  ]
+}

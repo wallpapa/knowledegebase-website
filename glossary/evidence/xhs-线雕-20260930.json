@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-30T01:03+07:00",
+  "method": "Fastpass v17 2-lane settle-wait (8.9s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage (API errored on 线雕 — manual only) + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "线雕",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=线雕",
+  "comparisonWithPrevious": "MATERIAL vs 20260928 (manual — gate API errored): the 10-YEAR question reaches #1 — 做线D十年后会怎么样？(杭州孙奔丨抗衰全链路 — 孙奔 now leads with his own 十年后 version; the long-term discourse family tops the term) + NAMING FAMILY GROWS AGAIN — 为什么我从来不做传统线雕，要做反向提升 (武汉陈娟｜胶原小绷带提升, 4天前, 53 — the 0923 逆向提升 note now branded 反向提升 + NEW name 胶原小绷带提升/collagen-bandage-lift); revival + 王文进 questions persist (51). Decode article's family coverage extends.",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "做线D十年后会怎么样？",
+      "author": "杭州孙奔丨抗衰全链路",
+      "date": "",
+      "likes": "",
+      "url": "https://www.rednote.com/discovery/item/6ab8ad0700000000140002e5"
+    },
+    {
+      "title": "做过线雕的人，十年后脸会变成什么样？#整",
+      "author": "整形外科范巨峰医生",
+      "date": "06-21",
+      "likes": "300",
+      "url": "https://www.rednote.com/discovery/item/6a354ba500000000060339db"
+    },
+    {
+      "title": "线雕现在还能做吗？为什么又开始火起来了？",
+      "author": "上海九院王文进医生",
+      "date": "08-31",
+      "likes": "51",
+      "url": "https://www.rednote.com/discovery/item/6a915c7d00000000240054a6"
+    },
+    {
+      "title": "做过线雕的人 现在怎么样了？",
+      "author": "整形外科王朝辉",
+      "date": "08-16",
+      "likes": "31",
+      "url": "https://www.rednote.com/discovery/item/6a801dca0000000028008843"
+    },
+    {
+      "title": "为什么我从来不做传统线雕，要做反向提升",
+      "author": "武汉陈娟｜胶原小绷带提升",
+      "date": "4天前",
+      "likes": "53",
+      "url": "https://www.rednote.com/discovery/item/6a9a7b59000000000b00db97"
+    },
+    {
+      "title": "筋膜提升🆚线雕，一次性讲清楚！",
+      "author": "面部提升 宋超超",
+      "date": "09-21",
+      "likes": "20",
+      "url": "https://www.rednote.com/discovery/item/6ab0ebcd00000000330277f9"
+    },
+    {
+      "title": "2026年，线雕终于又好起来了",
+      "author": "王永书",
+      "date": "07-17",
+      "likes": "33",
+      "url": "https://www.rednote.com/discovery/item/6a44df8e000000001702fc60"
+    },
+    {
+      "title": "就这么打，脸不垮了！",
+      "author": "陈颖助理｜童颜韧带支架提升",
+      "date": "09-17",
+      "likes": "44",
+      "url": "https://www.rednote.com/discovery/item/6aabc2ce000000002b0012b7"
+    },
+    {
+      "title": "面部提升就是线雕？",
+      "author": "上海面部五件套Dr.张｜小助理",
+      "date": "03-31",
+      "likes": "6",
+      "url": "https://www.rednote.com/discovery/item/69cba02000000000210137bc"
+    },
+    {
+      "title": "线雕核心迭代在哪里？线材是基础！",
+      "author": "杭州孙奔｜助理",
+      "date": "09-18",
+      "likes": "25",
+      "url": "https://www.rednote.com/discovery/item/6aad1fa5000000002802fb5f"
+    }
+  ]
+}
