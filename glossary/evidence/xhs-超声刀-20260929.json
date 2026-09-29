@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-29T19:02+07:00",
+  "method": "Fastpass v16 2-lane settle-wait (8.9s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "超声刀",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=超声刀",
+  "comparisonWithPrevious": "MATERIAL vs 20260928 (gate 0.76 caution-risk): the machine-authenticity discourse ESCALATES to scam-report framing — 亲身经历的美版超声刀骗局 (小红薯 63, 08-25 — personal-experience US-version Ultherapy scam report; builds on the 0926 验真 question) + efficacy-doubt question 它具体起的啥作用，我咋没作用 (1小时前) + fresh geo promos (重庆/成都, 2-3小时前) and 碧爱丽思 美版 promo (2小时前); chips gained 对比. Verification/scam discourse maps to shipped checklist content.",
+  "relatedQueries": [
+    "日本",
+    "美版二代",
+    "杭州",
+    "韩国",
+    "改善法令纹",
+    "对比",
+    "第三代",
+    "肽提升",
+    "方圆脸",
+    "首尔",
+    "真实经验",
+    "护理",
+    "双下巴",
+    "眼部",
+    "能量"
+  ],
+  "notes": [
+    {
+      "title": "美版超声刀✨ 关注面部松弛感",
+      "author": "碧爱丽思总店 | 美容咨询",
+      "date": "2小时前",
+      "likes": "",
+      "url": "https://www.rednote.com/discovery/item/6aba25e8000000001b033289"
+    },
+    {
+      "title": "解锁重庆",
+      "author": "3小时前",
+      "date": "3小时前",
+      "likes": "2",
+      "url": "https://www.rednote.com/discovery/item/6abb7bd4000000001501530e"
+    },
+    {
+      "title": "亲身经历的美版超声刀骗局",
+      "author": "小红薯",
+      "date": "08-25",
+      "likes": "63",
+      "url": "https://www.rednote.com/discovery/item/6a8da1d5000000002003601d"
+    },
+    {
+      "title": "它具体起的啥作用，我咋没作用",
+      "author": "这号不能",
+      "date": "1小时前",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6abb931d000000001303fd18"
+    },
+    {
+      "title": "「成都」超声刀，面部轮廓提升👆~",
+      "author": "成都桦萱丨动态美学",
+      "date": "2小时前",
+      "likes": "3",
+      "url": "https://www.rednote.com/discovery/item/6abb890f000000001b02d599"
+    },
+    {
+      "title": "真正能延缓衰老的光电项目",
+      "author": "整形医生颜玲主任",
+      "date": "08-06",
+      "likes": "105",
+      "url": "https://www.rednote.com/discovery/item/6a74526600000000250140b6"
+    },
+    {
+      "title": "刚体验完…一篇讲清楚大超炮的刀头&炮头",
+      "author": "皮肤科于泳医生",
+      "date": "08-19",
+      "likes": "57",
+      "url": "https://www.rednote.com/discovery/item/6a8581ea000000002500e4e3"
+    },
+    {
+      "title": "30+疲态脸，为什么首选大超炮1分钟讲明白",
+      "author": "郭文丽光电抗衰｜助理",
+      "date": "4天前",
+      "likes": "13",
+      "url": "https://www.rednote.com/discovery/item/6ab4f454000000000a024c1c"
+    },
+    {
+      "title": "桐心美学本店",
+      "author": "08-04",
+      "date": "08-04",
+      "likes": "16",
+      "url": "https://www.rednote.com/discovery/item/6a718ef6000000002402e5da"
+    },
+    {
+      "title": "💜紧致VS提拉💛，你选对了吗❓",
+      "author": "Bloom绽颜｜美容咨询",
+      "date": "07-27",
+      "likes": "10",
+      "url": "https://www.rednote.com/discovery/item/6a673356000000000101d060"
+    }
+  ]
+}

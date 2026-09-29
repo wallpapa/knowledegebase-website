@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-09-29T19:02+07:00",
+  "method": "Fastpass v16 2-lane settle-wait (8.9s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "少女针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=少女针",
+  "comparisonWithPrevious": "MATERIAL vs 20260928 (gate 0.72 brand-device-shift): 10-YEAR long-term question MIGRATES to this category — 少女针到底能不能打，打了10年之后会怎么样 (司小强 37 — the 十年后 discourse family now spans 线雕/水光/少女针) + 恒耀PRO longevity question at HIGH engagement — 黄金少女恒耀，维持时间更久，回落更少？(王永书 334, 6天前 — the new-product watch from 0925 gaining traction); base persists (丽妍常 118, 梁雪冰 48, 于泳 88).",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "科普 | 童颜针和少女针有什么区别？",
+      "author": "丽妍常医疗器械",
+      "date": "07-15",
+      "likes": "118",
+      "url": "https://www.rednote.com/discovery/item/6a5737b6000000001603fb53"
+    },
+    {
+      "title": "少女针不踩坑 | 黄金部位+用量打法干货",
+      "author": "八大处整形梁雪冰",
+      "date": "06-27",
+      "likes": "48",
+      "url": "https://www.rednote.com/discovery/item/6a3faa8e000000001101a80b"
+    },
+    {
+      "title": "关于再生材料你可能感兴趣的",
+      "author": "皮肤科于泳医生",
+      "date": "06-08",
+      "likes": "88",
+      "url": "https://www.rednote.com/discovery/item/6a269bd3000000000803d36c"
+    },
+    {
+      "title": "少女针到底能不能打，打了10年之后会怎么样",
+      "author": "整形医生司小强",
+      "date": "06-27",
+      "likes": "37",
+      "url": "https://www.rednote.com/discovery/item/6a324ad2000000001702f346"
+    },
+    {
+      "title": "黄金少女恒耀，维持时间更久，回落更少？",
+      "author": "王永书",
+      "date": "6天前",
+      "likes": "334",
+      "url": "https://www.rednote.com/discovery/item/6aaa07090000000026023665"
+    },
+    {
+      "title": "少女针❗️不了解清楚这3点别轻易打",
+      "author": "八大处整形梁雪冰",
+      "date": "06-25",
+      "likes": "13",
+      "url": "https://www.rednote.com/discovery/item/6a3cccf8000000002201accb"
+    },
+    {
+      "title": "教你快速区分少女针和童颜针",
+      "author": "整形外科詹炜卿",
+      "date": "02-16",
+      "likes": "358",
+      "url": "https://www.rednote.com/discovery/item/6990301d000000000d008c44"
+    },
+    {
+      "title": "打童颜针和少女针，10年后脸会怎么样？",
+      "author": "上海九院周双白",
+      "date": "03-30",
+      "likes": "111",
+      "url": "https://www.rednote.com/discovery/item/69ca395d000000001a02f858"
+    },
+    {
+      "title": "童颜针、少女针，到底该如何选？",
+      "author": "省人民孙燚",
+      "date": "02-15",
+      "likes": "57",
+      "url": "https://www.rednote.com/discovery/item/698edc10000000001a0284f9"
+    },
+    {
+      "title": "🇭🇰购物｜香港sasa少女针婴儿针囤到了🥳",
+      "author": "小玲姐ACE",
+      "date": "05-02",
+      "likes": "187",
+      "url": "https://www.rednote.com/discovery/item/69f5d7c8000000003501d1ca"
+    }
+  ]
+}
