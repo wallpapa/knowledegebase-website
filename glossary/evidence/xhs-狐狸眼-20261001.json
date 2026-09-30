@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-10-01T01:02+07:00",
+  "method": "Fastpass v19 2-lane settle-wait (8.6s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "狐狸眼",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=狐狸眼",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260929 (gate 0.74): PROCEDURE content displacing makeup templates — 狐系媚眼飞针，眼部状态up (谭文立丨一针飞眼尾小助理 47, 09-16 — flying-needle fox-eye THREAD technique) + consultation-framing note 上海双眼皮～问问老己狐狸眼要不要 (刘宇银 78, 09-23) enter top while makeup-tutorial entries drop; the fake-case exposé (李文琳 455) and eye-type comparison (段波 3100) persist. Term skew shifts from cosmetic-template toward procedure/consultation — verzo's Endoline/foxy-eye content angle.",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "狐系媚眼飞针，眼部状态up up！！",
+      "author": "谭文立丨一针飞眼尾小助理",
+      "date": "09-16",
+      "likes": "47",
+      "url": "https://www.rednote.com/discovery/item/6a98d3770000000011032ed3"
+    },
+    {
+      "title": "4种常见眼型对比，你更适合哪一种？",
+      "author": "省妇幼整形美容专家段波",
+      "date": "02-24",
+      "likes": "3100",
+      "url": "https://www.rednote.com/discovery/item/699b207c000000000b00a597"
+    },
+    {
+      "title": "快来看看你是什么眼型？有没有你？",
+      "author": "一附院吴晨雯｜杨红华团队",
+      "date": "08-26",
+      "likes": "123",
+      "url": "https://www.rednote.com/discovery/item/6a8eb440000000000502b893"
+    },
+    {
+      "title": "揭秘:狐狸眼眼尾上扬，都是假案例！",
+      "author": "上海整形医生李文琳",
+      "date": "08-27",
+      "likes": "455",
+      "url": "https://www.rednote.com/discovery/item/6a671364000000000e03783f"
+    },
+    {
+      "title": "上海双眼皮～问问老己狐狸眼要不要❓",
+      "author": "上海刘宇银双眼皮｜助理",
+      "date": "09-23",
+      "likes": "78",
+      "url": "https://www.rednote.com/discovery/item/6ab3ae2b000000000a027854"
+    },
+    {
+      "title": "狐系眼素颜的时候很好看",
+      "author": "八大处整形医生周经",
+      "date": "08-26",
+      "likes": "45",
+      "url": "https://www.rednote.com/discovery/item/6a8eae22000000002501dab8"
+    },
+    {
+      "title": "新手0基础！淡颜换头！重塑骨相日常狐系眼妆",
+      "author": "hello大土",
+      "date": "06-02",
+      "likes": "5392",
+      "url": "https://www.rednote.com/discovery/item/6a1c070800000000350304ad"
+    },
+    {
+      "title": "4 种热门眼型对照✨看看你是狐狸眼 / 桃花",
+      "author": "西安眼整形王本锋",
+      "date": "09-07",
+      "likes": "163",
+      "url": "https://www.rednote.com/discovery/item/6a9e78bf000000001001d3d4"
+    },
+    {
+      "title": "是你碎碎念的狐系眼模板吗❓❗❗",
+      "author": "汪雅双眼皮",
+      "date": "03-30",
+      "likes": "311",
+      "url": "https://www.rednote.com/discovery/item/69ca390c0000000022029a06"
+    },
+    {
+      "title": "鹤壁同城抗衰成长记",
+      "author": "08-06",
+      "date": "08-06",
+      "likes": "77",
+      "url": "https://www.rednote.com/discovery/item/6a734d11000000002c0032c9"
+    }
+  ]
+}
