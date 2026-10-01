@@ -1,0 +1,1 @@
+no-material-change vs 0930 (gate 0.62, refetch 10/10): same core composition (PK 81, 施歌 61, 刘滢 107, 风举青云 242, 罗玉燕 cartridge 21) with drift (2026-10-02 01:06)

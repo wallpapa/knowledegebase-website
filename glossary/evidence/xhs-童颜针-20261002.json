@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-10-02T01:03+07:00",
+  "method": "Fastpass v21 2-lane (9.8s wall); 3 partial-render terms (水光针/热玛吉/丽珠兰) warm-refetched to 10/10 (double-fetch noted); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "童颜针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=童颜针",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260930 (gate 0.73): the 9-BRAND mega-comparison resurfaces at HIGH engagement — 【九款童颜】区别点超详解！看懂省百万 (张亚航 1495, 02-01 — direct validation of the shipped tongyan-brand-war article's intent) + 梁雪冰 pair (翻车 self-check 81 + 印第安纹 material-comparison 132); PK-note persists cross-term (81); chips stable (牌子排名/真实测评/乐普/时凝萃/肿胀期).",
+  "relatedQueries": [
+    "香港",
+    "牌子排名",
+    "真实测评",
+    "乐普",
+    "按摩手法",
+    "韧带提升",
+    "时凝萃",
+    "肿胀期",
+    "口周",
+    "副作用",
+    "法令纹",
+    "水光针",
+    "恢复期",
+    "额头",
+    "结节"
+  ],
+  "notes": [
+    {
+      "title": "【九款童颜】区别点超详解！看懂省百万❗",
+      "author": "张亚航｜原生美学助理",
+      "date": "02-01",
+      "likes": "1495",
+      "url": "https://www.rednote.com/discovery/item/697ca905000000000a03f4a8"
+    },
+    {
+      "title": "关于再生材料你可能感兴趣的",
+      "author": "皮肤科于泳医生",
+      "date": "06-08",
+      "likes": "88",
+      "url": "https://www.rednote.com/discovery/item/6a269bd3000000000803d36c"
+    },
+    {
+      "title": "童颜针翻车！结节、馒化你中了哪条？",
+      "author": "八大处整形梁雪冰",
+      "date": "06-05",
+      "likes": "81",
+      "url": "https://www.rednote.com/discovery/item/6a22a511000000003502be66"
+    },
+    {
+      "title": "印第安纹填充材料对比",
+      "author": "八大处整形梁雪冰",
+      "date": "04-16",
+      "likes": "132",
+      "url": "https://www.rednote.com/discovery/item/69e0bd5a000000002301323b"
+    },
+    {
+      "title": "收紧PK ❗️童颜🆚热玛吉，哪个更适合你",
+      "author": "廖孟南｜助理",
+      "date": "06-21",
+      "likes": "81",
+      "url": "https://www.rednote.com/discovery/item/6a36744d0000000017029108"
+    },
+    {
+      "title": "一条视频讲清楚，热门再生材料怎么选？",
+      "author": "整形医生王晨羽",
+      "date": "09-23",
+      "likes": "14",
+      "url": "https://www.rednote.com/discovery/item/6ab3a83c000000001203c27f"
+    },
+    {
+      "title": "童颜的真相 第2集！连打3次的骗局？扎心了",
+      "author": "王浩钧钻研美容的小王哥哥",
+      "date": "04-15",
+      "likes": "2106",
+      "url": "https://www.rednote.com/discovery/item/68e2585b0000000005033039"
+    },
+    {
+      "title": "长期打童颜脸会怎么样？",
+      "author": "上海九院梁奕敏",
+      "date": "06-03",
+      "likes": "362",
+      "url": "https://www.rednote.com/discovery/item/6a1eaaff0000000038036a45"
+    },
+    {
+      "title": "教你快速区分少女针和童颜针",
+      "author": "整形外科詹炜卿",
+      "date": "02-16",
+      "likes": "361",
+      "url": "https://www.rednote.com/discovery/item/6990301d000000000d008c44"
+    },
+    {
+      "title": "童颜针和胶原✅到底怎么选",
+      "author": "八大处整形梁雪冰",
+      "date": "07-28",
+      "likes": "72",
+      "url": "https://www.rednote.com/discovery/item/6a6889a8000000001102ca04"
+    }
+  ]
+}

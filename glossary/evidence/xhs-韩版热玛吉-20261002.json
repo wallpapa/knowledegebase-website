@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-10-02T01:03+07:00",
+  "method": "Fastpass v21 2-lane (9.8s wall); 3 partial-render terms (水光针/热玛吉/丽珠兰) warm-refetched to 10/10 (double-fetch noted); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "韩版热玛吉",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=韩版热玛吉",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260930 (gate 0.84 brand-device-shift): KOREAN RF DEVICE enters the term — 火爆小韩的Oligiox到底是什么｜为什么更适合 (facematter专家 17, 04-16 — Oligio X (misspelled Oligiox) promoted as hot-in-Korea on the Korean-Thermage term — cross-device discourse: Korean RF vs Korean-technique Thermage confusion angle); 김나영 cluster persists (80); 第六代 framing (44).",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "韩式热玛吉到底是什么？",
+      "author": "李知垠在深圳",
+      "date": "08-22",
+      "likes": "12",
+      "url": "https://www.rednote.com/discovery/item/6a87c3d000000000350153ee"
+    },
+    {
+      "title": "韩式红绿灯热玛吉打法，半脸即刻夯到爆！",
+      "author": "김나영金娜莹",
+      "date": "09-03",
+      "likes": "3",
+      "url": "https://www.rednote.com/discovery/item/6a9938fb000000002802ca4e"
+    },
+    {
+      "title": "不敷麻韩式热玛吉，为什么都只认准她？",
+      "author": "김나영金娜莹",
+      "date": "09-21",
+      "likes": "80",
+      "url": "https://www.rednote.com/discovery/item/6aa3b51a0000000011037a2b"
+    },
+    {
+      "title": "韩国疯狂打Call的第六代热玛吉",
+      "author": "Coweroay医疗器械",
+      "date": "2025-11-01",
+      "likes": "44",
+      "url": "https://www.rednote.com/discovery/item/6905fc410000000005038848"
+    },
+    {
+      "title": "火爆小韩的Oligiox到底是什么｜为什么更适合",
+      "author": "facematter专家",
+      "date": "04-16",
+      "likes": "17",
+      "url": "https://www.rednote.com/discovery/item/69e0a43f0000000022028a24"
+    },
+    {
+      "title": "韩式热玛吉5D发带 夯中之夯！法令纹拜拜",
+      "author": "韩式水光｜深圳丽颖丽驻兰",
+      "date": "08-27",
+      "likes": "6",
+      "url": "https://www.rednote.com/discovery/item/6a8fb6840000000025019ead"
+    },
+    {
+      "title": "泪沟拜拜👋🏻巴西超模的韩式眼周热玛吉",
+      "author": "김나영金娜莹",
+      "date": "5天前",
+      "likes": "119",
+      "url": "https://www.rednote.com/discovery/item/6ab3adcd000000000a023436"
+    },
+    {
+      "title": "广州热玛吉一次管一年，四舍五入不要钱！",
+      "author": "广州曙光美肤抗衰中心",
+      "date": "06-27",
+      "likes": "",
+      "url": "https://www.rednote.com/discovery/item/6a3f799d000000001702bdde"
+    },
+    {
+      "title": "do脸｜韩式热玛吉Q&A",
+      "author": "李绿熙｜美学抗衰助理",
+      "date": "08-28",
+      "likes": "3",
+      "url": "https://www.rednote.com/discovery/item/6a916dc40000000021025733"
+    },
+    {
+      "title": "🇰🇷中国人在韩国最爱做的医美项目",
+      "author": "만드도도ㅜㄱ",
+      "date": "09-01",
+      "likes": "",
+      "url": "https://www.rednote.com/discovery/item/6a95ad64000000002b00016e"
+    }
+  ]
+}
