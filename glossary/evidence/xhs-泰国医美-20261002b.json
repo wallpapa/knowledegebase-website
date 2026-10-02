@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-10-02T19:03+07:00",
+  "method": "Fastpass v23 2-lane settle-wait (8.5s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison (note-only baselines resolved to last json where needed).",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "泰国医美",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=泰国医美",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260930 (gate 0.70): REPEAT-PATIENT experience — 🇹🇭曼谷pfk丨三刷心得分享 (CaTvT, 1天前 — third-visit return-patient review; repeat-business signal for Thai clinics) + industry-event marketing arrives (英泰双语主持 Medytox event 1天前; 远赴泰国的导师解pou课 AESME 1小时前 — training-course play); Jules persists (59).",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "英泰双语主持 🎤 Medytox",
+      "author": "Melon🌻 陳樂知 中英泰主持&翻译",
+      "date": "1天前",
+      "likes": "3",
+      "url": "https://www.rednote.com/discovery/item/6abd00c0000000000d009aa5"
+    },
+    {
+      "title": "🇹🇭远赴泰国的导师解pou课 ㊙️",
+      "author": "AESME爱思美",
+      "date": "1小时前",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6abf8e3c000000001c00dcdc"
+    },
+    {
+      "title": "听说曼谷是最好的美容护理城市之一",
+      "author": "Jules悉尼生活分享",
+      "date": "09-15",
+      "likes": "59",
+      "url": "https://www.rednote.com/discovery/item/6aa56eeb000000002601d59a"
+    },
+    {
+      "title": "🇹🇭曼谷pfk丨三刷心得分享",
+      "author": "CaTvT",
+      "date": "1天前",
+      "likes": "2",
+      "url": "https://www.rednote.com/discovery/item/6abd1205000000001c01c8d7"
+    },
+    {
+      "title": "小测试｜KKC医生老师的手，到底有多稳？",
+      "author": "KKC Aesthetic TH",
+      "date": "07-08",
+      "likes": "7",
+      "url": "https://www.rednote.com/discovery/item/6a47590200000000200382e9"
+    },
+    {
+      "title": "SSC STRATEGY STUDIO",
+      "author": "09-06",
+      "date": "09-06",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6a9caf24000000001001c018"
+    },
+    {
+      "title": "泰国🇹🇭博主李淑力Fern🌲后采访✨",
+      "author": "泰国美美",
+      "date": "08-13",
+      "likes": "4",
+      "url": "https://www.rednote.com/discovery/item/6a7dbe5800000000330345de"
+    },
+    {
+      "title": "曼谷有没有靠谱的医美机构嗷",
+      "author": "挂机小白",
+      "date": "4天前",
+      "likes": "3",
+      "url": "https://www.rednote.com/discovery/item/6ab8f52d000000001c00c591"
+    },
+    {
+      "title": "暴走4家泰国pfk🇹🇭最后一家顺利下车🚗",
+      "author": "Ruilin夕洛",
+      "date": "2天前",
+      "likes": "3",
+      "url": "https://www.rednote.com/discovery/item/6abcf8d400000000140036ee"
+    },
+    {
+      "title": "Lena的精致小脸秘诀✨",
+      "author": "Aura 奥拉美学",
+      "date": "6天前",
+      "likes": "118",
+      "url": "https://www.rednote.com/discovery/item/6ab7664c0000000019030090"
+    }
+  ]
+}

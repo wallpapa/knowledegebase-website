@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-10-02T19:03+07:00",
+  "method": "Fastpass v23 2-lane settle-wait (8.5s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison (note-only baselines resolved to last json where needed).",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "曼谷医美",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=曼谷医美",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260930 (gate 0.70): FRESH 3h treatment-combo follow-up — 🇹🇭曼谷on.da➕美叨回来3个月后 (小红薯, 3小时前 — Onda+meso combination 3-month results on the Bangkok term; treatment-combination experience reports are new to this term) + 靠谱机构 intent question persists (4天前); actor set stable (泰国中文社 1007, KKC).",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "小测试｜KKC医生老师的手，到底有多稳？",
+      "author": "KKC Aesthetic TH",
+      "date": "07-08",
+      "likes": "7",
+      "url": "https://www.rednote.com/discovery/item/6a47590200000000200382e9"
+    },
+    {
+      "title": "听说曼谷是最好的美容护理城市之一",
+      "author": "Jules悉尼生活分享",
+      "date": "09-15",
+      "likes": "59",
+      "url": "https://www.rednote.com/discovery/item/6aa56eeb000000002601d59a"
+    },
+    {
+      "title": "泰国中文社",
+      "author": "09-06",
+      "date": "09-06",
+      "likes": "1007",
+      "url": "https://www.rednote.com/discovery/item/6a9cfbff000000002802ddbc"
+    },
+    {
+      "title": "🇹🇭曼谷on.da➕美叨回来3⃣️个月后（左滑查看",
+      "author": "小红薯6AB54C41",
+      "date": "3小时前",
+      "likes": "3",
+      "url": "https://www.rednote.com/discovery/item/6ab896a9000000000e03c000"
+    },
+    {
+      "title": "曼谷有没有靠谱的医美机构嗷",
+      "author": "挂机小白",
+      "date": "4天前",
+      "likes": "3",
+      "url": "https://www.rednote.com/discovery/item/6ab8f52d000000001c00c591"
+    },
+    {
+      "title": "Lena的精致小脸秘诀✨",
+      "author": "Aura 奥拉美学",
+      "date": "6天前",
+      "likes": "118",
+      "url": "https://www.rednote.com/discovery/item/6ab7664c0000000019030090"
+    },
+    {
+      "title": "端午曼谷度假碎片",
+      "author": "草莓香蕉车厘子",
+      "date": "06-23",
+      "likes": "809",
+      "url": "https://www.rednote.com/discovery/item/6a39e4f40000000007024278"
+    },
+    {
+      "title": "Cassie 孟",
+      "author": "1天前",
+      "date": "1天前",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6abe3b0b000000001203faf4"
+    },
+    {
+      "title": "🇹🇭曼谷pfk丨三刷心得分享",
+      "author": "CaTvT",
+      "date": "1天前",
+      "likes": "2",
+      "url": "https://www.rednote.com/discovery/item/6abd1205000000001c01c8d7"
+    },
+    {
+      "title": "曼谷美学｜遇见更美的自己",
+      "author": "Bangkok Secret 皮肤管理",
+      "date": "01-26",
+      "likes": "4",
+      "url": "https://www.rednote.com/discovery/item/697709a1000000000b0113bf"
+    }
+  ]
+}

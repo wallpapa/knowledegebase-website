@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-10-02T19:03+07:00",
+  "method": "Fastpass v23 2-lane settle-wait (8.5s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison (note-only baselines resolved to last json where needed).",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "超声炮",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=超声炮",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260927 (gate 0.73 question-pattern): PRICE question resurfaces at high engagement — 打一次超声炮要花多少钱？(上海九院王韵 500 — the cost question family; served by the shipped dachaopao article's price blocks + shot-count content) + full-process hospital documentary 在厦门第一医院体验大超炮操作全流程 (徐洋 46); trio persists (郭济菡 133, 半岛 95).",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "美，自深层始｜半岛大超炮高定抗衰",
+      "author": "半岛 医疗器械",
+      "date": "09-11",
+      "likes": "95",
+      "url": "https://www.rednote.com/discovery/item/6aa37df1000000002a0051dd"
+    },
+    {
+      "title": "打一次超声炮要花多少钱？",
+      "author": "上海九院王韵",
+      "date": "05-13",
+      "likes": "500",
+      "url": "https://www.rednote.com/discovery/item/6a0444cd000000000800125b"
+    },
+    {
+      "title": "提升抗衰，三甲整形医生只选超声炮",
+      "author": "八大处激光郭济菡",
+      "date": "09-11",
+      "likes": "133",
+      "url": "https://www.rednote.com/discovery/item/6aa280ef000000002601ea7e"
+    },
+    {
+      "title": "在厦门第一医院体验大超炮操作全流程",
+      "author": "厦门徐洋整形博士",
+      "date": "09-06",
+      "likes": "46",
+      "url": "https://www.rednote.com/discovery/item/6a9d375400000000290165f6"
+    },
+    {
+      "title": "上镜显脸小，大超炮绝了",
+      "author": "优时颜医美",
+      "date": "07-20",
+      "likes": "21",
+      "url": "https://www.rednote.com/discovery/item/6a56f89e000000000803c214"
+    },
+    {
+      "title": "超声炮怎么选，看这一篇就够了",
+      "author": "上海九院王韵",
+      "date": "2小时前",
+      "likes": "7",
+      "url": "https://www.rednote.com/discovery/item/6abca430000000001803b269"
+    },
+    {
+      "title": "你到底适合超声炮还是热玛吉呢?",
+      "author": "上海九院王韵",
+      "date": "06-01",
+      "likes": "151",
+      "url": "https://www.rednote.com/discovery/item/6a195bd6000000000803300c"
+    },
+    {
+      "title": "大超炮vs超声炮，能量效果差异有多大？",
+      "author": "八大处整形梁雪冰",
+      "date": "09-04",
+      "likes": "25",
+      "url": "https://www.rednote.com/discovery/item/6a9aa1aa0000000029012940"
+    },
+    {
+      "title": "这样打超声炮不会垮！不会松！",
+      "author": "整形外科常毅医生",
+      "date": "09-01",
+      "likes": "108",
+      "url": "https://www.rednote.com/discovery/item/6a96a8f50000000025034b1d"
+    },
+    {
+      "title": "大超炮打多少发？怎么打？",
+      "author": "上海葛文佳医生",
+      "date": "08-06",
+      "likes": "86",
+      "url": "https://www.rednote.com/discovery/item/6a5f3c5d000000001b01ffad"
+    }
+  ]
+}

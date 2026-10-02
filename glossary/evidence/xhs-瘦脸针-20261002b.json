@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-10-02T19:03+07:00",
+  "method": "Fastpass v23 2-lane settle-wait (8.5s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison (note-only baselines resolved to last json where needed).",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "瘦脸针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=瘦脸针",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20260921 (gate 0.72, 11-day json baseline; same core since): COMBINATION framing — 瘦脸针+玻尿酸双buff，下颌线焊在脸上 (钟丽娅助理 8 — botox+HA stacking for jawline, matches combine doctrine) + 郑州医院 doctor-account note (80); core stable (快收藏 4536, 洪伟晋 1383, 下垂 38).",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "快收藏⚠️你不知道的瘦脸针全脸进阶打发！",
+      "author": "整形医生王晨羽",
+      "date": "08-17",
+      "likes": "4536",
+      "url": "https://www.rednote.com/discovery/item/6911ee98000000000302ca21"
+    },
+    {
+      "title": "打了瘦脸针，脸下垂了？",
+      "author": "华西整形美容_邱禾",
+      "date": "05-28",
+      "likes": "38",
+      "url": "https://www.rednote.com/discovery/item/6a181e380000000006030b99"
+    },
+    {
+      "title": "郑州人民医院整形美容医生任姝锦",
+      "author": "2025-09-04",
+      "date": "2025-09-04",
+      "likes": "80",
+      "url": "https://www.rednote.com/discovery/item/68b96440000000001d001093"
+    },
+    {
+      "title": "瘦脸针+玻尿酸双buff，下颌线直接焊在脸上",
+      "author": "钟丽娅助理｜轻薄长效抗衰",
+      "date": "06-05",
+      "likes": "8",
+      "url": "https://www.rednote.com/discovery/item/6a21aa9a000000003501dffd"
+    },
+    {
+      "title": "咬肌怎么打❓才能做到不凹陷不跨脸",
+      "author": "省二医洪伟晋博士",
+      "date": "2025-11-12",
+      "likes": "1383",
+      "url": "https://www.rednote.com/discovery/item/6914846f000000000700fec0"
+    },
+    {
+      "title": "邵逸夫整形外科李俊博",
+      "author": "09-12",
+      "date": "09-12",
+      "likes": "175",
+      "url": "https://www.rednote.com/discovery/item/6aa532f4000000002600a0cb"
+    },
+    {
+      "title": "为什么打瘦脸针一定要搭配下颌缘提升？",
+      "author": "玄峰현봉｜曙光",
+      "date": "2025-04-17",
+      "likes": "239",
+      "url": "https://www.rednote.com/discovery/item/6800ecd0000000000e0060aa"
+    },
+    {
+      "title": "打肉毒必看指南",
+      "author": "武汉第三医院整形美容医生黎媛",
+      "date": "03-19",
+      "likes": "40",
+      "url": "https://www.rednote.com/discovery/item/69bbb93400000000210104cd"
+    },
+    {
+      "title": "100u肉毒改善咬肌和下颌缘，一共要打多少",
+      "author": "武汉注射Dr.罗勇",
+      "date": "09-22",
+      "likes": "28",
+      "url": "https://www.rednote.com/discovery/item/6aad0f69000000002902f52c"
+    },
+    {
+      "title": "肉毒打咬肌全流程记录！打完这件事要注意！",
+      "author": "省中医整形王淞",
+      "date": "09-24",
+      "likes": "20",
+      "url": "https://www.rednote.com/discovery/item/6ab3942b0000000018010ae4"
+    }
+  ]
+}

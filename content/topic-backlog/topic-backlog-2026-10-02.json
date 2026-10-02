@@ -1,0 +1,42 @@
+{
+  "source": "rednote.com direct search mining 2026-10-02 19:03 via ZCode IAB fastpass; terms: 线雕/超声炮/瘦脸针/泰国医美/曼谷医美/埋线提升",
+  "method": "Bounded rotation pass; material change in 5 terms; chips for last term of each lane",
+  "topics": [
+    {
+      "id": "thread-lift-diy-home-safety",
+      "sites": [
+        "verzoclinic.com"
+      ],
+      "titleEn": "“Can I do a small thread lift at home myself?” — why self-administered threads are a hard no",
+      "titleZh": "可以自己在家做埋小线提升吗？为什么自行操作是绝对的红线",
+      "toc": [
+        "直接回答：不可以——埋线是有创医疗操作，需要解剖层次、无菌环境和应急能力，任何形式的自行操作都不在可接受范围",
+        "小纯/小线“看起来简单”的错觉：线材、层次、力度三个变量缺一不可",
+        "自行操作的已知风险：感染、血肿、线体进入禁区、面神经损伤——出事后很难补救",
+        "正确的“轻”选择：面诊评估后的医院小线项目、或真正无创的居家方式",
+        "如何辨别网上的 DIY 教程/产品（卷线器、自己埋线包）",
+        "FAQ：小线到底多小创/为什么美容院不能自己做/出事了怎么办"
+      ],
+      "faqs": [
+        "自己在家做埋线安全吗？",
+        "美容院能自己埋线吗？",
+        "埋线出事了怎么办？"
+      ],
+      "hashtags": [
+        "#埋线提升",
+        "#小线",
+        "#DIY医美",
+        "#安全",
+        "#避坑"
+      ],
+      "directAnswer": "不可以。埋线是需要解剖知识、无菌操作和应急保障的有创医疗操作——自行在家操作的感染、血肿和神经损伤风险远大于任何便宜；想要“轻”应该面诊评估后选择医院里的正规小项目，而不是自己下手。",
+      "medicalHigh": true,
+      "evidence": [
+        "glossary/evidence/xhs-埋线提升-20261002b.json: 可以自己在家做埋小线提升吗？(杭州孙奔, 1天前, 38) — DIY-self-administration question at top of the term; safety-critical new pattern",
+        "distinct from thread-lift-who-should-not (contraindication) and fascia-suspension-vs-thread-decode (naming) — this is the SELF-ADMINISTRATION risk angle",
+        "verzo: safety-first framing matches honest-talk positioning; pairs with Vogue Lift in-clinic programs"
+      ],
+      "status": "candidate"
+    }
+  ]
+}
