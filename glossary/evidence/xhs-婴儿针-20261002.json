@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-10-02T07:03+07:00",
+  "method": "Fastpass v22 2-lane settle-wait (8.0s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "婴儿针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=婴儿针",
+  "comparisonWithPrevious": "MATERIAL vs 20261001 (gate 0.74 brand-device-shift): MEGA-VIRAL escalation — TWO ~1048-like viral notes in one pass: 香港的物种已经进化成这样了吗 (完蛋挞没了 1048, 09-19 — viral HK retail amazement framing) + 不懂原理，但是无痛💡了8度 (喵脆角 1043, 09-19 — 'don't understand the principle but painless, brightened 8 degrees' — viral efficacy framing with explicitly-admitted principle-ignorance: the exact confusion an evidence-based article would address); 必囤 stockpiling persists (319). NEUE-topical semantic note stands: rednote 婴儿针 = HK retail product.",
+  "relatedQueries": [
+    "马来西亚",
+    "澳门",
+    "香港",
+    "neue",
+    "使用方法",
+    "面膜测评",
+    "亮爆镜",
+    "荧光剂",
+    "医用级",
+    "丝美妮",
+    "精华",
+    "三文鱼",
+    "敏感肌",
+    "水光作用",
+    "提亮肤色"
+  ],
+  "notes": [
+    {
+      "title": "香港的物种已经进化成这样了吗。。",
+      "author": "完蛋挞没了",
+      "date": "09-19",
+      "likes": "1048",
+      "url": "https://www.rednote.com/discovery/item/6aad0593000000001001dea0"
+    },
+    {
+      "title": "sasa这款面膜风吹的好大 吹到我了",
+      "author": "Yayaaaa",
+      "date": "05-25",
+      "likes": "192",
+      "url": "https://www.rednote.com/discovery/item/6a13c0550000000036002ef3"
+    },
+    {
+      "title": "sasa风很大的NEUE婴儿💉",
+      "author": "米呀米米娅",
+      "date": "09-06",
+      "likes": "48",
+      "url": "https://www.rednote.com/discovery/item/6a9d3b2500000000110345ec"
+    },
+    {
+      "title": "去香港必囤！Sasa 卖到断货的水光 CP",
+      "author": "初一Lilypink",
+      "date": "07-08",
+      "likes": "319",
+      "url": "https://www.rednote.com/discovery/item/6a4dfd390000000021009b6f"
+    },
+    {
+      "title": "不懂原理，但是无痛💡了8度。。",
+      "author": "喵脆角",
+      "date": "09-19",
+      "likes": "1043",
+      "url": "https://www.rednote.com/discovery/item/6aad09830000000027014b1b"
+    },
+    {
+      "title": "干皮测评涂抹式水光婴儿针",
+      "author": "段小姐你好",
+      "date": "07-29",
+      "likes": "301",
+      "url": "https://www.rednote.com/discovery/item/6a6a0669000000001101b75a"
+    },
+    {
+      "title": "香港🇭🇰风很大的婴儿针🛍️买了‼️",
+      "author": "遛狗的土猫",
+      "date": "08-23",
+      "likes": "2",
+      "url": "https://www.rednote.com/discovery/item/6a89ca600000000029019e7c"
+    },
+    {
+      "title": "婴儿针买了用了",
+      "author": "鱼11",
+      "date": "04-13",
+      "likes": "13",
+      "url": "https://www.rednote.com/discovery/item/69dcb0170000000023007bf7"
+    },
+    {
+      "title": "香港sasa跟风买回来了……",
+      "author": "啊圣",
+      "date": "07-27",
+      "likes": "3",
+      "url": "https://www.rednote.com/discovery/item/6a671389000000001b01d1c3"
+    },
+    {
+      "title": "🇭🇰购物｜香港sasa少女针婴儿针囤到了🥳",
+      "author": "小玲姐ACE",
+      "date": "05-02",
+      "likes": "191",
+      "url": "https://www.rednote.com/discovery/item/69f5d7c8000000003501d1ca"
+    }
+  ]
+}
