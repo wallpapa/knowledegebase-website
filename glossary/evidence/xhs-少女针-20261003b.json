@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-10-03T13:03+07:00",
+  "method": "Fastpass v25 2-lane settle-wait (8.8s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "少女针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=少女针",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20261002 (gate 0.71 brand-device-shift): METHOD-CHOICE question — 外轮廓提升材料篇！选注射还是线雕！？(张个个, 1天前, 29 — outer-contour lifting: injection vs THREAD decision — the cross-category comparison family extends to method-selection); base persists (詹炜卿 363, 梁雪冰 53, 于泳 94).",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "少女针｜L-code&C-code打法全解析✨",
+      "author": "可丽尊享小助理",
+      "date": "04-23",
+      "likes": "14",
+      "url": "https://www.rednote.com/discovery/item/69e9da89000000001f031802"
+    },
+    {
+      "title": "教你快速区分少女针和童颜针",
+      "author": "整形外科詹炜卿",
+      "date": "02-16",
+      "likes": "363",
+      "url": "https://www.rednote.com/discovery/item/6990301d000000000d008c44"
+    },
+    {
+      "title": "关于再生材料你可能感兴趣的",
+      "author": "皮肤科于泳医生",
+      "date": "06-08",
+      "likes": "94",
+      "url": "https://www.rednote.com/discovery/item/6a269bd3000000000803d36c"
+    },
+    {
+      "title": "少女针不踩坑 | 黄金部位+用量打法干货",
+      "author": "八大处整形梁雪冰",
+      "date": "06-27",
+      "likes": "53",
+      "url": "https://www.rednote.com/discovery/item/6a3faa8e000000001101a80b"
+    },
+    {
+      "title": "外轮廓提升材料篇！选注射还是线雕！？",
+      "author": "张个个（换脸版）",
+      "date": "1天前",
+      "likes": "29",
+      "url": "https://www.rednote.com/discovery/item/6abe7388000000001a020ec7"
+    },
+    {
+      "title": "少女针🪡童颜针🪡是智商税吗？一次性讲透！",
+      "author": "整形医生茹扎",
+      "date": "07-28",
+      "likes": "39",
+      "url": "https://www.rednote.com/discovery/item/6a68a832000000000a0388f9"
+    },
+    {
+      "title": "少女针❗️不了解清楚这3点别轻易打",
+      "author": "八大处整形梁雪冰",
+      "date": "06-25",
+      "likes": "13",
+      "url": "https://www.rednote.com/discovery/item/6a3cccf8000000002201accb"
+    },
+    {
+      "title": "脸真的变紧了！",
+      "author": "上海九院方斌",
+      "date": "05-23",
+      "likes": "247",
+      "url": "https://www.rednote.com/discovery/item/6a103c1a0000000036032701"
+    },
+    {
+      "title": "维持更久，回落更少？少女新品适合谁？",
+      "author": "胡丽萍小助理｜材料科普版",
+      "date": "09-10",
+      "likes": "65",
+      "url": "https://www.rednote.com/discovery/item/6aa29456000000002b000d8f"
+    },
+    {
+      "title": "伊妍仕，轮廓固定为什么非它不可？",
+      "author": "欧恩助理｜童颜美学",
+      "date": "09-15",
+      "likes": "6",
+      "url": "https://www.rednote.com/discovery/item/6a97d603000000002802dff9"
+    }
+  ]
+}

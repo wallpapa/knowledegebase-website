@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-10-03T13:03+07:00",
+  "method": "Fastpass v25 2-lane settle-wait (8.8s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "超声刀",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=超声刀",
+  "comparisonWithPrevious": "MATERIAL vs 20261002 note (gate 0.82): DEVICE-FAMILY confusion at scale — 想要面部提升 做超声刀还是超声炮？(八大处郭济菡 127, 06-30 — US-version Ultherapy vs Peninsula 超声炮 distinction question: the device-family decode discourse now spans BOTH device families + the 美版验真/scam thread; 陳欣妍 444, 于泳 27 persist; chips stable (美版二代/第三代/热玛吉/首尔).",
+  "relatedQueries": [
+    "美版二代",
+    "香港",
+    "韩国",
+    "改善法令纹",
+    "对比",
+    "第三代",
+    "热玛吉",
+    "首尔",
+    "肽提升",
+    "护理",
+    "能量",
+    "原理分析",
+    "下颌线",
+    "眼部",
+    "仪器"
+  ],
+  "notes": [
+    {
+      "title": "深扒美版超声dao的工作原理",
+      "author": "滨海湾医疗器械",
+      "date": "09-13",
+      "likes": "6",
+      "url": "https://www.rednote.com/discovery/item/6aa68fc8000000001401e9cc"
+    },
+    {
+      "title": "美版超声刀解析：技术上限与亚洲皮肤的适配",
+      "author": "皮肤科于泳医生",
+      "date": "09-11",
+      "likes": "27",
+      "url": "https://www.rednote.com/discovery/item/6aa3d194000000002802d8d2"
+    },
+    {
+      "title": "抗衰坦白局？要提升还是收紧？",
+      "author": "陳欣妍",
+      "date": "05-30",
+      "likes": "444",
+      "url": "https://www.rednote.com/discovery/item/6a1aaec0000000001002d000"
+    },
+    {
+      "title": "想要面部提升 做超声刀还是超声炮？",
+      "author": "八大处激光郭济菡",
+      "date": "06-30",
+      "likes": "127",
+      "url": "https://www.rednote.com/discovery/item/6a423f45000000002200bcd6"
+    },
+    {
+      "title": "美拉美超声刀半边脸即刻效果，效果太惊喜",
+      "author": "成都王庆助理｜仪器抗衰",
+      "date": "01-12",
+      "likes": "69",
+      "url": "https://www.rednote.com/discovery/item/696324cd000000000e00ce6b"
+    },
+    {
+      "title": "是谁说超声🔪Tong的！！",
+      "author": "邪恶库洛子",
+      "date": "05-01",
+      "likes": "26",
+      "url": "https://www.rednote.com/discovery/item/69f4ab77000000002003b738"
+    },
+    {
+      "title": "想比同龄人更年轻，选什么仪器？",
+      "author": "上海九院王韵",
+      "date": "08-05",
+      "likes": "1684",
+      "url": "https://www.rednote.com/discovery/item/6a71d0a80000000006004673"
+    },
+    {
+      "title": "热玛吉、超声刀、黄微，到底哪个更伤皮肤？",
+      "author": "皮肤科于泳医生",
+      "date": "2天前",
+      "likes": "13",
+      "url": "https://www.rednote.com/discovery/item/6abce3ea000000000b004037"
+    },
+    {
+      "title": "李温柔",
+      "author": "昨天 20:03",
+      "date": "",
+      "likes": "",
+      "url": "https://www.rednote.com/discovery/item/6abf9da1000000001802f2b2"
+    },
+    {
+      "title": "超声提升怎么选：MPT和三代的真实区别",
+      "author": "User6AA54A46",
+      "date": "09-11",
+      "likes": "1",
+      "url": "https://www.rednote.com/discovery/item/6aa3d5f00000000019026ee0"
+    }
+  ]
+}
