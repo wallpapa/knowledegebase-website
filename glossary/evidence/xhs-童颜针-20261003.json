@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-10-03T07:03+07:00",
+  "method": "Fastpass v24 2-lane settle-wait (9.1s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "童颜针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=童颜针",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20261002 (gate 0.60 question-pattern): COMBINATION-OPTIMIZATION question — 热玛吉VS童颜联合治疗，效果怎么最大化？(施歌主任 13 — HIFU+stimulator stacking-optimization; extends the combine doctrine to max-effect sequencing) + 四款差异大揭秘 comparison (上海李玲 290); 九款童颜 mega-comparison grows (1495→1501); 周双白 pair stable (241); chips stable.",
+  "relatedQueries": [
+    "香港",
+    "牌子排名",
+    "乐普",
+    "真实反馈",
+    "按摩手法",
+    "韧带提升",
+    "时凝萃",
+    "肿胀期",
+    "副作用",
+    "口周",
+    "结节",
+    "法令纹",
+    "恢复期",
+    "效果对比",
+    "额头"
+  ],
+  "notes": [
+    {
+      "title": "【九款童颜】区别点超详解！看懂省百万❗",
+      "author": "张亚航｜原生美学助理",
+      "date": "02-01",
+      "likes": "1501",
+      "url": "https://www.rednote.com/discovery/item/697ca905000000000a03f4a8"
+    },
+    {
+      "title": "童颜针全攻略，一定要看完这个视频",
+      "author": "上海九院周双白",
+      "date": "09-08",
+      "likes": "241",
+      "url": "https://www.rednote.com/discovery/item/6a9f87de000000002803b0a5"
+    },
+    {
+      "title": "热玛吉VS童颜联合治疗，效果怎么最大化？",
+      "author": "施歌主任",
+      "date": "06-12",
+      "likes": "13",
+      "url": "https://www.rednote.com/discovery/item/6a2bd8c50000000007024ac6"
+    },
+    {
+      "title": "相信一瓶童颜打全脸的可以划走了...",
+      "author": "整形外科王朝辉",
+      "date": "08-01",
+      "likes": "115",
+      "url": "https://www.rednote.com/discovery/item/6a6d9a670000000028001f39"
+    },
+    {
+      "title": "“马”住这条童颜科普！四款差异大揭秘",
+      "author": "上海李玲｜结构美学",
+      "date": "04-13",
+      "likes": "290",
+      "url": "https://www.rednote.com/discovery/item/69dc88cc000000001a02443f"
+    },
+    {
+      "title": "长期打童颜脸会怎么样？",
+      "author": "上海九院梁奕敏",
+      "date": "06-03",
+      "likes": "366",
+      "url": "https://www.rednote.com/discovery/item/6a1eaaff0000000038036a45"
+    },
+    {
+      "title": "关于再生材料你可能感兴趣的",
+      "author": "皮肤科于泳医生",
+      "date": "06-08",
+      "likes": "94",
+      "url": "https://www.rednote.com/discovery/item/6a269bd3000000000803d36c"
+    },
+    {
+      "title": "童颜是怎么刺激皮肤自身长胶原的❓",
+      "author": "三甲主任单继刚博士",
+      "date": "09-01",
+      "likes": "58",
+      "url": "https://www.rednote.com/discovery/item/6a953cd10000000021032afb"
+    },
+    {
+      "title": "印第安纹填充材料对比",
+      "author": "八大处整形梁雪冰",
+      "date": "04-16",
+      "likes": "132",
+      "url": "https://www.rednote.com/discovery/item/69e0bd5a000000002301323b"
+    },
+    {
+      "title": "童颜针可以打在哪些位置？",
+      "author": "上海九院周双白",
+      "date": "09-12",
+      "likes": "80",
+      "url": "https://www.rednote.com/discovery/item/6aa367a7000000002902fa29"
+    }
+  ]
+}
