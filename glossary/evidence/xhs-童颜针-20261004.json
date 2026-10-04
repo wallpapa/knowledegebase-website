@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-10-04T13:03+07:00",
+  "method": "Fastpass v27 2-lane settle-wait (8.4s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "童颜针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=童颜针",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20261003 (gate 0.76): THREE-WAY category confusion — 童颜vs美神vs少女！打错真的会肿成馒头！(美业M姐, 12小时前 — 美神 joins as a NEW adjacent name; the confusion space widens to 3-way with 馒化 warning attached) + 口周 site-specific no-surgery framing (李在郁 塑妍萃收紧口周 53, 5天前) + chip 副作用 returns; 九款童颜 mega-comparison grows (1501→1507); 周双白 pair stable (86/255).",
+  "relatedQueries": [
+    "香港",
+    "牌子排名",
+    "乐普",
+    "真实反馈",
+    "按摩手法",
+    "副作用",
+    "时凝萃",
+    "肿胀期",
+    "三甲推荐",
+    "法令纹",
+    "效果对比",
+    "口周",
+    "恢复期",
+    "结节",
+    "填充凹陷"
+  ],
+  "notes": [
+    {
+      "title": "【九款童颜】区别点超详解！看懂省百万❗",
+      "author": "张亚航｜原生美学助理",
+      "date": "02-01",
+      "likes": "1507",
+      "url": "https://www.rednote.com/discovery/item/697ca905000000000a03f4a8"
+    },
+    {
+      "title": "童颜针可以打在哪些位置？",
+      "author": "上海九院周双白",
+      "date": "09-12",
+      "likes": "86",
+      "url": "https://www.rednote.com/discovery/item/6aa367a7000000002902fa29"
+    },
+    {
+      "title": "童颜vs美神vs少女！打错真的会肿成“馒头”！",
+      "author": "美业M姐｜30+辣妈",
+      "date": "12小时前",
+      "likes": "3",
+      "url": "https://www.rednote.com/discovery/item/6ac0cada000000000d02d73f"
+    },
+    {
+      "title": "童颜针全攻略，一定要看完这个视频",
+      "author": "上海九院周双白",
+      "date": "09-08",
+      "likes": "255",
+      "url": "https://www.rednote.com/discovery/item/6a9f87de000000002803b0a5"
+    },
+    {
+      "title": "不拉皮不线雕 | 塑妍萃童颜收紧口周",
+      "author": "李在郁 | 北京漾格助理",
+      "date": "5天前",
+      "likes": "53",
+      "url": "https://www.rednote.com/discovery/item/6a326d26000000001603cba9"
+    },
+    {
+      "title": "童颜到底是什么？先把这个概念搞明白！",
+      "author": "八大处整形张倜然",
+      "date": "09-05",
+      "likes": "13",
+      "url": "https://www.rednote.com/discovery/item/6a9a9f9600000000280336b8"
+    },
+    {
+      "title": "相信一瓶童颜打全脸的可以划走了...",
+      "author": "整形外科王朝辉",
+      "date": "08-01",
+      "likes": "117",
+      "url": "https://www.rednote.com/discovery/item/6a6d9a670000000028001f39"
+    },
+    {
+      "title": "长期打童颜脸会怎么样？",
+      "author": "上海九院梁奕敏",
+      "date": "06-03",
+      "likes": "370",
+      "url": "https://www.rednote.com/discovery/item/6a1eaaff0000000038036a45"
+    },
+    {
+      "title": "关于再生材料你可能感兴趣的",
+      "author": "皮肤科于泳医生",
+      "date": "06-08",
+      "likes": "99",
+      "url": "https://www.rednote.com/discovery/item/6a269bd3000000000803d36c"
+    },
+    {
+      "title": "印第安纹填充材料对比",
+      "author": "八大处整形梁雪冰",
+      "date": "04-16",
+      "likes": "134",
+      "url": "https://www.rednote.com/discovery/item/69e0bd5a000000002301323b"
+    }
+  ]
+}
