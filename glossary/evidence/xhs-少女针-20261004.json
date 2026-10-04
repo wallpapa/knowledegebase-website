@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-10-04T19:03+07:00",
+  "method": "Fastpass v28 2-lane settle-wait (8.9s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "少女针",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=少女针",
+  "comparisonWithPrevious": "MATERIAL vs 20261003b (gate 0.85 caution-risk): SAFETY-INTERACTION warning enters top — 注意💥脸上打了再生材料！不要随意做光电 (廖孟南 60, 06-19 — after regenerative fillers, do NOT casually add energy-device treatments: the stimulator×energy interaction constraint — the missing WHEN-NOT-TO-COMBINE side of the combination doctrine; directly relevant to combination-sequencing content spacing guidance); 10-year question persists (司小强 42); 恒耀PRO-longevity framing persists (胡丽萍 65); base stable (梁雪冰 54, 于泳 99).",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "维持更久，回落更少？少女新品适合谁？",
+      "author": "胡丽萍小助理｜材料科普版",
+      "date": "09-10",
+      "likes": "65",
+      "url": "https://www.rednote.com/discovery/item/6aa29456000000002b000d8f"
+    },
+    {
+      "title": "少女针不踩坑 | 黄金部位+用量打法干货",
+      "author": "八大处整形梁雪冰",
+      "date": "06-27",
+      "likes": "54",
+      "url": "https://www.rednote.com/discovery/item/6a3faa8e000000001101a80b"
+    },
+    {
+      "title": "关于再生材料你可能感兴趣的",
+      "author": "皮肤科于泳医生",
+      "date": "06-08",
+      "likes": "99",
+      "url": "https://www.rednote.com/discovery/item/6a269bd3000000000803d36c"
+    },
+    {
+      "title": "少女针到底能不能打，打了10年之后会怎么样",
+      "author": "整形医生司小强",
+      "date": "06-27",
+      "likes": "42",
+      "url": "https://www.rednote.com/discovery/item/6a324ad2000000001702f346"
+    },
+    {
+      "title": "注意💥脸上打了再生材料！不要随意做光电",
+      "author": "廖孟南｜助理",
+      "date": "06-19",
+      "likes": "60",
+      "url": "https://www.rednote.com/discovery/item/6a35194f00000000110148a6"
+    },
+    {
+      "title": "少女针🪡童颜针🪡是智商税吗？一次性讲透！",
+      "author": "整形医生茹扎",
+      "date": "07-28",
+      "likes": "39",
+      "url": "https://www.rednote.com/discovery/item/6a68a832000000000a0388f9"
+    },
+    {
+      "title": "警惕“少女针”乱用，当心“结节”",
+      "author": "上海九院整外李东",
+      "date": "07-07",
+      "likes": "47",
+      "url": "https://www.rednote.com/discovery/item/6a4cb32e000000001101dc19"
+    },
+    {
+      "title": "脸真的变紧了！",
+      "author": "上海九院方斌",
+      "date": "05-23",
+      "likes": "251",
+      "url": "https://www.rednote.com/discovery/item/6a103c1a0000000036032701"
+    },
+    {
+      "title": "教你快速区分少女针和童颜针",
+      "author": "整形外科詹炜卿",
+      "date": "02-16",
+      "likes": "366",
+      "url": "https://www.rednote.com/discovery/item/6990301d000000000d008c44"
+    },
+    {
+      "title": "又在坚持纯素颜手搓了",
+      "author": "润润在吗",
+      "date": "05-16",
+      "likes": "28",
+      "url": "https://www.rednote.com/discovery/item/6a07e675000000000701378c"
+    }
+  ]
+}
