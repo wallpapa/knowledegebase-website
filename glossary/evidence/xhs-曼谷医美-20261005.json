@@ -1,0 +1,82 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-10-05T07:03+07:00",
+  "method": "Fastpass v29 2-lane settle-wait (9.0s wall, 10/10 notes); noteId + chips (last term of each lane); jev-gate triage (API errored on 线雕 — manual only) + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "曼谷医美",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=曼谷医美",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20261002b (gate 0.66): EXPLICIT Korea-substitute framing arrives on the Bangkok term — 不用去韩国，曼谷本地也可以轻松变米 (荔枝呀, 1天前 — 'no need for Korea, Bangkok locally' — the substitute positioning previously seen on mainland device terms now stated directly for Bangkok as destination; strengthens the Bangkok-vs-Korea geo-competitiveness angle our geo content serves); actor set stable (泰国中文社 1011, KKC, Jules 60, 端午 810).",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "小测试｜KKC医生老师的手，到底有多稳？",
+      "author": "KKC Aesthetic TH",
+      "date": "07-08",
+      "likes": "7",
+      "url": "https://www.rednote.com/discovery/item/6a47590200000000200382e9"
+    },
+    {
+      "title": "听说曼谷是最好的美容护理城市之一",
+      "author": "Jules悉尼生活分享",
+      "date": "09-15",
+      "likes": "60",
+      "url": "https://www.rednote.com/discovery/item/6aa56eeb000000002601d59a"
+    },
+    {
+      "title": "端午曼谷度假碎片",
+      "author": "草莓香蕉车厘子",
+      "date": "06-23",
+      "likes": "810",
+      "url": "https://www.rednote.com/discovery/item/6a39e4f40000000007024278"
+    },
+    {
+      "title": "泰国中文社",
+      "author": "09-06",
+      "date": "09-06",
+      "likes": "1011",
+      "url": "https://www.rednote.com/discovery/item/6a9cfbff000000002802ddbc"
+    },
+    {
+      "title": "不用去韩国，曼谷本地也可以轻松变米",
+      "author": "荔枝呀",
+      "date": "1天前",
+      "likes": "2",
+      "url": "https://www.rednote.com/discovery/item/6ac0d51d000000001402c3d1"
+    },
+    {
+      "title": "🇹🇭曼谷⭕️nda肉🥩脸人生新体验～",
+      "author": "小红薯6ABD2D70",
+      "date": "2天前",
+      "likes": "",
+      "url": "https://www.rednote.com/discovery/item/6abf8575000000000e03f400"
+    },
+    {
+      "title": "最终没去首尔在曼谷完成保养碎碎念",
+      "author": "爱吃辣的辣妹",
+      "date": "1天前",
+      "likes": "3",
+      "url": "https://www.rednote.com/discovery/item/6ac0d49f000000001400074f"
+    },
+    {
+      "title": "曼谷有没有靠谱的医美机构嗷",
+      "author": "挂机小白",
+      "date": "09-28",
+      "likes": "3",
+      "url": "https://www.rednote.com/discovery/item/6ab8f52d000000001c00c591"
+    },
+    {
+      "title": "曼谷美白体验",
+      "author": "墨玉🐟",
+      "date": "3天前",
+      "likes": "2",
+      "url": "https://www.rednote.com/discovery/item/6abdd8a6000000001801a825"
+    },
+    {
+      "title": "私人飛機空姐｜曼谷变美日記vlog🇹🇭💉💕",
+      "author": "唯一",
+      "date": "09-05",
+      "likes": "300",
+      "url": "https://www.rednote.com/discovery/item/6a9ba13f0000000028034332"
+    }
+  ]
+}
