@@ -1,0 +1,33 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-10-05T14:29+07:00",
+  "method": "Fastpass v30 2-lane (11.5s wall); 韩版热玛吉/保妥适 rendered 3 notes across 2 attempts each (consistent — accepted as current true render, partial caveat); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "韩版热玛吉",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=韩版热玛吉",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20261003 (gate 0.79; PARTIAL FEED — 3 notes across 2 attempts, treated as current true render): THREE-MARKET technique comparison — 中日韩热玛吉打法差异，别再盲目跟风了 (八大处孙恒赟 18, 3天前 — China/Japan/Korea Thermage technique differences; extends the Korea-substitute discourse to a 3-market frame — geo-competitiveness angle deepens); 姜劲灿 cluster persists (27); Korea-regret note persists (42).",
+  "relatedQueries": [],
+  "notes": [
+    {
+      "title": "深圳｜韩式热玛吉后，颜值next level～",
+      "author": "姜劲灿助理｜光电高阶美学",
+      "date": "3天前",
+      "likes": "27",
+      "url": "https://www.rednote.com/discovery/item/6abe3500000000001801919d"
+    },
+    {
+      "title": "中日韩热玛吉打法差异，别再盲目跟风了",
+      "author": "八大处激光美容孙恒赟",
+      "date": "3天前",
+      "likes": "18",
+      "url": "https://www.rednote.com/discovery/item/6aad08f500000000120010c6"
+    },
+    {
+      "title": "去韩国做热玛吉，15天后我后悔了吗？",
+      "author": "沙漠玫瑰",
+      "date": "09-14",
+      "likes": "42",
+      "url": "https://www.rednote.com/discovery/item/6aa77c51000000000e03f400"
+    }
+  ]
+}

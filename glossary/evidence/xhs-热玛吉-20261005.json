@@ -1,0 +1,98 @@
+{
+  "platform": "rednote.com web search (ZCode IAB, rednote-fastpass)",
+  "observedAt": "2026-10-05T14:26+07:00",
+  "method": "Fastpass v30 2-lane (11.5s wall); 韩版热玛吉/保妥适 rendered 3 notes across 2 attempts each (consistent — accepted as current true render, partial caveat); jev-gate triage + manual id-comparison.",
+  "safetyBanner": "Rednote: 医疗美容有风险，请选择正规医美机构与执业医师。",
+  "term": "热玛吉",
+  "searchUrl": "https://www.rednote.com/search_result?keyword=热玛吉",
+  "comparisonWithPrevious": "MATERIAL-lite vs 20261004 (gate 0.72): ENERGY-OVERFILL myth-busting arrives — 谣言粉碎机：热玛吉会导致光电馒化？(皮肤科于泳 23, 6天前 — the 馒化 (overfill) discourse now attached to ENERGY devices and being actively debunked; pairs with the 1004 少女针 regenerator×energy interaction warning to form the interaction-discourse pair our combination-sequencing content should address); 宋美 Thermage-vs-大超炮 persists; core stable (风举青云 244, 刘滢 108, 罗玉燕 23).",
+  "relatedQueries": [
+    "纽约",
+    "多伦多",
+    "洛杉矶",
+    "美国",
+    "新加坡",
+    "厦门",
+    "南昌",
+    "第五代",
+    "成都",
+    "长沙",
+    "昆明",
+    "西安",
+    "曼谷",
+    "广州",
+    "沈阳"
+  ],
+  "notes": [
+    {
+      "title": "热玛吉治疗头，原来长这样！",
+      "author": "罗玉燕 | 热玛吉培训导师（抗衰助理）",
+      "date": "08-31",
+      "likes": "23",
+      "url": "https://www.rednote.com/discovery/item/6a95546e000000000a009a54"
+    },
+    {
+      "title": "热玛吉就是在烤肉？这2个真相你必须知道",
+      "author": "医美刘滢",
+      "date": "09-11",
+      "likes": "108",
+      "url": "https://www.rednote.com/discovery/item/6aa3e827000000002701410f"
+    },
+    {
+      "title": "超声炮&热玛吉傻傻分不清的看过来",
+      "author": "风举青云",
+      "date": "06-17",
+      "likes": "244",
+      "url": "https://www.rednote.com/discovery/item/6a3231f30000000008031bd5"
+    },
+    {
+      "title": "谣言粉碎机：热玛吉会导致“光电馒化”？",
+      "author": "皮肤科于泳医生",
+      "date": "6天前",
+      "likes": "23",
+      "url": "https://www.rednote.com/discovery/item/6aba3d53000000000a01dd34"
+    },
+    {
+      "title": "30+抗衰选择！热玛吉 VS 大超炮怎么选？",
+      "author": "长沙宋美｜全层次抗衰助理",
+      "date": "1天前",
+      "likes": "2",
+      "url": "https://www.rednote.com/discovery/item/6abcc898000000001500542c"
+    },
+    {
+      "title": "想做热玛吉？先答完这18个问题",
+      "author": "皮肤科于泳医生",
+      "date": "09-25",
+      "likes": "13",
+      "url": "https://www.rednote.com/discovery/item/6ab4d627000000001a032624"
+    },
+    {
+      "title": "三甲医生每年都要做什么项目？",
+      "author": "上海华山医院皮肤科 段希蕾",
+      "date": "06-13",
+      "likes": "100",
+      "url": "https://www.rednote.com/discovery/item/6a2d37400000000017028d45"
+    },
+    {
+      "title": "热玛吉5代真不疼啊",
+      "author": "🔆我是顺顺💭",
+      "date": "09-13",
+      "likes": "12",
+      "url": "https://www.rednote.com/discovery/item/6a9a64c9000000002803784d"
+    },
+    {
+      "title": "35岁后别再浪费钱做热玛吉了！",
+      "author": "整形医生孙艺谋",
+      "date": "05-28",
+      "likes": "824",
+      "url": "https://www.rednote.com/discovery/item/6a180a2200000000070203b2"
+    },
+    {
+      "title": "做热玛吉之前需要问医生什么？",
+      "author": "八大处激光中心孙晶晶",
+      "date": "09-27",
+      "likes": "29",
+      "url": "https://www.rednote.com/discovery/item/6ab8d727000000001203d844"
+    }
+  ]
+}
